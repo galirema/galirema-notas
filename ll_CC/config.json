@@ -1,7 +1,7 @@
 {
-  "additionalFooterText": "All content and images &copy; by Your Name Goes Here&nbsp;",
-  "anchorCharacter": "#",
+  "additionalFooterText": "All content and images &copy; by Miguel Bartelsman&nbsp;",
+  "anchorCharacter": "¶",
   "lineBreaks": "gfm",
-  "title": "Your wiki name",
+  "title": "Muna",
   "useSideMenu": true
 }
