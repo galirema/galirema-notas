@@ -9,4 +9,4 @@ Muna is a conlang I've been developing for years, it has undergone dramatic revi
 
 ## See also
 
-* [Basic concepts](/pages/basicConcepts.md)
+* [Basic concepts](basicConcepts.md)
