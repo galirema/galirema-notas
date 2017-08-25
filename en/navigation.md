@@ -32,9 +32,9 @@
   * [Publicaciones](pages/IndicePublicacion.md)
   - - - 
   * # Legislación
-  * [Galicia](IndiceLexGal.md)
-  * [España](IndiceLexESP.md)
-  * [Europa](indiceLexEU.md)
+  * [Galicia](pages/IndiceLexGal.md)
+  * [España](pages/IndiceLexESP.md)
+  * [Europa](pages/indiceLexEU.md)
   - - - 
   * # Zonas de Producción
   * [SIGREMAR](pages/IndiceSigremar.md)
@@ -45,19 +45,19 @@
 
 [Metodología]()
 
- - [Fuentes de datos](indiceFuentes.md)
- - [Metodologia de tratamiento](indiceMetodos.md)
- - [Procesos ](IndiceProcesos.md)
- - [Bases de datos](muestreosSQLite.md)
- - [Repositorio](repoGithub.md)
+ - [Fuentes de datos](pages/indiceFuentes.md)
+ - [Metodologia de tratamiento](pages/indiceMetodos.md)
+ - [Procesos ](pages/IndiceProcesos.md)
+ - [Bases de datos](pages/muestreosSQLite.md)
+ - [Repositorio](pages/repoGithub.md)
 
  - - - -
 [El recurso en Wikipedia]()
 
- - [Wikipedia ES](WikipediaES.md)
- - [Wikipedia GL](WikipediaGL.md)
- - [Wikipedia EN](WikipediaEN.md)
- - [Wikipedia FR](WikipediaFR.md)
+ - [Wikipedia ES](pages/WikipediaES.md)
+ - [Wikipedia GL](pages/WikipediaGL.md)
+ - [Wikipedia EN](pages/WikipediaEN.md)
+ - [Wikipedia FR](pages/WikipediaFR.md)
 
 -----
 [Sociedad]()
