@@ -26,10 +26,10 @@
 
 
   * # Informes
-  * [Indice de informes](IndiceInformes.md)
+  * [Indice de informes](pages/IndiceInformes.md)
   * [Planes Anuales](pages/IndicePlanes.md)
-  * [Estadísticas Marisqueras](IndiceEstadisticas.md)
-  * [Publicaciones](IndicePublicacion.md)
+  * [Estadísticas Marisqueras](pages/IndiceEstadisticas.md)
+  * [Publicaciones](pages/IndicePublicacion.md)
   - - - 
   * # Legislación
   * [Galicia](IndiceLexGal.md)
