@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Muna
+# Galirema-notas
 
 
 <!--
@@ -20,6 +20,55 @@
   -->
 
 [About](pages/about.md)
+
+
+[Borradores]()
+
+
+  * # Informes
+  * [Indice de informes](IndiceInformes.md)
+  * [Planes Anuales](IndicePlanes.md)
+  * [Estadísticas Marisqueras](IndiceEstadisticas.md)
+  * [Publicaciones](IndicePublicacion.md)
+  - - - 
+  * # Legislación
+  * [Galicia](IndiceLexGal.md)
+  * [España](IndiceLexESP.md)
+  * [Europa](indiceLexEU.md)
+  - - - 
+  * # Zonas de Producción
+  * [SIGREMAR](IndiceSigremar.md)
+  * [Zonas Plan Anual](IndiceZonasPlan.md)
+
+
+----------
+
+[Metodología]()
+
+ - [Fuentes de datos](indiceFuentes.md)
+ - [Metodologia de tratamiento](indiceMetodos.md)
+ - [Procesos ](IndiceProcesos.md)
+ - [Bases de datos](muestreosSQLite.md)
+ - [Repositorio](repoGithub.md)
+
+ - - - -
+[El recurso en Wikipedia]()
+
+ - [Wikipedia ES](WikipediaES.md)
+ - [Wikipedia GL](WikipediaGL.md)
+ - [Wikipedia EN](WikipediaEN.md)
+ - [Wikipedia FR](WikipediaFR.md)
+
+-----
+[Sociedad]()
+
+ - [Inoreader](lectorRSS.md)
+ - [Acortador de enlaces](gooGalirema.md)
+ - [Twitter](twitGalirema.md)
+ - [G+](gmasGalirema.md)
+ - [Linkedin](inGalirema.md)
+
+
 
 <!-- A more complex navigation example: ----------------------------------------
 
