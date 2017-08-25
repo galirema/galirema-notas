@@ -5,7 +5,7 @@ Galirema-notas
 Documentos en curso
 -------
 
-* [Planes anuales](IndicePlanes.md)
+* [Planes anuales](pages/IndicePlanes.md)
 * [Informes y análisis](IndiceInformes.md)
 * [Especies aprovechadas](IndiceEspecies.md)
 * [Zonas de producción](indicesZonasProduccion.md) SIGREMAR
