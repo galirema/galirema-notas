@@ -27,7 +27,7 @@
 
   * # Informes
   * [Indice de informes](IndiceInformes.md)
-  * [Planes Anuales](IndicePlanes.md)
+  * [Planes Anuales](pages/IndicePlanes.md)
   * [Estadísticas Marisqueras](IndiceEstadisticas.md)
   * [Publicaciones](IndicePublicacion.md)
   - - - 
