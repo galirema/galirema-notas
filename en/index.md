@@ -6,15 +6,15 @@ Documentos en curso
 -------
 
 * [Planes anuales](pages/IndicePlanes.md)
-* [Informes y análisis](IndiceInformes.md)
-* [Especies aprovechadas](IndiceEspecies.md)
-* [Zonas de producción](indicesZonasProduccion.md) SIGREMAR
-* [Legislación básica](IndiceLegislacion.md)
-* [Organizaciones de producción](IndiceOrganizaciones.md)
-* [Estadísticas de producción](IndiceEstadisticas.md)
-* [Metodología](MetodologiaInicio.md)
-* [Base de Datos](muestreosSQLite.md)
-* [Publicaciónes](IndicePublicacion.md)
+* [Informes y análisis](pages/IndiceInformes.md)
+* [Especies aprovechadas](pages/IndiceEspecies.md)
+* [Zonas de producción](pages/indicesZonasProduccion.md) SIGREMAR
+* [Legislación básica](pages/IndiceLegislacion.md)
+* [Organizaciones de producción](pages/IndiceOrganizaciones.md)
+* [Estadísticas de producción](pages/IndiceEstadisticas.md)
+* [Metodología](pages/MetodologiaInicio.md)
+* [Base de Datos](pages/muestreosSQLite.md)
+* [Publicaciónes](pages/IndicePublicacion.md)
 
 Fuentes Oficiales
 -----
