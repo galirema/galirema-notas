@@ -7,7 +7,7 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 | Plan General | DOG Año Num. | Fecha de publicación | GM - Draft | Wikia-Draft |BD Muestreos|
 | :----------- | :----------: | :------------------: | :--------: | :---------: | :--------- |
 | [2017][] | [dog2016.249](https://goo.gl/m8W7gR)PX-[PE](https://goo.gl/MNm08K) | (30/12/2016) |[borrador2017v1.30U](pages/draft-pexma2017.md)| - |pexma pespec plantidad |
-| [2016][] | [dog2015.248](http://goo.gl/2djtGX) | (30/12/2015) | [borrador2016](draft-plangeneral2016.md) | - |pexma pespec plantidad |
+| [2016][] | [dog2015.248](http://goo.gl/2djtGX) | (30/12/2015) | [borrador2016](pages/draft-plangeneral2016.md) | - |pexma pespec plantidad |
 | [2015][] | [dog2014.250](http://goo.gl/V79N6H) | (31/12/2014) | - | - |pexma pespec plantidad |
 | [2014][] | [dog2013.249](http://goo.gl/SML2Rg) | (31/12/2013) | - | - |pexma pespec plantidad |
 | [2013][] | [dog2012.248](http://goo.gl/ipYXr) | (31/12/2012) | - | - |pexma pespec plantidad |
@@ -17,18 +17,18 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 | [2009][] | [dog2008.253](http://goo.gl/0xjEx9) | (31/12/2008) | - | - |pexma pespec plantidad |
 | [2008][] | [dog2008.002](http://goo.gl/0K8Zf3) | (03/01/2008) | - | - |pexma pespec plantidad |
 | [2007][] | [dog2007.011](http://goo.gl/ygwiQv) | (16/01/2007) | - | [DWk 2007](Draft-pexma2007-GL.md) |pexma pespec plantidad |
-| [2006][] | dog2006.008 | (12/01/2006) | - | [DWk 2006](Draft-pexma2006-GL.md) |pexma pespec plantidad |
-| [2005][] | dog2005.005 | (10/01/2005) | - | [DWk 2005](Draft-pexma2005-GL.md) |pexma pespec plantidad |
-| [2004][] | dog2004.006 | (12/01/2004) | - | [DWk 2004](Draft-pexma2004-GL.md) |pexma pespec plantidad |
-| [2003][] | dog2003.004 | (08/01/2003) | - | [DWk 2003](Draft-pexma2003-GL.md) | pexma |
-| [2002][] | dog2002.006 | (09/01/2002) | - | [DWk 2002](Draft-pexma2002-GL.md) | - |
-| [2001][] | dog2001.003 | (04/01/2001) | - | [DWk 2001](Draft-pexma2001-GL.md) | - |
-| [2000][] | dog2000.003 | (05/01/2000) | - | [DWk 2000](Draft-pexma2000-GL.md) | - |
-| [1999][] | dog1999.002 | (05/01/1999) | - | [DWk 1999](Draft-pexma1999-GL.md) | - |
-| [1998][] | dog1998.004 | (05/01/1998) | - | [DWk 1998](Draft-pexma1998-GL.md) | - |
-| [1997][] | dog1997.002 | (03/01/1997) | - | [DWk 1997](Draft-pexma1997-GL.md) | - |
-| [1996][] | dog1996.001 | (02/01/1996) | - | [DWk 1996](Draft-pexma1996-GL.md) | - |
-| [1995][] | dog1995.001 | (02/01/1995) | - | [DWk 1995](Draft-pexma1995-GL.md) | - |
+| [2006][] | dog2006.008 | (12/01/2006) | - | [DWk 2006](pages/Draft-pexma2006-GL.md) |pexma pespec plantidad |
+| [2005][] | dog2005.005 | (10/01/2005) | - | [DWk 2005](pages/Draft-pexma2005-GL.md) |pexma pespec plantidad |
+| [2004][] | dog2004.006 | (12/01/2004) | - | [DWk 2004](pages/Draft-pexma2004-GL.md) |pexma pespec plantidad |
+| [2003][] | dog2003.004 | (08/01/2003) | - | [DWk 2003](pages/Draft-pexma2003-GL.md) | pexma |
+| [2002][] | dog2002.006 | (09/01/2002) | - | [DWk 2002](pages/Draft-pexma2002-GL.md) | - |
+| [2001][] | dog2001.003 | (04/01/2001) | - | [DWk 2001](pages/Draft-pexma2001-GL.md) | - |
+| [2000][] | dog2000.003 | (05/01/2000) | - | [DWk 2000](pages/Draft-pexma2000-GL.md) | - |
+| [1999][] | dog1999.002 | (05/01/1999) | - | [DWk 1999](pages/Draft-pexma1999-GL.md) | - |
+| [1998][] | dog1998.004 | (05/01/1998) | - | [DWk 1998](pages/Draft-pexma1998-GL.md) | - |
+| [1997][] | dog1997.002 | (03/01/1997) | - | [DWk 1997](pages/Draft-pexma1997-GL.md) | - |
+| [1996][] | dog1996.001 | (02/01/1996) | - | [DWk 1996](pages/Draft-pexma1996-GL.md) | - |
+| [1995][] | dog1995.001 | (02/01/1995) | - | [DWk 1995](pages/Draft-pexma1995-GL.md) | - |
 | [1994][] | dog1993.251 | (30/12/1993) | - | - | - |
 | [1993][] | dog1993.003 | (07/01/1993) | - | - | - |
 | [1992][] | dog1992.124 | (30/06/1992) | - | - | - |
