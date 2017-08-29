@@ -75,6 +75,8 @@
  [GM]: http://www.galiciamarineira.info/
  [About]: http://www.galiciamarineira.info/about-us
  [samarcanda's blog]: http://www.galiciamarineira.info/blog/6
+
+ [GM2017]: http://www.galiciamarineira.info/content/planes-general-y-espec%C3%ADficos-2017
  [GM2016]: http://www.galiciamarineira.info/content/plan-general-de-explotaci%C3%B3n-marisquera-2016
  [GM2015]: http://www.galiciamarineira.info/content/plan-general-de-explotaci%C3%B3n-marisquera-2015
  [GM2014]: http://www.galiciamarineira.info/content/plan-xeral-de-explotaci%C3%B3n-marisqueira-2014
@@ -88,6 +90,8 @@
  [ORDEN de 27 de julio de 2012]:  http://www.galiciamarineira.info/content/orden-de-27-de-julio-de-2012-por-la-que-se-regulan-los-tama%C3%B1os-m%C3%ADnimos-de-diversos-productos
 
 
+ [2017PE]: https://goo.gl/zRFrC5
+ [2017PG]: https://goo.gl/3sKsCv
  [2016]: http://goo.gl/itW4Z6
  [2015]: http://goo.gl/bFymd8
  [2014]: http://goo.gl/VtUs0k
