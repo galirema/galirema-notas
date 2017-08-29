@@ -6,11 +6,11 @@ Empleamos herramientas eficientes pero sencillas, para que puedan ser utilizadas
 
 ### Markdown
 
-* [Markdown Home](http://daringfireball.net/projects/markdown/)* 
+* [Markdown Home](http://daringfireball.net/projects/markdown/) 
 
-* [Markdown en  wikipedia (ES)]<https://es.wikipedia.org/wiki/Markdown>
+* [Markdown en  wikipedia (ES)](https://es.wikipedia.org/wiki/Markdown)
 
-* [Markdown en Wikipedia (EN)]<https://en.wikipedia.org/wiki/Markdown>
+* [Markdown en Wikipedia (EN)](https://en.wikipedia.org/wiki/Markdown)
 
 
 ### Pandoc
