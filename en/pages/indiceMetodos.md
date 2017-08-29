@@ -6,18 +6,18 @@ Empleamos herramientas eficientes pero sencillas, para que puedan ser utilizadas
 
 ### Markdown
 
-<http://daringfireball.net/projects/markdown/>
+* [Markdown Home](http://daringfireball.net/projects/markdown/)* 
 
-<https://es.wikipedia.org/wiki/Markdown>
+* [Markdown en  wikipedia (ES)]<https://es.wikipedia.org/wiki/Markdown>
 
-<https://en.wikipedia.org/wiki/Markdown>
+* [Markdown en Wikipedia (EN)]<https://en.wikipedia.org/wiki/Markdown>
 
 
 ### Pandoc
 
-<http://johnmacfarlane.net/pandoc/>
+* [Pandoc Home](http://johnmacfarlane.net/pandoc/)
 
-<https://en.wikipedia.org/wiki/Pandoc>
+* [Plandoc en Wiqipedia (EN)](https://en.wikipedia.org/wiki/Pandoc)
 
 
 ### pdftotext
@@ -27,15 +27,21 @@ Empleamos herramientas eficientes pero sencillas, para que puedan ser utilizadas
 
 ### SQLite
 
+* [SQLite Home](https://www.sqlite.org/index.html)
 
-### firefox
+
+### Mozilla Firefox
+
+* [Mozilla Firefox en Wikipedia (EN)](https://es.wikipedia.org/wiki/Mozilla_Firefox)
 
 
 ### SQLite Manager
 
+* [SQLite Manager addons](https://addons.mozilla.org/es/firefox/addon/sqlite-manager/)
 
 ### MDwiki
 
+* [MDwiki (About](http://dynalon.github.io/mdwiki/#!index.md)
 
 
 ## Indice métodos
