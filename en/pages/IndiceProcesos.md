@@ -16,9 +16,9 @@ Noutros casos as anotacións xa están mais cerca dunha documentación básica d
 
 ## Información elaborada
 
-* [Número de especies](numespecplan.proc.md)
+* [Número de especies](pages/numespecplan.proc.md)
 
-* [Número de entidades](planeXentidad.md)
+* [Número de entidades](pages/planeXentidad.md)
 
 ## Publicación en galiciamarineira.info
 
