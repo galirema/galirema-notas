@@ -41,7 +41,9 @@ Empleamos herramientas eficientes pero sencillas, para que puedan ser utilizadas
 
 ### MDwiki
 
-* [MDwiki (About](http://dynalon.github.io/mdwiki/#!index.md)
+* [MDwiki (About)](http://dynalon.github.io/mdwiki/#!index.md)
+
+* [MDwiki en GitHub](https://github.com/Dynalon/mdwiki)
 
 
 ## Indice métodos
