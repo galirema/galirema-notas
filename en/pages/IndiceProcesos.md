@@ -40,10 +40,10 @@ Noutros casos as anotacións xa están mais cerca dunha documentación básica d
 
 * En este apartado recojo las operaciones de mantenimiento básico del servidor web y del entorno del dominio __galiciamarineira.info__
 
-* [Mantenimiento de drupal](mantenimientoDrupal.md) en galiciamarineira.info  
+* Mantenimiento de drupal en <http:www.galiciamarineira.info>  
 Entran en este apartado las operaciones de actualización del CMS y las operaciones de mantenimiento del diseño.
 
-* [mantenimiento del dominio](mantenimientoDominio.md) __galiciamarineira.info__ en [Gandi.net][]  
+* Mantenimiento del dominio __galiciamarineira.info__ en Gandi.net  
 Al tener un dominio de internet hay que descargar las operaciones del relacciones públicas del dominio correos de información y asistencia a los lectores y usuarios.
 
 
