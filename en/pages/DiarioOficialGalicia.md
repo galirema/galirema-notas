@@ -22,14 +22,15 @@
     * PDF Imagen en varios archivos (1992 - 1994)
     * HTML (1995 - 2002)
     * HTML, PDF fraccionado (2003 - 2007)
-    * HTML, PDF (2008 - 2015)
+    * HTML, PDF (2008 - 2017)
 
 
 ## Recurso
 
 * El DOG también recoge una serie de normas que ayudan a definir ciertas características que debe tener el recurso sometido a aprovechamiento para que sea sostenible.
 
-    * Tallas mínimas para ser comercializado.
+    * Tallas mínimas para ser comercializado.  
+    [ORDEN de 27 de julio de 2012 por la que se regulan los tamaños mínimos de diversos productos pesqueros](http://www.galiciamarineira.info/content/orden-de-27-de-julio-de-2012-por-la-que-se-regulan-los-tama%C3%B1os-m%C3%ADnimos-de-diversos-productos)
 
     * Definición delas zonas de explotación para su monitorización sanitaria.
 
