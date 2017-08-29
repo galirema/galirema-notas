@@ -22,6 +22,8 @@ Empleamos herramientas eficientes pero sencillas, para que puedan ser utilizadas
 
 ### pdftotext
 
+* [pdftotxt (en man pages](https://linux.die.net/man/1/pdftotext)
+
 
 ### SQLite
 
