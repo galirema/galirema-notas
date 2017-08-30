@@ -39,7 +39,7 @@ GET https://www.googleapis.com/urlshortener/v1/url/history?projection=ANALYTICS_
 
 * Como ejemplo puedes utilizar la url acortada para llamar a _Galirema-Notas_ (en __Drive__)  <https://goo.gl/S6CWCA> en los enlaces anteriores, si quieres hacer la comprobación web hay que añadirle el signo mas <https://goo.gl/S6CWCA+>  lisis de
 
-* Esta url de esta wiki funcionaba de el __Drive__ de _Google_, ahora no está permitido por lo que da error pero la analítica de __GShortener__ si funciona.
+* Esta url de esta wiki funcionaba de el __Drive__ de _Google_, _ahora no está permitido el acceso html_ por lo que da error pero la analítica de __GShortener__ si funciona.
 
 + Resultado del dia 2017/06/10: De Get para una URL acortada `https://goo.gl/S6CWCA`
 
