@@ -62,11 +62,11 @@
 -----
 [Sociedad]()
 
- - [Inoreader](lectorRSS.md)
- - [Acortador de enlaces](gooGalirema.md)
- - [Twitter](twitGalirema.md)
- - [G+](gmasGalirema.md)
- - [Linkedin](inGalirema.md)
+ - [Inoreader](pages/lectorRSS.md)
+ - [Acortador de enlaces](pages/gooGalirema.md)
+ - [Twitter](pages/twitGalirema.md)
+ - [G+](pages/gmasGalirema.md)
+ - [Linkedin](pages/inGalirema.md)
 
 
 
