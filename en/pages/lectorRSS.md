@@ -4,7 +4,7 @@
 
 ## Lector RSS
 
-* El __agregador__ o __lector de rss__ que utilizo es [Inoreader](http://www.inoreader.com/). despues del cierre de __Google Reader__ que fué el primero que utilice de una forma estable al abandonar los lectores de escritorio ligados a los equipos.
+* El __agregador__ o __lector de rss__ que utilizo es [Inoreader](http://www.inoreader.com/). despues del cierre de __Google Reader__ que fué el primero que utilice en la nube de una forma estable al abandonar los lectores de escritorio que estaban ligados a los equipos.
 
 
 
