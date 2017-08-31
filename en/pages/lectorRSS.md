@@ -28,7 +28,7 @@ El número fuentes web (_feed_) que sigo es de 23.
 
 1. [GCiencia](http://www.gciencia.com/feed/)
 
-1. [Itsasnet](http://www.itsasnet.com/feed/) .:. el portal del mar y sus recursos
+1. [Itsasnet .:. el portal del mar y sus recursos](http://www.itsasnet.com/feed/)
 
 1. [Marine Science Today](http://marinesciencetoday.com/feed/)
 
