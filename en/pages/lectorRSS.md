@@ -24,23 +24,23 @@ El número fuentes web (_feed_) que sigo es de 23.
  
 ## ciencia
 
-1. galicia mariñeira blogs
+1. [galicia mariñeira blogs](http://www.galiciamarineira.info/blog/feed)
 
-1. GCiencia
+1. [GCiencia](http://www.gciencia.com/feed/)
 
-1. Itsasnet .:. el portal del mar y sus recursos
+1. [Itsasnet](http://www.itsasnet.com/feed/) .:. el portal del mar y sus recursos
 
-1. Marine Science Today
+1. [Marine Science Today](http://marinesciencetoday.com/feed/)
 
 ## Galicia gov
 
-1. MAGRAMA.es - Últimas Noticias
+1. [MAGRAMA.es - Últimas Noticias](http://www.magrama.gob.es/es/pesca/noticiasRss.aspx)
 
-1. Profesionais do mar - DOG - Diario Oficial de Galicia
+1. [Profesionais do mar - DOG - Diario Oficial de Galicia](http://www.xunta.es/diario-oficial-galicia/rss/Taxonomia21022_gl.rss)
 
-1. RSS do MedioRural y Mar8
+1. [RSS do MedioRural y Mar](http://www.xunta.es/novas_rss.htm?category=Taxonomias/Web/Novas/Departamentos/Medio_Rural_Mar/)
 
-1. Sumario - DOG - Diario Oficial de Galicia
+1. [Sumario - DOG - Diario Oficial de Galicia](http://www.xunta.es/diario-oficial-galicia/rss/Sumario_gl.rss)
 
 ## Internacional
 
