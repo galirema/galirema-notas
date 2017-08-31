@@ -19,7 +19,7 @@ El número fuentes web (_feed_) que sigo es de 23.
 	* Ciencia (Feed: 4;)
 	* Galicia gov (Feed: 4;)
 	* Internacional (Feed: 5;)
-	* Medios (Feed: 7;)
+	* Medios (Feed: 8;)
 	* Sociedad (Feed: 3;)
  
 ## ciencia
