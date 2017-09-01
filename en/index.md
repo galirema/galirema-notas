@@ -46,7 +46,7 @@ Enlaces  de Interés
 * [AlgaeBase](http://goo.gl/OzU5K8): Reeferencias taxonomicas de algas.
 * [FAO-ASFIS](http://www.fao.org/fishery/collection/asfis/es): Sitio de la FAO con las referencias de las especies aprovechadas.
 * [tabla de mareas España](https://goo.gl/tW3M89)
-* [EUMOFA](http://www.eumofa.eu/)
+* [EUMOFA](http://www.eumofa.eu/) European Market Observatory for Fisheries and Aquaculture Products 
 
 ----  
 #### Tratamiento de datos:
