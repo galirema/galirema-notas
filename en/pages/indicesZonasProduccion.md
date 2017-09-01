@@ -62,6 +62,8 @@ __Zonas de producción no SIGREMAR:__
 
 #### Zonas de autorización C.P. Ribeira: bancos de Coroso-Río, Grande-Río Azor, Insua-Airó, Castiñeiras, GSOL MA; C.P. Ribeira
 
+#### Desde Sapeiras de Terra a punta Quilme, Areoso, Camallón, Roncadeiras, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo, GSOL MA; MSAS; C.P. A Illa de Arousa
+
 
 
 ## Ría de Muros-Noia MN
