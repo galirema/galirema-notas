@@ -60,6 +60,8 @@ __Zonas de producción no SIGREMAR:__
 
 #### Punta Aguiúncho, illote de Grades, punta da Corna, GSOL MA; C.P. Palmeira
 
+#### Zonas de autorización C.P. Ribeira: bancos de Coroso-Río, Grande-Río Azor, Insua-Airó, Castiñeiras, GSOL MA; C.P. Ribeira
+
 
 
 ## Ría de Muros-Noia MN
