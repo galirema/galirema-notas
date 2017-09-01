@@ -45,6 +45,8 @@ __Zonas de producción no SIGREMAR:__
 
 * _De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_
 
+#### De punta Alada a punta Morcegos, cara ao interior da ría, GSOL MA; MSAS; C.P. Aldán-O Hio GSOL MA; MSAS; C.P. Aldán-O Hio
+
 
 
 
