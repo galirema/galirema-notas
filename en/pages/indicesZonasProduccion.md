@@ -40,6 +40,8 @@ __Zonas de producción no SIGREMAR:__
 
 #### De puntal da Serra a punta do Boi, GSOL MA; MSAS; C.P. Baiona
 
+#### De punta Canabal a punta Couso, illas Cíes, GSOL MA; MSAS; C.P. Cangas
+
  
 
 
@@ -68,6 +70,8 @@ __Zonas de producción no SIGREMAR:__
 #### Zonas de autorización C.P. Ribeira: bancos de Coroso-Río, Grande-Río Azor, Insua-Airó, Castiñeiras, GSOL MA; C.P. Ribeira
 
 #### Desde Sapeiras de Terra a punta Quilme, Areoso, Camallón, Roncadeiras, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo, GSOL MA; MSAS; C.P. A Illa de Arousa
+
+#### Do Rego do Alcalde (Lañeiras de Fóra) á baliza de Orido, Arnela-Galiñeiro, Tragove, Tereixiñas, As Lobeiras, GSOL MA; MSAS; C.P. Cambados
 
 
 
