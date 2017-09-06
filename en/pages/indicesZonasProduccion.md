@@ -49,6 +49,7 @@ __Zonas de producción no SIGREMAR:__
 
 #### De punta Alada a punta Morcegos, cara ao interior da ría, GSOL MA; MSAS; C.P. Aldán-O Hio GSOL MA; MSAS; C.P. Aldán-O Hio
 
+#### De punta Faxilda a punta Morcegos, illa de Ons, illa de Onza, GSOL MA; MSAS; C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Portonovo, C.P. Raxó, C.P. Sanxenxo, (plan conxunto)
 
 
 
