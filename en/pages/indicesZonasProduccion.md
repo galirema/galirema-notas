@@ -42,6 +42,8 @@ __Zonas de producción no SIGREMAR:__
 
 #### De punta Canabal a punta Couso, illas Cíes, GSOL MA; MSAS; C.P. Cangas
 
+#### De Rande a Petóns de Canabal, (excluíndo a zona que vai desde Rande a punta Travesada,) GSOL MA; MSAS; C.P. Moaña, Cíes Artesanais, S.C.G., (plan conxunto)
+
  
 
 
