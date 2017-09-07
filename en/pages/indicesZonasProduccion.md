@@ -44,6 +44,8 @@ __Zonas de producción no SIGREMAR:__
 
 #### De Rande a Petóns de Canabal, (excluíndo a zona que vai desde Rande a punta Travesada,) GSOL MA; MSAS; C.P. Moaña, Cíes Artesanais, S.C.G., (plan conxunto)
 
+#### Desde Rande a punta Travesada, GSOL MA; MSAS; C.P. Moaña, Cíes Artesanais, S.C.G., C.P. Redondela, C.P. Vilaboa, (plan conxunto)
+
  
 
 
