@@ -46,6 +46,8 @@ __Zonas de producción no SIGREMAR:__
 
 #### Desde Rande a punta Travesada, GSOL MA; MSAS; C.P. Moaña, Cíes Artesanais, S.C.G., C.P. Redondela, C.P. Vilaboa, (plan conxunto)
 
+#### De punta Travesada a o peirao de San Adrián de Cobres, desde a ponte de Rande ata punta Pías, GSOL MA; MSAS; C.P. Redondela, C.P. Vilaboa, (plan conxunto)
+
  
 
 
