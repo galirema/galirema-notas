@@ -77,6 +77,8 @@ __Zonas de producción no SIGREMAR:__
 
 #### Do Rego do Alcalde (Lañeiras de Fóra) á baliza de Orido, Arnela-Galiñeiro, Tragove, Tereixiñas, As Lobeiras, GSOL MA; MSAS; C.P. Cambados
 
+#### Enseada da Lanzada (praia da Lanzada, praia de Area da Cruz, Raeiros,), praia da Mexilloeira, praia Area Grande, Carreiro-Barcelas, praia Area das Pipas, praia Area de Reboredo, Lombo de Rons-Migalliñás, Lombo das Sinas, enseada do Grove, GSOL MA; MSAS; C.P. O Grove
+
 
 
 
