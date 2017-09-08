@@ -109,6 +109,8 @@ __Zonas de producción no SIGREMAR:__
 
 #### Praia de Laxe, praia da Hermida, praia de Osmo, banco Riocobo, praia de Rebordelo. Do Alto da Facha a punta Cantero, do Alto da Facha a punta Menduiña, GSOL MA; MSAS; C.P. Laxe, C.P. Corme, (plan conxunto)
 
+#### Praias de Sardiñeiro, praia de Langosteira, GSOL A pé; C.P. Fisterra
+
 
 
 ## Coruña-Ferrol CF
