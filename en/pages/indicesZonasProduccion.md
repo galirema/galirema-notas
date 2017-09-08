@@ -84,6 +84,8 @@ __Zonas de producción no SIGREMAR:__
 
 #### Entre o peirao de Corón e O Ariño, GSOL MA; C.P. Vilanova
 
+#### Praia da Corna GSOL A pé; C.P. Palmeira
+
 
 
 
@@ -96,6 +98,8 @@ __Zonas de producción no SIGREMAR:__
 #### Na costa norte, desde punta Uhía ata porto Siavo, incluíndo a cara interna da illa da Creba, exceptuando a zona portuaria, a zona dos asteleiros, a canle de navegación,; Na costa sur, desde punta Batuda ata punta Redondelo,; GSOL MA; MSAS; C.P. Noia
 
 #### De punta Batuda a río Sieira, GSOL MA; MSAS; C.P. Porto do Son, C.P. Portosín, (plan conxunto)  C.P. Noia, C.P. Muros (plan conxunto)
+
+#### "Praia de Abelleira, praia da Virxe e praia de Ventín GSOL A pé; C.P. Muros
 
 
 
@@ -111,6 +115,8 @@ __Zonas de producción no SIGREMAR:__
 
 #### Praias de Sardiñeiro, praia de Langosteira, GSOL A pé; C.P. Fisterra
 
+#### De punta Lago a punta da Roda, enseada da Vasa, GSOL A pé; C.P. Camariñas
+
 
 
 ## Coruña-Ferrol CF
@@ -123,6 +129,12 @@ __Zonas de producción no SIGREMAR:__
 ## Costa Lucense CL
 
 *  _De punta Frouxeira (43.62 N, 8.1893 W)  ata o rio EO (43.4721 N, 7.0566 W)_
+
+#### Bancos do Taro, Fondás, Fontorto, GSOL A pé; A.M. San Cosme de Barreiros-Foz
+
+#### Taro dos Chonos, Taro das Aceñas, Tesón, GSOL A pé; C.P. Ribadeo
+
+#### Zonas de autorización C.P. Cariño, GSOL A pé; C.P. Cariño
 
 
 
