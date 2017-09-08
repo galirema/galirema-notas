@@ -82,6 +82,8 @@ __Zonas de producción no SIGREMAR:__
 
 #### Enseada da Lanzada (praia da Lanzada, praia de Area da Cruz, Raeiros,), praia da Mexilloeira, praia Area Grande, Carreiro-Barcelas, praia Area das Pipas, praia Area de Reboredo, Lombo de Rons-Migalliñás, Lombo das Sinas, enseada do Grove, GSOL MA; MSAS; C.P. O Grove
 
+#### Entre o peirao de Corón e O Ariño, GSOL MA; C.P. Vilanova
+
 
 
 
