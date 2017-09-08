@@ -48,6 +48,7 @@ __Zonas de producción no SIGREMAR:__
 
 #### De punta Travesada a o peirao de San Adrián de Cobres, desde a ponte de Rande ata punta Pías, GSOL MA; MSAS; C.P. Redondela, C.P. Vilaboa, (plan conxunto)
 
+#### De puntal da Serra á ponte de Rande, GSOL MA; MSAS; C.P. Vigo
  
 
 
