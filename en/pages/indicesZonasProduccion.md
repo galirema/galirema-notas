@@ -65,6 +65,8 @@ __Zonas de producción no SIGREMAR:__
 
 * _De punta Ínsua (42.771 N, 9.1266 W) ata praia de Baldaio (43.292 N, 8.7016 W)_
 
+#### De cabo Touriñán a punta Insua, excepto a zona incluída na reserva mariña de interese pesqueiro Os Miñarzos, HPEN MA; MSAS; C.P. Fisterra, C.P. Corcubión, C.P. Lira, (plan conxunto)
+
 
 
 
