@@ -30,6 +30,8 @@
 
 * [Plans específicos de Equinodermos](ZonasDeProduccionFEQD.md)
 
+* [Plans específicos de Solénidos](ZonasDeProduccionGSOL.md)
+
 
 __Zonas de producción no SIGREMAR:__
 
