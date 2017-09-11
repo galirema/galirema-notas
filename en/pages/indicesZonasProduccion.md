@@ -50,6 +50,8 @@ __Zonas de producción no SIGREMAR:__
 
 #### De puntal da Serra á ponte de Rande, GSOL MA; MSAS; C.P. Vigo
  
+#### Ría de Vigo GSOL A pé; Asociación de Confrarías da Ría de Vigo
+
 
 
 ## Ría de Pontevedra PO
@@ -86,6 +88,8 @@ __Zonas de producción no SIGREMAR:__
 
 #### Praia da Corna GSOL A pé; C.P. Palmeira
 
+#### Intermareal entre punta Tragove e Rego do Alcalde, co saco de Fefiñáns. Entre Ponte Castrelo e punta Barrelo. Entre o peirao de Cambados e a desembocadura do río Umia GSOL A pé; C.P. Cambados
+
 
 
 
@@ -117,11 +121,15 @@ __Zonas de producción no SIGREMAR:__
 
 #### De punta Lago a punta da Roda, enseada da Vasa, GSOL A pé; C.P. Camariñas
 
+#### Praias do Ézaro e Estorde GSOL A pé; C.P. Corcubión
+
 
 
 ## Coruña-Ferrol CF
 
 * _De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)_
+
+#### Ámbito territorial da C.P. Miño, GSOL A pé; C.P. Miño
 
 
 
@@ -135,6 +143,8 @@ __Zonas de producción no SIGREMAR:__
 #### Taro dos Chonos, Taro das Aceñas, Tesón, GSOL A pé; C.P. Ribadeo
 
 #### Zonas de autorización C.P. Cariño, GSOL A pé; C.P. Cariño
+
+#### Zonas de autorización: enseada do Ladrido, Raias, Cano Cabalar e Mexilloal GSOL A pé; C.P. Espasante
 
 
 
