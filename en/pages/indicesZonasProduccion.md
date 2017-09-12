@@ -40,6 +40,8 @@ __Zonas de producción no SIGREMAR:__
 
 * _De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)_
 
+#### Zona sublitoral rochosa entre punta Canabal e punta Couso, incluíndo illas Cíes, (agás de cabo Bicos a punta Cabaliños,) HPEN MA; MSAS; C.P. Cangas
+
 
 
 ## Ría de Pontevedra PO
