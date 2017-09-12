@@ -46,11 +46,15 @@ __Zonas de producción no SIGREMAR:__
 
 * _De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_
 
+#### De punta Couso a punta Morcegos, cara ao interior da ría de Aldán, HPEN MA; MSAS; C.P. Aldán-O Hio
+
 
 
 ## Ría de Arousa AR
 
 * _De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_
+
+#### De punta Salinas a punta Quilme, Areoso, Camallón, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo, HPEN MA; MSAS; C.P. A Illa de Arousa
 
 
 
