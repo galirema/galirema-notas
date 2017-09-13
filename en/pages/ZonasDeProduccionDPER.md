@@ -1,5 +1,22 @@
 # Plans de Percebe
 
+
+## Zonas de producción por tipo de plan
+
+* [Autorizacións](ZonasDeProduccionAAUT.md)
+
+* [Plans específicos en zonas de Libre Marisqueo](ZonasDeProduccionBESP.md)
+
+* [Plans específicos de Percebe](ZonasDeProduccionDPER.md)
+
+* [Plans específicos de Equinodermos](ZonasDeProduccionFEQD.md)
+
+* [Plans específicos de Solénidos](ZonasDeProduccionGSOL.md)
+
+* [Plans específicos de Peneiras](ZonasDeProduccionHPEN.md)
+
+
+
 ### Zonas de Producción por plan de explotación
 
 __Zonas de producción no SIGREMAR__:
