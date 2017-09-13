@@ -14,6 +14,8 @@ __Zonas de producción no SIGREMAR:__
 
 #### Zona sublitoral rochosa entre punta Canabal e punta Couso, incluíndo illas Cíes, (agás de cabo Bicos a punta Cabaliños,) HPEN MA; MSAS; C.P. Cangas
 
+#### De punta Cubilló ata praia de Abra (excluída) HPEN MA; MSAS C.P. Vigo
+
 
 
 ## Ría de Pontevedra PO
