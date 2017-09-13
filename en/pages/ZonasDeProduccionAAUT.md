@@ -1,7 +1,7 @@
 # Zonas de produción por plans: Autorizacións
 
-## Zonas de producción por tipo de plan
 
+## Zonas de producción por tipo de plan
 
 * [Autorizacións](ZonasDeProduccionAAUT.md)
 
