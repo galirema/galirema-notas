@@ -1,5 +1,15 @@
 # Zonas de produción por plans: Autorizacións
 
+## Zonas de producción por tipo de plan
+
+	+ __Costa Lucense__ [CL](#Costa_Lucense_CL)
+	+ __Coruña-Ferrol__ [CF](#Coruña-Ferrol_CF)
+	+ __Costa da Morte__ [CM](#Costa_da_Morte_CM)
+	+ __ría de Muros-Noia__ [MN](#Ría_de_Muros-Noia_MN)
+	+ __ría de Arousa__ [AR](#Ría_de_Arousa_AR)
+	+ __ría de Pontevedra__ [PO](Ría_de_Pontevedra_PO)
+	+ __ría de Vigo__ [VI](#Ría_de_Vigo_VI)
+	+ __Galicia__ [Calicia](#Galicia)
 
 
 __Zonas de producción no SIGREMAR:__
