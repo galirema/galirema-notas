@@ -68,6 +68,9 @@ __Zonas de producción no SIGREMAR:__
 
 * _De punta Ínsua (42.771 N, 9.1266 W) ata praia de Baldaio (43.292 N, 8.7016 W)_
 
+#### De punta Morelo a punta Gallada, IALG MA; MSAS; C.P. Camelle
+
+#### Desde punta Arnela ata a desembocadura do río Xallas, IALG A pé; C.P. Corcubión
 
 
 
