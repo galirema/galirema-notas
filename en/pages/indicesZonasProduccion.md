@@ -72,6 +72,10 @@ __Zonas de producción no SIGREMAR:__
 
 #### Desde punta Arnela ata a desembocadura do río Xallas, IALG A pé; C.P. Corcubión
 
+#### De punta Xanleira ata punta Gallada IALG A pé; C.P. Camariñas
+
+#### De punta Chorente a punta Gallada IALG MA; MSAS; C.P. Camariñas
+
 
 
 ## Coruña-Ferrol CF
