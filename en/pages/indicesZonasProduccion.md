@@ -47,11 +47,19 @@ __Zonas de producción no SIGREMAR:__
 
 #### De punta Orelludas a punta dos Picos, (zona marítima) IALG MA; MSAS; C.P. A Guarda
 
+#### De punta Orelludas á praia de Abra, (excluída) IALG A pé; MSAS; C.P. Baiona
+
+#### De praia Canabal a punta Couso, illas Cíes, IALG MSAS; C.P. Cangas
+
 
 
 ## Ría de Pontevedra PO
 
 * _De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_
+
+#### De punta Couso a punta Preguntoiro, cara ao interior da ría, IALG MA; MSAS; C.P. Aldán-O Hio
+
+#### Interior das liñas imaxinarias de punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Preguntoiro, Cara oeste das illas Ons e Onza, IALG MSAS; C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Raxó, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto)
 
 
 
@@ -118,6 +126,7 @@ __Zonas de producción no SIGREMAR:__
 #### De Ribadeo a Viveiro, do Pindo a Ribeira, de Corme a Muxía, de Espasante a Ferrol, O Grove, Bueu, de Monteferro á Guarda, IALG A pé; Ceamsa, S.L.
 
 #### De cabo Corrubedo a punta Lens, (agás de punta Insua a punta Uhía,) de punta Lens a cabo Touriñán, (agás de punta Arnela á desembocadura do río Xallas, ámbito da Remip Os Miñarzos,) De cabo Touriñán a punta Queimada, (agás de punta Xanleira ata punta Gallada,) de punta Lapachán a punta Torella, de punta Torella a punta Frouxeira, de punta Frouxeira a punta Fuciño do Porco, (agás ámbito da Remip Ría de Cedeira,) de punta Fuciño do Porco a punta de Penas Brancas, IALG A pé; Conservas Mar de Ardora S.L.
+
 #### De punta Penas Brancas (Ribadeo) a Cabo San Cibrao, de punta Roncadoira (Xove) a punta Camero (Vicedo), Ría de Ortigueira, de punta Ardillosa (Cedeira) a cabo Prioriño Grande (Ferrol), Ría de Ferrol, ría de Ares-Betanzos, Ría da Coruña, de punta San Pedro (A Coruña) a punta Insua (Caión), de punta Nariga (Malpica) a cabo San Adrián (Malpica), de punta Roncudo a punta Laxe, de punta Laxe (Laxe) a cabo Vilán, Ría de Camariñas, de punta da Barca (Muxía) a Cabo Touriñán, de Cabo Fisterra a punta Lens (Muros), de punta Lens a punta Uhía, de punta Sagrada (Porto do Son) a punta Couso (Aguiño), de punta Couso a punta Bodión, de punta Quintáns (Bamio) a punta das Sinas (Vilagarcia), Illa de Arousa, de Punta Abelleira (O Grove) a punta Pereiró (Vilalonga), de punta Río Seco (Domaio) a punta Moa (Marín), de punta do Boi (Baiona) a punta dos Picos (A Guarda), IALG A pé; Porto-Muíños S.L.
 
 #### Intermareal de punta Uhía a punta Remedios, IALG A pé; Mª Carmen Sánchez Sánchez
