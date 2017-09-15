@@ -61,6 +61,10 @@ __Zonas de producción no SIGREMAR:__
 
 * _De praia de Catia (42.261 N, 9.0554 W) ata punta Ínsua (42.771 N, 9.1266 W)_
 
+#### Submareal rochoso entre punta Ínsua e punta Uhía, IALG MA; MSAS; C.P. Muros
+
+#### De punta Uhía a punta Insua IALG A pé; C.P. Muros
+
 
 
 
@@ -76,6 +80,8 @@ __Zonas de producción no SIGREMAR:__
 
 #### De punta Chorente a punta Gallada IALG MA; MSAS; C.P. Camariñas
 
+#### Desde a praia de Rostro a Punta Arnela, IALG MA; MSAS; C.P. Fisterra
+
 
 
 ## Coruña-Ferrol CF
@@ -89,6 +95,9 @@ __Zonas de producción no SIGREMAR:__
 ## Costa Lucense CL
 
 *  _De punta Frouxeira (43.62 N, 8.1893 W)  ata o rio EO (43.4721 N, 7.0566 W)_
+
+#### Desde Ladrido ata a Praia de Esteiro IALG A pé; C.P. Espasante
+
 
 
 ## Galicia
