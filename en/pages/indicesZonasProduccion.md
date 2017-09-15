@@ -43,6 +43,10 @@ __Zonas de producción no SIGREMAR:__
 
 * _De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)_
 
+#### De punta Orelludas a punta dos Picos, IALG A pé; C.P. A Guarda
+
+#### De punta Orelludas a punta dos Picos, (zona marítima) IALG MA; MSAS; C.P. A Guarda
+
 
 
 ## Ría de Pontevedra PO
@@ -54,6 +58,8 @@ __Zonas de producción no SIGREMAR:__
 ## Ría de Arousa AR
 
 * _De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_
+
+#### De punta Salinas a punta Quilma, Areoso, Camallón, de punta Testos a punta Campelo, de punta Aguiúncho a punta Furado, IALG MA; MSAS; C.P. A Illa de Arousa
 
 
 
@@ -81,6 +87,10 @@ __Zonas de producción no SIGREMAR:__
 #### De punta Chorente a punta Gallada IALG MA; MSAS; C.P. Camariñas
 
 #### Desde a praia de Rostro a Punta Arnela, IALG MA; MSAS; C.P. Fisterra
+
+#### De punta Insua a punta Larada, IALG A pé; C.P. Lira
+
+#### Da desembocadura do río Xallas á desembocadura do río Larada, pedras da costa, intermareal rochoso entre punta Arnela e Cabo Fisterra, IALG A pé; C.P. O Pindo
 
 
 
