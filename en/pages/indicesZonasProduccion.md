@@ -51,6 +51,10 @@ __Zonas de producción no SIGREMAR:__
 
 #### De praia Canabal a punta Couso, illas Cíes, IALG MSAS; C.P. Cangas
 
+#### De punta de Alcabre a praia de Abra, (excluída), de punta Lagoa a praia de Arealonga, (excluída), IALG MA; MSAS; A pé; C.P. Vigo
+
+#### De petóns de Canaval a Rande IALG MA; MSAS; C.P. Moaña
+
 
 
 ## Ría de Pontevedra PO
@@ -68,6 +72,10 @@ __Zonas de producción no SIGREMAR:__
 * _De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_
 
 #### De punta Salinas a punta Quilma, Areoso, Camallón, de punta Testos a punta Campelo, de punta Aguiúncho a punta Furado, IALG MA; MSAS; C.P. A Illa de Arousa
+
+#### De Cantareira a punta Carreiro, de punta Carreiro a Barrosa, de Barrosa a Raeiros, de Capilla a punta Faxilda, IALG MSAS; C.P. O Grove
+
+#### Zonas de autorización C.P. Ribeira, as restantes zonas resolveranse nas resolucións de apertura, IALG MA; MSAS; C.P. Ribeira
 
 
 
@@ -100,6 +108,8 @@ __Zonas de producción no SIGREMAR:__
 
 #### Da desembocadura do río Xallas á desembocadura do río Larada, pedras da costa, intermareal rochoso entre punta Arnela e Cabo Fisterra, IALG A pé; C.P. O Pindo
 
+#### Litoral da provincia da Coruña, IALG A pé; Mardelira, S. Coop. Galega
+
 
 
 ## Coruña-Ferrol CF
@@ -115,6 +125,8 @@ __Zonas de producción no SIGREMAR:__
 *  _De punta Frouxeira (43.62 N, 8.1893 W)  ata o rio EO (43.4721 N, 7.0566 W)_
 
 #### Desde Ladrido ata a Praia de Esteiro IALG A pé; C.P. Espasante
+
+#### De punta Insua a cabo Fisterra IALG MA; Merguladores de Fisterra, S. Coop. Galega
 
 
 
