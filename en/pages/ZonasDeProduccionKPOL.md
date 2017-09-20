@@ -1,4 +1,4 @@
-# Plans de Poliquetros
+# Plans de Poliquetos
 
 ZonasDeProduccionKPOL.md
 
