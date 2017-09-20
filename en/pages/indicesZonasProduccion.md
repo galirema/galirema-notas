@@ -50,18 +50,15 @@ __Zonas de producción no SIGREMAR:__
 
 
 
-
 ## Ría de Pontevedra PO
 
 * _De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_
 
 
 
-
 ## Ría de Arousa AR
 
 * _De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_
-
 
 
 
