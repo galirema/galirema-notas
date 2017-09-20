@@ -37,6 +37,8 @@
 
 * [Plans específicos de Algas](ZonasDeProduccionIALG.md)
 
+* [Plans de Anémonas](ZonasDeProduccionJANE.md)
+
 
 
 __Zonas de producción no SIGREMAR:__
@@ -46,13 +48,6 @@ __Zonas de producción no SIGREMAR:__
 
 * _De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)_
 
-#### De punta Orelluda a Punta dos Picos, JANE A pé; C.P. A Guarda
-
-#### De punta Orelluda a punta Santa Marta, desde a desembocadura do río Miñor a praia de Portocelo, JANE A pé; MA; MSAS; C.P. Baiona
-
-#### De punta Balea ao extremo leste da praia de Liméns, (incluíndo o faro da Borneira, illote Corbeiro,) do extremo oeste da praia de Liméns ao extremo leste da praia de Barra, do extremo oeste da praia de Barra ata punta Robaleira, de punta Balea a punta Rodeira, JANE MA; MSAS; C.P. Cangas
-
-#### De punta Alcabre a praia de Abra, (excluída), De punta Lagoa a praia de Arealonga, (excluida), JANE MA; MSAS; C.P. Vigo
 
 
 
@@ -60,7 +55,6 @@ __Zonas de producción no SIGREMAR:__
 
 * _De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_
 
-#### De punta Couso a Punta Niño do Corvo, cara ao interior da ría de Aldán, JANE MA; MSAS; C.P. Aldán-O Hio
 
 
 
@@ -68,9 +62,6 @@ __Zonas de producción no SIGREMAR:__
 
 * _De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_
 
-#### De Sapeiras de Terra ata punta Salinas, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo, JANE MA; MSAS; C.P. A Illa de Arousa
-
-#### De punta Moreira ata punta Area das Pipas, de praia Barrosa a punta Raeiros, JANE MSAS; C.P. O Grove
 
 
 
@@ -90,9 +81,6 @@ __Zonas de producción no SIGREMAR:__
 
 * _De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)_
 
-#### De punta Langosteira a punta Miranda, JANE MSAS; C.P. A Coruña, C.P. Barallobre, (plan conxunto)
-
-#### De punta San Carlos a punta Frouxeira, JANE MSAS; C.P. Ferrol
 
 
 
@@ -100,9 +88,6 @@ __Zonas de producción no SIGREMAR:__
 
 *  _De punta Frouxeira (43.62 N, 8.1893 W)  ata o rio EO (43.4721 N, 7.0566 W)_
 
-#### De ermida de San Tirso a punta Cabalo (intermareal) JANE A pé; C.P. Celeiro
-
-#### De punta Pena Furada, ermida de San Tirso ata punta Rueta, JANE MSAS;
 
 
 
