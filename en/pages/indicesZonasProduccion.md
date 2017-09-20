@@ -48,6 +48,12 @@ __Zonas de producción no SIGREMAR:__
 
 #### De punta Orelluda a Punta dos Picos, JANE A pé; C.P. A Guarda
 
+#### De punta Orelluda a punta Santa Marta, desde a desembocadura do río Miñor a praia de Portocelo, JANE A pé; MA; MSAS; C.P. Baiona
+
+#### De punta Balea ao extremo leste da praia de Liméns, (incluíndo o faro da Borneira, illote Corbeiro,) do extremo oeste da praia de Liméns ao extremo leste da praia de Barra, do extremo oeste da praia de Barra ata punta Robaleira, de punta Balea a punta Rodeira, JANE MA; MSAS; C.P. Cangas
+
+#### De punta Alcabre a praia de Abra, (excluída), De punta Lagoa a praia de Arealonga, (excluida), JANE MA; MSAS; C.P. Vigo
+
 
 
 ## Ría de Pontevedra PO
@@ -61,6 +67,10 @@ __Zonas de producción no SIGREMAR:__
 ## Ría de Arousa AR
 
 * _De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_
+
+#### De Sapeiras de Terra ata punta Salinas, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo, JANE MA; MSAS; C.P. A Illa de Arousa
+
+#### De punta Moreira ata punta Area das Pipas, de praia Barrosa a punta Raeiros, JANE MSAS; C.P. O Grove
 
 
 
