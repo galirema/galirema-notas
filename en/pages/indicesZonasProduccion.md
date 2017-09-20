@@ -39,6 +39,8 @@
 
 * [Plans de Anémonas](ZonasDeProduccionJANE.md)
 
+* [Plans de Poliquetos](ZonasDeProduccionKPOL.md)
+
 
 
 __Zonas de producción no SIGREMAR:__
