@@ -12,14 +12,22 @@
 
 * As zonas están agrupadas polas áreas de costa:
 
-	+ __Costa Lucense__ [CL](zp-CL.md)
-	+ __Coruña-Ferrol__ [CF](#Coruña-Ferrol_CF)
-	+ __Costa da Morte__ [CM](#Costa_da_Morte_CM)
-	+ __ría de Muros-Noia__ [MN](#Ría_de_Muros-Noia_MN)
-	+ __ría de Arousa__ [AR](#Ría_de_Arousa_AR)
-	+ __ría de Pontevedra__ [PO](Ría_de_Pontevedra_PO)
-	+ __ría de Vigo__ [VI](#Ría_de_Vigo_VI)
-	+ __Galicia__ [Calicia](#Galicia)
+	+ __Costa Lucense__ [CL](zp-CL.md)  
+	_De punta Frouxeira (43.62 N, 8.1893 W)  ata o rio EO (43.4721 N, 7.0566 W)_
+	+ __Coruña-Ferrol__ [CF](zp-CF.md)  
+	_De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)_
+	+ __Costa da Morte__ [CM](zp-CM.md)  
+	_De punta Ínsua (42.771 N, 9.1266 W) ata praia de Baldaio (43.292 N, 8.7016 W)_
+	+ __ría de Muros-Noia__ [MN](zp-MN.md)  
+	_De praia de Catia (42.261 N, 9.0554 W) ata punta Ínsua (42.771 N, 9.1266 W)_
+	+ __ría de Arousa__ [AR](#zp-AR.md)  
+	_De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_
+	+ __ría de Pontevedra__ [PO](zp-PO.md)  
+	_De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_
+	+ __ría de Vigo__ [VI](zp-VI.md)  
+	_De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)_
+	+ __Galicia__ [Calicia](zp-GL.md)
+	
 
 ## Zonas de producción por tipo de plan
 
@@ -40,60 +48,6 @@
 * [Plans de Anémonas](ZonasDeProduccionJANE.md)
 
 * [Plans de Poliquetos](ZonasDeProduccionKPOL.md)
-
-
-
-__Zonas de producción no SIGREMAR:__
-
-
-## Ría de Vigo VI
-
-* _De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)_
-
-
-
-## Ría de Pontevedra PO
-
-* _De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_
-
-
-
-## Ría de Arousa AR
-
-* _De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_
-
-
-
-## Ría de Muros-Noia MN
-
-* _De praia de Catia (42.261 N, 9.0554 W) ata punta Ínsua (42.771 N, 9.1266 W)_
-
-
-
-## Costa da Morte CM
-
-* _De punta Ínsua (42.771 N, 9.1266 W) ata praia de Baldaio (43.292 N, 8.7016 W)_
-
-
-
-## Coruña-Ferrol CF
-
-* _De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)_
-
-
-
-
-## Costa Lucense CL
-
-*  _De punta Frouxeira (43.62 N, 8.1893 W)  ata o rio EO (43.4721 N, 7.0566 W)_
-
-
-
-
-## Galicia
-
-
-
 
 
 
