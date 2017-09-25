@@ -8,21 +8,21 @@
 
 * [Autorizacións](#Autorizacións)
 
-* [Plans específicos en zonas de Libre Marisqueo](#Plans específicos en zonas de Libre Marisqueo)
+* [Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)
 
-* [Plans específicos de Percebe](#Plans específicos de Percebe)
+* [Percebe](#Percebe)
 
-* [Plans específicos de Equinodermos](#Plans específicos de Equinodermos)
+* [Equinodermos](#Equinodermos)
 
-* [Plans específicos de Solénidos](#Plans específicos de Solénidos)
+* [Solénidos](#Solénidos)
 
-* [Plans específicos de Peneiras](#Plans específicos de Peneiras)
+* [Peneiras](#Peneiras)
 
-* [Plans específicos de Algas](#Plans específicos de Algas)
+* [Algas](#Algas)
 
-* [Plans de Anémonas](#Plans de Anémonas)
+* [Anémonas](#Anémonas)
 
-* [Plans de Poliquetos](#Plans de Poliquetos)
+* [Poliquetos](#Poliquetos)
 
 
 
@@ -52,7 +52,7 @@
 
 
 
-## Plans específicos en zonas de Libre Marisqueo
+## Zonas de Libre Marisqueo
 
 
 1. Lagoas de Baldaio BESP A pé; A.M. Fonte Santa Helena-Baldaio
@@ -78,7 +78,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Percebe
+## Percebe
 
 
 1. Ambito territorial das confrarías da Coruña, Mera, Lorbé, Sada, Ares, DPER A pé; Embarcación; C.P. A Coruña, C.P. Mera, C.P. Lorbé, C.P. Sada, C.P. Ares, (plan conxunto)
@@ -92,7 +92,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Equinodermos
+## Equinodermos
 
 
 1. De punta Langosteira a punta Segaño, FEQD MSAS; C.P. A Coruña, C.P. Barallobre, (plan conxunto)
@@ -102,7 +102,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Solénidos
+## Solénidos
 
 
 1. Ámbito territorial da C.P. Miño, GSOL A pé; C.P. Miño
@@ -110,7 +110,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Peneiras
+## Peneiras
 
 
   --
@@ -118,7 +118,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Algas
+## Algas
 
 
 1. De punta Langosteira a Cabo Prioriño, IALG MSAS; C.P. A Coruña, C.P. Sada, (plan conxunto)
@@ -126,7 +126,7 @@
 [Menú](#Menú)
 
 
-## Plans de Anémonas
+## Anémonas
 
 
 1. De punta Langosteira a punta Miranda, JANE MSAS; C.P. A Coruña, C.P. Barallobre, (plan conxunto)
@@ -136,7 +136,7 @@
 [Menú](#Menú)
 
 
-## Plans de Poliquetos
+## Poliquetos
 
 
 1. Lagoa externa de Baldaio, KPOL A pé; A.M. Fonte Santa Helena-Baldaio
