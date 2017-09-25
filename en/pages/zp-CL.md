@@ -5,21 +5,21 @@
 
 * [Autorizacións](#Autorizacións)
 
-* [Plans específicos en zonas de Libre Marisqueo](#Plans_específicos_en_zonas_de_Libre_Marisqueo)
+* [Zonas de Libre Marisqueo](#Plans_específicos_en_zonas_de_Libre_Marisqueo)
 
-* [Plans específicos de Percebe](#Plans específicos de Percebe)
+* [Percebe](#Plans específicos de Percebe)
 
-* [Plans específicos de Equinodermos](#Plans específicos de Equinodermos)
+* [Equinodermos](#Plans específicos de Equinodermos)
 
-* [Plans específicos de Solénidos](#Plans específicos de Solénidos)
+* [Solénidos](#Plans específicos de Solénidos)
 
-* [Plans específicos de Peneiras](#Plans específicos de Peneiras)
+* [Peneiras](#Plans específicos de Peneiras)
 
-* [Plans específicos de Algas](#Plans específicos de Algas)
+* [Algas](#Plans específicos de Algas)
 
-* [Plans de Anémonas](#Plans de Anémonas)
+* [Anémonas](#Plans de Anémonas)
 
-* [Plans de Poliquetos](#Plans de Poliquetos)
+* [Poliquetos](#Plans de Poliquetos)
 
 
 
@@ -36,7 +36,7 @@
 1. Praia de Arealonga e Lombo das Navallas AAUT A pé, C.P. O Vicedo
 
 
-## Plans específicos en zonas de Libre Marisqueo
+## Zonas de Libre Marisqueo
 
 
 1. Bancos de Fondás,Taro e Fontorto BESP A pé; A.M. San Cosme de Barreiros-Foz
@@ -68,7 +68,7 @@
 1. Praia de Vilela BESP A pé; C.P. O Barqueiro
 
 
-## Plans específicos de Percebe
+## Percebe
 
 1. De punta Promontorio a punta Nois, DPER A pé; A.M. San Cosme de Barreiros-Foz
 
@@ -91,7 +91,7 @@
 1. De punta Villardeira a punta da Barra, DPER Embarcación; C.P. O Barqueiro-Bares
 
 
-## Plans específicos de Equinodermos
+## Equinodermos
 
 
 1. Zonas marítimas desde Punta Pena Furada a As Carrallas, agás: a zona interna entre a punta do dique norte do porto de Alcoa e o faro de San Cibrao, Os Muiñelos, Os Castelos da praia de San Román, a cetarea de San Cibrao, Calvella en Burela, Punta Promontoiro en San Cosme, Celeiros en Ribadeo FEQD MSAS; Asociación de recolectores submariños da Mariña
@@ -111,7 +111,7 @@
 1. "De faro de punta Frouxeira a punta Castro Vilela FEQD MSAS; C.P. Cedeira, C.P. Espasante, C.P. O Barqueiro-Bares, (plan conxunto)
 
 
-## Plans específicos de Solénidos
+## Solénidos
 
 
 1. Bancos do Taro, Fondás, Fontorto, GSOL A pé; A.M. San Cosme de Barreiros-Foz
@@ -123,19 +123,19 @@
 1. Zonas de autorización: enseada do Ladrido, Raias, Cano Cabalar e Mexilloal GSOL A pé; C.P. Espasante
 
 
-## Plans específicos de Peneiras
+## Peneiras
 
 
  --
 
 
-## Plans específicos de Algas
+## Algas
 
 
 1. Desde Ladrido ata a Praia de Esteiro IALG A pé; C.P. Espasante
 
 
-## Plans de Anémonas
+## Anémonas
 
 
 1. De ermida de San Tirso a punta Cabalo (intermareal) JANE A pé; C.P. Celeiro
@@ -143,7 +143,7 @@
 1. De punta Pena Furada, ermida de San Tirso ata punta Rueta, JANE MSAS;
 
 
-## Plans de Poliquetos
+## Poliquetos
 
 
 1. Bancos de Fondás, O Taro, KPOL A pé; A.M. San Cosme de Barreiros-Foz
