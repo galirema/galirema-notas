@@ -5,21 +5,21 @@
 
 * [Autorizacións](#Autorizacións)
 
-* [Zonas de Libre Marisqueo](#Plans_específicos_en_zonas_de_Libre_Marisqueo)
+* [Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)
 
-* [Percebe](#Plans específicos de Percebe)
+* [Percebe](#Percebe)
 
-* [Equinodermos](#Plans específicos de Equinodermos)
+* [Equinodermos](#Equinodermos)
 
-* [Solénidos](#Plans específicos de Solénidos)
+* [Solénidos](#Solénidos)
 
-* [Peneiras](#Plans específicos de Peneiras)
+* [Peneiras](#Peneiras)
 
-* [Algas](#Plans específicos de Algas)
+* [Algas](#Algas)
 
-* [Anémonas](#Plans de Anémonas)
+* [Anémonas](#Anémonas)
 
-* [Poliquetos](#Plans de Poliquetos)
+* [Poliquetos](#Poliquetos)
 
 
 
