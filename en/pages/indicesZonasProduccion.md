@@ -12,7 +12,7 @@
 
 * As zonas están agrupadas polas áreas de costa:
 
-	+ __Costa Lucense__ [CL](#Costa_Lucense_CL)
+	+ __Costa Lucense__ [CL](zp-CL.md)
 	+ __Coruña-Ferrol__ [CF](#Coruña-Ferrol_CF)
 	+ __Costa da Morte__ [CM](#Costa_da_Morte_CM)
 	+ __ría de Muros-Noia__ [MN](#Ría_de_Muros-Noia_MN)
