@@ -37,6 +37,8 @@
 
 1. Praia de Arealonga e Lombo das Navallas AAUT A pé, C.P. O Vicedo
 
+[Menú](#Menú)
+
 
 ## Zonas de Libre Marisqueo
 
@@ -69,6 +71,8 @@
 
 1. Praia de Vilela BESP A pé; C.P. O Barqueiro
 
+[Menú](#Menú)
+
 
 ## Percebe
 
@@ -92,6 +96,8 @@
 
 1. De punta Villardeira a punta da Barra, DPER Embarcación; C.P. O Barqueiro-Bares
 
+[Menú](#Menú)
+
 
 ## Equinodermos
 
@@ -112,6 +118,8 @@
 
 1. "De faro de punta Frouxeira a punta Castro Vilela FEQD MSAS; C.P. Cedeira, C.P. Espasante, C.P. O Barqueiro-Bares, (plan conxunto)
 
+[Menú](#Menú)
+
 
 ## Solénidos
 
@@ -124,17 +132,23 @@
 
 1. Zonas de autorización: enseada do Ladrido, Raias, Cano Cabalar e Mexilloal GSOL A pé; C.P. Espasante
 
+[Menú](#Menú)
+
 
 ## Peneiras
 
 
  --
 
+[Menú](#Menú)
+
 
 ## Algas
 
 
 1. Desde Ladrido ata a Praia de Esteiro IALG A pé; C.P. Espasante
+
+[Menú](#Menú)
 
 
 ## Anémonas
@@ -144,11 +158,15 @@
 
 1. De punta Pena Furada, ermida de San Tirso ata punta Rueta, JANE MSAS;
 
+[Menú](#Menú)
+
 
 ## Poliquetos
 
 
 1. Bancos de Fondás, O Taro, KPOL A pé; A.M. San Cosme de Barreiros-Foz
+
+[Menú](#Menú)
 
 
 [Indice](indicesZonasProduccion.md)
