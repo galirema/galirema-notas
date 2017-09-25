@@ -5,7 +5,7 @@
 
 * [Autorizacións](#Autorizacións)
 
-* [Plans específicos en zonas de Libre Marisqueo](#Plans específicos en zonas de Libre Marisqueo)
+* [Plans específicos en zonas de Libre Marisqueo](#Plans_específicos_en_zonas_de_Libre_Marisqueo)
 
 * [Plans específicos de Percebe](#Plans específicos de Percebe)
 
