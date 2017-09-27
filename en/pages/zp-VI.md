@@ -8,21 +8,21 @@
 
 * [Autorizacións](#Autorizacións)
 
-* [Plans específicos en zonas de Libre Marisqueo](#Plans específicos en zonas de Libre Marisqueo)
+* [Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)
 
-* [Plans específicos de Percebe](#Plans específicos de Percebe)
+* [Percebe](#Percebe)
 
-* [Plans específicos de Equinodermos](#Plans específicos de Equinodermos)
+* [Equinodermos](#Equinodermos)
 
-* [Plans específicos de Solénidos](#Plans específicos de Solénidos)
+* [Solénidos](#Solénidos)
 
-* [Plans específicos de Peneiras](#Plans específicos de Peneiras)
+* [Peneiras](#Peneiras)
 
-* [Plans específicos de Algas](#Plans específicos de Algas)
+* [Algas](#Algas)
 
-* [Plans de Anémonas](#Plans de Anémonas)
+* [Anémonas](#Anémonas)
 
-* [Plans de Poliquetos](#Plans de Poliquetos)
+* [Poliquetos](#Poliquetos)
 
 
 
@@ -36,7 +36,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos en zonas de Libre Marisqueo
+## Zonas de Libre Marisqueo
 
 
 1. Bancos da ría de Vigo, excepto a autorización de Baiona, BESP Embarcación; Asociación de Marisqueo a Flote Ría de Vigo, C.P. de Baiona, (plan conxunto)
@@ -70,7 +70,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Percebe
+## Percebe
 
 
 1. De punta Orelludas a punta dos Picos, DPER A pé; C.P. A Guarda
@@ -86,7 +86,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Equinodermos
+## Equinodermos
 
 
 1. De punta Orelludas a punta dos Picos, FEQD A pé; C.P. A Guarda
@@ -102,7 +102,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Solénidos
+## Solénidos
 
 
 1. De puntal da Serra a punta do Boi, GSOL MA; MSAS; C.P. Baiona
@@ -122,7 +122,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Peneiras
+## Peneiras
 
 
 1. Zona sublitoral rochosa entre punta Canabal e punta Couso, incluíndo illas Cíes, (agás de cabo Bicos a punta Cabaliños,) HPEN MA; MSAS; C.P. Cangas
@@ -132,7 +132,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Algas
+## Algas
 
 
 1. De punta Orelludas a punta dos Picos, IALG A pé; C.P. A Guarda
@@ -148,7 +148,7 @@
 [Menú](#Menú)
 
 
-## Plans de Anémonas
+## Anémonas
 
 
 1. De punta Orelluda a Punta dos Picos, JANE A pé; C.P. A Guarda
@@ -162,7 +162,7 @@
 [Menú](#Menú)
 
 
-## Plans de Poliquetos
+## Poliquetos
 
 
 1. De praia do Sinal a punta Vixía, KPOL MA; MSAS; C.P. Cangas
