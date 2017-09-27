@@ -8,21 +8,21 @@
 
 * [Autorizacións](#Autorizacións)
 
-* [Plans específicos en zonas de Libre Marisqueo](#Plans específicos en zonas de Libre Marisqueo)
+* [Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)
 
-* [Plans específicos de Percebe](#Plans específicos de Percebe)
+* [Percebe](#Percebe)
 
-* [Plans específicos de Equinodermos](#Plans específicos de Equinodermos)
+* [Equinodermos](#Equinodermos)
 
-* [Plans específicos de Solénidos](#Plans específicos de Solénidos)
+* [Solénidos](#Solénidos)
 
-* [Plans específicos de Peneiras](#Plans específicos de Peneiras)
+* [Peneiras](#Peneiras)
 
-* [Plans específicos de Algas](#Plans específicos de Algas)
+* [Algas](#Algas)
 
-* [Plans de Anémonas](#Plans de Anémonas)
+* [Anémonas](#Anémonas)
 
-* [Plans de Poliquetos](#Plans de Poliquetos)
+* [Poliquetos](#Poliquetos)
 
 
 ## Autorizacións
@@ -33,7 +33,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos en zonas de Libre Marisqueo
+## Zonas de Libre Marisqueo
 
 
  --
@@ -41,7 +41,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Percebe
+## Percebe
 
 
  --
@@ -49,7 +49,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Equinodermos
+## Equinodermos
 
 
  --
@@ -57,7 +57,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Solénidos
+## Solénidos
 
 
  --
@@ -65,7 +65,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Peneiras
+## Peneiras
 
 
  --
@@ -73,7 +73,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Algas
+## Algas
 
 
 1. De Rinlo ao Barqueiro, de punta Insua a punta Uhía, de Aguiño a punta do Chazo (Cabo de Cruz), de Moaña a Cabo Home, (agás de praia Canabal a punta Couso), de Cabo Silleiro á Guarda, IALG A pé; Algamar, S.L.
@@ -92,7 +92,7 @@
 [Menú](#Menú)
 
 
-## Plans de Anémonas
+## Anémonas
 
 
  --
@@ -100,7 +100,7 @@
 [Menú](#Menú)
 
 
-## Plans de Poliquetos
+## Poliquetos
 
 
  --
