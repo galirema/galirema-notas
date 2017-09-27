@@ -26,6 +26,7 @@
 
 
 
+
 ## Autorizacións
 
 1. Lagoas de Baldaio. AAUT. A pé;. A.M. Fonte Santa Helena-Baldaio.
