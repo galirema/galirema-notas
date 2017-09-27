@@ -8,21 +8,21 @@
 
 * [Autorizacións](#Autorizacións)
 
-* [Plans específicos en zonas de Libre Marisqueo](#Plans específicos en zonas de Libre Marisqueo)
+* [Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)
 
-* [Plans específicos de Percebe](#Plans específicos de Percebe)
+* [Percebe](#Percebe)
 
-* [Plans específicos de Equinodermos](#Plans específicos de Equinodermos)
+* [Equinodermos](#Equinodermos)
 
-* [Plans específicos de Solénidos](#Plans específicos de Solénidos)
+* [Solénidos](#Solénidos)
 
-* [Plans específicos de Peneiras](#Plans específicos de Peneiras)
+* [Peneiras](#Peneiras)
 
-* [Plans específicos de Algas](#Plans específicos de Algas)
+* [Algas](#Algas)
 
-* [Plans de Anémonas](#Plans de Anémonas)
+* [Anémonas](#Anémonas)
 
-* [Plans de Poliquetos](#Plans de Poliquetos)
+* [Poliquetos](#Poliquetos)
 
 
 
@@ -35,7 +35,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos en zonas de Libre Marisqueo
+## Zonas de Libre Marisqueo
 
 
 1. Zonas de libre marisqueo do esteiro do río Anllóns, BESP A pé;
@@ -57,7 +57,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Percebe
+## Percebe
 
 
 1. De punta Gallada a punta Villueira, DPER Embarcación; C.P. Camariñas
@@ -85,7 +85,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Equinodermos
+## Equinodermos
 
 
 1. De punta Insua á desembocadura do río Larada, FEQD A pé; C.P. Lira
@@ -97,7 +97,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Solénidos
+## Solénidos
 
 
 1. De punta Sandía a punta Lago, enseada de Merexo, praia da Cruz, por fóra da praia de Mozogondón GSOL MA; MSAS; C.P. Camariñas, C.P. Muxía, (plan conxunto)
@@ -115,7 +115,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Peneiras
+## Peneiras
 
 
 1. De cabo Touriñán a punta Insua, excepto a zona incluída na reserva mariña de interese pesqueiro Os Miñarzos, HPEN MA; MSAS; C.P. Fisterra, C.P. Corcubión, C.P. Lira, (plan conxunto)
@@ -123,7 +123,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Algas
+## Algas
 
 
 1. De punta Morelo a punta Gallada, IALG MA; MSAS; C.P. Camelle
@@ -147,7 +147,7 @@
 [Menú](#Menú)
 
 
-## Plans de Anémonas
+## Anémonas
 
 
  --
@@ -155,7 +155,7 @@
 [Menú](#Menú)
 
 
-## Plans de Poliquetos
+## Poliquetos
 
 
 1. De punta Gallada ás lagoas de Baldaio (excluídas); agás as praias de Laxe, as illas Sisargas, KPOL A pé; MA; MSAS; C.P. Camelle, C.P. Corme, C.P. Laxe, C.P. Malpica, (plan conxunto)
