@@ -8,21 +8,21 @@
 
 * [Autorizacións](#Autorizacións)
 
-* [Plans específicos en zonas de Libre Marisqueo](#Plans específicos en zonas de Libre Marisqueo)
+* [Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)
 
-* [Plans específicos de Percebe](#Plans específicos de Percebe)
+* [Percebe](#Percebe)
 
-* [Plans específicos de Equinodermos](#Plans específicos de Equinodermos)
+* [Equinodermos](#Equinodermos)
 
-* [Plans específicos de Solénidos](#Plans específicos de Solénidos)
+* [Solénidos](#Solénidos)
 
-* [Plans específicos de Peneiras](#Plans específicos de Peneiras)
+* [Peneiras](#Peneiras)
 
-* [Plans específicos de Algas](#Plans específicos de Algas)
+* [Algas](#Algas)
 
-* [Plans de Anémonas](#Plans de Anémonas)
+* [Anémonas](#Anémonas)
 
-* [Plans de Poliquetos](#Plans de Poliquetos)
+* [Poliquetos](#Poliquetos)
 
 
 
@@ -40,7 +40,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos en zonas de Libre Marisqueo
+## Zonas de Libre Marisqueo
 
 
 1. Zonas de libre marisqueo entre Monte Louro e punta Uía, entre punta Ornanda e punta Aguieira e banco da Creba 2, BESP Embarcación; C.P. Noia, C.P. Muros, C.P. Porto do Son, C.P. Portosín, (plan conxunto)
@@ -52,7 +52,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Percebe
+## Percebe
 
 
 1. De punta Insua a punta Uhía, DPER A pé; C.P. Muros
@@ -62,7 +62,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Equinodermos
+## Equinodermos
 
 
 1. De punta Insua a punta Uía FEQD A pé; C.P. Muros
@@ -72,7 +72,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Solénidos
+## Solénidos
 
 
 1. De punta Insua a punta Uhía, GSOL MA; MSAS; C.P. Muros
@@ -86,7 +86,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Peneiras
+## Peneiras
 
 
  --
@@ -94,7 +94,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Algas
+## Algas
 
 
 1. Submareal rochoso entre punta Ínsua e punta Uhía, IALG MA; MSAS; C.P. Muros
@@ -104,7 +104,7 @@
 [Menú](#Menú)
 
 
-## Plans de Anémonas
+## Anémonas
 
 
  --
@@ -112,7 +112,7 @@
 [Menú](#Menú)
 
 
-## Plans de Poliquetos
+## Poliquetos
 
 
 1. De punta Insua a punta Uhía, KPOL MA; MSAS; C.P. Muros
