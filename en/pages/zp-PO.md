@@ -8,21 +8,21 @@
 
 * [Autorizacións](#Autorizacións)
 
-* [Plans específicos en zonas de Libre Marisqueo](#Plans específicos en zonas de Libre Marisqueo)
+* [Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)
 
-* [Plans específicos de Percebe](#Plans específicos de Percebe)
+* [Percebe](#Percebe)
 
-* [Plans específicos de Equinodermos](#Plans específicos de Equinodermos)
+* [Equinodermos](#Equinodermos)
 
-* [Plans específicos de Solénidos](#Plans específicos de Solénidos)
+* [Solénidos](#Solénidos)
 
-* [Plans específicos de Peneiras](#Plans específicos de Peneiras)
+* [Peneiras](#Peneiras)
 
-* [Plans específicos de Algas](#Plans específicos de Algas)
+* [Algas](#Algas)
 
-* [Plans de Anémonas](#Plans de Anémonas)
+* [Anémonas](#Anémonas)
 
-* [Plans de Poliquetos](#Plans de Poliquetos)
+* [Poliquetos](#Poliquetos)
 
 
 
@@ -34,7 +34,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos en zonas de Libre Marisqueo
+## Zonas de Libre Marisqueo
 
 
 1. Entre punta Faxilda e punta Samieira (Raxó), entre punta de Debaixo dos Pinos (Marín), punta Preguntoiro, entre praia Alada e Punta Couso,; BESP Endeño remolcado; C.P. Bueu
@@ -52,7 +52,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Percebe
+## Percebe
 
 1. Desde punta Castro ata a desembocadura do río Sieira, illas e illotes adxacentes DPER A pé; Embarcación; C.P. Aguiño
 
@@ -63,7 +63,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Equinodermos
+## Equinodermos
 
 
 1. De punta Couso a punta Morcegos, cara ao interior da ría de Aldán, FEQD MA; MSAS; C.P. Aldán-O Hio
@@ -73,7 +73,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Solénidos
+## Solénidos
 
 
 1. De punta Alada a punta Morcegos, cara ao interior da ría, GSOL MA; MSAS; C.P. Aldán-O Hio GSOL MA; MSAS; C.P. Aldán-O Hio
@@ -83,7 +83,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Peneiras
+## Peneiras
 
 
 1. De punta Couso a punta Morcegos, cara ao interior da ría de Aldán, HPEN MA; MSAS; C.P. Aldán-O Hio
@@ -93,7 +93,7 @@
 [Menú](#Menú)
 
 
-## Plans específicos de Algas
+## Algas
 
 
 1. De punta Couso a punta Preguntoiro, cara ao interior da ría, IALG MA; MSAS; C.P. Aldán-O Hio
@@ -103,7 +103,7 @@
 [Menú](#Menú)
 
 
-## Plans de Anémonas
+## Anémonas
 
 
 1. De punta Couso a Punta Niño do Corvo, cara ao interior da ría de Aldán, JANE MA; MSAS; C.P. Aldán-O Hio
@@ -111,7 +111,7 @@
 [Menú](#Menú)
 
 
-## Plans de Poliquetos
+## Poliquetos
 
 
 1. Praia Faxilda (ou Pociñas), praia de Prageira, praia de Bascuas, praia de Montalvo, praia Canelas, KPOL A pé; C.P. Portonovo
