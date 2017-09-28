@@ -33,7 +33,13 @@ _Francisco Fernández Cortés_
 
 * Con el desarrollo de internet una parte de esta información de dominio público está accesible en la web.
 
-* 
+* Galicia en el año 1992 modifica la normativa de gestión de los recursos marisqueros y otros recursos marinos de competencia autonómica
+
+* La modificación mas importante consiste en adecuar la extración de los productos a la demanda comercial de los mismos, liberalizando la actividad marisquera mediante planes de explotación localizados a un territorio y especies aprovechadas.
+
+* Este cambio hace que un año en toda Galicia puedan coexistir desde 150 a 250 normas de explotación distintas y mas de una norma en un mismo territorio.
+
+
 
 
 ## Objetivo
