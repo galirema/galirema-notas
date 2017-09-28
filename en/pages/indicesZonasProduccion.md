@@ -33,6 +33,8 @@
 
 ## Zonas de producción por tipo de plan
 
+O presente listado de zonas de producción está feito en base das normas dos anos 2008, 2014,2015,2016 e 2017. 
+
 * [Autorizacións](ZonasDeProduccionAAUT.md)
 
 * [Plans específicos en zonas de Libre Marisqueo](ZonasDeProduccionBESP.md)
