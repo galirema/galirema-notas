@@ -29,15 +29,20 @@ _Francisco Fernández Cortés_
 
 * Los datos son los ladrillos básicos en el conocimiento de los procesos que nos rodean y en la gestión de los mismos.
 
-* El aprovechamiento de los recursos marinos no está excluido de este principio y la sociedades han creado sun instrumentos para obtenerlos y utilizarlos.
+* El aprovechamiento de los recursos marinos no está excluido de este principio y la sociedades han creado sus instrumentos para obtenerlos y utilizarlos.
 
 * Con el desarrollo de internet una parte de esta información de dominio público está accesible en la web.
 
 * Galicia en el año 1992 modifica la normativa de gestión de los recursos marisqueros y otros recursos marinos de competencia autonómica
 
-* La modificación mas importante consiste en adecuar la extración de los productos a la demanda comercial de los mismos, liberalizando la actividad marisquera mediante planes de explotación localizados a un territorio y especies aprovechadas.
+* La modificación mas importante consiste en adecuar la extracción de los productos a la demanda comercial de los mismos, liberalizando la actividad marisquera mediante planes de explotación localizados a un territorio y especies aprovechadas.
 
 * Este cambio hace que un año en toda Galicia puedan coexistir desde 150 a 250 normas de explotación distintas y mas de una norma en un mismo territorio.
+
+* Toda esta información ha ido volcándose en internet a medida que este medio se ha convertido en un canal mas de comunicación con la Sociedad.
+
+* Pero esta información esta dispersa en distintos sitios sin que faciliten su relación y con distintos niveles de accesibilidad a los datos que permitan su posterior aprovechamiento.  
+
 
 
 
