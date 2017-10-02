@@ -45,9 +45,13 @@ _Francisco Fernández Cortés_
 
 
 
-
-
 ## Objetivo
+
+* Identificar las fuentes existentes en internet que contienen información sobre los recursos.
+
+* Análisis de los datos en ella existentes y su reusabilidad.
+
+* Desarrollo de metodologías para facilitar el que la información contenida pueda ser reutilizada por los interesados.
 
 ## Fuentes de Información
 
