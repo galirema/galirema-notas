@@ -55,6 +55,8 @@ _Francisco Fernández Cortés_
 
 ## Fuentes de Información
 
+* Las [fuentes de información](indiceFuentes.md) utilizadas
+
 ## Metodologías
 
 ## Desarrollo del proyecto
