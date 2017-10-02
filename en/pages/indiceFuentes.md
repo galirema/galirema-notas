@@ -18,5 +18,12 @@
 |[SIGREMAR](IndiceSigremar.md)|no|Si|no|-|
 
 
+### Otras fuentes complementarias
+
+* __FAO__: La [lista ASFIS de especies](http://www.fao.org/fishery/collection/asfis/es) para los fines de estadísticas de pesca 
+
+* __MAPAMA__:  [Denominaciones Comerciales](http://www.mapama.gob.es/es/pesca/temas/mercados-economia-pesquera/2Denomin_comerc.aspx#)
+
+
 
 [volver a inicio metodología](MetodologiaInicio.md)
