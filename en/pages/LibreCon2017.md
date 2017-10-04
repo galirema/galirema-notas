@@ -59,6 +59,9 @@ _Francisco Fernández Cortés_
 
 ## Metodologías
 
+* [Metodologías utilizadas](https://galirema.github.io/galirema-notas/en/#!pages/indiceMetodos.md)
+
+
 ## Desarrollo del proyecto
 
 ## Caracteristicas de los datos
