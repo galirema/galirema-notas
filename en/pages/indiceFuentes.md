@@ -22,7 +22,7 @@
 
 * __FAO__: La [lista ASFIS de especies](http://www.fao.org/fishery/collection/asfis/es) para los fines de estadísticas de pesca 
 
-* __MAPAMA__:  [Denominaciones Comerciales](http://www.mapama.gob.es/es/pesca/temas/mercados-economia-pesquera/2Denomin_comerc.aspx#)
+* __MAPAMA__:  [Denominaciones Comerciales](http://www.mapama.gob.es/es/pesca/temas/mercados-economia-pesquera/2Denomin_comerc.aspx#) que es la transposición a la legislación española la lista de especies comerciales reconocidas por la UE y que esta basada en la definida por la FAO y que recoge las denominaciones en todos los idiomas del estado español.
 
 
 
