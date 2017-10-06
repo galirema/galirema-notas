@@ -10,7 +10,7 @@
 |Tipo de Plan | Num. de Zonas|
 |:------------|--------------:|
 |[Autorizacións](#Autorizacións)| 1 |
-|[Zonas de Libre Marisqueo](#Zonas de Libre Marisqueo)| 6 |
+|[Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)| 6 |
 |[Percebe](#Percebe)| 3 |
 |[Equinodermos](#Equinodermos)| 2 |
 |[Solénidos](#Solénidos)| 2 |
