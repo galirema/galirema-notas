@@ -64,9 +64,41 @@ _Francisco Fernández Cortés_
 
 ## Desarrollo del proyecto
 
+* Identificación de las fuentes
+
+* Datos sobre la [planificación](https://galirema.github.io/galirema-notas/en/#!pages/IndicePlanes.md)
+    * Importado en _PDF_: 1992-1994 (3)
+    * Importado en _HTML_: 1995-2002 (8)
+    * En _SQL_ base de datos: 2003-2017 (15)
+
+* Datos sobre el recurso (Num. de Zonas identificadas)
+
+|Tipo de Plan | CL | CF | CM | MN | AR | PO | VI | GL | TOTAL|
+|:------------|---:|---:|---:|---:|---:|---:|---:|---:|-----:|
+|Autorizacións| 5 | 10 | 2 | 4 | 22 | 1 | 2 | - | 46 |
+|Zonas de Libre Marisqueo]| 14 | 10 | 8 | 3 | 10 | 6 | 14 | - | 65 |
+|Percebe| 10 | 4 | 11 | 2 | 2 | 3 | 5 | - | 37 |
+|Equinodermos| 8 | 2 | 3 | 2 | 3 | 2 | 5 | - | 25 |
+|Solénidos| 4 | 1 | 6 | 4 | 11 | 2 | 7 | - | 35 |
+|Peneiras| 0 | 0 | 1 | 0 | 2 | 2 | 2 | - | 7 |
+|Algas| 1 | 1 | 9 | 2 | 3 | 2 | 5 | 7 | 30 |
+|Anémonas| 2 | 2 | 0 | 0 | 2 | 1 | 4 | - | 11 |
+|Poliquetos| 1 | 4 | 5 | 3 | 3 | 2 | 4 | - | 22 |
+
+
+* Datos sobre los resultados de la explotación
+
+
+
 ## Caracteristicas de los datos
 
 ## Galirema en la web
 
+Los recursos del proyecto galirema en la web.
+
+
 ## A modo de ejemplo el __Pexma 2017__
 
+* En galirema-notas [Informe plan general y especificos 2017](https://galirema.github.io/galirema-notas/en/#!pages/infoPlanGeneralEspecifico2017.md)
+
+* En github-pages: [Plan general y específicos 2017](http://galirema.github.io/galirema/InfoPlanGeneralEspecifico2017c.html)
