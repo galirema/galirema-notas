@@ -1,28 +1,22 @@
 
-# Ría de Muros - Noia (MN)
+## Ría de Muros - Noia (MN)
 
 * _De praia de Catia (42.261 N, 9.0554 W) ata punta Ínsua (42.771 N, 9.1266 W)_
 
 ## Menú
 
 
-* [Autorizacións](#Autorizacións)
-
-* [Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)
-
-* [Percebe](#Percebe)
-
-* [Equinodermos](#Equinodermos)
-
-* [Solénidos](#Solénidos)
-
-* [Peneiras](#Peneiras)
-
-* [Algas](#Algas)
-
-* [Anémonas](#Anémonas)
-
-* [Poliquetos](#Poliquetos)
+|Tipo de Plan | Num. de Zonas|
+|:------------|--------------:|
+|[Autorizacións](#Autorizacións)| 4 |
+|[Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)| 3 |
+|[Percebe](#Percebe)| 2 |
+|[Equinodermos](#Equinodermos)| 2 |
+|[Solénidos](#Solénidos)| 4 |
+|[Peneiras](#Peneiras)| 0 |
+|[Algas](#Algas)| 2 |
+|[Anémonas](#Anémonas)| 0 |
+|[Poliquetos](#Poliquetos)| 3 |
 
 
 
@@ -72,7 +66,7 @@
 [Menú](#Menú)
 
 
-## Solénidos
+##  Solénidos
 
 
 1. De punta Insua a punta Uhía, GSOL MA; MSAS; C.P. Muros
