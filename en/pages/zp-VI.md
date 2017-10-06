@@ -1,28 +1,22 @@
 
-# Ría de Vigo (VI)
+## Ría de Vigo (VI)
 
 * _De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)_
 
 ## Menú
 
 
-* [Autorizacións](#Autorizacións)
-
-* [Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)
-
-* [Percebe](#Percebe)
-
-* [Equinodermos](#Equinodermos)
-
-* [Solénidos](#Solénidos)
-
-* [Peneiras](#Peneiras)
-
-* [Algas](#Algas)
-
-* [Anémonas](#Anémonas)
-
-* [Poliquetos](#Poliquetos)
+|Tipo de Plan | Num. de Zonas|
+|:------------|--------------:|
+|[Autorizacións](#Autorizacións)| 2 |
+|[Zonas de Libre Marisqueo](#Zonas de Libre Marisqueo)| 14 |
+|[Percebe](#Percebe)| 5 |
+|[Equinodermos](#Equinodermos)| 5 |
+|[Solénidos](#Solénidos)| 7 |
+|[Peneiras](#Peneiras)| 2 |
+|[Algas](#Algas)| 5 |
+|[Anémonas](#Anémonas)| 4 |
+|[Poliquetos](#Poliquetos)| 4 |
 
 
 
