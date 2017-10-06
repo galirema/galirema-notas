@@ -1,29 +1,24 @@
 
 
-# Ría de Arousa (AR)
+## Ría de Arousa (AR)
 
 * _De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_
 
 ## Menú
 
 
-* [Autorizacións](#Autorizacións)
 
-* [Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)
-
-* [Percebe](#Percebe)
-
-* [Equinodermos](#Equinodermos)
-
-* [Solénidos](#Solénidos)
-
-* [Peneiras](#Peneiras)
-
-* [Algas](#Algas)
-
-* [Anémonas](#Anémonas)
-
-* [Poliquetos](#Poliquetos)
+|Tipo de Plan | Num. de Zonas|
+|:------------|--------------:|
+|[Autorizacións](#Autorizacións)| 22 |
+|[Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)| 10 |
+|[Percebe](#Percebe)| 2 |
+|[Equinodermos](#Equinodermos)| 3 |
+|[Solénidos](#Solénidos)| 11 |
+|[Peneiras](#Peneiras)| 2 |
+|[Algas](#Algas)| 3 |
+|[Anémonas](#Anémonas)| 2 |
+|[Poliquetos](#Poliquetos)| 3 |
 
 
 
