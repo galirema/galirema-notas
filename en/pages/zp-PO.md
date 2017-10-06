@@ -1,28 +1,23 @@
 
-# Ría de Pontevedra (PO)
+## Ría de Pontevedra (PO)
 
 * _De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_
 
 ## Menú
 
 
-* [Autorizacións](#Autorizacións)
 
-* [Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)
-
-* [Percebe](#Percebe)
-
-* [Equinodermos](#Equinodermos)
-
-* [Solénidos](#Solénidos)
-
-* [Peneiras](#Peneiras)
-
-* [Algas](#Algas)
-
-* [Anémonas](#Anémonas)
-
-* [Poliquetos](#Poliquetos)
+|Tipo de Plan | Num. de Zonas|
+|:------------|--------------:|
+|[Autorizacións](#Autorizacións)| 1 |
+|[Zonas de Libre Marisqueo](#Zonas de Libre Marisqueo)| 6 |
+|[Percebe](#Percebe)| 3 |
+|[Equinodermos](#Equinodermos)| 2 |
+|[Solénidos](#Solénidos)| 2 |
+|[Peneiras](#Peneiras)| 2 |
+|[Algas](#Algas)| 2 |
+|[Anémonas](#Anémonas)| 1 |
+|[Poliquetos](#Poliquetos)| 2 |
 
 
 
