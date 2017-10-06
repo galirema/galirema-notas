@@ -6,23 +6,17 @@
 ## Menú
 
 
-* [Autorizacións](#Autorizacións)
-
-* [Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)
-
-* [Percebe](#Percebe)
-
-* [Equinodermos](#Equinodermos)
-
-* [Solénidos](#Solénidos)
-
-* [Peneiras](#Peneiras)
-
-* [Algas](#Algas)
-
-* [Anémonas](#Anémonas)
-
-* [Poliquetos](#Poliquetos)
+|Tipo de Plan | Num. de Zonas|
+|:------------|--------------:|
+|[Autorizacións](#Autorizacións)| 2 |
+|[Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)| 8 |
+|[Percebe](#Percebe)| 11 |
+|[Equinodermos](#Equinodermos)| 3 |
+|[Solénidos](#Solénidos)| 6 |
+|[Peneiras](#Peneiras)| 1 |
+|[Algas](#Algas)| 9 |
+|[Anémonas](#Anémonas)| 0 |
+|[Poliquetos](#Poliquetos)| 5 |
 
 
 
