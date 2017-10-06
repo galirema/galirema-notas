@@ -59,14 +59,14 @@ _Francisco Fernández Cortés_
 
 ## Metodologías
 
-* [Metodologías utilizadas](https://galirema.github.io/galirema-notas/en/#!pages/indiceMetodos.md)
+* [Metodologías utilizadas](indiceMetodos.md)
 
 
 ## Desarrollo del proyecto
 
 * Identificación de las fuentes
 
-* Datos sobre la [planificación](https://galirema.github.io/galirema-notas/en/#!pages/IndicePlanes.md)
+* Datos sobre la [planificación](IndicePlanes.md)
     * Importado en _PDF_: 1992-1994 (3)
     * Importado en _HTML_: 1995-2002 (8)
     * En _SQL_ base de datos: 2003-2017 (15)
@@ -99,6 +99,6 @@ Los recursos del proyecto galirema en la web.
 
 ## A modo de ejemplo el __Pexma 2017__
 
-* En galirema-notas [Informe plan general y especificos 2017](https://galirema.github.io/galirema-notas/en/#!pages/infoPlanGeneralEspecifico2017.md)
+* En galirema-notas [Informe plan general y especificos 2017](infoPlanGeneralEspecifico2017.md)
 
 * En github-pages: [Plan general y específicos 2017](http://galirema.github.io/galirema/InfoPlanGeneralEspecifico2017c.html)
