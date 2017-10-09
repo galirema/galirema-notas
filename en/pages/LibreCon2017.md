@@ -120,6 +120,6 @@ Los recursos del __proyecto galirema__ en la web.
 
 * En galirema-notas [Informe plan general y especificos 2017](infoPlanGeneralEspecifico2017.md)
 
-* [Documento pdf](https://galirema.github.io/galirema-notas/en/#!pages/uploads/pdf/infoPlanGeneralEspecifico2017.pdf)
+* [Documento pdf](uploads/pdf/infoPlanGeneralEspecifico2017.pdf)
 
 * En github-pages: [Plan general y específicos 2017](http://galirema.github.io/galirema/InfoPlanGeneralEspecifico2017c.html)
