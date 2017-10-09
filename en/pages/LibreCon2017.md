@@ -88,14 +88,33 @@ _Francisco Fernández Cortés_
 
 * Datos sobre los resultados de la explotación
 
+    * Estadísticas de producción en [primera venta](IndiceEstadisticas.md)
+
 
 
 ## Caracteristicas de los datos
 
+
 ## Galirema en la web
 
-Los recursos del proyecto galirema en la web.
+Los recursos del __proyecto galirema__ en la web.
 
+* __Generalistas__
+
+    * [Galicia Mariñeira](http://www.galiciamarineira.info/) es un sitio con formato blog que pretende ser la entrada a los datos liberados por eso trata de reproducir la normativa que contiene los datos pero te permite navegar por los datos digitalizados (en castellano).
+
+    * [Wiki Galirema](http://es.galirema.wikia.com/wiki/Wiki_Galirema) pretende presentar los resultados utilizando en formato wiki que permite una gestión mas personalizada de los contenidos si ser fiel a los documentos que contienen los datos (en gallego).
+
+
+* __Desarrollo__
+
+    * [Galirema en Github](https://github.com/galirema) es la entrada al [desarrollo del proyecto](https://github.com/galirema/galirema) En el está el repositorio de los datos obtenidos de fuentes no tratables, el acceso a los fuentes con datos tratables y la documentación del proyecto.
+
+    * Alojado en [GitHub Pages](http://galirema.github.io/galirema/) se presenta ejemplos de tratamientos de los datos obtenidos con el proyecto
+
+    * [Galirema en jsfiddle](https://jsfiddle.net/user/galirema/fiddles/) Está el código javascript de las plantillas de los distintos modelos de gráficos para representar los datos como "_Public fiddles_". 
+
+    * Las anotaciones de desarrollo del proyecto utilizado un fork de __MDwiki__ de Dynalon y gh-pages están el el proyecto [galirema-notas](https://galirema.github.io/galirema-notas/en/#!index.md)
 
 ## A modo de ejemplo el __Pexma 2017__
 
