@@ -28,7 +28,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Vigo VI
 
-* _De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)_
+ _De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)_
 
 1. De punta Orelluda a Punta dos Picos, JANE A pé; C.P. A Guarda
 
@@ -42,7 +42,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Pontevedra PO
 
-* _De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_
+ _De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_
 
 1. De punta Couso a Punta Niño do Corvo, cara ao interior da ría de Aldán, JANE MA; MSAS; C.P. Aldán-O Hio
 
@@ -50,7 +50,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Arousa AR
 
-* _De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_
+ _De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_
 
 1. De Sapeiras de Terra ata punta Salinas, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo, JANE MA; MSAS; C.P. A Illa de Arousa
 
@@ -60,19 +60,19 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Muros-Noia MN
 
-* _De praia de Catia (42.261 N, 9.0554 W) ata punta Ínsua (42.771 N, 9.1266 W)_
+ _De praia de Catia (42.261 N, 9.0554 W) ata punta Ínsua (42.771 N, 9.1266 W)_
 
 
 
 ## Costa da Morte CM
 
-* _De punta Ínsua (42.771 N, 9.1266 W) ata praia de Baldaio (43.292 N, 8.7016 W)_
+ _De punta Ínsua (42.771 N, 9.1266 W) ata praia de Baldaio (43.292 N, 8.7016 W)_
 
 
 
 ## Coruña-Ferrol CF
 
-* _De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)_
+ _De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)_
 
 1. De punta Langosteira a punta Miranda, JANE MSAS; C.P. A Coruña, C.P. Barallobre, (plan conxunto)
 
@@ -82,7 +82,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Costa Lucense CL
 
-*  _De punta Frouxeira (43.62 N, 8.1893 W)  ata o rio EO (43.4721 N, 7.0566 W)_
+  _De punta Frouxeira (43.62 N, 8.1893 W)  ata o rio EO (43.4721 N, 7.0566 W)_
 
 1. De ermida de San Tirso a punta Cabalo (intermareal) JANE A pé; C.P. Celeiro
 
