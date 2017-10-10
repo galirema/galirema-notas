@@ -16,6 +16,12 @@ ZonasDeProduccionKPOL.md
 
 * [Plans específicos de Peneiras](ZonasDeProduccionHPEN.md)
 
+* [Plans específicos de Algas](ZonasDeProduccionIALG.md)
+
+* [Plans de Anémonas](ZonasDeProduccionJANE.md)
+
+* [Plans de Poliquetos](ZonasDeProduccionKPOL.md)
+
 
 
 __Zonas de producción no SIGREMAR:__
