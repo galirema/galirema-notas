@@ -29,7 +29,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Vigo VI
 
-* _De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)_
+ _De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)_
 
 1. De puntal da Serra a punta do Boi, GSOL MA; MSAS; C.P. Baiona
 
@@ -49,7 +49,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Pontevedra PO
 
-* _De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_
+ _De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_
 
 1. De punta Alada a punta Morcegos, cara ao interior da ría, GSOL MA; MSAS; C.P. Aldán-O Hio GSOL MA; MSAS; C.P. Aldán-O Hio
 
@@ -59,7 +59,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Arousa AR
 
-* _De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_
+ _De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_
 
 1. De punta Galduario a punta Corna, arrecife de Aroñe, de punta Galduario a punta Peralto, GSOL MA; MSAS; C.P. A Pobra do Caramiñal
 
@@ -87,7 +87,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Muros-Noia MN
 
-* _De praia de Catia (42.261 N, 9.0554 W) ata punta Ínsua (42.771 N, 9.1266 W)_
+ _De praia de Catia (42.261 N, 9.0554 W) ata punta Ínsua (42.771 N, 9.1266 W)_
 
 1. De punta Insua a punta Uhía, GSOL MA; MSAS; C.P. Muros
 
@@ -101,7 +101,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Costa da Morte CM
 
-* _De punta Ínsua (42.771 N, 9.1266 W) ata praia de Baldaio (43.292 N, 8.7016 W)_
+ _De punta Ínsua (42.771 N, 9.1266 W) ata praia de Baldaio (43.292 N, 8.7016 W)_
 
 1. De punta Sandía a punta Lago, enseada de Merexo, praia da Cruz, por fóra da praia de Mozogondón GSOL MA; MSAS; C.P. Camariñas, C.P. Muxía, (plan conxunto)
 
@@ -119,7 +119,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Coruña-Ferrol CF
 
-* _De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)_
+ _De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)_
 
 1. Ámbito territorial da C.P. Miño, GSOL A pé; C.P. Miño
 
@@ -127,7 +127,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Costa Lucense CL
 
-*  _De punta Frouxeira (43.62 N, 8.1893 W)  ata o rio EO (43.4721 N, 7.0566 W)_
+  _De punta Frouxeira (43.62 N, 8.1893 W)  ata o rio EO (43.4721 N, 7.0566 W)_
 
 1. Bancos do Taro, Fondás, Fontorto, GSOL A pé; A.M. San Cosme de Barreiros-Foz
 
