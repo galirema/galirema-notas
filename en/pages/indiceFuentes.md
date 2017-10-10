@@ -12,10 +12,10 @@
 
 |Fuentes|Planificación|Recurso|Resultados|GitHub Wiki|
 |:------|:-----------:|:-----:|:--------:|:---------:|
-|[Diario Oficial de Galicia](DiarioOficialGalicia.md)|Si|Si|no|[DiarioOficialGalicia](https://github.com/galirema/galirema/wiki/DiarioOficialGalicia)|
-|[Pesca de Galicia](PescaDeGalicia.md)|Si|Si|Si|[PescaDeGalicia](https://github.com/galirema/galirema/wiki/PescaDeGalicia)|
-|[INTECMAR](InstitutoTecnologicoMedioMariño.md)|no|Si|no|-|
-|[SIGREMAR](IndiceSigremar.md)|no|Si|no|-|
+|[Diario Oficial de Galicia](DiarioOficialGalicia.md)|__Si__|__Si__|no|[DiarioOficialGalicia](https://github.com/galirema/galirema/wiki/DiarioOficialGalicia)|
+|[Pesca de Galicia](PescaDeGalicia.md)|__Si__|__Si__|__Si__|[PescaDeGalicia](https://github.com/galirema/galirema/wiki/PescaDeGalicia)|
+|[INTECMAR](InstitutoTecnologicoMedioMariño.md)|no|__Si__|no|-|
+|[SIGREMAR](IndiceSigremar.md)|no|__Si__|no|-|
 
 
 ## Otras fuentes complementarias
