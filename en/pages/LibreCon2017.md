@@ -155,13 +155,43 @@ Empleamos herramientas eficientes pero sencillas, para que puedan ser utilizadas
 |Poliquetos| 1 | 4 | 5 | 3 | 3 | 2 | 4 | - | 22 |
 
 
-* Datos sobre los resultados de la explotación
+* __Datos sobre los resultados de la explotación__
 
-    * Estadísticas de producción en [primera venta](IndiceEstadisticas.md)
+__Indice de estadísticas pesqueras de Galicia__
 
+1. __Estadísticas CIPEM__ (1986-1993) recogida de datos manual mediante en una fase de construcción de la red estadística.  
+
+1. __Estadísticas SIP__ (1994-2003) recogida de datos telemática ([telnet](https://es.wikipedia.org/wiki/Telnet)) en toda Galicia
+
+1. __Estadísticas Pescadegalicia__ (2004-actualidad) Recogida de datos telemática en toda Galicia (aplicación Web)
+
+Descarga de los datos estadísticos de [primera venta](http://www.pescadegalicia.gal/gl/descargas) 
+
+| CIPEM | SIP | Pescadegalicia |
+|------:|----:|---------------:|
+| 1993 | 2003 [csv2003](http://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2003.csv) | 2017 |
+| 1992 | 2002 | 2016 [csv2016](http://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2016.csv) |
+| 1991 | 2001 | 2015 [csv2015](http://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2015.csv) |
+| 1990 | 2000 | 2014 [csv2014](http://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2014.csv) |
+| 1989 | 1999 | 2013 [csv2013](http://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2013.csv) |
+| 1988 | 1998 | 2012 [csv2012](http://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2012.csv) |
+| 1987 | 1997 | 2011 [csv2011](http://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2011.csv) |
+| 1986 | 1996 | 2010 [csv2010](http://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2010.csv) |
+|-| 1995 | 2009 [csv2009](http://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2009.csv) |
+|-| 1994 | 2008 [csv2008](http://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2008.csv) |
+|-|-| 2007 [csv2007](http://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2007.csv) |
+|-|-| 2006 [csv2006](http://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2006.csv) |
+|-|-| 2005 [csv2005](http://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2005.csv) |
+|-|-| 2004 [csv2004](http://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2004.csv) |
 
 
 ## Caracteristicas de los datos
+
+* Los datos tratados por el proyecto en esta etapa son los correspondientes a la fase de la planificación anual de la explotación
+
+* La información aportada por la administración sobre esta planificación la hace mediante un documento legal en el DOG
+
+* En la orden de aprobación del plan general están enunciados los planes anuales por una serie características que después son publicados individualmente en la web.
 
 
 ## Galirema en la web
