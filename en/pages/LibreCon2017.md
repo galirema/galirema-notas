@@ -133,14 +133,14 @@ Empleamos herramientas eficientes pero sencillas, para que puedan ser utilizadas
 
 ## Desarrollo del proyecto
 
-* Identificación de las fuentes
+* __Identificación de las fuentes__
 
-* Datos sobre la [planificación](IndicePlanes.md)
+* __Datos sobre la [planificación](IndicePlanes.md)__
     * Importado en _PDF_: 1992-1994 (3)
     * Importado en _HTML_: 1995-2002 (8)
     * En _SQL_ base de datos: 2003-2017 (15)
 
-* Datos sobre el recurso (Num. de Zonas identificadas)
+* __Datos sobre el recurso__ (Num. de Zonas identificadas)
 
 |Tipo de Plan | CL | CF | CM | MN | AR | PO | VI | GL | TOTAL|
 |:------------|---:|---:|---:|---:|---:|---:|---:|---:|-----:|
