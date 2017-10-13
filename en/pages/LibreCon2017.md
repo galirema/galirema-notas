@@ -21,7 +21,7 @@ _Francisco Fernández Cortés_
 
 1. Desarrollo del proyecto
 
-1. Caracteristicas de los datos
+1. Características de los datos
 
 1. Galirema en la web
 
@@ -185,7 +185,7 @@ Descarga de los datos estadísticos de [primera venta](http://www.pescadegalicia
 |-|-| 2004 [csv2004](http://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2004.csv) |
 
 
-## Caracteristicas de los datos
+## Características de los datos
 
 * Los datos tratados por el proyecto en esta etapa son los correspondientes a la __fase de planificación anual de la explotación__.
 
