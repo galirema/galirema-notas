@@ -187,11 +187,23 @@ Descarga de los datos estadísticos de [primera venta](http://www.pescadegalicia
 
 ## Caracteristicas de los datos
 
-* Los datos tratados por el proyecto en esta etapa son los correspondientes a la fase de la planificación anual de la explotación
+* Los datos tratados por el proyecto en esta etapa son los correspondientes a la __fase de planificación anual de la explotación__.
 
 * La información aportada por la administración sobre esta planificación la hace mediante un documento legal en el DOG
 
 * En la orden de aprobación del plan general están enunciados los planes anuales por una serie características que después son publicados individualmente en la web.
+
+* Las características que definen cada plan son: "___tipo de Plan___", "___entidad promotora___", "___individual/conjunto___", "___modalidad de captura___", "___especies objetivo del Plan___", "___zona de Trabajo___", "___días máximos de trabajo___", "___época de Trabajo___", "___puntos de control___", "___zonas de trabajo detallada___", "___ide plan explotación___",
+
+* La información de la mayoría de los campos puede ser sencilla o múltiple. Para que la información presentada sea fácilmente comprobada por el usuario se presenta con la complejidad de la fuente original.
+
+* Los campos con varias informaciones se presentan con formato csv (separado por comas) eliminándose los elementos de redacción que contienen en las fuentes.
+
+* Los datos están extraídos de la publicación en gallego del DOG y del planes anuales.
+
+* Las especies objetivo de la captura están en __código alfa-3 (FAO)__ que coincide con el código estadístico de las especies comerciales de la EU
+
+* Añado el campo  "___ide plan explotación___", para facilitar las referencias con los sucesivos trabajos. 
 
 
 ## Galirema en la web
