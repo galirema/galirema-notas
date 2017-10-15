@@ -32,7 +32,7 @@ Empleamos herramientas eficientes pero sencillas, para que puedan ser utilizadas
 
 ### Mozilla Firefox
 
-* [Mozilla Firefox en Wikipedia (EN)](https://es.wikipedia.org/wiki/Mozilla_Firefox)
+* [Mozilla Firefox en Wikipedia (ES)](https://es.wikipedia.org/wiki/Mozilla_Firefox)
 
 
 ### SQLite Manager
