@@ -153,6 +153,8 @@ Empleamos herramientas eficientes pero sencillas, para que puedan ser utilizadas
 |Algas| 1 | 1 | 9 | 2 | 3 | 2 | 5 | 7 | 30 |
 |Anémonas| 2 | 2 | 0 | 0 | 2 | 1 | 4 | - | 11 |
 |Poliquetos| 1 | 4 | 5 | 3 | 3 | 2 | 4 | - | 22 |
+|Total| 45| 34| 45| 20| 58| 21| 48| 7| 278|
+
 
 
 * __Datos sobre los resultados de la explotación__
