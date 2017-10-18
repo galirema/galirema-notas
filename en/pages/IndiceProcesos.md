@@ -36,6 +36,11 @@ Noutros casos as anotacións xa están mais cerca dunha documentación básica d
 
 * __Plan General 1992__ (De pdf a texto; Menú resumen; Texto de la Orden; Cuadros (A, B, C, D, E, F, G, H, I,); subir los Planes Anuales;)
 
+## Publivación de Datos
+
+* Los datos se plublican en formato ___csv___ en el repositorio __galirema/Data __
+
+
 ## Mantemiento del sistema web
 
 * En este apartado recojo las operaciones de mantenimiento básico del servidor web y del entorno del dominio __galiciamarineira.info__
