@@ -1,35 +1,35 @@
+# Costa Lucense (CL)
 
-## Ría de Muros - Noia (MN)
 
-* _De praia de Catia (42.261 N, 9.0554 W) ata punta Ínsua (42.771 N, 9.1266 W)_
+*  _De punta Frouxeira (43.62 N, 8.1893 W)  ata o rio EO (43.4721 N, 7.0566 W)_
 
 ## Menú
 
-
 |Tipo de Plan | Num. de Zonas|
 |:------------|--------------:|
-|[Autorizacións](#Autorizacións)| 4 |
-|[Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)| 3 |
-|[Percebe](#Percebe)| 2 |
-|[Equinodermos](#Equinodermos)| 2 |
+|[Autorizacións](#Autorizacións)| 5 |
+|[Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)| 14 |
+|[Percebe](#Percebe)| 10 |
+|[Equinodermos](#Equinodermos)| 8 |
 |[Solénidos](#Solénidos)| 4 |
 |[Peneiras](#Peneiras)| 0 |
-|[Algas](#Algas)| 2 |
-|[Anémonas](#Anémonas)| 0 |
-|[Poliquetos](#Poliquetos)| 3 |
+|[Algas](#Algas)| 1 |
+|[Anémonas](#Anémonas)| 2 |
+|[Poliquetos](#Poliquetos)| 1 |
 
 
 
 ## Autorizacións
 
+1. Autorizacións da confraría de Cariño AAUT A pé; C.P. Cariño
 
-1. Zona de autorización: praia da Virxe e praia da Abelleira AAUT A pé; C.P. Muros
+1. Enseada de Esteiro, enseada de Pantín, AAUT A pé; C.P. Cedeira
 
-1. Zona de autorización: praia da Virxe e praia da Abelleira AAUT Embarcación; C.P. Muros
+1. Autorización de Espasante, AAUT A pé; C.P. Espasante
 
-1. Zona de autorización C.P. Noia, AAUT A pé; Embarcación; C.P. Noia
+1. Zonas de autorización situadas na marxe esquerda da ría do Barqueiro AAUT A pé; C.P. O Barqueiro-Bares
 
-1. Bancos de ostra de Broña, punta Cabalo Baixo, AAUT Rastro de vieira ou voandeira; C.P. Noia
+1. Praia de Arealonga e Lombo das Navallas AAUT A pé, C.P. O Vicedo
 
 [Menú](#Menú)
 
@@ -37,21 +37,58 @@
 ## Zonas de Libre Marisqueo
 
 
-1. Zonas de libre marisqueo entre Monte Louro e punta Uía, entre punta Ornanda e punta Aguieira e banco da Creba 2, BESP Embarcación; C.P. Noia, C.P. Muros, C.P. Porto do Son, C.P. Portosín, (plan conxunto)
+1. Bancos de Fondás,Taro e Fontorto BESP A pé; A.M. San Cosme de Barreiros-Foz
 
-1. De punta Insua a punta Uhía BESP A pé; C.P. Muros
+1. Praia do Altar BESP A pé; A.M. San Cosme de Barreiros-Foz
 
-1. De punta Rebordiño a punta Uía e de punta Cabalo a punta Aguieira BESP A pé; C.P. Noia, Muros, Porto do Son e Portosín (plan conxunto)
+1. Ría de Viveiro (Entre a ponte do tren ata a canle do porto de Celeiro; Entrepontes; ...) BESP A pé; C.P. Celeiro
+
+1. Desde debaixo das pontes ata o Rego Seco, illa San Martiño, praia de Villabril, praia de Moledos, praia de Fomento, Vicedo Vello, BESP A pé; C.P. O Vicedo
+
+1. Ría de Viveiro BESP Embarcación; C.P. Celeiro
+
+1. Praia da Abrela BESP A pé; C.P. Celeiro e O Vicedo (plan conxunto)
+
+1. Vicedo BESP A pé; C.P. O Vicedo
+
+1. Lombo das Navallas BESP A pé; C.P. O Vicedo e O Barqueiro (plan conxunto)
+
+1. Canle da desembocadura do río Sor, agás as zonas de autorización BESP A pé; C.P. O Vicedo e O Barqueiro (plan conxunto)
+
+1. Ría de Ribadeo BESP 
+
+1. Da ermida de San Tirso a punta Rueta BESP A pé; C.P. San Cibrao
+
+1. Praias de Figueiras, dos Cabalos, de Cariño BESP A pé; C.P. Cariño
+
+1. Enseada de Ladrido (ría de Ortigueira), da punta do espigón do porto de Ortigueira ata a depuradora, BESP A pé; C.P. Espasante
+
+1. Praia de Vilela BESP A pé; C.P. O Barqueiro
 
 [Menú](#Menú)
 
 
 ## Percebe
 
+1. De punta Promontorio a punta Nois, DPER A pé; A.M. San Cosme de Barreiros-Foz
 
-1. De punta Insua a punta Uhía, DPER A pé; C.P. Muros
+1. Ámbito territorial da confraría de Burela DPER Embarcación; A pé;? C.P. Burela
 
-1. De río Sieira a punta Cabeiro, illotes Os Bruyos, Leixoes, Pedra do Con, DPER A pé; Embarcación; C.P. Porto do Son
+1. Da ermida de San Tirso a punta Cabalo e illa Gabeira DPER A pé; Embarcación; C.P. Celeiro
+
+1. Desde a marxe esquerda do río Escourido á marxe dereita do río Sor, illa Coelleira, DPER Embarcación; C.P. O Vicedo
+
+1. De punta Promontoiro ás Carallas; illotes: Martiñas, Mourón, Corbeira, Tabla, Insua, Pancha e O Can de Faro DPER A pé; C.P. Ribadeo
+
+1. Ermida de San Tirso a punta Rueta, illas de Cal, Sarón, Farallóns, DPER A pé; Embarcación; C.P. San Cibrao
+
+1. De Pedra Barcelona a desembocadura do río Mera, DPER Embarcación; C.P. Cariño
+
+1. Do faro da punta da Frouxeira a Pedra Barcelona, DPER Embarcación; C.P. Cedeira
+
+1. De illa San Vicente a punta Billardeira, DPER Embarcación; C.P. Espasante
+
+1. De punta Villardeira a punta da Barra, DPER Embarcación; C.P. O Barqueiro-Bares
 
 [Menú](#Menú)
 
@@ -59,23 +96,35 @@
 ## Equinodermos
 
 
-1. De punta Insua a punta Uía FEQD A pé; C.P. Muros
+1. Zonas marítimas desde Punta Pena Furada a As Carrallas, agás: a zona interna entre a punta do dique norte do porto de Alcoa e o faro de San Cibrao, Os Muiñelos, Os Castelos da praia de San Román, a cetarea de San Cibrao, Calvella en Burela, Punta Promontoiro en San Cosme, Celeiros en Ribadeo FEQD MSAS; Asociación de recolectores submariños da Mariña
 
-1. De punta Cabeiro a punta río Sieira e de punta Insua a punta Uía FEQD MSAS; C.P. Porto do Son, C.P. Portosín, C.P. Muros, (plan conxunto)
+1. Desde a ermida de San Tirso a punta do Cabalo FEQD A pé; C.P. Celeiro
+
+1. Desde punta Furada ata As Carallas, agás desde a ermida de San Tirso a punta do Cabalo FEQD A pé; C.P. San Cibrao, C.P. Ribadeo, C.P. Burela, A.M. San Cosme de Barreiros-Foz, (plan conxunto) C.P. O Vicedo, C.P. Celeiro,
+
+1. Zonas marítimas desde Punta Pena Furada ata As Carrallas, FEQD MSAS; (MA;) C.P. O Vicedo, C.P. San Cibrao, C.P. Celeiro (plan conxunto) C.P. Burela,
+
+1. De illa San Vicente a punta Vilardeira, FEQD A pé; C.P. Espasante
+
+1. Pedra Barcelona, pola parte oeste, ata punta Castro de Vilela FEQD MSAS;
+
+1. Desde o faro da punta da Frouxeira ata Pedra Barcelona, agás a reserva integral e as ZEP-I e ZEP-II FEQD MSAS; C.P. Cedeira
+
+1. "De faro de punta Frouxeira a punta Castro Vilela FEQD MSAS; C.P. Cedeira, C.P. Espasante, C.P. O Barqueiro-Bares, (plan conxunto)
 
 [Menú](#Menú)
 
 
-##  Solénidos
+## Solénidos
 
 
-1. De punta Insua a punta Uhía, GSOL MA; MSAS; C.P. Muros
+1. Bancos do Taro, Fondás, Fontorto, GSOL A pé; A.M. San Cosme de Barreiros-Foz
 
-1. Na costa norte, desde punta Uhía ata porto Siavo, incluíndo a cara interna da illa da Creba, exceptuando a zona portuaria, a zona dos asteleiros, a canle de navegación,; Na costa sur, desde punta Batuda ata punta Redondelo,; GSOL MA; MSAS; C.P. Noia
+1. Taro dos Chonos, Taro das Aceñas, Tesón, GSOL A pé; C.P. Ribadeo
 
-1. De punta Batuda a río Sieira, GSOL MA; MSAS; C.P. Porto do Son, C.P. Portosín, (plan conxunto)  C.P. Noia, C.P. Muros (plan conxunto)
+1. Zonas de autorización C.P. Cariño, GSOL A pé; C.P. Cariño
 
-1. "Praia de Abelleira, praia da Virxe e praia de Ventín GSOL A pé; C.P. Muros
+1. Zonas de autorización: enseada do Ladrido, Raias, Cano Cabalar e Mexilloal GSOL A pé; C.P. Espasante
 
 [Menú](#Menú)
 
@@ -91,9 +140,7 @@
 ## Algas
 
 
-1. Submareal rochoso entre punta Ínsua e punta Uhía, IALG MA; MSAS; C.P. Muros
-
-1. De punta Uhía a punta Insua IALG A pé; C.P. Muros
+1. Desde Ladrido ata a Praia de Esteiro IALG A pé; C.P. Espasante
 
 [Menú](#Menú)
 
@@ -101,7 +148,9 @@
 ## Anémonas
 
 
- --
+1. De ermida de San Tirso a punta Cabalo (intermareal) JANE A pé; C.P. Celeiro
+
+1. De punta Pena Furada, ermida de San Tirso ata punta Rueta, JANE MSAS;
 
 [Menú](#Menú)
 
@@ -109,14 +158,9 @@
 ## Poliquetos
 
 
-1. De punta Insua a punta Uhía, KPOL MA; MSAS; C.P. Muros
-
-1. De punta Cabeiro a punta Magrío, de punta Castro a río Sieira, KPOL A pé; C.P. Porto do Son
-
-1. De punta Cabeiro a punta Magrío, de punta Castro a río Sieira, KPOL MA; MSAS; C.P. Porto do Son
+1. Bancos de Fondás, O Taro, KPOL A pé; A.M. San Cosme de Barreiros-Foz
 
 [Menú](#Menú)
-
 
 
 [Indice](indicesZonasProduccion.md)
