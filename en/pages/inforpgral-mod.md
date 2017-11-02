@@ -55,6 +55,7 @@
 	* __Oreja de mar__ (HPEN)
 	* __Algas__ (IALG)
 	* __Anémonas__ (JANE)
+	* __Poliquetos__ (KPOL)
 
 
 * __Gráficos javascript__:
