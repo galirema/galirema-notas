@@ -11,8 +11,8 @@
 ## Procesos de importación de los datos
 
 * Plan 2016: [DOG2015248KPOLgl](http://www.xunta.gal/dog/Publicados/2015/20151230/AnuncioG0427-231215-0003_gl.html), [DOG2015248KPOLes](http://www.xunta.gal/dog/Publicados/2015/20151230/AnuncioG0427-231215-0003_es.html).
-   * Realizado (importar datos del DOG a `muestreos.sqlite` , `urlFicha`, `id_plan_explotacion`, `anualidad`, `codeMod`, Importado Plan anual en pdf).
-   * En proceso (pasar plan anual pdf a txt, `BMSigremar`, `numesp`, `costa`,)
+   * Realizado (importar datos del DOG a `muestreos.sqlite` , `urlFicha`, `id_plan_explotacion`, `anualidad`, `codeMod`, Importado Plan anual en pdf, pasar plan anual pdf a txt,).
+   * En proceso (`BMSigremar`, `numesp`, `costa`,)
 
 * Plan 2015:
 
