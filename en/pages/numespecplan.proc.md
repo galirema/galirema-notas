@@ -117,9 +117,8 @@ SELECT 'UPDATE pexma2014 SET numesp= '|| COUNT("codeFAO") || ' WHERE idPlanAnual
 
 CREATE TABLE "pespec2015" ("idesplan" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NULL , "anualidad" INTEGER, "idPlanAnual" INTEGER, "tipoCode" CHAR(4), "codeFAO" CHAR(3))
 
----- variante para cargar lo poliquetos
+---- variante para cargar lo poliquetos del año 2015
 SELECT 'UPDATE pexma2015 SET numesp= '|| COUNT("codeFAO") || ' WHERE idPlanAnual = +' || "idPlanAnual" ||'+ AND numesp ISNULL' AS orden FROM "pespec2015" WHERE "tipoCode" LIKE 'K%' GROUP BY "idPlanAnual";
-
 
 -- 2016
 
