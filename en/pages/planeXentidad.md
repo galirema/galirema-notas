@@ -39,6 +39,8 @@ UPDATE "plantidad2006" SET "id_cofradia" = '67' WHERE RTRIM("entidad") LIKE '% A
 * plantidad2006
 * plantidad2005
 * plantidad2004
+* plantidad2003
+
 
 
 
