@@ -23,7 +23,7 @@ Fuentes Oficiales
  -  [Diario Oficial de Galicia (castellano)](http://www.xunta.es/diario-oficial-galicia/Welcome.do?lang=es)
  - [Plataforma Tecnoloxíca da pesca](http://www.pescadegalicia.com/)
  - [INTECMAR](http://www.intecmar.org/)
-     - [Clasificación migtobiológica de las zonas de producción](http://www.intecmar.org/informacion/microbio/Clasificacion.aspx) 
+     - [Clasificación migtobiológica de las zonas de producción](http://www.intecmar.gal/informacion/microbio/Clasificacion.aspx) 
  - [SIGREMAR](https://goo.gl/glKrkM)
 
 Proyecto GALIREMA
