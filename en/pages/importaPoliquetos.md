@@ -12,11 +12,11 @@
 
 * Plan 2016: [DOG2015248KPOLgl](http://www.xunta.gal/dog/Publicados/2015/20151230/AnuncioG0427-231215-0003_gl.html), [DOG2015248KPOLes](http://www.xunta.gal/dog/Publicados/2015/20151230/AnuncioG0427-231215-0003_es.html).
    * Realizado (importar datos del DOG a `muestreos.sqlite` , `urlFicha`, `id_plan_explotacion`, `anualidad`, `codeMod`, Importado Plan anual en pdf, pasar plan anual pdf a txt, `BMSigremar`, `numesp`, `costa`, `num. entidades`,).
-   * En proceso ().
+   * En proceso (FIN).
 
 * Plan 2015: [DOG2014250KPOLgl](http://www.xunta.gal/dog/Publicados/2014/20141231/AnuncioG0165-231214-0002_gl.html), [DOG2014250KPOLes](http://www.xunta.gal/dog/Publicados/2014/20141231/AnuncioG0165-231214-0002_es.html) 
-   * Realizado (importar datos del DOG a `muestreos.sqlite` , `urlFicha`, `id_plan_explotacion`, `anualidad`, `codeMod`, `costa`, Importado Plan anual en pdf, pasar plan anual pdf a txt, `numesp`, `num. entidades`, ).
-   * En proceso (`BMSigremar`,).
+   * Realizado (importar datos del DOG a `muestreos.sqlite` , `urlFicha`, `id_plan_explotacion`, `anualidad`, `codeMod`, `costa`, Importado Plan anual en pdf, pasar plan anual pdf a txt, `numesp`, `num. entidades`, `BMSigremar`,).
+   * En proceso (FIN).
 
 * Plan 2014: [DOG2014001KPOLgl](http://www.xunta.gal/dog/Publicados/2014/20140102/AnuncioG0165-271213-0009_gl.html), [DOG2014001KPOLes](http://www.xunta.gal/dog/Publicados/2014/20140102/AnuncioG0165-271213-0009_es.html)
    * Realizado ().
