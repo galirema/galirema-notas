@@ -8,6 +8,11 @@
 
 * La metodología del procedimiento de importación de los datos es similar al resto de los planes atrasados.  
 
+* Comando de importación html a markdow `pandoc -f html -t markdown https://www.xunta.gal/dog/Publicados/2014/20140102/AnuncioG0165-271213-0009_gl.html > pexma2014gl-KPOL.md`
+
+* Comando de importación a markdown de la página de los planes anuales `pandoc -f html -t markdown http://www.pescadegalicia.gal/PlanesExp/2014.htm > plansAnuais2014-wgetKPOL.md` 
+
+
 ## Procesos de importación de los datos
 
 * Plan 2016: [DOG2015248KPOLgl](http://www.xunta.gal/dog/Publicados/2015/20151230/AnuncioG0427-231215-0003_gl.html), [DOG2015248KPOLes](http://www.xunta.gal/dog/Publicados/2015/20151230/AnuncioG0427-231215-0003_es.html).
