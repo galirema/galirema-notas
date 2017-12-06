@@ -8,8 +8,8 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 | :----------- | :----------: | :------------------: | :--------: | :---------: | :--------- |
 | [2017][] | [dog2016.249](https://goo.gl/m8W7gR)PX-[PE](https://goo.gl/MNm08K) | (30/12/2016) |[borrador2017v1.30U](draft-pexma2017.md)| - |pexma pespec plantidad KPOL|
 | [2016][] | [dog2015.248](http://goo.gl/2djtGX) | (30/12/2015) | [borrador2016](draft-plangeneral2016.md) | - |pexma pespec plantidad KPOL|
-| [2015][] | [dog2014.250](http://goo.gl/V79N6H) | (31/12/2014) | - | - |pexma pespec plantidad |
-| [2014][] | [dog2013.249](http://goo.gl/SML2Rg) | (31/12/2013) | - | - |pexma pespec plantidad |
+| [2015][] | [dog2014.250](http://goo.gl/V79N6H) | (31/12/2014) | - | - |pexma pespec plantidad KPOL|
+| [2014][] | [dog2013.249](http://goo.gl/SML2Rg) | (31/12/2013) | - | - |pexma pespec plantidad KPOL|
 | [2013][] | [dog2012.248](http://goo.gl/ipYXr) | (31/12/2012) | - | - |pexma pespec plantidad |
 | [2012][] | [dog2012.001](http://goo.gl/JAChJ) | (02/01/2012) | - | - |pexma pespec plantidad |
 | [2011][] | [dog2010.251][] | (31/12/2010) | - | - |pexma pespec plantidad |
