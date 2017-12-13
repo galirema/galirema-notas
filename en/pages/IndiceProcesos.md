@@ -39,7 +39,7 @@ Noutros casos as anotacións xa están mais cerca dunha documentación básica d
 
 ## Publicación de Datos
 
-* Los datos se plublican en formato ___csv___ en el repositorio __galirema/Data __
+* Los datos se plublican en formato ___csv___ en el repositorio [galirema/Data](https://github.com/galirema/galirema/blob/master/Data/ReadmeES.md)
 
 
 ## Mantemiento del sistema web
