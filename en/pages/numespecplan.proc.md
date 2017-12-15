@@ -105,6 +105,9 @@ CREATE TABLE "pespec2012" ("idesplan" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NU
 
 SELECT 'UPDATE pexma2012 SET numesp= '|| COUNT("codeFAO") || ' WHERE idPlanAnual = +' || "idPlanAnual" ||'+ AND numesp ISNULL' AS orden FROM "pespec2012" GROUP BY "idPlanAnual";
 
+---- variante para cargar lo poliquetos del año 2012
+SELECT 'UPDATE pexma2012 SET numesp= '|| COUNT("codeFAO") || ' WHERE idPlanAnual = +' || "idPlanAnual" ||'+ AND numesp ISNULL;' AS orden FROM "pespec2012" WHERE "tipoCode" LIKE 'K%' GROUP BY "idPlanAnual";
+
 -- 2013
 CREATE TABLE "pespec2013" ("idesplan" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NULL , "anualidad" INTEGER, "idPlanAnual" INTEGER, "tipoCode" CHAR(4), "codeFAO" CHAR(3));
 SELECT 'UPDATE pexma2013 SET numesp= '|| COUNT("codeFAO") || ' WHERE idPlanAnual = +' || "idPlanAnual" ||'+ AND numesp ISNULL' AS orden FROM "pespec2013" GROUP BY "idPlanAnual";
