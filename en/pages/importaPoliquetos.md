@@ -32,7 +32,7 @@
    * En proceso (__FIN__).
 
 * __Plan 2012__: [DOG2012053KPOLgl](http://www.xunta.gal/dog/Publicados/2012/20120315/AnuncioG0165-140312-13450_gl.html), [DOG2012053KPOLes](http://www.xunta.gal/dog/Publicados/2012/20120315/AnuncioG0165-140312-13450_es.html)
-    * Realizado (importar datos del DOG a `muestreos.sqlite`, `id_plan_explotacion`, `anualidad`, `codeMod`, `costa`, `numesp`, `num. entidades`, `urlFicha`, Importado Plan anual en pdf, pasar plan anual pdf a txt, `BMSigremar`,).
+  * Realizado (importar datos del DOG a `muestreos.sqlite`, `id_plan_explotacion`, `anualidad`, `codeMod`, `costa`, `numesp`, `num. entidades`, `urlFicha`, Importado Plan anual en pdf, pasar plan anual pdf a txt, `BMSigremar`,).
    * En proceso (__FIN__).
 
 * __Plan 2011__: [DOG2011048KPOLgl](http://www.xunta.gal/dog/Publicados/2011/20110310/Anuncio98F2_gl.html), [DOG2011048KPOLes](http://www.xunta.gal/dog/Publicados/2011/20110310/AnuncioB436_es.html)
