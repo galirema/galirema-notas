@@ -36,8 +36,8 @@
   * En proceso (__FIN__).
 
 * __Plan 2011__: [DOG2011048KPOLgl](http://www.xunta.gal/dog/Publicados/2011/20110310/Anuncio98F2_gl.html), [DOG2011048KPOLes](http://www.xunta.gal/dog/Publicados/2011/20110310/AnuncioB436_es.html)
-   * Realizado (importar datos del DOG a `muestreos.sqlite`, `id_plan_explotacion`, `anualidad`,`codeMod`, `numesp`, `costa`, ).
-   * En proceso (`urlFicha`, Importado Plan anual en pdf, pasar plan anual pdf a txt, `BMSigremar`, `num. entidades`,).
+   * Realizado (importar datos del DOG a `muestreos.sqlite`, `id_plan_explotacion`, `anualidad`,`codeMod`, `numesp`, `costa`, `num. entidades`, ).
+   * En proceso (`urlFicha`, Importado Plan anual en pdf, pasar plan anual pdf a txt, `BMSigremar`,).
 
 * __Plan 2010__: [DOG2010049KPOLgl](http://www.xunta.gal/dog/Publicados/2010/20100312/Anuncio95DE_gl.html), [DOG2010049KPOLes](http://www.xunta.gal/dog/Publicados/2010/20100312/AnuncioA22E_es.html); Corrección: [DOG2010074KPOLgl](http://www.xunta.gal/dog/Publicados/2010/20100421/Anuncio10D02_gl.html), [DOG2010074KPOLes](http://www.xunta.gal/dog/Publicados/2010/20100421/AnuncioFD3A_es.html); 
    * Realizado ().
