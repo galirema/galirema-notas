@@ -52,8 +52,8 @@
    * En proceso (importar datos del DOG a `muestreos.sqlite` , `urlFicha`, `id_plan_explotacion`, `anualidad`, `codeMod`, Importado Plan anual en pdf, pasar plan anual pdf a txt, `BMSigremar`, `numesp`, `costa`, `num. entidades`,).
 
 * __Plan 2007__: [DOG2007080KPOLgl](http://www.xunta.gal/dog/Publicados/2007/20070425/AnuncioE4DE_gl.html), [DOG2007080KPOL](http://www.xunta.gal/dog/Publicados/2007/20070425/AnuncioE6EE_es.html)
-   * Realizado ().
-   * En proceso (importar datos del DOG a `muestreos.sqlite` , `urlFicha`, `id_plan_explotacion`, `anualidad`, `codeMod`, Importado Plan anual en pdf, pasar plan anual pdf a txt, `BMSigremar`, `numesp`, `costa`, `num. entidades`,).
+   * Realizado (importar datos del DOG ).
+   * En proceso (a `muestreos.sqlite` , `urlFicha`, `id_plan_explotacion`, `anualidad`, `codeMod`, Importado Plan anual en pdf, pasar plan anual pdf a txt, `BMSigremar`, `numesp`, `costa`, `num. entidades`,).
 
 * __Plan 2006__: [DOG2006080KPOLgl](http://www.xunta.gal/dog/Publicados/2006/20060426/AnuncioA60E_gl.html), [DOG2006080KPOLes](http://www.xunta.gal/dog/Publicados/2006/20060426/AnuncioC452_es.html)
    * Realizado ().
