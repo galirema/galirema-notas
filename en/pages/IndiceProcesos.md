@@ -9,13 +9,13 @@ Noutros casos as anotacións xa están mais cerca dunha documentación básica d
 
 ## Importación do DOG
 
-
-* [Importación de los planes de Poliquetos](importaPoliquetos.md)
 * [Plan 2018](plan2018.proc.md)
 * [Plan 2017](plan2017.proc.md)
 * [Plan 2016](plan2016.proc.md)
 * [Plan 2015](plan2015.proc.md)
 * [Periodo 1995-2007](planes1995-2007.proc.md)
+* [Importación de los planes de Poliquetos](importaPoliquetos.md)
+
 
 ## Información elaborada
 
