@@ -35,7 +35,7 @@
 
 ## Cuadros de especies en las ordenes
 
-* Cadro das especies nas ordes anuais do plan xeral de explotación marisqueira.
+* Cadro das especies incluido nas ordes anuais do plan xeral de explotación marisqueira.
 
 |Abreviatura|Nombre comercial|Nombre científico|alfa-3 FAO|
 |-----------|----------------|-----------------|----------|
