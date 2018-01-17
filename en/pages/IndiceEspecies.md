@@ -27,7 +27,7 @@
 
 ## Algas
 
-* [Algas identificadas nos plans anuais 2014](algas2014analisi2.md)
+* [Algas identificadas nos planes anuales 2014](algas2014analisi2.md)
 
 
 ## Peces
@@ -35,7 +35,7 @@
 
 ## Cuadros de especies en las ordenes
 
-* Cadro das especies incluido nas ordes anuais do plan xeral de explotación marisqueira.
+* Cuadro de las especies incluido en las ordenes anuales del «_Plan xeral de explotación marisqueira_».
 
 |Abreviatura|Nombre comercial|Nombre científico|alfa-3 FAO|
 |-----------|----------------|-----------------|----------|
