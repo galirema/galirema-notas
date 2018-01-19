@@ -150,4 +150,10 @@ SELECT 'UPDATE pexma2016 SET numesp= '|| COUNT("codeFAO") || ' WHERE idPlanAnual
 CREATE TABLE "pespec2017" ("idesplan" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NULL , "anualidad" INTEGER, "idPlanAnual" INTEGER, "tipoCode" CHAR(4), "codeFAO" CHAR(3));
 
 SELECT 'UPDATE pexma2017 SET numesp= '|| COUNT("codeFAO") || ' WHERE idPlanAnual = +' || "idPlanAnual" ||'+ AND numesp ISNULL' AS orden FROM "pespec2017" GROUP BY "idPlanAnual";
+
+-- 2018
+CREATE TABLE "pespec2018" ("idesplan" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NULL, "anualidad" INTEGER, "idPlanAnual" INTEGER, "tipoCode" CHAR(4), "codeFAO" CHAR(3));
+
+SELECT 'UPDATE pexma2018 SET numesp= '|| COUNT("codeFAO") || ' WHERE idPlanAnual = +' || "idPlanAnual" ||'+ AND numesp ISNULL;' AS orden FROM "pespec2018" GROUP BY "idPlanAnual";
+
 ```
