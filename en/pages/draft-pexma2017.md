@@ -496,7 +496,7 @@ De conformidad con la _Ley orgánica 15/1999, de 13 diciembre, de protección de
 
 #### item07
 
-## Disposiciones acicionales (PG):
+## Disposiciones adicionales (PG):
 
 ### Disposición adicional primera. Rastros remolcados
 
