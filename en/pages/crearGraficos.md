@@ -2,9 +2,14 @@
 
 Los elementos gráficos representan los resultados cuantitativos para facilitar su comunicación.
 
-+ Graficos de un plan anual para la presentación de los datos
++ Gráficos de un plan anual para la presentación de los datos
 + Para los infomes de un plan anual por las caracteristicas de los planes
-+ Garficos de evolución de las normas de gestión o del peso de las mismas en la actividad de planificación de aprovechamiento del recurso.
++ Garáficos de evolución de las normas de gestión o del peso de las mismas en la actividad de planificación de aprovechamiento del recurso.
+
+Los gráficos estan creados en javascript con la herramienta para desarrolladores de [Google Chart](https://developers.google.com/chart/).
+
+Las distintas plantillas de cada gráfico son accesibles en la página de «_galirema_» en [JSFiddle](https://goo.gl/gntPuo).
+
 
 ## Gráficos anuales
 
