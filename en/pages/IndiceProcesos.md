@@ -23,6 +23,9 @@ Noutros casos as anotacións xa están mais cerca dunha documentación básica d
 
 * [Número de entidades](planeXentidad.md)
 
+* [creación de Gráficos](crearGraficos.md)
+
+
 ## Publicación en galiciamarineira.info
 
 * __Plan General 2013__ (menú resumen; cuadros (A, B, C, D, E, F, G, H, I, J,); subir los Planes Anuales;)
