@@ -34,7 +34,7 @@ Proyecto GALIREMA
  - [Github](https://goo.gl/SyCglx): Repositorio para la publicación de los datos, herramientas y metodología de galirema.
  - [Informes, análisis](https://goo.gl/uVsxCk) Página de análisis de galirema.
  - [Kanban Tool](https://galirema.kanbantool.com/): Herremienta en la nube para la gestión ágil del proyecto.
- - Galirema en [jsfiddle](https://jsfiddle.net/user/galirema/fiddles/)
+ - Galirema en [jsfiddle](https://goo.gl/gntPuo)
 
 
 Enlaces  de Interés
