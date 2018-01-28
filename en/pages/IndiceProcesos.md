@@ -23,7 +23,7 @@ Noutros casos as anotacións xa están mais cerca dunha documentación básica d
 
 * [Número de entidades](planeXentidad.md)
 
-* [creación de Gráficos](crearGraficos.md)
+* [Creación de Gráficos](crearGraficos.md)
 
 
 ## Publicación en galiciamarineira.info
