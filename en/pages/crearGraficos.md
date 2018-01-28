@@ -24,11 +24,11 @@ Los elementos gráficos representan los resultados cuantitativos para facilitar 
 
 Con estos gráficos se trata de de representar la planificación anual por las características que se expecicitan en las ordenes legislativas.
 
-1. Tipos de plan aprobados en la Orden
-1. Nivel de colaboración
-1. Especies objetivo de captura
-1. Modalidades de captura
-1. Duración da actividad y época de captura
-1. Entidades participantes
-1. Las zonas de la costa en la orden
+1. __Tipos de plan aprobados en la Orden__
+1. __Nivel de colaboración__
+1. __Especies objetivo de captura__
+1. __Modalidades de captura__
+1. __Duración da actividad y época de captura__
+1. __Entidades participantes__
+1. __Las zonas de la costa en la orden__
 
