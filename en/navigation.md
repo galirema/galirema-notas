@@ -37,9 +37,7 @@
   * [Europa](pages/indiceLexEU.md)
   - - - 
   * # Zonas de Producción
-  * [SIGREMAR](pages/IndiceSigremar.md)
-  * [Zonas Plan Anual](pages/IndiceZonasPlan.md)
-
+  * [Zonas de producción](pages/indicesZonasProduccion.md) SIGREMAR
 
 ----------
 
