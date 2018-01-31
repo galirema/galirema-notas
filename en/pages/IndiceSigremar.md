@@ -14,7 +14,7 @@ Pero a la hora de emitir las normas de explotación del recurso ha integrados va
 
 ## ZONAS IDENTIFICADAS
 
-* Áreas de Gestión Unificada (__Áreas de Xestión Unificada__ (__AXU__)): Son las zonas cuya gestión esta realizada don un plan determinado.  
+* Áreas de Gestión Unificada (__Áreas de Xestión Unificada__ (__AXU__)): Son las zonas cuya gestión esta realizada por un plan determinado.  
 Este enlace te lleva a las zonas claramente identificadas e incluidas en la base de datos del proyecto ___«galirema»___ [Zonas AXU Estables](IndiceZonasPlan.md).  
 Las zonas que estan en el proceso de identificación están en este otro enlace: [Zonas AXU en proceso de identificación](indicesZonasProduccion.md)
 
