@@ -9,7 +9,7 @@ Documentos en curso
 * [Informes y análisis](pages/IndiceInformes.md)
 * [Especies aprovechadas](pages/IndiceEspecies.md)
 * [SIGREMAR](pages/IndiceSigremar.md)
-* [Zonas Plan Anual](pages/IndiceZonasPlan.md)
+* [Zonas Plan Anual](pages/IndiceZonasPlan.md) estables.
 * [Legislación básica](pages/IndiceLegislacion.md)
 * [Organizaciones de producción](pages/IndiceOrganizaciones.md)
 * [Estadísticas de producción](pages/IndiceEstadisticas.md)
