@@ -26,6 +26,8 @@ Noutros casos as anotacións xa están mais cerca dunha documentación básica d
 
 * [Creación de Gráficos](crearGraficos.md)
 
+* [Informes](IndiceInformes.md)
+
 
 ## Publicación en galiciamarineira.info
 
