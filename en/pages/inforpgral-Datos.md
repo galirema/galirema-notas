@@ -6,14 +6,14 @@
 
 * El informe constará de los siguientes módulos:
 
-    + [M00](inforpgral-Datos.md#m00): Ficha descriptiva de la Orden.
-    + [M01](inforpgral-Datos.md#m01): Tipos de plan aprobados en la Orden.
+    + [M00](#m00): Ficha descriptiva de la Orden.
+    + [M01](#m01): Tipos de plan aprobados en la Orden.
     + [M02](#m02): Nivel de colaboración.
-    + [M03](#M03): Especies objetivo de captura
-    + [M04](#M04): Modalidades de captura
-    + [M05](#M05): Duración da actividad y época de captura
-    + [M06](#M06): Entidades participantes
-    + [M07](#M07): Las zonas de la costa en la orden
+    + [M03](#m03): Especies objetivo de captura
+    + [M04](#m04): Modalidades de captura
+    + [M05](#m05): Duración da actividad y época de captura
+    + [M06](#m06): Entidades participantes
+    + [M07](#m07): Las zonas de la costa en la orden
 
 
 * En este apartado se presentan las consultas para obtener los datos para la ralización del informe y los cuadros para la elaboración de los gráficos.
