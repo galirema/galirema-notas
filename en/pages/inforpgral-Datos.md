@@ -59,6 +59,8 @@ SELECT "anualidad", "tipoCode", COUNT("tipoCode") FROM "pexma2016" GROUP BY "tip
 
 * [Plantilla Gráfico M01-01](https://goo.gl/TswyN0)
 
+[volver a Inicio](#inicio)
+
 ## M02
 
 ### Nivel de colaboración entre entidades.
