@@ -129,6 +129,10 @@ SELECT "codeFAO", COUNT("codeFAO") AS 'NUM PLANES' FROM "pespec2016" WHERE "tipo
 -- Algas 
 
 SELECT "codeFAO", COUNT("codeFAO") AS 'NUM PLANES' FROM "pespec2016" WHERE "tipoCode" LIKE 'I%' GROUP BY "codeFAO" ORDER BY "codeFAO";
+
+-- Poliquetos
+
+SELECT "codeFAO", COUNT("codeFAO") AS 'NUM PLANES' FROM "pespec2016" WHERE "tipoCode" LIKE 'K%' GROUP BY "codeFAO" ORDER BY "codeFAO";
 ```
 
 * Cuadro base del gráfico M03-01 __Especies aprovechadas__
