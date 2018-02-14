@@ -6,7 +6,7 @@
 
 * El informe constará de los siguientes módulos:
 
-    + [M00](inforpgral-Datos.md#M00): Ficha descriptiva de la Orden.
+    + [M00](inforpgral-Datos.md#m00): Ficha descriptiva de la Orden.
     + [M01](#M01): Tipos de plan aprobados en la Orden.
     + [M02](#M02): Nivel de colaboración.
     + [M03](#M03): Especies objetivo de captura
