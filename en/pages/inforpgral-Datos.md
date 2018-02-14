@@ -59,7 +59,7 @@ SELECT "anualidad", "tipoCode", COUNT("tipoCode") FROM "pexma2016" GROUP BY "tip
 
 * [Plantilla Gráfico M01-01](https://goo.gl/TswyN0)
 
-[volver a Inicio](#inicio)
+[volver a Inicio](#Inicio)
 
 ## M02
 
@@ -107,7 +107,7 @@ SELECT "anualidad", "tipoCode", CASE WHEN UPPER("conxunto") != 'F' THEN 'Plan Co
 
 * [Plantilla Gráfico M02-03A](https://goo.gl/Ln4nP2)
 
-[volver a Inicio](#inicio)
+[volver a Inicio](#Inicio)
 
 ## M03
 
@@ -155,7 +155,7 @@ SELECT "codeFAO", COUNT("codeFAO") AS 'NUM PLANES' FROM "pespec2016" WHERE "tipo
 
 * [Plantilla Gráfico M03-01](https://goo.gl/kC1zng)
 
-[volver a Inicio](#inicio)
+[volver a Inicio](#Inicio)
 
 
 ## M04
@@ -217,7 +217,7 @@ SELECT "codeFAO", COUNT("codeFAO") AS 'NUM PLANES' FROM "pespec2016" WHERE "tipo
 
 * [Plantilla Gráfico M04-01b](https://goo.gl/jvn30F)
 
-[volver a Inicio](#inicio)
+[volver a Inicio](#Inicio)
 
 
 ## M05
@@ -327,7 +327,7 @@ SELECT "codeFAO", COUNT("codeFAO") AS 'NUM PLANES' FROM "pespec2016" WHERE "tipo
 
 * [Plantilla Gráfico M06-03](https://jsfiddle.net/galirema/a6u0h3jr/)
 
-[volver a Inicio](#inicio)
+[volver a Inicio](#Inicio)
 
 
 ## M07
@@ -388,7 +388,7 @@ SELECT "codeFAO", COUNT("codeFAO") AS 'NUM PLANES' FROM "pespec2016" WHERE "tipo
 
 * [Plantilla Gráfico M07-05](https://goo.gl/u3mgaf)
 
-[volver a Inicio](#inicio)
+[volver a Inicio](#Inicio)
 
 ## Tipo de plan por zona de costa
 
@@ -421,7 +421,7 @@ SELECT "costa", "tipoCode", COUNT("idPlanAnual") FROM "pexma2017" GROUP BY "tipo
 
 * __Gráfico M07-14 KPOL por zona de costa__  
 
-[volver a Inicio](#inicio)
+[volver a Inicio](#Inicio)
 
 
 
