@@ -82,6 +82,7 @@ SELECT "anualidad", CASE WHEN UPPER("conxunto") != 'F' THEN 'Plan Conxunto' ELSE
 * [Plantilla Gráfico M02-01](https://goo.gl/Ge8uqz)
 
 
+
 * __Gráfico M02-03 - Nivel de colaboración por tipos de plan 2016__  
 
 ```sql
@@ -105,6 +106,8 @@ SELECT "anualidad", "tipoCode", CASE WHEN UPPER("conxunto") != 'F' THEN 'Plan Co
 
 
 * [Plantilla Gráfico M02-03A](https://goo.gl/Ln4nP2)
+
+[volver a Inicio](#inicio)
 
 ## M03
 
@@ -151,6 +154,8 @@ SELECT "codeFAO", COUNT("codeFAO") AS 'NUM PLANES' FROM "pespec2016" WHERE "tipo
 * El valor del % se calcula aparte no esta en el resultado de las consultas _SQL_
 
 * [Plantilla Gráfico M03-01](https://goo.gl/kC1zng)
+
+[volver a Inicio](#inicio)
 
 
 ## M04
@@ -212,7 +217,7 @@ SELECT "codeFAO", COUNT("codeFAO") AS 'NUM PLANES' FROM "pespec2016" WHERE "tipo
 
 * [Plantilla Gráfico M04-01b](https://goo.gl/jvn30F)
 
-
+[volver a Inicio](#inicio)
 
 
 ## M05
@@ -322,6 +327,7 @@ SELECT "codeFAO", COUNT("codeFAO") AS 'NUM PLANES' FROM "pespec2016" WHERE "tipo
 
 * [Plantilla Gráfico M06-03](https://jsfiddle.net/galirema/a6u0h3jr/)
 
+[volver a Inicio](#inicio)
 
 
 ## M07
@@ -382,6 +388,8 @@ SELECT "codeFAO", COUNT("codeFAO") AS 'NUM PLANES' FROM "pespec2016" WHERE "tipo
 
 * [Plantilla Gráfico M07-05](https://goo.gl/u3mgaf)
 
+[volver a Inicio](#inicio)
+
 ## Tipo de plan por zona de costa
 
 ```sql
@@ -413,6 +421,7 @@ SELECT "costa", "tipoCode", COUNT("idPlanAnual") FROM "pexma2017" GROUP BY "tipo
 
 * __Gráfico M07-14 KPOL por zona de costa__  
 
+[volver a Inicio](#inicio)
 
 
 
