@@ -13,8 +13,10 @@ Las distintas plantillas de cada gráfico son accesibles en la página de «_gal
 
 ## Gráficos anuales
 
-* Estos gráficos se añaden al post que reproduce las normas de planificación de la explotación anual.
-  * __Gráfico M01-01 Por tipo de plan__
+Estos gráficos se añaden al post que reproduce las normas de planificación de la explotación anual.
+
+* __Gráfico M01-01 Por tipo de plan__
+* Gráficos de la distribución por la costa de cada tipo de plan
   * __Gráfico M07-06 AAUUT por zona de costa__
   * __Gráfico M07-07 BESP por zona de costa__
   * __Gráfico M07-08 DPER por zona de costa__
