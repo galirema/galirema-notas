@@ -1,6 +1,6 @@
 # Gráficos para el Pexma2017
 
-Estos gráficos se incluyen en el post que recoge las ordenes de que legislan la planificación anual de los recursos costeros de competencia de la Comunidad Autonoma de Galicia. Pretenden ilustrar la distribución de los planes aprobados en las distintas zonas de la costa gallega.
+Estos gráficos se incluyen en el post que recoge las ordenes de que legislan la planificación anual de los recursos costeros de competencia de la Comunidad Autonoma de Galicia. Pretenden ilustrar la distribución de los planes aprobados en las distintas zonas de la costa gallega diferenciadas en el Sigremar.
 
 ## Tipo de plan por zona de costa
 
