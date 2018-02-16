@@ -632,14 +632,14 @@ SELECT "costa", "tipoCode", COUNT("idPlanAnual") FROM "pexma2017" GROUP BY "tipo
 ```html
 <html>
 
-<!---- (M07-nn TTTTxzcosta2017 ES.html)  ---->
+<!-- (M07-nn TTTTxzcosta2017 ES.html)  -->
    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
 <head>
 
   <script type="text/javascript" src="https://www.google.com/jsapi"></script>
 
-<!---- Script   ---->
+<!-- Script   -->
 
 </head>
 
