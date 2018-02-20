@@ -31,7 +31,8 @@ La plantilla para la programación de estos graficos en _javascript_ está detal
 
 ## Graficos para los informes anuales
 
-Con estos gráficos se trata de de representar la planificación anual por las características que se expecicitan en las ordenes legislativas.
+Con estos gráficos se trata de de representar la planificación anual por las características que se expecifican en las ordenes legislativas.  
+La elaboración de los gráficos del informe estan desarrolladas [aquí](inforpgral-Datos.md).
 
 1. __Tipos de plan aprobados en la Orden__
 1. __Nivel de colaboración__
