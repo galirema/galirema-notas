@@ -7,7 +7,7 @@
 ## Informes
 
 * Informe descriptivo de la planificación para el año [2018](https://goo.gl/xKb1ow)
-* Informe descriptivo de planificación para el año [2018](https://goo.gl/Aq337W)
+* Informe descriptivo de planificación para el año [2017](https://goo.gl/Aq337W)
 
 
 ## Eventos
