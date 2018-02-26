@@ -1,5 +1,5 @@
 
-# Publicado en galirema en GitHub
+# Publicado en galirema de GitHub-Pages
 
 * Aquí encuentras un listado de los documentos publicados en [galirema de GitHub-Pages](https://goo.gl/uVsxCk)
 * Los documentos publicados está en formato HTML
