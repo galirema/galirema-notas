@@ -9,8 +9,10 @@
 
 * Informes descriptivos de la planificación de la gestión anual:
 
-  * [2015](http://galirema.github.io/galirema/info-pexma2015L.html) Informe amplio.
-  * [2016](http://galirema.github.io/galirema/info-pexma2016c.html) Informe corto.
-  * [2017](http://galirema.github.io/galirema/InfoPlanGeneralEspecifico2017c.html) Informe corto.
+  * [2015](http://galirema.github.io/galirema/info-pexma2015L.html) Informe modelo amplio.
+  * [2016](http://galirema.github.io/galirema/info-pexma2016c.html) Informe modelo corto.
+  * [2017](http://galirema.github.io/galirema/InfoPlanGeneralEspecifico2017c.html) Informe modelo corto.
+  * [2018](http://galirema.github.io/galirema/InfoPlanGeneralEspecifico2018.html) Informe modelo corto
+  
   
   
