@@ -2,6 +2,7 @@
 
 * Listado de documentos publicados a los que se pueden leer desde Galirema-Notas.
 * Estos informes están en formato pdf.
+* los enlaces estan acortados por en _Google URL Shortener_ por galirema.
 
 ## Informes
 
