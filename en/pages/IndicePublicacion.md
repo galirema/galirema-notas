@@ -4,7 +4,7 @@
 
 * [galirema GitHub](publicadoGGHub.md)
 
-* Galirema-notas
+* [Galirema-notas](publicadoGaliremaNotas.md)
 
 ## Publicaciones divulgativas 
 
