@@ -1,11 +1,12 @@
 # Galirema-Notas
 
 * Listado de documentos publicados a los que se pueden leer desde Galirema-Notas.
+* Estos informes están en formato pdf.
 
 ## Informes
 
 * Informe descriptivo de la planificación para el año [2018](https://goo.gl/xKb1ow)
-* Informe descriptivo de planificación para el año [2018]()
+* Informe descriptivo de planificación para el año [2018](https://goo.gl/Aq337W)
 
 
 ## Eventos
