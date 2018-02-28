@@ -56,8 +56,8 @@
    * En proceso (`BMSigremar`, `numesp`, `num. entidades`,).
 
 * __Plan 2006__: [DOG2006080KPOLgl](http://www.xunta.gal/dog/Publicados/2006/20060426/AnuncioA60E_gl.html), [DOG2006080KPOLes](http://www.xunta.gal/dog/Publicados/2006/20060426/AnuncioC452_es.html)
-   * Realizado (importar datos del DOG a `muestreos.sqlite`,).
-   * En proceso (`id_plan_explotacion`, `anualidad`, `codeMod`, `BMSigremar`, `numesp`, `costa`, `num. entidades`,).
+   * Realizado (importar datos del DOG a `muestreos.sqlite`, `id_plan_explotacion`, `anualidad`, `codeMod`, `BMSigremar`, `costa`, ).
+   * En proceso (`numesp`, `num. entidades`,).
 
 
 
