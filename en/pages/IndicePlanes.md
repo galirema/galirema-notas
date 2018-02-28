@@ -38,6 +38,7 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 
 
 
+ [2018]: http://www.galiciamarineira.info/content/planes-general-y-espec%C3%ADficos-2018
  [2017]: http://www.galiciamarineira.info/content/planes-general-y-espec%C3%ADficos-2017
  [2016]: http://www.galiciamarineira.info/content/plan-general-de-explotaci%C3%B3n-marisquera-2016
  [2015]: http://www.galiciamarineira.info/content/plan-general-de-explotaci%C3%B3n-marisquera-2015
