@@ -68,11 +68,19 @@ CREATE TABLE "pespec2006" ("idesplan" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NU
 
 SELECT 'UPDATE pexma2006 SET numesp= '|| COUNT("codeFAO") || ' WHERE idPlanAnual = +' || "idPlanAnual" ||'+ AND numesp ISNULL' AS orden FROM "pespec2006" GROUP BY "idPlanAnual";
 
+---- variante para cargar lo poliquetos del año 2006
+SELECT 'UPDATE pexma2006 SET numesp= '|| COUNT("codeFAO") || ' WHERE idPlanAnual = +' || "idPlanAnual" ||'+ AND numesp ISNULL;' AS orden FROM "pespec2006" WHERE "tipoCode" LIKE 'K%' GROUP BY "idPlanAnual";
+
+
 -- pespec2007
 
 CREATE TABLE "pespec2007" ("idesplan" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NULL , "anualidad" INTEGER, "idPlanAnual" INTEGER, "tipoCode" CHAR(4), "codeFAO" CHAR(3));
 
 SELECT 'UPDATE pexma2007 SET numesp= '|| COUNT("codeFAO") || ' WHERE idPlanAnual = +' || "idPlanAnual" ||'+ AND numesp ISNULL' AS orden FROM "pespec2007" GROUP BY "idPlanAnual";
+
+---- variante para cargar lo poliquetos del año 2007
+SELECT 'UPDATE pexma2007 SET numesp= '|| COUNT("codeFAO") || ' WHERE idPlanAnual = +' || "idPlanAnual" ||'+ AND numesp ISNULL;' AS orden FROM "pespec2007" WHERE "tipoCode" LIKE 'K%' GROUP BY "idPlanAnual";
+
 
 -- pespec2008
 
@@ -93,13 +101,17 @@ CREATE TABLE "pespec2010" ("idesplan" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NU
 
 SELECT 'UPDATE pexma2010 SET numesp= '|| COUNT("codeFAO") || ' WHERE idPlanAnual = +' || "idPlanAnual" ||'+ AND numesp ISNULL' AS orden FROM "pespec2010" GROUP BY "idPlanAnual";
 
+---- variante para cargar lo poliquetos del año 2010
+SELECT 'UPDATE pexma2010 SET numesp= '|| COUNT("codeFAO") || ' WHERE idPlanAnual = +' || "idPlanAnual" ||'+ AND numesp ISNULL;' AS orden FROM "pespec2010" WHERE "tipoCode" LIKE 'K%' GROUP BY "idPlanAnual";
+
+
 -- 2011
 
 CREATE TABLE "pespec2011" ("idesplan" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NULL , "anualidad" INTEGER, "idPlanAnual" INTEGER, "tipoCode" CHAR(4), "codeFAO" CHAR(3));
 
 SELECT 'UPDATE pexma2011 SET numesp= '|| COUNT("codeFAO") || ' WHERE idPlanAnual = +' || "idPlanAnual" ||'+ AND numesp ISNULL' AS orden FROM "pespec2011" GROUP BY "idPlanAnual";
 
----- variante para cargar lo poliquetos del año 2012
+---- variante para cargar lo poliquetos del año 2011
 SELECT 'UPDATE pexma2011 SET numesp= '|| COUNT("codeFAO") || ' WHERE idPlanAnual = +' || "idPlanAnual" ||'+ AND numesp ISNULL;' AS orden FROM "pespec2011" WHERE "tipoCode" LIKE 'K%' GROUP BY "idPlanAnual";
 
 -- 2012
