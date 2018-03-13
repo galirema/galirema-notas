@@ -6,6 +6,9 @@
 
 * [Galirema-notas](publicadoGaliremaNotas.md)
 
+* [Datos Liberados](DatosLiberados.md)
+
+
 ## Publicaciones divulgativas 
 
 * [Galicia mariñeira](publicadoGM.md) 
