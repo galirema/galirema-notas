@@ -63,7 +63,7 @@ O presente listado de zonas de producción está feito en base das normas dos an
 |2016|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|
 |2015|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|
 |2014|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|
-|2013|__ok__|__ok__|__ok__|__ok__|__ok__|H|I|J|__ok__|
+|2013|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|I|J|__ok__|
 |2012|A|B|D|F|G|H|I|J|__ok__|
 |2011|A|B|D|F|G|H|I|J|__ok__|
 |2010|A|B|D|F|G|H|I|J|__ok__|
