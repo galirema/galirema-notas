@@ -58,17 +58,17 @@ O presente listado de zonas de producción está feito en base das normas dos an
 
 |Anualidad|AAUT|BESP|DPER|FEQD|GSOL|HPEN|IALG|JANE|KPOL|
 |---------|----|----|----|----|----|----|----|----|----|
-|2018|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|
-|2017|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|
-|2016|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|
-|2015|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|
-|2014|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|
-|2013|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|I|J|__ok__|
-|2012|A|B|D|F|G|H|I|J|__ok__|
-|2011|A|B|D|F|G|H|I|J|__ok__|
-|2010|A|B|D|F|G|H|I|J|__ok__|
-|2009|A|B|D|F|G|H|I|J|__ok__|
-|2008|A|B|D|F|G|H|I|J|__ok__|
+|___2018___|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|
+|___2017___|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|
+|___2016___|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|
+|___2015__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|
+|__2014___|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|
+|___2013___|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|I|J|__ok__|
+|__2012__|A|B|D|F|G|H|I|J|__ok__|
+|__2011__|A|B|D|F|G|H|I|J|__ok__|
+|__2010__|A|B|D|F|G|H|I|J|__ok__|
+|__2009__|A|B|D|F|G|H|I|J|__ok__|
+|__2008__|A|B|D|F|G|H|I|J|__ok__|
 
 
 
