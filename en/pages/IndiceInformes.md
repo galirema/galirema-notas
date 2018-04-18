@@ -21,8 +21,8 @@ Informes
 
 + Los informes anuales están ordenados en orden inverso al año en que estuvieron vigentes.
 
-	* [Informe plan general y específicos 2018](http://galirema.github.io/galirema/InfoPlanGeneralEspecifico2018.html)
-	* [Informe plan general y especificos 2017](infoPlanGeneralEspecifico2017.md) Borrador
+	* [Informe plan general y específicos 2018](InfoPlanGeneralEspecifico2018.md) Borrador del informe 2018
+	* [Informe plan general y especificos 2017](infoPlanGeneralEspecifico2017.md) Borrador del informe 2017
 	* [Informe Plan General 2016 B](info-pexma2016bor.md): Borrador del informe 2016
 	* [Informe Plan General 2016](informe-pexma2016draft.md): Borrador con anotaciones metodológicas (comandos SQL). 
 	* [Informe plan general 2015](PlanGeneral2015infov01.md): Borrador de un modelo extenso.
