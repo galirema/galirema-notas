@@ -1,6 +1,6 @@
 # Informe sobre Plan General de Explotación Marisquera 
 
-## Inicio         {#Inicio}
+## Inicio 
 
 + [M00](#M00): Ficha descriptiva de la Orden.
 + [M01](#M01): Tipos de plan aprobados en la Orden.
@@ -13,7 +13,7 @@
 
 
 
-## M00    {#M00}
+## M00
 
 ### Ficha descriptiva de la Orden.
 
@@ -46,7 +46,7 @@
 
  [volver al inicio](#Inicio)
 
-## M01     {#M01}
+## M01
 
 ### Tipos de planes aprobados en las Ordenes.
 
@@ -73,7 +73,7 @@
 
  [volver al inicio](#Inicio)
 
-## M02      {#M02}
+## M02
 
 ### Nivel de colaboración entre entidades.
 
@@ -93,7 +93,7 @@
 
  [volver al inicio](#Inicio)
 
-## M03       {#M03}
+## M03
 
 ### Especies objetivo de captura
 
@@ -142,7 +142,7 @@
 
  [volver al inicio](#Inicio)
 
-## M04        {#M04}
+## M04
 
 ### Modalidades de captura
 
@@ -171,14 +171,14 @@
 
  [volver al inicio](#Inicio)
 
-## M05      {#M05}
+## M05
 
 ### Duración da actividad y época de captura
 
 
  [volver al inicio](#Inicio)
 
-## M06          {#M06}
+## M06
 
 ### Entidades participantes
 
@@ -201,7 +201,7 @@ El numero de planes promovidos por entidad es un índice que nos informa sobre l
 
  [volver al inicio](#Inicio)
 
-## M07         {#M07}
+## M07 
 
 ### Las zonas de la costa en la orden
 
