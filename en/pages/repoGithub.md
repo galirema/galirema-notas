@@ -41,6 +41,18 @@
 	+ [index.html][]
 
 
+## Repositorio de datos
+
+* El repositorio de los datos abiertos por el proyecto __Galirema__ y obtenidos de las normas anuales para gestíón de los recursos marinos proximos de competencia de la Comunidad Autónoma de galicia están alojados en la carpeta [Data](https://github.com/galirema/galirema/tree/master/Data).
+* Los datos se presentan en formato CSV para que los interesados en esta información puedean gestionarla con facilidad migrandola a los programas que utilicen.
+* El fichero [ReadmeES.md][] es un indice de los ficheros de datos aportados y el camino para llegar a la documentación disponible sobre los datos y sus características.
+
+..		
+[ReadmeES.md][]
+pexma2017.csv
+pexma2018.csv
+
+
 
  [GitHub]: https://goo.gl/SyCglx
  [LICENSE]: https://github.com/galirema/galirema/blob/master/LICENSE
@@ -53,5 +65,5 @@
  [indicePlanesPublicados-ES.md]: https://github.com/galirema/galirema/blob/master/indicePlanesPublicados-ES.md
  [docs]: https://github.com/galirema/galirema/tree/master/docs
  [index.html]: https://github.com/galirema/galirema/blob/master/docs/index.html
-
+ [ReadmeES.md]: https://github.com/galirema/galirema/blob/master/Data/ReadmeES.md
 
