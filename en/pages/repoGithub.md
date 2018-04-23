@@ -26,6 +26,8 @@
 * [DiarioOficialGalicia](https://github.com/galirema/galirema/wiki/DiarioOficialGalicia)
 * [FuentesOficialGalirema](https://github.com/galirema/galirema/wiki/FuentesOficialGalirema)
 * [PescaDeGalicia](https://github.com/galirema/galirema/wiki/PescaDeGalicia)
+* [RepositorioGalirema](https://github.com/galirema/galirema/wiki/RepositorioGalirema)
+* [TipodePlan](https://github.com/galirema/galirema/wiki/TipodePlan)
 
 
 ## GitHuB Pages
