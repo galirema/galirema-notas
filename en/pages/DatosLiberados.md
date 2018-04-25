@@ -6,7 +6,7 @@ En el presente listado se ordenan por fecha de publicación.
 
 Los datos estan alojados en la carpeta [Data](https://github.com/galirema/galirema/tree/master/Data) del proyecto [Galirema](https://github.com/galirema/galirema) alojado en _GitHub_.
 
-En la Wiki asociada al proyecto [Galirema](https://github.com/galirema/galirema) podrás encontrar la documentación sobre los datos liberados en este repositorio.
+En la Wiki asociada al proyecto [Galirema](https://github.com/galirema/galirema/wiki) podrás encontrar la documentación sobre los datos liberados en este repositorio.
 
 ## Datos 
 
