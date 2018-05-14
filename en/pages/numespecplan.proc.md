@@ -48,6 +48,16 @@ o resultado desta consulta son os comandos SQL para cargar dicho campo en cada r
 
 ```sql
 
+-- pespec2002
+CREATE TABLE "pespec2002" ("idesplan" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NULL , "anualidad" INTEGER, "idPlanAnual" INTEGER, "tipoCode" CHAR(4), "codeFAO" CHAR(3));
+
+SELECT 'UPDATE pexma2002 SET numesp= '|| COUNT("codeFAO") || ' WHERE idPlanAnual = +' || "idPlanAnual" ||'+ AND numesp ISNULL' AS orden FROM "pespec2002" GROUP BY "idPlanAnual";
+
+-- pespec2003
+CREATE TABLE "pespec2003" ("idesplan" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NULL , "anualidad" INTEGER, "idPlanAnual" INTEGER, "tipoCode" CHAR(4), "codeFAO" CHAR(3));
+
+SELECT 'UPDATE pexma2003 SET numesp= '|| COUNT("codeFAO") || ' WHERE idPlanAnual = +' || "idPlanAnual" ||'+ AND numesp ISNULL' AS orden FROM "pespec2003" GROUP BY "idPlanAnual";
+
 -- pespec2004
 
 CREATE TABLE "pespec2004" ("idesplan" INTEGER PRIMARY KEY  AUTOINCREMENT  NOT NULL , "anualidad" INTEGER, "idPlanAnual" INTEGER, "tipoCode" CHAR(4), "codeFAO" CHAR(3));
