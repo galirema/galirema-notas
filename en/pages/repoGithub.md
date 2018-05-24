@@ -23,14 +23,14 @@
 * En esta wiki pretende ser una documentación amplia de todos los aspectos del proyecto ___Galirema___
 
 * [Home](https://github.com/galirema/galirema/wiki)
-* [DiarioOficialGalicia](https://github.com/galirema/galirema/wiki/DiarioOficialGalicia)
 * [FuentesOficialGalirema](https://github.com/galirema/galirema/wiki/FuentesOficialGalirema)
-* [PescaDeGalicia](https://github.com/galirema/galirema/wiki/PescaDeGalicia)
+	* [DiarioOficialGalicia](https://github.com/galirema/galirema/wiki/DiarioOficialGalicia)
+	* [PescaDeGalicia](https://github.com/galirema/galirema/wiki/PescaDeGalicia)
 * [RepositorioGalirema](https://github.com/galirema/galirema/wiki/RepositorioGalirema)
-* [TipodePlan](https://github.com/galirema/galirema/wiki/TipodePlan)
-* [EntidadPromotora](https://github.com/galirema/galirema/wiki/EntidadPromotora)
-* [IndividualConjunto](https://github.com/galirema/galirema/wiki/IndividualConjunto)
-* [ModalidadCaptura](https://github.com/galirema/galirema/wiki/ModalidadCaptura)
+	* [TipodePlan](https://github.com/galirema/galirema/wiki/TipodePlan)
+	* [EntidadPromotora](https://github.com/galirema/galirema/wiki/EntidadPromotora)
+	* [IndividualConjunto](https://github.com/galirema/galirema/wiki/IndividualConjunto)
+	* [ModalidadCaptura](https://github.com/galirema/galirema/wiki/ModalidadCaptura)
 
 
 ## GitHuB Pages
