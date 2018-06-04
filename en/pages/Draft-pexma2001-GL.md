@@ -781,7 +781,7 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Punto de venda: lonxa do Barqueiro, Cedeira, San Cibrao, O Vicedo e Cariño.
 * Épocas probables de extracción: xaneiro, marzo a decembro.
 
-### 85 Confraría de pescadores de Espasante.
+### 86 Confraría de pescadores de Espasante.
 
 * Zona de extracción: ámbito territorial da confraría.
 * Días máximos de extracción: 120.
@@ -789,7 +789,7 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Punto de venda: lonxa de Ortigueira.
 * Épocas probables de extracción: xaneiro a decembro.
 
-### 86 Confraría de pescadores de Cariño.
+### 87 Confraría de pescadores de Cariño.
 
 * Zona de extracción: ámbito territorial da confraría.
 * Días máximos de extracción: 120.
@@ -797,7 +797,7 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Punto de venda: lonxa de Cariño.
 * Épocas probables de extracción: xaneiro a decembro.
 
-### 87 Confraría de pescadores de Cedeira.
+### 88 Confraría de pescadores de Cedeira.
 
 * Zona de extracción: Punta Frouxeira ata Punta Barcelona.
 * Días máximos de extracción: 120.
@@ -805,7 +805,7 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Punto de venda: lonxa de Cedeira.
 * Épocas probables de extracción: xaneiro a decembro.
 
-### 88 Confraría de pescadores de Ferrol.
+### 89 Confraría de pescadores de Ferrol.
 
 * Zona de extracción: Punta Faísca ata o faro de Punta Frouxeira.
 * Días máximos de extracción: 130.
@@ -813,7 +813,7 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Puntos de venda: lonxas da Gándara e Ferrol.
 * Épocas probables de extracción: xaneiro a decembro.
 
-### 89 Confrarías de pescadores da Coruña, Ares e Mera.
+### 90 Confrarías de pescadores da Coruña, Ares e Mera.
 
 * Zona de extracción: ámbitos das confrarías.
 * Días máximos de extracción: 180.
@@ -821,14 +821,14 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Puntos de venda: lonxas da Coruña, Cedeira e Ferrol.
 * Épocas probables de extracción: xaneiro a decembro.
 
-### 90 Confraría de pescadores de Caión.
+### 91 Confraría de pescadores de Caión.
 
 * Zona de extracción: ámbito territorial da confraría.
 * Días máximos de extracción: 110.
 * Punto de control e venda: lonxa de Caión.
 * Épocas probables de extracción: xaneiro a decembro.
 
-### 91 Confraría de pescadores de Malpica.
+### 92 Confraría de pescadores de Malpica.
 
 * Zona de extracción: ámbito territorial da confraría.
 * Días máximos de extracción: 160.
@@ -836,7 +836,7 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Punto de venda: lonxa de Malpica.
 * Épocas probables de extracción: xaneiro ó 15 de maio, xullo a decembro.
 
-### 92 Confraría de pescadores de Corme.
+### 93 Confraría de pescadores de Corme.
 
 * Zona de extracción: ámbito territorial da confraría.
 * Días máximos de extracción: 120.
@@ -844,7 +844,7 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Punto de venda: lonxa de Corme.
 * Épocas probables de extracción: xaneiro a decembro.
 
-### 93 Confraría de pescadores de Laxe.
+### 94 Confraría de pescadores de Laxe.
 
 * Zona de extracción: ámbito territorial da confraría.
 * Días máximos de extracción: 90.
@@ -852,7 +852,7 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Punto de venda: lonxa de Laxe.
 * Épocas probables de extracción: de xaneiro a abril; xullo a setembro; novembro e decembro.
 
-### 94 Confraría de pescadores de Camelle.
+### 95 Confraría de pescadores de Camelle.
 
 * Zona de extracción: ámbito territorial da confraría.
 * Días máximos de extracción: 170.
@@ -860,7 +860,7 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Punto de venda: lonxa da Coruña.
 * Épocas probables de extracción: xaneiro a decembro.
 
-### 95 Confraría de pescadores de Camariñas.
+### 96 Confraría de pescadores de Camariñas.
 
 * Zona de extracción: ámbito territorial da confraría.
 * Días máximos de extracción: 192.
@@ -868,7 +868,7 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Punto de venda: lonxa de Camariñas e do Muro (A Coruña).
 * Épocas probables de extracción: xaneiro a decembro.
 
-### 96 Confraría de pescadores de Muxía.
+### 97 Confraría de pescadores de Muxía.
 
 * Zona de extracción: ámbito territorial da confraría.
 * Días máximos de extracción: 248.
@@ -876,7 +876,7 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Punto de venda: lonxa de Muxía.
 * Épocas probables de extracción: xaneiro a decembro.
 
-### 97 Confraría de pescadores de Fisterra.
+### 98 Confraría de pescadores de Fisterra.
 
 * Zona de extracción: ámbito territorial da confraría.
 * Días máximos de extracción: 210.
@@ -884,7 +884,7 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Punto de venda: lonxa de Fisterra.
 * Épocas probables de extracción: xaneiro a decembro.
 
-### 98 Confraría de pescadores de Lira.
+### 99 Confraría de pescadores de Lira.
 
 * Zona de extracción: ámbito territorial da confraría.
 * Días máximos de extracción: 35.
@@ -892,7 +892,7 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Punto de venda: lonxa de Lira.
 * Épocas probables de extracción: abril, xullo, agosto e decembro.
 
-### 99 Confraría de pescadores de Porto do Son.
+### 100 Confraría de pescadores de Porto do Son.
 
 * Zona de extracción: ámbito territorial da confraría.
 * Días máximos de extracción: 120.
@@ -900,7 +900,7 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Punto de venda: lonxa de Porto do Son.
 * Épocas probables de extracción: xaneiro a xullo, outubro a decembro.
 
-### 100 Confraría de pescadores de Carreira-Aguiño.
+### 101 Confraría de pescadores de Carreira-Aguiño.
 
 * Zona de extracción: ámbito territorial da confraría.
 * Días máximos de extracción: 228.
@@ -908,7 +908,7 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Punto de venda: lonxa de Aguiño.
 * Épocas probables de extracción: xaneiro a setembro, novembro e decembro.
 
-### 101 Confraría de pescadores de Ribeira.
+### 102 Confraría de pescadores de Ribeira.
 
 * Zona de extracción: ámbito da confraría.
 * Días máximos de extracción: 228.
@@ -916,14 +916,14 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Punto de venda: lonxa de Ribeira.
 * Épocas probables de extracción: xaneiro a setembro, novembro e decembro.
 
-### 102 Confraría de pescadores do Grove.
+### 103 Confraría de pescadores do Grove.
 
 * Zona de traballo: Punta Cantodorxo a Punta Faxilda.
 * Días máximos de extracción: 100.
 * Punto de control e venda: lonxa do Grove.
 * Épocas probables de extracción: xaneiro a decembro.
 
-### 103 Confrarías de pescadores de Portonovo e Sanxenxo.
+### 104 Confrarías de pescadores de Portonovo e Sanxenxo.
 
 * Zona de traballo: Punta Faxilda a Punta Santa Mariña.
 * Días máximos de extracción: 26.
@@ -931,7 +931,7 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Punto de venda: lonxa de Portonovo.
 * Épocas probables de extracción: xullo, agosto e decembro.
 
-### 104 Confraría de pescadores de Bueu.
+### 105 Confraría de pescadores de Bueu.
 
 * Zona de traballo: Ons, Onza e de Punta Morcegos a Pedra Branca.
 * Días máximos de extracción: 213.
@@ -939,7 +939,7 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Punto de venda: lonxa de Bueu.
 * Épocas probables de extracción: xaneiro a decembro.
 
-### 105 Confraría de pescadores de Cangas.
+### 106 Confraría de pescadores de Cangas.
 
 * Zona de traballo: Cíes, A Goeira, e de Punta Subrido a Punta Couso.
 * Días máximos de extracción: 180.
@@ -947,7 +947,7 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Punto de venda: lonxa de Cangas.
 * Épocas probables de extracción: xaneiro a decembro.
 
-### 106 Confraría de pescadores de Baiona.
+### 107 Confraría de pescadores de Baiona.
 
 * Zona de traballo: ámbito da confraría.
 * Días máximos de extracción: 149.
@@ -955,7 +955,7 @@ De acordo co establecido no artigo 13 do Decreto 423/1993 apróbanse os seguinte
 * Punto de venda: lonxa de Baiona.
 * Épocas probables de extracción: xaneiro a decembro.
 
-### 107 Confraría de pescadores da Guarda.
+### 108 Confraría de pescadores da Guarda.
 
 * Zona de traballo: ámbito da confraría.
 * Días máximos de extracción: 100 desde embarcación; 150 a pé.
@@ -979,159 +979,159 @@ Nas zonas sinaladas no anexo I, soamente se poderá extraer desde o 1 de febreir
 
 ## Artigo 7º.-Equinodermos.
 
-### 108 Confraría de pescadores de Ribadeo e Rinlo.
+### 109 Confraría de pescadores de Ribadeo e Rinlo.
 
 * Días máximos de extracción: 20.
 * Puntos de control e venda: lonxas de Ribadeo.
 * Épocas probables de extracción: xaneiro a marzo.
 
-### 109 Confraría de pescadores de Foz.
+### 110 Confraría de pescadores de Foz.
 
 * Zona de traballo: de Punta Nois a Punta Promontorio.
 * Días máximos de extracción: 28.
 * Punto de control e venda: lonxa de Foz.
 * Épocas probables de extracción: de xaneiro a abril.
 
-### 110 Confraría de pescadores de Burela.
+### 111 Confraría de pescadores de Burela.
 
 * Días máximos de extracción: 70.
 * Punto de control: zona de extracción.
 * Punto de venda: lonxa de Burela.
 * Épocas probables de extracción: xaneiro a abril, outubro a decembro.
 
-### 111 Confraría de pescadores de San Cibrao.
+### 112 Confraría de pescadores de San Cibrao.
 
 * Días máximos de extracción: 60.
 * Punto de control e venda: lonxa de San Cibrao.
 * Épocas probables de extracción: xaneiro a abril.
 
-### 112 Confraría de pescadores de Celeiro.
+### 113 Confraría de pescadores de Celeiro.
 
 * Días máximos de extracción: 40.
 * Puntos de control e venda: lonxas de Celeiro e San Cibrao.
 * Épocas probables de extracción: xaneiro a abril.
 
-### 113 Confraría de pescadores de Cedeira.
+### 114 Confraría de pescadores de Cedeira.
 
 * Días máximos de extracción: 84.
 * Puntos de control: lonxa e ría de Cedeira.
 * Punto de venda: lonxa de Cedeira.
 * Épocas probables de extracción: xaneiro a abril, outubro a decembro.
 
-### 114 Confraría de pescadores de Ferrol.
+### 115 Confraría de pescadores de Ferrol.
 
 * Días máximos de extracción: 144.
 * Puntos de control: confraría, peirao, lonxa e ría de Ferrol
 * Punto de venda: lonxa de Ferrol.
 * Épocas probables de extracción: xaneiro a abril, outubro a decembro.
 
-### 115 Confraría de pescadores da Coruña.
+### 116 Confraría de pescadores da Coruña.
 
 * Días máximos de extracción: 120.
 * Punto de control e venda: lonxa da Coruña.
 * Épocas probables de extracción: xaneiro a abril, novembro e decembro.
 
-### 116 Confraría de pescadores de Corme.
+### 117 Confraría de pescadores de Corme.
 
 * Días máximos de extracción: 138.
 * Punto de control e venda: lonxa de Corme.
 * Épocas probables de extracción: xaneiro a abril, outubro a decembro.
 
-### 117 Confraría de pescadores de Camelle.
+### 118 Confraría de pescadores de Camelle.
 
 * Días máximos de extracción: 144.
 * Puntos de control: peirao de Camelle.
 * Punto de venda: lonxa de Camariñas.
 * Épocas probables de extracción: xaneiro a abril, outubro a decembro.
 
-### 118 Confraría de pescadores de Camariñas.
+### 119 Confraría de pescadores de Camariñas.
 
 * Días máximos de extracción: 64.
 * Punto de control e venda: lonxa de Camariñas.
 * Épocas probables de extracción: xaneiro a abril, outubro a decembro.
 
-### 119 Confraría de pescadores de Muxía.
+### 120 Confraría de pescadores de Muxía.
 
 * Días máximos de extracción: 148.
 * Punto de control: lonxa e peirao de Muxía.
 * Punto de venda: lonxa de Muxía.
 * Épocas probables de extracción: xaneiro a abril, outubro a decembro.
 
-### 120 Confraría de pescadores de Fisterra.
+### 121 Confraría de pescadores de Fisterra.
 
 * Días máximos de extracción: 120.
 * Puntos de control: embarcacións de vixilancia e lonxa de Fisterra.
 * Puntos de venda: lonxas de Fisterra e O Pindo.
 * Épocas probables de extracción: xaneiro a abril, outubro a decembro.
 
-### 121 Confraría de pescadores de Lira.
+### 122 Confraría de pescadores de Lira.
 
 * Días máximos de extracción: 143.
 * Puntos de control: peirao e lonxa de Lira.
 * Puntos de venda: lonxa de Lira.
 * Épocas probables de extracción: de xaneiro a abril, de outubro a decembro.
 
-### 122 Confraría de pescadores de Muros.
+### 123 Confraría de pescadores de Muros.
 
 * Días máximos de extracción: 135.
 * Puntos de control: Ancoradoiro e peirao de Muros.
 * Punto de venda: lonxa de Muros.
 * Épocas probables de extracción: xaneiro a marzo, novembro a decembro.
 
-### 123 Confraría de pescadores de Porto do Son.
+### 124 Confraría de pescadores de Porto do Son.
 
 * Días máximos de extracción: 84.
 * Punto de control: peirao de Porto do Son.
 * Punto de venda: lonxa de Porto do Son.
 * Épocas probables de extracción: de xaneiro a abril.
 
-### 124 Confraría de pescadores Carreira-Aguiño.
+### 125 Confraría de pescadores Carreira-Aguiño.
 
 * Días máximos de extracción: 84.
 * Puntos de control: Illa de Sagres, Illa de Sálvora e porto de Aguiño.
 * Punto de venda: lonxa de Aguiño.
 * Épocas probables de extracción: xaneiro a abril.
 
-### 125 Confraría de pescadores de Ribeira.
+### 126 Confraría de pescadores de Ribeira.
 
 * Días máximos de extracción: 124.
 * Punto de control e venda: lonxa de Ribeira.
 * Épocas probables de extracción: xaneiro a abril, novembro e decembro.
 
-### 126 Confraría de pescadores do Grove.
+### 127 Confraría de pescadores do Grove.
 
 * Días máximos de extracción: 120.
 * Puntos de control e venda: lonxa do Grove.
 * Épocas probables de extracción: xaneiro a abril, outubro a decembro.
 
-### 127 Confrarías de pescadores de Portonovo, Bueu e Sanxenxo.
+### 128 Confrarías de pescadores de Portonovo, Bueu e Sanxenxo.
 
 * Días máximos de extracción: 146.
 * Punto de control: zona de extracción.
 * Puntos de venda: lonxas de Portonovo e Bueu.
 * Épocas probables de extracción: xaneiro a abril, outubro a decembro.
 
-### 128 Confraría de pescadores de Cangas.
+### 129 Confraría de pescadores de Cangas.
 
 * Días máximos de extracción: 120.
 * Punto de control: zona de extracción.
 * Punto de venda: lonxa de Cangas.
 * Épocas probables de extracción: xaneiro a abril, outubro a decembro.
 
-### 129 Confraría de pescadores de Vigo.
+### 130 Confraría de pescadores de Vigo.
 
 * Días máximos de extracción: 120.
 * Puntos de control: zona de extracción e lonxa de Canido.
 * Punto de venda: lonxa de Canido.
 * Épocas probables de extracción: xaneiro a abril, outubro a decembro.
 
-### 130 Confraría de pescadores de Baiona.
+### 131 Confraría de pescadores de Baiona.
 
 * Días máximos de extracción: 70 a pé, 120 desde embarcación.
 * Punto de control e venda: lonxa de Baiona.
 * Épocas probables de extracción: xaneiro a abril, outubro a decembro.
 
-### 131 Confraría de pescadores da Guarda.
+### 132 Confraría de pescadores da Guarda.
 
 * Días máximos de extracción: 45.
 * Puntos de control: Pedornes, porto de Santa María de Oia, Tío Rincho,
@@ -1141,21 +1141,21 @@ explanada Horizonte e Ribel.
 
 ## Artigo 8º.-Navalla e longueirón.
 
-### 132 Plan de longueirón da confraría de pescadores de Ribadeo.
+### 133 Plan de longueirón da confraría de pescadores de Ribadeo.
 
 * Zona de traballo: ría de Ribadeo.
 * Días máximos de extracción: 18.
 * Punto de control e venda: lonxa de Ribadeo.
 * Épocas probables de extracción: agosto a outubro.
 
-### 133 Plan de longueirón vello da confraría de pescadores de Foz.
+### 134 Plan de longueirón vello da confraría de pescadores de Foz.
 
 * Zona de traballo: bancos de Fondás, O Taro e Fontorto.
 * Días máximos de extracción: 15.
 * Puntos de control e venda: lonxa de Foz.
 * Épocas probables de extracción: marzo, abril, setembro e outubro.
 
-### 134 Plan de longueirón da confraría de pescadores de Celeiro.
+### 135 Plan de longueirón da confraría de pescadores de Celeiro.
 
 * Zona de traballo: praia de Covas.
 * Días máximos de extracción: 24.
@@ -1163,7 +1163,7 @@ explanada Horizonte e Ribel.
 * Épocas probables de extracción: xaneiro a marzo, setembro a novembro.
 * A praia de Area permanecerá pechada para esta especie durante todo o ano.
 
-### 135 Plan de longueirón da confraría de pescadores do Vicedo.
+### 136 Plan de longueirón da confraría de pescadores do Vicedo.
 
 * Zona de traballo: praia de Arealonga e Lombo das Navallas.
 * Días máximos de extracción: 15.
@@ -1173,7 +1173,7 @@ explanada Horizonte e Ribel.
 * A zona de Punta Villabril a Punta Espiñeira permanecerá pechada todo o
 ano para o longueirón vello.
 
-### 136 Plan de longueirón das confrarías do Vicedo e O Barqueiro.
+### 137 Plan de longueirón das confrarías do Vicedo e O Barqueiro.
 
 * Zona de traballo: Lombo das Navallas.
 * Días máximos de extracción: 15.
@@ -1181,97 +1181,97 @@ ano para o longueirón vello.
 * Puntos de venda: lonxas do Vicedo e O Barqueiro.
 * Épocas probables de extracción: marzo, abril, agosto e setembro.
 
-### 137 Confraría de pescadores do Barqueiro-Bares.
+### 138 Confraría de pescadores do Barqueiro-Bares.
 
 * Días máximos de extracción: 26.
 * Puntos de control: praia de Lama, Ponte Vella, peiraos do Barqueiro e San Fiz.
 * Punto de venda: lonxa do Barqueiro.
 * Épocas probables de extracción: xullo, agosto e setembro.
 
-### 138 Confraría de pescadores de Cedeira.
+### 139 Confraría de pescadores de Cedeira.
 
 * Días máximos de extracción: 45.
 * Punto de control: Casa do Pescador, Vilarrube e lonxa de Cedeira.
 * Punto de venda: lonxa de Cedeira.
 * Épocas probables de extracción: abril a setembro.
 
-### 139 Confraría de pescadores de Sada.
+### 140 Confraría de pescadores de Sada.
 
 * Días máximos de extracción: 20.
 * Puntos de control: praia de Sada, Gandarío e Moruxo.
 * Punto de venda: lonxa de Sada.
 * Épocas probables de extracción: xaneiro, febreiro, marzo e abril.
 
-### 140 Asociación de Mariscadores Fonte de Santa Helena de Baldaio.
+### 141 Asociación de Mariscadores Fonte de Santa Helena de Baldaio.
 
 * Días máximos de extracción: 88.
 * Punto de control e venda: Fonte de Santa Helena.
 * Épocas probables de extracción: xaneiro a xullo.
 
-### 141 Confraría de pescadores de Camariñas.
+### 142 Confraría de pescadores de Camariñas.
 
 * Días máximos de extracción: 47.
 * Puntos de control: Ariño, Monte da Mina e Punta Sandía.
 * Punto de venda: lonxa de Camariñas.
 * Épocas probables de extracción: marzo a agosto.
 
-### 142 Confraría de pescadores de Muxía.
+### 143 Confraría de pescadores de Muxía.
 
 * Días máximos de extracción: 164.
 * Punto de control e venda: lonxa da confraría.
 * Punto de venda: lonxa municipal.
 * Épocas probables de extracción: xaneiro a decembro.
 
-### 143 Confraría de pescadores de Fisterra.
+### 144 Confraría de pescadores de Fisterra.
 
 * Días máximos de extracción: 97 a pé; 190 a mergullo.
 * Puntos de control: embarcación de vixilancia e lonxas de Fisterra e O Pindo.
 * Puntos de venda: lonxa de Fisterra e O Pindo.
 * Épocas probables de extracción: xaneiro a decembro. Excepto en Langosteira que será de xullo a decembro.
 
-### 144 Confraría de pescadores de Corcubión.
+### 145 Confraría de pescadores de Corcubión.
 
 * Días máximos de extracción: 25.
 * Puntos de control: praias de Corcubión, Estorde, Cee e O Ézaro.
 * Punto de venda: lonxa de Corcubión.
 * Épocas probables de extracción: marzo, abril, xullo, agosto e setembro.
 
-### 145 Confrarías de pescadores de Lira e O Pindo.
+### 146 Confrarías de pescadores de Lira e O Pindo.
 
 * Días máximos de extracción: 147.
 * Puntos de control: praia de Carnota e peirao de Lira.
 * Punto de venda: lonxa de Lira.
 * Épocas probables de extracción: marzo, abril, xuño a outubro.
 
-### 146 Confraría de pescadores de Muros.
+### 147 Confraría de pescadores de Muros.
 
 * Días máximos de extracción: 20.
 * Puntos de control: Bornalle e Ventín.
 * Punto de venda: lonxa de Muros e Esteiro.
 * Épocas probables de extracción: febreiro, marzo, xullo, agosto, setembro e decembro.
 
-### 147 Confraría de pescadores de Carreira-Aguiño.
+### 148 Confraría de pescadores de Carreira-Aguiño.
 
 * Días máximos de extracción: 105.
 * Puntos de control: praia de Carreira e peirao de Aguiño.
 * Punto de venda: lonxa de Aguiño.
 * Épocas probables de extracción: maio a setembro.
 
-### 148 Confraría de pescadores de Ribeira.
+### 149 Confraría de pescadores de Ribeira.
 
 * Días máximos de extracción: 85.
 * Puntos de control: Coroso, Touro, praia de Ladeira e lonxa de Ribeira.
 * Punto de venda: lonxa de Ribeira.
 * Épocas probables de extracción: xuño a setembro.
 
-### 149 Confraría de pescadores de Palmeira.
+### 150 Confraría de pescadores de Palmeira.
 
 * Días máximos de extracción: 86.
 * Punto de control: lancha de vixilancia.
 * Punto de venda: lonxas de Ribeira e A Pobra do Caramiñal.
 * Épocas probables de extracción: de xuño a setembro.
 
-### 150 Confraría de pescadores da Pobra do Caramiñal.
+### 151 Confraría de pescadores da Pobra do Caramiñal.
 
 * Días máximos de extracción: 41.
 * Puntos de control: Areal, Franco, Friscos e lonxa da Pobra do Caramiñal.
@@ -1281,21 +1281,21 @@ A pé: abril e maio.
 Desde embarcación: abril, maio, de setembro a decembro. Cabío estará
 pechado no mes de decembro.  
 
-### 151 Confraría de pescadores de Cabo de Cruz.
+### 152 Confraría de pescadores de Cabo de Cruz.
 
 * Días máximos de extracción: 20.
 * Puntos de control: praias de Barraña e Mañóns
 * Punto de venda: lonxa de Cabo de Cruz.
 * Épocas probables de extracción: abril e maio.
 
-### 152 Plan de navalla e longueirón da confraría de pescadores do Grove.
+### 153 Plan de navalla e longueirón da confraría de pescadores do Grove.
 
 * Zona de extracción: delimitarase na resolución de apertura.
 * Días máximos de extracción: 120.
 * Punto de control e venda: lonxa do Grove.
 * Épocas probables de extracción: de febreriro a outubro.
 
-### 153 Plan conxunto de navalla e longueirón das confrarías de pescadores de Portonovo, Sanxenxo, Raxó, Pontevedra, Lourizán, Bueu e Marín.
+### 154 Plan conxunto de navalla e longueirón das confrarías de pescadores de Portonovo, Sanxenxo, Raxó, Pontevedra, Lourizán, Bueu e Marín.
 
 * Zona de extracción: Punta Faxilda a Punta Morcegos.
 * Días máximos de extracción: 253.
@@ -1303,7 +1303,7 @@ pechado no mes de decembro.
 * Punto de venda: lonxa de Portonovo, Campelo e Bueu.
 * Épocas probables de extracción: de xaneiro a decembro.
 
-### 154 Plan de navalla e longueirón da confraría de pescadores de Bueu.
+### 155 Plan de navalla e longueirón da confraría de pescadores de Bueu.
 
 * Arte a utilizar: rastro de navalla.
 * Zona de extracción: Punta Morcegos a Punta Lapamán.
@@ -1311,7 +1311,7 @@ pechado no mes de decembro.
 * Puntos de control e venda: zona de extracción e lonxa de Bueu.
 * Épocas probables de extracción: de xaneiro a febreiro.
 
-### 155 Plan de navalla e longueirón da Confraría de Pescadores de Aldán.
+### 156 Plan de navalla e longueirón da Confraría de Pescadores de Aldán.
 
 * Zona de extracción: delimitarase na resolución de apertura.
 * Días máximos de extracción: 194.
@@ -1319,7 +1319,7 @@ pechado no mes de decembro.
 * Punto de venda: lonxa de Aldán.
 * Épocas probables de extracción: de xaneiro a abril, xullo a decembro.
 
-### 156 Plan de navalla e longueirón da confraría de pescadores de Cangas.
+### 157 Plan de navalla e longueirón da confraría de pescadores de Cangas.
 
 * Zona de extracción: delimitarase na resolución de apertura.
 * Días máximos de extracción: 180.
@@ -1327,7 +1327,7 @@ pechado no mes de decembro.
 * Punto de venda: lonxa de Cangas.
 * Épocas probables de extracción: xaneiro a decembro, cun descanso de dous meseses consecutivos no período comprendido entre febreiro e abril.
 
-### 157 Plan de navalla e longueirón da confraría de pescadores de Vigo.
+### 158 Plan de navalla e longueirón da confraría de pescadores de Vigo.
 
 * Zona de extracción: delimitarase na resolución de apertura.
 * Días máximos de extracción: 160.
@@ -1339,27 +1339,27 @@ pechado no mes de decembro.
 
 Segundo o disposto no artigo 16 do Decreto 423/1993, apróbanse os plans de extracción presentados polas confrarías e empresas, que se relacionan a continuación:
 
-### 158 Confraría de pescadores de Camariñas.
+### 159 Confraría de pescadores de Camariñas.
 
-### 159 Confraría de pescadores de Camelle.
+### 160 Confraría de pescadores de Camelle.
 
-### 160 Confraría de pescadores de Cangas.
+### 161 Confraría de pescadores de Cangas.
 
-### 161 Hispanagar, S.A.
+### 162 Hispanagar, S.A.
 
-### 162 Algas de Galicia, S.L.
+### 163 Algas de Galicia, S.L.
 
-### 163 Algamar C.B. Redondela.
+### 164 Algamar C.B. Redondela.
 
-### 164 Conservas y Ahumados Lou, S.L.
+### 165 Conservas y Ahumados Lou, S.L.
 
-### 165 Compañía Española de Algas Marinas, S.A.
+### 166 Compañía Española de Algas Marinas, S.A.
 
-### 166 Central Galaica de Plantas Medicinales.
+### 167 Central Galaica de Plantas Medicinales.
 
-### 167 Conservas Porto-Muíños.
+### 168 Conservas Porto-Muíños.
 
-### 168 Mariscos Calimar.
+### 169 Mariscos Calimar.
 
 De acordo co establecido no artigo 4 do decreto citado deberá solicitarse ante o delegado territorial cunha antelación mínima de 15 días, autorización para desenvolve-la actividade extractiva.
 
