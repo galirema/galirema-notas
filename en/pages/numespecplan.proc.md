@@ -50,7 +50,8 @@ o resultado desta consulta son os comandos SQL para cargar dicho campo en cada r
 
 -- pespec2001
 CREATE TABLE pespec2001 (
-    idesplan    INTEGER  PRIMARY KEY AUTOINCREMENT NOT NULL,
+    idesplan    INTEGER  PRIMARY KEY AUTOINCREMENT
+                NOT NULL,
     anualidad   INTEGER,
     idPlanAnual INTEGER,
     tipoCode    CHAR (4),
