@@ -1239,7 +1239,8 @@ Segundo o disposto no artigo 16 do Decreto 423/1993, apróbanse os plans de extr
 ### 161 Conservas y Ahumados Lou, S.L.
 
 ### 162 [ALDECA][].
-* Nota[¹]
+
+Nota: ALDECA es una marca con la que comercializaba en este momento Porto-Muiños
 
 De acordo co establecido no artigo 4 do decreto citado, deberá solicitarse ante o delegado territorial, cunha antelación mínima de 15 días, autorización para desenvolve-la actividade extractiva.
 
@@ -1299,8 +1300,6 @@ ANEXO I
 
 © Xunta de Galicia. Información mantida e publicada na internet pola Xunta de Galicia\
 [Oficina de Rexistro único e Información](http://www.xunta.es/oficina-de-rexistro-unico-e-informacion "Oficina de Rexistro único e Información") | [Suxestións e queixas](http://www.xunta.es/suxestions "Suxestións e queixas") | [Aviso legal](http://www.xunta.es/aviso-legal-do-portal-da-xunta "Aviso legal") |[Atendémolo/a](http://www.xunta.es/dog/suxestions.do "Atendémolo/a")
-
- [¹]: ALDECA es una marca con la que comercializaba Porto-Muiños
 
 
  [ALDECA]: http://www.emprendedores.es/casos-de-exito/porto-muinos-vende-conservas-algas
