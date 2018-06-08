@@ -1238,7 +1238,7 @@ Segundo o disposto no artigo 16 do Decreto 423/1993, apróbanse os plans de extr
 
 ### 161 Conservas y Ahumados Lou, S.L.
 
-### 162 [ALDECA]().
+### 162 [ALDECA][].
 * Nota[¹]
 
 De acordo co establecido no artigo 4 do decreto citado, deberá solicitarse ante o delegado territorial, cunha antelación mínima de 15 días, autorización para desenvolve-la actividade extractiva.
