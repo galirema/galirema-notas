@@ -31,6 +31,7 @@
 	* [EntidadPromotora](https://github.com/galirema/galirema/wiki/EntidadPromotora)
 	* [IndividualConjunto](https://github.com/galirema/galirema/wiki/IndividualConjunto)
 	* [ModalidadCaptura](https://github.com/galirema/galirema/wiki/ModalidadCaptura)
+	* [EspeciesCaptura](https://github.com/galirema/galirema/wiki/EspeciesCaptura)
 
 
 ## GitHuB Pages
