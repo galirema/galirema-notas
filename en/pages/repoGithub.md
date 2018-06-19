@@ -28,7 +28,7 @@
 	* [PescaDeGalicia](https://github.com/galirema/galirema/wiki/PescaDeGalicia)
 * [RepositorioGalirema](https://github.com/galirema/galirema/wiki/RepositorioGalirema)
 	1. [TipodePlan](https://github.com/galirema/galirema/wiki/TipodePlan)
-	1. [EntidadPromotora](https://github.com/galirema/galirema/wiki/EntidadPromotora)
+	2. [EntidadPromotora](https://github.com/galirema/galirema/wiki/EntidadPromotora)
 	1. [IndividualConjunto](https://github.com/galirema/galirema/wiki/IndividualConjunto)
 	1. [ModalidadCaptura](https://github.com/galirema/galirema/wiki/ModalidadCaptura)
 	1. [EspeciesCaptura](https://github.com/galirema/galirema/wiki/EspeciesCaptura)
