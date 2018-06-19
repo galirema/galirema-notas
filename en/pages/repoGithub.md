@@ -28,10 +28,17 @@
 	* [PescaDeGalicia](https://github.com/galirema/galirema/wiki/PescaDeGalicia)
 * [RepositorioGalirema](https://github.com/galirema/galirema/wiki/RepositorioGalirema)
 	1. [TipodePlan](https://github.com/galirema/galirema/wiki/TipodePlan)
-	2. [EntidadPromotora](https://github.com/galirema/galirema/wiki/EntidadPromotora)
-	3. [IndividualConjunto](https://github.com/galirema/galirema/wiki/IndividualConjunto)
-	4. [ModalidadCaptura](https://github.com/galirema/galirema/wiki/ModalidadCaptura)
-	5. [EspeciesCaptura](https://github.com/galirema/galirema/wiki/EspeciesCaptura)
+	1. [EntidadPromotora](https://github.com/galirema/galirema/wiki/EntidadPromotora)
+	1. [IndividualConjunto](https://github.com/galirema/galirema/wiki/IndividualConjunto)
+	1. [ModalidadCaptura](https://github.com/galirema/galirema/wiki/ModalidadCaptura)
+	1. [EspeciesCaptura](https://github.com/galirema/galirema/wiki/EspeciesCaptura)
+	1. [EspeciesCaptura](https://github.com/galirema/galirema/wiki/EspeciesCaptura)
+	1. [ZonaTrabajo](https://github.com/galirema/galirema/wiki/ZonaTrabajo)
+	1. [DiasMaxCaptura](https://github.com/galirema/galirema/wiki/DiasMaxCaptura)
+	1. [EpocaCaptura](https://github.com/galirema/galirema/wiki/EpocaCaptura)
+	1. [PuntosControl](https://github.com/galirema/galirema/wiki/PuntosControl)
+	1. [SubzonasCaptura](https://github.com/galirema/galirema/wiki/SubzonasCaptura)
+	1. [IdePlanExplotacion](https://github.com/galirema/galirema/wiki/IdePlanExplotacion)
 
 
 ## GitHuB Pages
