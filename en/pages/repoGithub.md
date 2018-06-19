@@ -27,11 +27,11 @@
 	* [DiarioOficialGalicia](https://github.com/galirema/galirema/wiki/DiarioOficialGalicia)
 	* [PescaDeGalicia](https://github.com/galirema/galirema/wiki/PescaDeGalicia)
 * [RepositorioGalirema](https://github.com/galirema/galirema/wiki/RepositorioGalirema)
-	* [TipodePlan](https://github.com/galirema/galirema/wiki/TipodePlan)
-	* [EntidadPromotora](https://github.com/galirema/galirema/wiki/EntidadPromotora)
-	* [IndividualConjunto](https://github.com/galirema/galirema/wiki/IndividualConjunto)
-	* [ModalidadCaptura](https://github.com/galirema/galirema/wiki/ModalidadCaptura)
-	* [EspeciesCaptura](https://github.com/galirema/galirema/wiki/EspeciesCaptura)
+	1. [TipodePlan](https://github.com/galirema/galirema/wiki/TipodePlan)
+	1. [EntidadPromotora](https://github.com/galirema/galirema/wiki/EntidadPromotora)
+	1. [IndividualConjunto](https://github.com/galirema/galirema/wiki/IndividualConjunto)
+	1. [ModalidadCaptura](https://github.com/galirema/galirema/wiki/ModalidadCaptura)
+	1. [EspeciesCaptura](https://github.com/galirema/galirema/wiki/EspeciesCaptura)
 
 
 ## GitHuB Pages
