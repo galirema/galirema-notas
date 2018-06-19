@@ -32,7 +32,6 @@
 	1. [IndividualConjunto](https://github.com/galirema/galirema/wiki/IndividualConjunto)
 	1. [ModalidadCaptura](https://github.com/galirema/galirema/wiki/ModalidadCaptura)
 	1. [EspeciesCaptura](https://github.com/galirema/galirema/wiki/EspeciesCaptura)
-	1. [EspeciesCaptura](https://github.com/galirema/galirema/wiki/EspeciesCaptura)
 	1. [ZonaTrabajo](https://github.com/galirema/galirema/wiki/ZonaTrabajo)
 	1. [DiasMaxCaptura](https://github.com/galirema/galirema/wiki/DiasMaxCaptura)
 	1. [EpocaCaptura](https://github.com/galirema/galirema/wiki/EpocaCaptura)
