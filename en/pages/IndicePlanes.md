@@ -24,7 +24,7 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 | [2003][] | dog2003.004 | (08/01/2003) | - | [DWk 2003](Draft-pexma2003-GL.md) |pexma pespec plantidad kp- bm-|
 | [2002][] | dog2002.006 | (09/01/2002) | - | [DWk 2002](Draft-pexma2002-GL.md) |pexma pespec plantidad kp- bm-|
 | [2001][] | dog2001.003 | (04/01/2001) | - | [DWk 2001](Draft-pexma2001-GL.md) |pexma pespec plantidad kp- bm-|
-| [2000][] | dog2000.003 | (05/01/2000) | - | [DWk 2000](Draft-pexma2000-GL.md) | - kp- bm-|
+| [2000][] | dog2000.003 | (05/01/2000) | - | [DWk 2000](Draft-pexma2000-GL.md) |pexma pespec plantidad kp- bm-|
 | [1999][] | dog1999.002 | (05/01/1999) | - | [DWk 1999](Draft-pexma1999-GL.md) | - kp- bm-|
 | [1998][] | dog1998.004 | (05/01/1998) | - | [DWk 1998](Draft-pexma1998-GL.md) | - kp- bm-|
 | [1997][] | dog1997.002 | (03/01/1997) | - | [DWk 1997](Draft-pexma1997-GL.md) | - kp- bm-|
