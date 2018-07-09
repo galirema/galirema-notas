@@ -45,6 +45,15 @@ Noutros casos as anotacións xa están mais cerca dunha documentación básica d
 
 * __Plan General 1992__ (De pdf a texto; Menú resumen; Texto de la Orden; Cuadros (A, B, C, D, E, F, G, H, I,); subir los Planes Anuales;)
 
+
+## Publicación en Wiki Galirema (Wikiia)
+
+* Inicio (presentación)
+* GaliremaInicio (menu principal de contenidos)
+* Plans anuais (indice dos plans anuais)
+
+
+
 ## Publicación de Datos
 
 * Los datos se plublican en formato ___csv___ en el repositorio [galirema/Data](https://github.com/galirema/galirema/blob/master/Data/ReadmeES.md)
