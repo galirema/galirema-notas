@@ -46,7 +46,7 @@ Noutros casos as anotacións xa están mais cerca dunha documentación básica d
 * __Plan General 1992__ (De pdf a texto; Menú resumen; Texto de la Orden; Cuadros (A, B, C, D, E, F, G, H, I,); subir los Planes Anuales;)
 
 
-## Publicación en Wiki Galirema (Wikiia)
+## Publicación en Wiki Galirema (Wikia)
 
 * Inicio (presentación)
 * GaliremaInicio (menu principal de contenidos)
