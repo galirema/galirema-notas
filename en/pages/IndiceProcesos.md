@@ -20,6 +20,8 @@ Noutros casos as anotacións xa están mais cerca dunha documentación básica d
 
 ## Información elaborada
 
+* Creación de los [menús de cuadros](menuCadros.md) de planes
+
 * [Número de especies](numespecplan.proc.md)
 
 * [Número de entidades](planeXentidad.md)
