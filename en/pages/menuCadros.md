@@ -33,13 +33,17 @@ Los elementos elegidos para generar el nombre del post son los siguientes:
 
 ```sql
 SELECT 
-   '[' || CASE WHEN length("idPlanAnual")= 1 THEN '00' || "idPlanAnual" WHEN length("idPlanAnual")= 2 THEN '0'||"idPlanAnual" ELSE "idPlanAnual"  END AS "codplan1",
+   '[' || CASE WHEN length("idPlanAnual")= 1 THEN '00' || "idPlanAnual"
+   WHEN length("idPlanAnual")= 2 THEN '0'||"idPlanAnual"
+   ELSE "idPlanAnual"  END AS "codplan1",
    '](http://www.galiciamarineira.info/content/pexma' || "anualidad" || "tipoCode"
-   || CASE WHEN length("idPlanAnual")= 1 THEN '00' || "idPlanAnual" || ')|' WHEN length("idPlanAnual")= 2 THEN '0'||"idPlanAnual" || ')|' ELSE "idPlanAnual" || ')|'  END AS "lingazon1",
+   || CASE WHEN length("idPlanAnual")= 1 THEN '00' || "idPlanAnual" || ')|'
+   WHEN length("idPlanAnual")= 2 THEN '0'||"idPlanAnual" || ')|'
+   ELSE "idPlanAnual" || ')|'  END AS "lingazon1",
    RTRIM("entidad") || '|' || RTRIM("modalidade") || '|' || RTRIM("especiesPlan") AS "fila plan"
    FROM "pexma2018"
    WHERE "tipoCode"
-   LIKE 'B%'
+   LIKE 'A%'
    ORDER by "idPlanAnual" ASC;
    ```
 
