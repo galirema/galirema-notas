@@ -4,6 +4,8 @@
 
 * Estos cuadros se obtienen mediante una consulta SQL.
 
+## El objetivo
+
 * El resultado de la consulta es un cuadro de cuatro columnas:
   * _idPlanAnual_: Identificador del plan
   * _Entidade(1)_: Entidad o entidades que proponen el plan
@@ -25,11 +27,15 @@ Los elementos elegidos para generar el nombre del post son los siguientes:
  CASE WHEN length("idPlanAnual")= 1 THEN '00' || "idPlanAnual" WHEN length("idPlanAnual")= 2 THEN '0'||"idPlanAnual" ELSE "idPlanAnual
  ```  
  Esta expresión se intercala dos veces en la consulta.
+
+## La consulta SQL
  
 * La consulta tiene tres partes:
-  * _codplan1_: Contiene la parte visible del enlace que es código del campo _idPlanAnual_ escrito con tres dígitos con las marcas de markdown (entre corchetes)
-  * _lingazon1_: La segunda parte del enlace la URL que señala al post con las correspondientes marcas (entre paréntesis)
-  * _fila plan_: el resto de la información de la tabla con las marcas correspondientes (en este caso el signo tuberia, la barra vertical)
+  * ___codplan1___: Contiene la parte visible del enlace que es código del campo _idPlanAnual_ escrito con tres dígitos con las marcas de markdown (entre corchetes)
+  * ___lingazon1___: La segunda parte del enlace la URL que señala al post con las correspondientes marcas (entre paréntesis)
+  * ___fila plan___: el resto de la información de la tabla con las marcas correspondientes (en este caso el signo tuberia, la barra vertical)
+
+Mostamos un ejemplo de esta consulta realizada para el año 2018 y las autorizaciones como tipo de plan.
 
 ```sql
 SELECT 
@@ -46,5 +52,16 @@ SELECT
    LIKE 'A%'
    ORDER by "idPlanAnual" ASC;
    ```
+## El resultado
 
+* Resultado de la consulta ya tiene incluidas las marcas del formato markdown pero debemos limpiarlo de los restos del formato csv al haber dividido la consulta en los tres campos que señalamos y que debemos eliminar
+
+codplan1	lingazon1	fila plan
+[001	](http://www.galiciamarineira.info/content/pexma2018AAUT001)|	A.M. Fonte Santa Helena-Baldaio|A pé;|CTG, CLJ, COC, RAE, OYF,
+[002	](http://www.galiciamarineira.info/content/pexma2018AAUT002)|	A.M Esteiro do río Anllóns|A pé;|COC, CLJ,
+[003	](http://www.galiciamarineira.info/content/pexma2018AAUT003)|	C.P. A Coruña|A pé; Embarcación;|CTG, CTS, COC, CLJ, OYF, OYG,
+[004	](http://www.galiciamarineira.info/content/pexma2018AAUT004)|	C.P. A Pobra do Caramiñal|A pé;|CTG, CLJ, CTS, COC, RAE,
+[005	](http://www.galiciamarineira.info/content/pexma2018AAUT005)|	C.P. A Pobra do Caramiñal|Embarcación;|CTG, CLJ, CTS, COC, VNA, VNR, VEV, DSX,
+[006	](http://www.galiciamarineira.info/content/pexma2018AAUT006)|	C.P. Aguiño|Embarcación;|CTS, VNR, VEV, DSX,
+[007	](http://www.galiciamarineira.info/content/pexma2018AAUT007)|	C.P. Barallobre|A pé;|CTS, CTG, CLJ, COC, OYF, VNA, PEE, OYG, LPZ, EQK, EQI,
   
