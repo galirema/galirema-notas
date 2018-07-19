@@ -39,32 +39,33 @@ Mostamos un ejemplo de esta consulta realizada para el año 2018 y las autorizac
 
 ```sql
 SELECT 
-   '[' || CASE WHEN length("idPlanAnual")= 1 THEN '00' || "idPlanAnual"
+   '|[' || CASE WHEN length("idPlanAnual")= 1 THEN '00' || "idPlanAnual"
    WHEN length("idPlanAnual")= 2 THEN '0'||"idPlanAnual"
    ELSE "idPlanAnual"  END AS "codplan1",
    '](http://www.galiciamarineira.info/content/pexma' || "anualidad" || "tipoCode"
    || CASE WHEN length("idPlanAnual")= 1 THEN '00' || "idPlanAnual" || ')|'
    WHEN length("idPlanAnual")= 2 THEN '0'||"idPlanAnual" || ')|'
    ELSE "idPlanAnual" || ')|'  END AS "lingazon1",
-   RTRIM("entidad") || '|' || RTRIM("modalidade") || '|' || RTRIM("especiesPlan") AS "fila plan"
+   RTRIM("entidad") || '|' || RTRIM("modalidade") || '|' || RTRIM("especiesPlan" || '|') AS "fila plan"
    FROM "pexma2018"
    WHERE "tipoCode"
    LIKE 'A%'
    ORDER by "idPlanAnual" ASC;
-   ```
+```
+
 ## El resultado
 
 * Resultado de la consulta ya tiene incluidas las marcas del formato markdown pero debemos limpiarlo de los restos del formato csv al haber dividido la consulta en los tres campos que señalamos y que ahora debemos eliminar
 
 ``` markdown
 codplan1,lingazon1,fila plan
-[001,](http://www.galiciamarineira.info/content/pexma2018AAUT001)|,"A.M. Fonte Santa Helena-Baldaio|A pé;|CTG, CLJ, COC, RAE, OYF,"
-[002,](http://www.galiciamarineira.info/content/pexma2018AAUT002)|,"A.M Esteiro do río Anllóns|A pé;|COC, CLJ,"
-[003,](http://www.galiciamarineira.info/content/pexma2018AAUT003)|,"C.P. A Coruña|A pé; Embarcación;|CTG, CTS, COC, CLJ, OYF, OYG,"
-[004,](http://www.galiciamarineira.info/content/pexma2018AAUT004)|,"C.P. A Pobra do Caramiñal|A pé;|CTG, CLJ, CTS, COC, RAE,"
-[005,](http://www.galiciamarineira.info/content/pexma2018AAUT005)|,"C.P. A Pobra do Caramiñal|Embarcación;|CTG, CLJ, CTS, COC, VNA, VNR, VEV, DSX,"
-[006,](http://www.galiciamarineira.info/content/pexma2018AAUT006)|,"C.P. Aguiño|Embarcación;|CTS, VNR, VEV, DSX,"
-[007,](http://www.galiciamarineira.info/content/pexma2018AAUT007)|,"C.P. Barallobre|A pé;|CTS, CTG, CLJ, COC, OYF, VNA, PEE, OYG, LPZ, EQK, EQI,"
+|[001,](http://www.galiciamarineira.info/content/pexma2018AAUT001)|,"A.M. Fonte Santa Helena-Baldaio|A pé;|CTG, CLJ, COC, RAE, OYF,|"
+|[002,](http://www.galiciamarineira.info/content/pexma2018AAUT002)|,"A.M Esteiro do río Anllóns|A pé;|COC, CLJ,|"
+|[003,](http://www.galiciamarineira.info/content/pexma2018AAUT003)|,"C.P. A Coruña|A pé; Embarcación;|CTG, CTS, COC, CLJ, OYF, OYG,|"
+|[004,](http://www.galiciamarineira.info/content/pexma2018AAUT004)|,"C.P. A Pobra do Caramiñal|A pé;|CTG, CLJ, CTS, COC, RAE,|"
+|[005,](http://www.galiciamarineira.info/content/pexma2018AAUT005)|,"C.P. A Pobra do Caramiñal|Embarcación;|CTG, CLJ, CTS, COC, VNA, VNR, VEV, DSX,|"
+|[006,](http://www.galiciamarineira.info/content/pexma2018AAUT006)|,"C.P. Aguiño|Embarcación;|CTS, VNR, VEV, DSX,|"
+|[007,](http://www.galiciamarineira.info/content/pexma2018AAUT007)|,"C.P. Barallobre|A pé;|CTS, CTG, CLJ, COC, OYF, VNA, PEE, OYG, LPZ, EQK, EQI,|"
 ```
 
 * Una vez limpio e introduciendo la marcas de la cabecera del cuadro _markdown_ el código queda así:
@@ -72,14 +73,15 @@ codplan1,lingazon1,fila plan
 ```markdown
 |idPlanAnual|Entidade(1)|Modalidade|Especies(2)|
 |----------:|:----------|:---------|:----------|
-[001](http://www.galiciamarineira.info/content/pexma2018AAUT001)|A.M. Fonte Santa Helena-Baldaio|A pé;|CTG, CLJ, COC, RAE, OYF,
-[002](http://www.galiciamarineira.info/content/pexma2018AAUT002)|A.M Esteiro do río Anllóns|A pé;|COC, CLJ,
-[003](http://www.galiciamarineira.info/content/pexma2018AAUT003)|C.P. A Coruña|A pé; Embarcación;|CTG, CTS, COC, CLJ, OYF, OYG,
-[004](http://www.galiciamarineira.info/content/pexma2018AAUT004)|C.P. A Pobra do Caramiñal|A pé;|CTG, CLJ, CTS, COC, RAE,
-[005](http://www.galiciamarineira.info/content/pexma2018AAUT005)|C.P. A Pobra do Caramiñal|Embarcación;|CTG, CLJ, CTS, COC, VNA, VNR, VEV, DSX,
-[006](http://www.galiciamarineira.info/content/pexma2018AAUT006)|C.P. Aguiño|Embarcación;|CTS, VNR, VEV, DSX,
-[007](http://www.galiciamarineira.info/content/pexma2018AAUT007)|C.P. Barallobre|A pé;|CTS, CTG, CLJ, COC, OYF, VNA, PEE, OYG, LPZ, EQK, EQI,
+|[001](http://www.galiciamarineira.info/content/pexma2018AAUT001)|A.M. Fonte Santa Helena-Baldaio|A pé;|CTG, CLJ, COC, RAE, OYF,|
+|[002](http://www.galiciamarineira.info/content/pexma2018AAUT002)|A.M Esteiro do río Anllóns|A pé;|COC, CLJ,|
+|[003](http://www.galiciamarineira.info/content/pexma2018AAUT003)|C.P. A Coruña|A pé; Embarcación;|CTG, CTS, COC, CLJ, OYF, OYG,|
+|[004](http://www.galiciamarineira.info/content/pexma2018AAUT004)|C.P. A Pobra do Caramiñal|A pé;|CTG, CLJ, CTS, COC, RAE,|
+|[005](http://www.galiciamarineira.info/content/pexma2018AAUT005)|C.P. A Pobra do Caramiñal|Embarcación;|CTG, CLJ, CTS, COC, VNA, VNR, VEV, DSX,|
+|[006](http://www.galiciamarineira.info/content/pexma2018AAUT006)|C.P. Aguiño|Embarcación;|CTS, VNR, VEV, DSX,|
+|[007](http://www.galiciamarineira.info/content/pexma2018AAUT007)|C.P. Barallobre|A pé;|CTS, CTG, CLJ, COC, OYF, VNA, PEE, OYG, LPZ, EQK, EQI,|
 ```
+
 * El resultado final con los enlaces apuntando a los post de <http://www.galiciamarineira.info> es:
 
 |idPlanAnual|Entidade(1)|Modalidade|Especies(2)|
