@@ -12,6 +12,21 @@
 
 * En esta consulta hemos incrustado los marcas de formato de _markdown_ para que aparezca como una cuadro, también se ha introducido las url que los enlazan con los post de __galicia mariñeira__ donde se publican los detalles de cada plan anual.
 
+* En esta consulta icluye el enlace con los post de detalle de cada plan anual de explotación, en este caso para un site drupal que es galiciamarineira.info.  
+Para que sea eficiente el nombre de estos post debe ser generado automaticamente y en el que deben entrar una serie de elementos que identifiquen exactamente cada plan.  
+Los elementos elegidos para generar el nombre del post son los siguientes:
+ * _pexma_ es un acrónimo de __Plan de EXplotación MArisquera__
+ * _año de vigencia del plan anual_ cuatro dígitos __0000__
+ * _Tipo de plan_ en los que la orden incluye a ese plan que en la tabla anual está recogido en el campo _«tipoCode»_
+ * _identificación del plan_ para eso utilizamos el campo _«idPlanAnual»_ de la tabla de importación de datos de la que es la clave primaria y se autoincrementa cada vez que genera uno nuevo.  
+ Como es un numero entero para integrarlo en una variable alfanumerica como es el nombre del post debemos introducir ceros a la izquierda para que mantenga los tres dígitos necesarios.  
+ Para hacerlo automaticamente en la consulta utilizamos la expresión _CASE WHEN - ELSE- END_  
+ ```sql
+ CASE WHEN length("idPlanAnual")= 1 THEN '00' || "idPlanAnual" WHEN length("idPlanAnual")= 2 THEN '0'||"idPlanAnual" ELSE "idPlanAnual
+ ```  
+ Esta Epresión se intercala dos veces en la consulta.
+ 
+
 * La consulta tiene tres partes:
   * _codplan1_:
   * _lingazon1_:
