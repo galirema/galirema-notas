@@ -28,6 +28,7 @@ Los elementos elegidos para generar el nombre del post son los siguientes:
  
 
 * La consulta tiene tres partes:
-  * _codplan1_:
-  * _lingazon1_:
-  * _fila plan_:
+  * _codplan1_: Contiene la parte visible del enlace que es código del campo _idPlanAnual_ escrito con tres dígitos con las marcas de markdown (entre corchetes)
+  * _lingazon1_: La segunda parte del enlace la URL que señala al post con las correspondientes marcas (entre paréntesis)
+  * _fila plan_: el resto de la información de la tabla con las marcas correspondientes (en este caso el signo tuberia la barra vertical)
+  
