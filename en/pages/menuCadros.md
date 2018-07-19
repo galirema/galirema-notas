@@ -54,7 +54,7 @@ SELECT
    ```
 ## El resultado
 
-* Resultado de la consulta ya tiene incluidas las marcas del formato markdown pero debemos limpiarlo de los restos del formato csv al haber dividido la consulta en los tres campos que señalamos y que debemos eliminar
+* Resultado de la consulta ya tiene incluidas las marcas del formato markdown pero debemos limpiarlo de los restos del formato csv al haber dividido la consulta en los tres campos que señalamos y que ahora debemos eliminar
 
 ``` markdown
 codplan1,lingazon1,fila plan
