@@ -94,3 +94,4 @@ codplan1,lingazon1,fila plan
 |[006](http://www.galiciamarineira.info/content/pexma2018AAUT006)|C.P. Aguiño|Embarcación;|CTS, VNR, VEV, DSX,|
 |[007](http://www.galiciamarineira.info/content/pexma2018AAUT007)|C.P. Barallobre|A pé;|CTS, CTG, CLJ, COC, OYF, VNA, PEE, OYG, LPZ, EQK, EQI,|
 
+
