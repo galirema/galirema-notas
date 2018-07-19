@@ -67,7 +67,7 @@ codplan1,lingazon1,fila plan
 [007,](http://www.galiciamarineira.info/content/pexma2018AAUT007)|,"C.P. Barallobre|A pé;|CTS, CTG, CLJ, COC, OYF, VNA, PEE, OYG, LPZ, EQK, EQI,"
 ```
 
-* Una vez limpio e introduciendo la marcas de la tabla que así:
+* Una vez limpio e introduciendo la marcas de la cabecera del cuadro _markdown_ el código queda así:
 
 ```markdown
 |idPlanAnual|Entidade(1)|Modalidade|Especies(2)|
@@ -80,7 +80,7 @@ codplan1,lingazon1,fila plan
 [006](http://www.galiciamarineira.info/content/pexma2018AAUT006)|C.P. Aguiño|Embarcación;|CTS, VNR, VEV, DSX,
 [007](http://www.galiciamarineira.info/content/pexma2018AAUT007)|C.P. Barallobre|A pé;|CTS, CTG, CLJ, COC, OYF, VNA, PEE, OYG, LPZ, EQK, EQI,
 ```
-
+* El resultado final con los enlaces activos es:
 
 |idPlanAnual|Entidade(1)|Modalidade|Especies(2)|
 |----------:|:----------|:---------|:----------|
