@@ -24,7 +24,7 @@ Los elementos elegidos para generar el nombre del post son los siguientes:
  ```sql
  CASE WHEN length("idPlanAnual")= 1 THEN '00' || "idPlanAnual" WHEN length("idPlanAnual")= 2 THEN '0'||"idPlanAnual" ELSE "idPlanAnual
  ```  
- Esta Epresión se intercala dos veces en la consulta.
+ Esta expresión se intercala dos veces en la consulta.
  
 
 * La consulta tiene tres partes:
