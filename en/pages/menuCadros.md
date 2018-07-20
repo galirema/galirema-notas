@@ -95,4 +95,4 @@ codplan1,lingazon1,fila plan
 |[007](http://www.galiciamarineira.info/content/pexma2018AAUT007)|C.P. Barallobre|A pé;|CTS, CTG, CLJ, COC, OYF, VNA, PEE, OYG, LPZ, EQK, EQI,|
 
 
-* El resultado en __Galicia Mariñeira__ piede verse en este [enlace](http://www.galiciamarineira.info/content/planes-general-y-espec%C3%ADficos-2018#cadroAAUT)
+* El resultadode esta consulta puede verse en este [enlace](http://www.galiciamarineira.info/content/planes-general-y-espec%C3%ADficos-2018#cadroAAUT) a __Galicia Mariñeira__.
