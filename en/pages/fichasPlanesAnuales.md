@@ -59,4 +59,4 @@ El efecto que produce es que cuando pasas el puntero del ratón se impresiona en
 *[COC]: Berberecho
 ```
 
-![ejemplo001](https://photos.app.goo.gl/5CvDWZHRQjhwZjXg8)
+![ejemplo001](https://photos.app.goo.gl/YK2bwqDeM7RfXD8S6)
