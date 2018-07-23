@@ -96,3 +96,20 @@ codplan1,lingazon1,fila plan
 
 
 * El resultadode esta consulta puede verse en este [enlace](http://www.galiciamarineira.info/content/planes-general-y-espec%C3%ADficos-2018#cadroAAUT) a __Galicia Mariñeira__.
+
+## Procesos ejecutados
+
+* 2013
+* 2012
+* 2011
+* 2010
+* 2009
+* 2008
+* 2007
+* 2006
+* 2005
+* 2004
+* 2003
+* 2002
+* 2001
+* 2000
