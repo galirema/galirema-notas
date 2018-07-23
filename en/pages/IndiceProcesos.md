@@ -20,6 +20,7 @@ Noutros casos as anotacións xa están mais cerca dunha documentación básica d
 
 ## Información elaborada
 
+* Generación de las [fichas de los planes anuales](fichasPlanesAnuales.md) a partir de la base de datos
 * Creación de los [menús de cuadros](menuCadros.md) de planes
 
 * [Número de especies](numespecplan.proc.md)
