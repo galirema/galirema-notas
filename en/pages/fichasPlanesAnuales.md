@@ -41,6 +41,21 @@ ORDER BY "tipoCode", "idPlanAnual";
 
 * Para filtrar la consulta por tipo de plan hay que descomentar la clausula WHERE y elegir el tipo de plan por su primer caracter (en el ejemplo estaria filtrada por los planes de autorizaciones «AAUT»).
 
-* Para facilitar el formateado del informe del plan hemos introducido en la consulta además de las marcas de __markdown__ unas marcas propias como ___¿-?___ que indica que debo introducir un retorno de carro. Otra marca propia es el doble signo de tanto por ciento ___%%___ para enmarcar una información por ahora desconocida como es el código de las __AXU__ «Áreas de Xestión Unificada» Que es las zonas de producción que son gestionadas por la misma normativa.
+* Para facilitar el formateado del informe del plan hemos introducido en la consulta además de las marcas de __markdown__ unas marcas propias como ___¿-?___ que indica que debo introducir un retorno de carro. Otra marca propia es el doble signo de tanto por ciento ___%%___ para enmarcar una información por ahora desconocida como es el código de las [AXU](indicesZonasProduccion.md) _«Áreas de Xestión Unificada»_ que es las zonas de producción que son gestionadas por la misma normativa.
+
+* Para completar el documento obtenido con la consulta, utilizamos unas de las características de markdown para facilitar el uso de abreviaturas que puenden repetirse muchas veces en un documento que consiste en añadir una lista de las abreviaturas y su significado al final del documento.
+
+```markdown
+*[CTS]: Ameixa babosa
+*[ULO]: Cornicha
+*[VNA]: Ameixa bicuda
+*[CTG]: Ameixa fina
+*[CLJ]: Ameixa xaponesa
+*[VNR]: Ameixa rubia
+*[KLK]: Ameixón
+*[GKL]: Rabioso
+*[UTL]: Arola
+*[COC]: Berberecho
+```
 
 
