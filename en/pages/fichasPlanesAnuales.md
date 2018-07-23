@@ -13,6 +13,7 @@ La principal destino es el de documentos HTML para ser publicados en la web.
 
 * La consulta obtiene toda la información que que hemos digitalizado de las órdenes publicadas en el _D.O.G._ y en los documentos de los planes anuales publicado en formato _PDF_ en _pescadegalicia.gal_ y deja espacio para cuandola información esté relacionada con la información del gis _Sigremar_.
 
+
 ```sql
 SELECT 
 '<!--Pexma2000' || "tipoCode"  AS 'Nome da Ficha',
@@ -37,4 +38,7 @@ FROM "pexma2000"
 -- WHERE "tipoCode" LIKE 'A%'  -- filtro para ejecutar por tipo de plan
 ORDER BY "tipoCode", "idPlanAnual";
 ```
+
+* Para filtrar la consulta por tipo de plan hay que descomentar la clausula WHERE y elegir el tipo de plan por su primer caracter (en el ejemplo estaria filtrada por los planes para autorizaciones (AAUT)).
+
 
