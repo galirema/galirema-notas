@@ -11,6 +11,8 @@ La principal destino es el de documentos HTML para ser publicados en la web.
 
 ## La consulta SQL
 
+* La consulta obtiene toda la información que que hemos digitalizado de las órdenes publicadas en el _D.O.G._ y en los documentos de los planes anuales publicado en formato _PDF_ en _pescadegalicia.gal_ y deja espacio para cuandola información esté relacionada con la información del gis _Sigremar_.
+
 ```sql
 SELECT 
 '<!--Pexma2000' || "tipoCode"  AS 'Nome da Ficha',
@@ -32,7 +34,7 @@ CASE WHEN length("idPlanAnual")= 1 THEN '00' || "idPlanAnual"||'%%' WHEN length(
 CASE WHEN UPPER("conxunto")= 'T' THEN 'SI' ELSE 'NO' END,
 '¿-?url Ficha|<' ||  "urlFicha" || '>¿-?BMSigremar|'|| "BMSigremar" AS "ShortURL-resto"
 FROM "pexma2000"
---WHERE "tipoCode" LIKE 'A%'  -- filtro para ejecutar por tipo de plan
+-- WHERE "tipoCode" LIKE 'A%'  -- filtro para ejecutar por tipo de plan
 ORDER BY "tipoCode", "idPlanAnual";
 ```
 
