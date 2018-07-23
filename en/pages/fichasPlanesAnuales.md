@@ -39,6 +39,6 @@ FROM "pexma2000"
 ORDER BY "tipoCode", "idPlanAnual";
 ```
 
-* Para filtrar la consulta por tipo de plan hay que descomentar la clausula WHERE y elegir el tipo de plan por su primer caracter (en el ejemplo estaria filtrada por los planes para autorizaciones (AAUT)).
+* Para filtrar la consulta por tipo de plan hay que descomentar la clausula WHERE y elegir el tipo de plan por su primer caracter (en el ejemplo estaria filtrada por los planes para autorizaciones «AAUT»).
 
 
