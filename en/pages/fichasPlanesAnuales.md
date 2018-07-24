@@ -75,4 +75,99 @@ El efecto que produce es que cuando pasas el puntero del ratón se impresiona en
 "<!--Pexma2008AAUT"	"004"	"-->¿-?## Pexma 2008¿-?### AAUT¿-?# "	"004 "	"C.P. A Coruña"	"¿-? ¿-?|Campo|Contenido|¿-?|:----|:--------|¿-?Código plan|"	"004"	"¿-?entidad|C.P. A Coruña"	"¿-?modalidad|A pé; Embarcación;"	"¿-?especies|CTG, CTS, CLJ, COC,"	"¿-?zona de Trabajo |Zonas de autorización %%2008 A"	"004%%"	"¿-?dias max. |A pé: 13 días; Embarc: 24 días"	"¿-?epoca de Trabajo |A pé: de setembro a decembro; Embarc: de xaneiro a marzo e de setembro a decembro"	"¿-?puntos de Control|Punto de venda autorizado no lugar das Xubias (A Coruña)"	"¿-?Tipo de plan|AAUT¿-?Conjunto|"	"NO"	"¿-?url Ficha|<http://goo.gl/3mNONd>¿-?BMSigremar|zona de autorización (CF-001), (CF-002), (CF-004), (CF-005), (CF-006), (CF-007), (CF-008), (CF-009), (CF-166),"
 ~~~
 
-* Para ue sean mas vi 
+* Para que sean mas visible en el ejemplo he utilizado como separador en vez de la coma (¨,¨) el tabulador (¨\t¨) las marcas que debo eliminar o cambiar son las siguientes:  
+|Marca|Acción|Nueva Marca|Comentario|
+|:----|:----:|----------:|----------|
+|¨\t¨|Eliminar||Quitmos la separación entre los campos de la consulta|
+|¿-?|Cambiar| \n|Cambiamos la marca por un retorno de carro añadiendo una linea|
+|"\n"|Cambiar| \n\n\n|Pera separar dos registros distintos añadimos 3 retornos de carro (3 lineas)|
+
+* Como resultado de los cambios realizados es el sigiente:
+
+```markdown
+<!--Pexma2008AAUT001-->
+## Pexma 2008
+### AAUT
+# 001 C.P. O Vicedo
+ 
+|Campo|Contenido|
+|:----|:--------|
+Código plan|001
+entidad|C.P. O Vicedo
+modalidad|A pé;
+especies|DON,
+zona de Trabajo |Praia de Arealonga e Lombo das Navallas %%2008 A001%%
+dias max. |30
+epoca de Trabajo |Xaneiro, febreiro, De outubro a decembro
+puntos de Control|Caseta de Arealonga e Lombo das Navallas
+Tipo de plan|AAUT
+Conjunto|NO
+url Ficha|<http://goo.gl/SphStt>
+BMSigremar|Praia de Arealonga, dende Os Castelos a Punta Pena Furada e Lombo das Navallas (CL-117),
+
+
+<!--Pexma2008AAUT002-->
+## Pexma 2008
+### AAUT
+# 002 A.M. Fonte Santa Helena-Baldaio
+ 
+|Campo|Contenido|
+|:----|:--------|
+Código plan|002
+entidad|A.M. Fonte Santa Helena-Baldaio
+modalidad|A pé;
+especies|CTG, CTS, COC, OYF,
+zona de Trabajo |Lagoas de Baldaio %%2008 A002%%
+dias max. |44
+epoca de Trabajo |Marzo, abril, De xuño a decembro
+puntos de Control|Fonte Santa Helena
+Tipo de plan|AAUT
+Conjunto|NO
+url Ficha|<http://goo.gl/LOzM1X>
+BMSigremar|Lagoas de Baldaio (CF-040), (CF-167),
+
+
+<!--Pexma2008AAUT003-->
+## Pexma 2008
+### AAUT
+# 003 A.M. Esteiro do río Anllóns
+ 
+|Campo|Contenido|
+|:----|:--------|
+Código plan|003
+entidad|A.M. Esteiro do río Anllóns
+modalidad|A pé;
+especies|COC, CLJ, PEE,
+zona de Trabajo |Zona de autorización (marxe dereita da enseada do río Anllóns, entre illa Cagallóns e liña de punta Revoleas e enseada de Insua) %%2008 A003%%
+dias max. |COC: 220 días, CLJ: 9 días; PEE: 9 días
+epoca de Trabajo |COC: de xaneiro a decembro; CLJ e PEE: decembro
+puntos de Control|Pedras de Cambón, O Pendón, Ourixeira, Lodeiro
+Tipo de plan|AAUT
+Conjunto|NO
+url Ficha|<http://goo.gl/Ejqf61>
+BMSigremar|Zonas: (A, A1/2, A3, G, (CM-121),) O Couto (CM-093), Zona Bígaro; 
+
+
+<!--Pexma2008AAUT004-->
+## Pexma 2008
+### AAUT
+# 004 C.P. A Coruña
+ 
+|Campo|Contenido|
+|:----|:--------|
+Código plan|004
+entidad|C.P. A Coruña
+modalidad|A pé; Embarcación;
+especies|CTG, CTS, CLJ, COC,
+zona de Trabajo |Zonas de autorización %%2008 A004%%
+dias max. |A pé: 13 días; Embarc: 24 días
+epoca de Trabajo |A pé: de setembro a decembro; Embarc: de xaneiro a marzo e de setembro a decembro
+puntos de Control|Punto de venda autorizado no lugar das Xubias (A Coruña)
+Tipo de plan|AAUT
+Conjunto|NO
+url Ficha|<http://goo.gl/3mNONd>
+BMSigremar|zona de autorización (CF-001), (CF-002), (CF-004), (CF-005), (CF-006), (CF-007), (CF-008), (CF-009), (CF-166),
+```
+
+
+
