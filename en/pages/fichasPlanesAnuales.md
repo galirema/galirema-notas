@@ -16,9 +16,9 @@ La principal destino es el de documentos HTML para ser publicados en la web.
 
 ```sql
 SELECT 
-'<!--Pexma2000' || "tipoCode"  AS 'Nome da Ficha',
+'<!--Pexma2008' || "tipoCode"  AS 'Nome da Ficha',
 CASE WHEN length("idPlanAnual")= 1 THEN '00' || "idPlanAnual" WHEN length("idPlanAnual")= 2 THEN '0'||"idPlanAnual" ELSE "idPlanAnual"  END AS "codplan1", -- Comentario inicial: Nombre del post
-'-->¿-?## Pexma 2000¿-?### ' || "tipoCode" || '¿-?# ' AS "Encabezado01",
+'-->¿-?## Pexma 2008¿-?### ' || "tipoCode" || '¿-?# ' AS "Encabezado01",
 CASE WHEN length("idPlanAnual")= 1 THEN '00' || "idPlanAnual" || ' ' WHEN length("idPlanAnual")= 2 THEN '0' ||"idPlanAnual" || ' ' ELSE "idPlanAnual" || ' '  END AS codplan2, 
 RTRIM("entidad") AS "Encabezado02",
 '¿-? ¿-?|Campo|Contenido|¿-?|:----|:--------|¿-?Código plan|' As "PlanAnual",
@@ -26,7 +26,7 @@ CASE WHEN length("idPlanAnual")= 1 THEN '00' || "idPlanAnual" WHEN length("idPla
 '¿-?entidad|' || rtrim("entidad") AS Entidade,
 '¿-?modalidad|' || rtrim("modalidade") AS Modalidade,
 '¿-?especies|' || rtrim("especiesPlan") AS Especies,
-'¿-?zona de Trabajo |' || rtrim("zonaTraballo") || ' %%2000 ' || substr("tipoCode",1,1) AS Zona,
+'¿-?zona de Trabajo |' || rtrim("zonaTraballo") || ' %%2008 ' || substr("tipoCode",1,1) AS Zona,
 CASE WHEN length("idPlanAnual")= 1 THEN '00' || "idPlanAnual"||'%%' WHEN length("idPlanAnual")= 2 THEN '0' || "idPlanAnual"||'%%' ELSE "idPlanAnual"||'%%'  END AS "codplan4",
 '¿-?dias max. |' || rtrim("diasMax") AS Dias,
 '¿-?epoca de Trabajo |' || rtrim("epocaTraballo") AS Calendario,
@@ -34,7 +34,7 @@ CASE WHEN length("idPlanAnual")= 1 THEN '00' || "idPlanAnual"||'%%' WHEN length(
 '¿-?Tipo de plan|' || "tipoCode" || '¿-?Conjunto|' AS Tipoplan,
 CASE WHEN UPPER("conxunto")= 'T' THEN 'SI' ELSE 'NO' END,
 '¿-?url Ficha|<' ||  "urlFicha" || '>¿-?BMSigremar|'|| "BMSigremar" AS "ShortURL-resto"
-FROM "pexma2000"
+FROM "pexma2008"
 -- WHERE "tipoCode" LIKE 'A%'  -- filtro para ejecutar por tipo de plan
 ORDER BY "tipoCode", "idPlanAnual";
 ```
@@ -61,5 +61,15 @@ El efecto que produce es que cuando pasas el puntero del ratón se impresiona en
 
 ![ejemplo001](https://lh3.googleusercontent.com/ZObxbix2-0egUI4JbGXypPjhoj6rQcC0DfTmNUXYna9tfX2CFnM7iMDenV867c7iBEUBK0eR5YIfQKq_UMPveNXfBrDlE10abkchVhh2t3ZzRy2UjHILfqkGUdRcNl9hF-1JjPlJQNAlRWR7fhHCWpWV01VpTgrQ55pl5-yetlx1Mfdy8h2NDFDVKtKiTUdIjAragfGq-Rr09VFGousU5lyFutbbOn77KFjpVRAE7HoaHt5y_rmGHMGNg_qxzkWmfF6mKCwbQnIU2eOJCHNkWbBckQgsq2v-4hKZfRJv826Jr8_64HYcQCrSwvzM1kbtyTE-zE1TvkPWTWbhLBtibcE0aWE0RbjBvApRKzQeZCvbTkFJtaGQSLo_JfLi68jhOVQj0EKO7KScjLO3yUmCMX7VVhqGWdzO_Fwwk3LVFWaiOi20hiUR_E6bhVNAPICEI6RNDAlm0F__GzjNOaeiUP2zbUXIu_4SqAhA10nvrkPHNBILn81cZDBVkmgMYh8oamyBfDSbbEnxCErQjGc5whyStTBh3aCtv5Y7Ti_LmjlprH4PEfWF1ByiQljbMZ4HkgaE5jHMYvl8bpppjPzYp1gFFaqH_OGbAzpe2ICsCDp3zDWpzGaKRJBDP-SW1zNrjfDk3fJAzwyGDOj94Jzz-SjdAQMp9mDw=w374-h289-no)
 
+## El resultado de la consulta
 
+* Como ejemplo hemos elejido el 2008 ya que es el primer año que tenemos acceso a los planes individuales anuales y por lo tanto tenemos información de todos los campos de la tabla.
 
+* El resultado nos devuelve 228 filas, una por cada plan aprobado.
+
+~~~
+"<!--Pexma2008AAUT"	"001"	"-->¿-?## Pexma 2008¿-?### AAUT¿-?# "	"001 "	"C.P. O Vicedo"	"¿-? ¿-?|Campo|Contenido|¿-?|:----|:--------|¿-?Código plan|"	"001"	"¿-?entidad|C.P. O Vicedo"	"¿-?modalidad|A pé;"	"¿-?especies|DON,"	"¿-?zona de Trabajo |Praia de Arealonga e Lombo das Navallas %%2008 A"	"001%%"	"¿-?dias max. |30"	"¿-?epoca de Trabajo |Xaneiro, febreiro, De outubro a decembro"	"¿-?puntos de Control|Caseta de Arealonga e Lombo das Navallas"	"¿-?Tipo de plan|AAUT¿-?Conjunto|"	"NO"	"¿-?url Ficha|<http://goo.gl/SphStt>¿-?BMSigremar|Praia de Arealonga, dende Os Castelos a Punta Pena Furada e Lombo das Navallas (CL-117),"
+"<!--Pexma2008AAUT"	"002"	"-->¿-?## Pexma 2008¿-?### AAUT¿-?# "	"002 "	"A.M. Fonte Santa Helena-Baldaio"	"¿-? ¿-?|Campo|Contenido|¿-?|:----|:--------|¿-?Código plan|"	"002"	"¿-?entidad|A.M. Fonte Santa Helena-Baldaio"	"¿-?modalidad|A pé;"	"¿-?especies|CTG, CTS, COC, OYF,"	"¿-?zona de Trabajo |Lagoas de Baldaio %%2008 A"	"002%%"	"¿-?dias max. |44"	"¿-?epoca de Trabajo |Marzo, abril, De xuño a decembro"	"¿-?puntos de Control|Fonte Santa Helena"	"¿-?Tipo de plan|AAUT¿-?Conjunto|"	"NO"	"¿-?url Ficha|<http://goo.gl/LOzM1X>¿-?BMSigremar|Lagoas de Baldaio (CF-040), (CF-167),"
+"<!--Pexma2008AAUT"	"003"	"-->¿-?## Pexma 2008¿-?### AAUT¿-?# "	"003 "	"A.M. Esteiro do río Anllóns"	"¿-? ¿-?|Campo|Contenido|¿-?|:----|:--------|¿-?Código plan|"	"003"	"¿-?entidad|A.M. Esteiro do río Anllóns"	"¿-?modalidad|A pé;"	"¿-?especies|COC, CLJ, PEE,"	"¿-?zona de Trabajo |Zona de autorización (marxe dereita da enseada do río Anllóns, entre illa Cagallóns e liña de punta Revoleas e enseada de Insua) %%2008 A"	"003%%"	"¿-?dias max. |COC: 220 días, CLJ: 9 días; PEE: 9 días"	"¿-?epoca de Trabajo |COC: de xaneiro a decembro; CLJ e PEE: decembro"	"¿-?puntos de Control|Pedras de Cambón, O Pendón, Ourixeira, Lodeiro"	"¿-?Tipo de plan|AAUT¿-?Conjunto|"	"NO"	"¿-?url Ficha|<http://goo.gl/Ejqf61>¿-?BMSigremar|Zonas: (A, A1/2, A3, G, (CM-121),) O Couto (CM-093), Zona Bígaro; "
+"<!--Pexma2008AAUT"	"004"	"-->¿-?## Pexma 2008¿-?### AAUT¿-?# "	"004 "	"C.P. A Coruña"	"¿-? ¿-?|Campo|Contenido|¿-?|:----|:--------|¿-?Código plan|"	"004"	"¿-?entidad|C.P. A Coruña"	"¿-?modalidad|A pé; Embarcación;"	"¿-?especies|CTG, CTS, CLJ, COC,"	"¿-?zona de Trabajo |Zonas de autorización %%2008 A"	"004%%"	"¿-?dias max. |A pé: 13 días; Embarc: 24 días"	"¿-?epoca de Trabajo |A pé: de setembro a decembro; Embarc: de xaneiro a marzo e de setembro a decembro"	"¿-?puntos de Control|Punto de venda autorizado no lugar das Xubias (A Coruña)"	"¿-?Tipo de plan|AAUT¿-?Conjunto|"	"NO"	"¿-?url Ficha|<http://goo.gl/3mNONd>¿-?BMSigremar|zona de autorización (CF-001), (CF-002), (CF-004), (CF-005), (CF-006), (CF-007), (CF-008), (CF-009), (CF-166),"
+~~~
