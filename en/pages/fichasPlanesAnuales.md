@@ -168,6 +168,8 @@ Conjunto|NO
 url Ficha|<http://goo.gl/3mNONd>
 BMSigremar|zona de autorización (CF-001), (CF-002), (CF-004), (CF-005), (CF-006), (CF-007), (CF-008), (CF-009), (CF-166),
 ```
+* Añadimos al final del archivo la biblioteca de las abreviaturas
 
+* Si utilizamos un editor de markdow ya podemos exportarlo a otro con formato HTML que podremos subir a la web donde queremos publicarlo
 
 
