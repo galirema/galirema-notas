@@ -75,7 +75,9 @@ El efecto que produce es que cuando pasas el puntero del ratón se impresiona en
 "<!--Pexma2008AAUT"	"004"	"-->¿-?## Pexma 2008¿-?### AAUT¿-?# "	"004 "	"C.P. A Coruña"	"¿-? ¿-?|Campo|Contenido|¿-?|:----|:--------|¿-?Código plan|"	"004"	"¿-?entidad|C.P. A Coruña"	"¿-?modalidad|A pé; Embarcación;"	"¿-?especies|CTG, CTS, CLJ, COC,"	"¿-?zona de Trabajo |Zonas de autorización %%2008 A"	"004%%"	"¿-?dias max. |A pé: 13 días; Embarc: 24 días"	"¿-?epoca de Trabajo |A pé: de setembro a decembro; Embarc: de xaneiro a marzo e de setembro a decembro"	"¿-?puntos de Control|Punto de venda autorizado no lugar das Xubias (A Coruña)"	"¿-?Tipo de plan|AAUT¿-?Conjunto|"	"NO"	"¿-?url Ficha|<http://goo.gl/3mNONd>¿-?BMSigremar|zona de autorización (CF-001), (CF-002), (CF-004), (CF-005), (CF-006), (CF-007), (CF-008), (CF-009), (CF-166),"
 ~~~
 
-* Para que sean mas visible en el ejemplo he utilizado como separador en vez de la coma (¨,¨) el tabulador (¨\t¨) las marcas que debo eliminar o cambiar son las siguientes:  
+* Para que sean mas visible en el ejemplo he utilizado como separador en vez de la coma (¨,¨) el tabulador (¨\t¨) las marcas que debo eliminar o cambiar son las siguientes:
+
+
 |Marca|Acción|Nueva Marca|Comentario|
 |:----|:----:|----------:|----------|
 |¨\t¨|Eliminar||Quitmos la separación entre los campos de la consulta|
