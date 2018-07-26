@@ -175,3 +175,28 @@ BMSigremar|zona de autorización (CF-001), (CF-002), (CF-004), (CF-005), (CF-006
 * Si utilizamos un editor de markdow ya podemos exportarlo a otro con formato HTML que podremos subir a la web donde queremos publicarlo
 
 
+## Procesos Ejecutados
+
+|anualidad|lineas CSV|lineas MD|Lineas HTML|
+|2018||||
+|2017||||
+|2016||||
+|2015||||
+|2014||||
+|2013||||
+|2012||||
+|2011||||
+|2010||||
+|2009||||
+|2008||||
+|2007||||
+|2006||||
+|2005||||
+|2004||||
+|2003||||
+|2002||||
+|2003||||
+|2002||||
+|2001||||
+|2002||||
+
