@@ -68,7 +68,7 @@ El efecto que produce es que cuando pasas el puntero del ratón se impresiona en
 * El resultado nos devuelve 228 filas, una por cada plan aprobado.
 
 ~~~
-¨Nome da Ficha¨	¨codplan1¨	¨Encabezado01¨	¨codplan2¨	¨Encabezado02¨	¨PlanAnual¨	¨codplan3¨	¨Entidade¨	¨Modalidade¨	¨Especies¨	¨Zona¨	¨codplan4¨	¨Dias¨	¨Calendario¨	¨Control¨	¨Tipoplan¨	¨"CASE WHEN UPPER(""conxunto"")= 'T' THEN 'SI' ELSE 'NO' END"¨	¨ShortURL-resto¨
+"Nome da Ficha"	"codplan1"	"Encabezado01"	"codplan2"	"Encabezado02"	"PlanAnual"	"codplan3"	"Entidade"	"Modalidade"	"Especies"	"Zona"	"codplan4"	"Dias"	"Calendario"	"Control"	"Tipoplan"	""CASE WHEN UPPER(""conxunto"")= 'T' THEN 'SI' ELSE 'NO' END""	¨ShortURL-resto¨
 "<!--Pexma2008AAUT"	"001"	"-->¿-?## Pexma 2008¿-?### AAUT¿-?# "	"001 "	"C.P. O Vicedo"	"¿-? ¿-?|Campo|Contenido|¿-?|:----|:--------|¿-?Código plan|"	"001"	"¿-?entidad|C.P. O Vicedo"	"¿-?modalidad|A pé;"	"¿-?especies|DON,"	"¿-?zona de Trabajo |Praia de Arealonga e Lombo das Navallas %%2008 A"	"001%%"	"¿-?dias max. |30"	"¿-?epoca de Trabajo |Xaneiro, febreiro, De outubro a decembro"	"¿-?puntos de Control|Caseta de Arealonga e Lombo das Navallas"	"¿-?Tipo de plan|AAUT¿-?Conjunto|"	"NO"	"¿-?url Ficha|<http://goo.gl/SphStt>¿-?BMSigremar|Praia de Arealonga, dende Os Castelos a Punta Pena Furada e Lombo das Navallas (CL-117),"
 "<!--Pexma2008AAUT"	"002"	"-->¿-?## Pexma 2008¿-?### AAUT¿-?# "	"002 "	"A.M. Fonte Santa Helena-Baldaio"	"¿-? ¿-?|Campo|Contenido|¿-?|:----|:--------|¿-?Código plan|"	"002"	"¿-?entidad|A.M. Fonte Santa Helena-Baldaio"	"¿-?modalidad|A pé;"	"¿-?especies|CTG, CTS, COC, OYF,"	"¿-?zona de Trabajo |Lagoas de Baldaio %%2008 A"	"002%%"	"¿-?dias max. |44"	"¿-?epoca de Trabajo |Marzo, abril, De xuño a decembro"	"¿-?puntos de Control|Fonte Santa Helena"	"¿-?Tipo de plan|AAUT¿-?Conjunto|"	"NO"	"¿-?url Ficha|<http://goo.gl/LOzM1X>¿-?BMSigremar|Lagoas de Baldaio (CF-040), (CF-167),"
 "<!--Pexma2008AAUT"	"003"	"-->¿-?## Pexma 2008¿-?### AAUT¿-?# "	"003 "	"A.M. Esteiro do río Anllóns"	"¿-? ¿-?|Campo|Contenido|¿-?|:----|:--------|¿-?Código plan|"	"003"	"¿-?entidad|A.M. Esteiro do río Anllóns"	"¿-?modalidad|A pé;"	"¿-?especies|COC, CLJ, PEE,"	"¿-?zona de Trabajo |Zona de autorización (marxe dereita da enseada do río Anllóns, entre illa Cagallóns e liña de punta Revoleas e enseada de Insua) %%2008 A"	"003%%"	"¿-?dias max. |COC: 220 días, CLJ: 9 días; PEE: 9 días"	"¿-?epoca de Trabajo |COC: de xaneiro a decembro; CLJ e PEE: decembro"	"¿-?puntos de Control|Pedras de Cambón, O Pendón, Ourixeira, Lodeiro"	"¿-?Tipo de plan|AAUT¿-?Conjunto|"	"NO"	"¿-?url Ficha|<http://goo.gl/Ejqf61>¿-?BMSigremar|Zonas: (A, A1/2, A3, G, (CM-121),) O Couto (CM-093), Zona Bígaro; "
@@ -80,7 +80,7 @@ El efecto que produce es que cuando pasas el puntero del ratón se impresiona en
 
 |Marca|Acción|Nueva Marca|Comentario|
 |:----|:----:|----------:|----------|
-|¨\t¨|Eliminar||Quitmos la separación entre los campos de la consulta|
+|"\t"|Eliminar||Quitmos la separación entre los campos de la consulta|
 |¿-?|Cambiar| \n|Cambiamos la marca por un retorno de carro añadiendo una linea|
 |"\n"|Cambiar| \n\n\n|Pera separar dos registros distintos añadimos 3 retornos de carro (3 lineas)|
 
