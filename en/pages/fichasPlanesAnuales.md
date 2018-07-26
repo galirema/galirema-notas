@@ -178,7 +178,7 @@ BMSigremar|zona de autorización (CF-001), (CF-002), (CF-004), (CF-005), (CF-006
 ## Procesos Ejecutados
 
 |anualidad|lineas CSV|lineas MD|Lineas HTML|
-|---------|----------|---------|-----------|
+|--------:|---------:|--------:|----------:|
 |2018|234|||
 |2017|226|||
 |2016|229|||
