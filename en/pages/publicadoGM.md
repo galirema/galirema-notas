@@ -9,7 +9,8 @@
 
 | Plan General |Gm (version) | Fecha del post | actualización | planes | Publicados | Notas |
 | :--------- | :-----------: | :------------: | :-----------: | :----- | :--------: | :---: |
-| [2017PG][], [2017PE][], | [GM2017][] (1.3) | (08/03/2017) | (2017-04-19) | 226 | ABDFGHIJK | V2 |
+| [2018PG][], [2018PE][], | [GM2018][] (1.3) | (2018-02-07) | (2018-02-16) | 234 | ABDFGHIJK | v2 |
+| [2017PG][], [2017PE][], | [GM2017][] (1.3) | (2017-03-08) | (2017-04-19) | 226 | ABDFGHIJK | V2 |
 | [2016][] | [GM2016][] (1.30U) | (23/03/2016) | (2016-06-22) | 205 | ABDFGHIJ | V2 |
 | [2015][] | [GM2015][] (0.8) | (12/03/2015) | (2016-01-03) | 211 | ABDFGHIJ | V2 |
 | [2014][] | [GM2014][] (1.2) | (15/05/2014) | (2015-03-12) | 208 | ABDFGHIJ | V2 |
@@ -76,6 +77,7 @@
  [About]: http://www.galiciamarineira.info/about-us
  [samarcanda's blog]: http://www.galiciamarineira.info/blog/6
 
+ [GM2018]: http://www.galiciamarineira.info/content/planes-general-y-espec%C3%ADficos-2018
  [GM2017]: http://www.galiciamarineira.info/content/planes-general-y-espec%C3%ADficos-2017
  [GM2016]: http://www.galiciamarineira.info/content/plan-general-de-explotaci%C3%B3n-marisquera-2016
  [GM2015]: http://www.galiciamarineira.info/content/plan-general-de-explotaci%C3%B3n-marisquera-2015
@@ -90,6 +92,8 @@
  [ORDEN de 27 de julio de 2012]:  http://www.galiciamarineira.info/content/orden-de-27-de-julio-de-2012-por-la-que-se-regulan-los-tama%C3%B1os-m%C3%ADnimos-de-diversos-productos
 
 
+ [2018PE]: https://goo.gl/XXVMqW
+ [2018PG]: https://goo.gl/J2bJQz
  [2017PE]: https://goo.gl/zRFrC5
  [2017PG]: https://goo.gl/3sKsCv
  [2016]: http://goo.gl/itW4Z6
