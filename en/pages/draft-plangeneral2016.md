@@ -12,11 +12,6 @@ Plan general de explotación marisquera 2016
     + en castellano [html (es)][] / [pdf (es)][]
  
 
-* Las Fichas individuales de los planes de explotación del año 2016 (enlace a los [planes vigentes][] en pescadegalicia.com)
-
-
-_ORDEN de 23 de diciembre de 2015 por la que se aprueba el Plan general de explotación marisquera para el año 2016._
-
 * DOG 2015 248 (30-12-2015) Pág. 52537 [Poliquetos 2016](#Poliquetos_2016) 
 
     + en "_galego_" [KPOLhtml (gl)][] / [KPOLpdf (gl)][]
@@ -25,6 +20,9 @@ _ORDEN de 23 de diciembre de 2015 por la que se aprueba el Plan general de explo
 
 
 * Las Fichas individuales de los planes de explotación del [año 2016](https://goo.gl/aJUcS9) (enlace a pescadegalicia.com)
+
+_ORDEN de 23 de diciembre de 2015 por la que se aprueba el Plan general de explotación marisquera para el año 2016._
+
 
 ## Plan general 2016
 
