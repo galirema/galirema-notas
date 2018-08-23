@@ -1026,3 +1026,12 @@ Se aprueban los planes de explotación de poliquetos, para el año 2016, que se 
 
 *[L1A]: Lomentaria
 
+
+*[ARM]: Mangón, miñoca de area
+*[DIN]: Miñoca de tubo, casulo
+*[NER]: Miñoca
+*[UBI]: Gabián
+*[WOR]: Bicho
+
+
+
