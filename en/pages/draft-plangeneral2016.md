@@ -847,30 +847,30 @@ Se aprueban los planes de explotación de poliquetos, para el año 2016, que se 
 
 |idPlanAnual|Entidade([a](#abrv-a))|Modalidade ([c](#abrv-c))|Especies (alfa-3 FAO) ([b](#abrv-b))|
 |----------:|:----------|:---------|:----------|
-[206](http://www.galiciamarineira.info/content/pexma2016KPOL206)|A.M. San Cosme|A pé;|ARM,
-[207](http://www.galiciamarineira.info/content/pexma2016KPOL207)|A.M. Esteiro do río Anllóns|A pé;|ARM,
-[208](http://www.galiciamarineira.info/content/pexma2016KPOL208)|A.M. Fonte de Santa Helena-Baldaio|A pé;|ARM,
-[209](http://www.galiciamarineira.info/content/pexma2016KPOL209)|C.P. A Coruña|A pé; MA; MSAS;|ARM, UBI,
-[210](http://www.galiciamarineira.info/content/pexma2016KPOL210)|C.P. Camelle, C.P. Corme, C.P. Laxe, C.P. Malpica (plan conxunto)|A pé; MA; MSAS;|UBI,
-[211](http://www.galiciamarineira.info/content/pexma2016KPOL211)|C.P. Corcubión|A pé;|ARM, NER, UBI, DIN,
-[212](http://www.galiciamarineira.info/content/pexma2016KPOL212)|C.P. Ferrol|A pé; MSAS;|ARM, NER, UBI,
-[213](http://www.galiciamarineira.info/content/pexma2016KPOL213)|C.P. Lira|A pé;|UBI, NER, ARM,
-[214](http://www.galiciamarineira.info/content/pexma2016KPOL214)|C.P. Lira|MA; MSAS;|UBI,
-[215](http://www.galiciamarineira.info/content/pexma2016KPOL215)|C.P. Miño|A pé;|ARM, NER, UBI, DIN,
-[216](http://www.galiciamarineira.info/content/pexma2016KPOL216)|C.P. Muros|MA; MSAS;|ARM, NER, UBI,
-[217](http://www.galiciamarineira.info/content/pexma2016KPOL217)|C.P. O Pindo|A pé;|ARM, DIN, NER, UBI,
-[218](http://www.galiciamarineira.info/content/pexma2016KPOL218)|C.P. Porto do Son|A pé;|ARM, DIN, NER, UBI,
-[219](http://www.galiciamarineira.info/content/pexma2016KPOL219)|C.P. Porto do Son|MA; MSAS;|UBI,
-[220](http://www.galiciamarineira.info/content/pexma2016KPOL220)|C.P. Sada|A pé;|ARM, DIN, NER,
-[221](http://www.galiciamarineira.info/content/pexma2016KPOL221)|C.P. Cambados|A pé;|ARM, DIN, NER,
-[222](http://www.galiciamarineira.info/content/pexma2016KPOL222)|C.P. Cangas|MA; MSAS;|ARM, DIN, NER, UBI,
-[223](http://www.galiciamarineira.info/content/pexma2016KPOL223)|C.P. O Grove|A pé;|ARM, DIN, NER, UBI,
-[224](http://www.galiciamarineira.info/content/pexma2016KPOL224)|C.P. Portonovo|A pé;|UBI,
-[225](http://www.galiciamarineira.info/content/pexma2016KPOL225)|C.P. Redondela|A pé;|DIN, NER,
-[226](http://www.galiciamarineira.info/content/pexma2016KPOL226)|C.P. Sanxenxo|A pé;|UBI,
-[227](http://www.galiciamarineira.info/content/pexma2016KPOL227)|C.P. Vigo|A pé;|ARM, DIN, NER,
-[228](http://www.galiciamarineira.info/content/pexma2016KPOL228)|C.P. Vilaboa|A pé;|ARM, DIN, NER,
-[229](http://www.galiciamarineira.info/content/pexma2016KPOL229)|C.P. Vilanova|MA;|DIN,
+|[206](http://www.galiciamarineira.info/content/pexma2016KPOL206)|A.M. San Cosme|A pé;|ARM,|
+|[207](http://www.galiciamarineira.info/content/pexma2016KPOL207)|A.M. Esteiro do río Anllóns|A pé;|ARM,|
+|[208](http://www.galiciamarineira.info/content/pexma2016KPOL208)|A.M. Fonte de Santa Helena-Baldaio|A pé;|ARM,|
+|[209](http://www.galiciamarineira.info/content/pexma2016KPOL209)|C.P. A Coruña|A pé; MA; MSAS;|ARM, UBI,|
+|[210](http://www.galiciamarineira.info/content/pexma2016KPOL210)|C.P. Camelle, C.P. Corme, C.P. Laxe, C.P. Malpica (plan conxunto)|A pé; MA; MSAS;|UBI,|
+|[211](http://www.galiciamarineira.info/content/pexma2016KPOL211)|C.P. Corcubión|A pé;|ARM, NER, UBI, DIN,|
+|[212](http://www.galiciamarineira.info/content/pexma2016KPOL212)|C.P. Ferrol|A pé; MSAS;|ARM, NER, UBI,|
+|[213](http://www.galiciamarineira.info/content/pexma2016KPOL213)|C.P. Lira|A pé;|UBI, NER, ARM,|
+|[214](http://www.galiciamarineira.info/content/pexma2016KPOL214)|C.P. Lira|MA; MSAS;|UBI,|
+|[215](http://www.galiciamarineira.info/content/pexma2016KPOL215)|C.P. Miño|A pé;|ARM, NER, UBI, DIN,|
+|[216](http://www.galiciamarineira.info/content/pexma2016KPOL216)|C.P. Muros|MA; MSAS;|ARM, NER, UBI,|
+|[217](http://www.galiciamarineira.info/content/pexma2016KPOL217)|C.P. O Pindo|A pé;|ARM, DIN, NER, UBI,|
+|[218](http://www.galiciamarineira.info/content/pexma2016KPOL218)|C.P. Porto do Son|A pé;|ARM, DIN, NER, UBI,|
+|[219](http://www.galiciamarineira.info/content/pexma2016KPOL219)|C.P. Porto do Son|MA; MSAS;|UBI,|
+|[220](http://www.galiciamarineira.info/content/pexma2016KPOL220)|C.P. Sada|A pé;|ARM, DIN, NER,|
+|[221](http://www.galiciamarineira.info/content/pexma2016KPOL221)|C.P. Cambados|A pé;|ARM, DIN, NER,|
+|[222](http://www.galiciamarineira.info/content/pexma2016KPOL222)|C.P. Cangas|MA; MSAS;|ARM, DIN, NER, UBI,|
+|[223](http://www.galiciamarineira.info/content/pexma2016KPOL223)|C.P. O Grove|A pé;|ARM, DIN, NER, UBI,|
+|[224](http://www.galiciamarineira.info/content/pexma2016KPOL224)|C.P. Portonovo|A pé;|UBI,|
+|[225](http://www.galiciamarineira.info/content/pexma2016KPOL225)|C.P. Redondela|A pé;|DIN, NER,|
+|[226](http://www.galiciamarineira.info/content/pexma2016KPOL226)|C.P. Sanxenxo|A pé;|UBI,|
+|[227](http://www.galiciamarineira.info/content/pexma2016KPOL227)|C.P. Vigo|A pé;|ARM, DIN, NER,|
+|[228](http://www.galiciamarineira.info/content/pexma2016KPOL228)|C.P. Vilaboa|A pé;|ARM, DIN, NER,|
+|[229](http://www.galiciamarineira.info/content/pexma2016KPOL229)|C.P. Vilanova|MA;|DIN,|
 
 * Los articulos que desarrollan la parte administrativa de la normativa se pueden ver en texto de la orden [KPOLhtml (es)][].
 
