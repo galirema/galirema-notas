@@ -30,8 +30,8 @@ _ORDEN de 23 de diciembre de 2015 por la que se aprueba el Plan general de explo
 |[Artículo 1](#Artículo_1._). Objeto||||
 |[Artículo 2](#Artículo_2.). Planes de explotación en autorizaciones marisqueras|__AAUT__|46|[A](#cadroAAUT)|
 |[Artículo 3](#Artículo_3._). Planes específicos de explotación para las zonas de libre marisqueo|__BESP__|51|[B](#cadroBESP)|
-|[Artículo 4](#item04). Zonas de libre marisqueo para el año 2016|__CLBM__||[C](#cadroCLBM)|
-|[Artículo 5](#item05). Percebe (Pollicipes pollicipes)|__DPER__|35|[D](#cadroDPER)|
+|[Artículo 4](#Artículo_4._). Zonas de libre marisqueo para el año 2016|__CLBM__||[C](#cadroCLBM)|
+|[Artículo 5](#Artículo_5._). Percebe (Pollicipes pollicipes)|__DPER__|35|[D](#cadroDPER)|
 |[Artículo 6](#item06). Otros crustáceos|__ECRU__||[E](#cadroECRU)|
 |[Artículo 7](#item07). Equinodermos|__FEQD__|19|[F](#cadroFEQD)|
 |[Artículo 8](#item08). Solénidos (navaja/muergo/muergo)|__GSOL__|26|[G](#cadroGSOL)|
