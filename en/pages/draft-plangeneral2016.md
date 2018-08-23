@@ -29,7 +29,7 @@ _ORDEN de 23 de diciembre de 2015 por la que se aprueba el Plan general de explo
 |:-------|:-------------:|-----------:|:------:|
 |[Artículo 1](#Artículo_1._). Objeto||||
 |[Artículo 2](#Artículo_2.). Planes de explotación en autorizaciones marisqueras|__AAUT__|46|[A](#cadroAAUT)|
-|[Artículo 3](#item03). Planes específicos de explotación para las zonas de libre marisqueo|__BESP__|51|[B](#cadroBESP)|
+|[Artículo 3](#Artículo_3._). Planes específicos de explotación para las zonas de libre marisqueo|__BESP__|51|[B](#cadroBESP)|
 |[Artículo 4](#item04). Zonas de libre marisqueo para el año 2016|__CLBM__||[C](#cadroCLBM)|
 |[Artículo 5](#item05). Percebe (Pollicipes pollicipes)|__DPER__|35|[D](#cadroDPER)|
 |[Artículo 6](#item06). Otros crustáceos|__ECRU__||[E](#cadroECRU)|
@@ -57,7 +57,7 @@ DISPONGO:
 
 Artículo 1. 
 --------
-### Objeto   {#item01}
+### Objeto   
 
 ​1. Esta orden tiene por objeto aprobar el conjunto de normas y orientaciones destinadas a la regular y programar la extracción del marisco y la recolección de las algas para el año 2016.
 
