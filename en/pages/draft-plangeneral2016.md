@@ -5,7 +5,7 @@ Plan general de explotación marisquera 2016
 
 ## Inicio
 
-* DOG 2015 248 (30-12-2015) Pág. 52552 [Plan general](#Plan_general_2016)
+* DOG 2015 248 (30-12-2015) Pág. 52552 [Plan general 2016](#Plan_general_2016)
 
     * en "_galego_" [html (gl)][] / [pdf (gl)][]
 
