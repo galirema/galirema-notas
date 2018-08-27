@@ -18,6 +18,7 @@
 * __Plan 2016__: [DOG2015248KPOLgl](http://www.xunta.gal/dog/Publicados/2015/20151230/AnuncioG0427-231215-0003_gl.html), [DOG2015248KPOLes](http://www.xunta.gal/dog/Publicados/2015/20151230/AnuncioG0427-231215-0003_es.html).
    * Realizado (importar datos del DOG a `muestreos.sqlite` , `urlFicha`, `id_plan_explotacion`, `anualidad`, `codeMod`, Importado Plan anual en pdf, pasar plan anual pdf a txt, `BMSigremar`, `numesp`, `costa`, `num. entidades`,).
    * En proceso (__FIN__).
+   * Formateo de la orden para incluirla en el post de la normativa del año 2016 de __Galicia mariñeira__. 
 
 * __Plan 2015__: [DOG2014250KPOLgl](http://www.xunta.gal/dog/Publicados/2014/20141231/AnuncioG0165-231214-0002_gl.html), [DOG2014250KPOLes](http://www.xunta.gal/dog/Publicados/2014/20141231/AnuncioG0165-231214-0002_es.html) 
    * Realizado (importar datos del DOG a `muestreos.sqlite` , `urlFicha`, `id_plan_explotacion`, `anualidad`, `codeMod`, `costa`, Importado Plan anual en pdf, pasar plan anual pdf a txt, `numesp`, `num. entidades`, `BMSigremar`,).
