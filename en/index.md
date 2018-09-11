@@ -16,6 +16,7 @@ Documentos en curso
 * [Metodología](pages/MetodologiaInicio.md)
 * [Base de Datos](pages/muestreosSQLite.md)
 * [Publicaciónes](pages/IndicePublicacion.md)
+* [Mapas de galirema](pages/indiceMapas.md)
 
 Fuentes Oficiales
 -----
@@ -36,6 +37,7 @@ Proyecto GALIREMA
  - [Informes, análisis](https://goo.gl/uVsxCk) Página de análisis de galirema.
  - [Kanban Tool](https://galirema.kanbantool.com/): Herremienta en la nube para la gestión ágil del proyecto.
  - Galirema en [jsfiddle](https://goo.gl/gntPuo)
+ - [Lanchalisa en uMap](https://umap.openstreetmap.fr/es/user/lanchalisa/)
 
 
 Enlaces  de Interés
