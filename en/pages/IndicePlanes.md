@@ -19,11 +19,11 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 | [2008][] | [dog2008.002](http://goo.gl/0K8Zf3) | (03/01/2008) | - | - |pexma pespec plantidad KPOL|
 | [2007][] | [dog2007.011](http://goo.gl/ygwiQv) | (16/01/2007) | - | [DWk 2007](Draft-pexma2007-GL.md) |pexma pespec plantidad KPOL bm-|
 | [2006][] | dog2006.008 | (12/01/2006) | - | [DWk 2006](Draft-pexma2006-GL.md) |pexma pespec plantidad KPOL bm-|
-| [2005][] | dog2005.005 | (10/01/2005) | - | [DWk 2005](Draft-pexma2005-GL.md) |pexma pespec plantidad kp- bm-|
-| [2004][] | dog2004.006 | (12/01/2004) | - | [DWk 2004](Draft-pexma2004-GL.md) |pexma pespec plantidad kp- bm-|
-| [2003][] | dog2003.004 | (08/01/2003) | - | [DWk 2003](Draft-pexma2003-GL.md) |pexma pespec plantidad kp- bm-|
-| [2002][] | dog2002.006 | (09/01/2002) | - | [DWk 2002](Draft-pexma2002-GL.md) |pexma pespec plantidad kp- bm-|
-| [2001][] | dog2001.003 | (04/01/2001) | - | [DWk 2001](Draft-pexma2001-GL.md) |pexma pespec plantidad kp- bm-|
+| [2005][]; [Wkia2005][] | dog2005.005 | (10/01/2005) | - | [DWk 2005](Draft-pexma2005-GL.md) |pexma pespec plantidad kp- bm-|
+| [2004][]; [Wkia2004][] | dog2004.006 | (12/01/2004) | - | [DWk 2004](Draft-pexma2004-GL.md) |pexma pespec plantidad kp- bm-|
+| [2003][]; [Wkia2003][] | dog2003.004 | (08/01/2003) | - | [DWk 2003](Draft-pexma2003-GL.md) |pexma pespec plantidad kp- bm-|
+| [2002][]; [Wkia2002][] | dog2002.006 | (09/01/2002) | - | [DWk 2002](Draft-pexma2002-GL.md) |pexma pespec plantidad kp- bm-|
+| [2001][]; [Wkia2001][] | dog2001.003 | (04/01/2001) | - | [DWk 2001](Draft-pexma2001-GL.md) |pexma pespec plantidad kp- bm-|
 | [2000][]; [Wkia2000][] | dog2000.003 | (05/01/2000) | - | [DWk 2000](Draft-pexma2000-GL.md) |pexma pespec plantidad kp- bm-|
 | [1999][]; [Wkia1999][] | dog1999.002 | (05/01/1999) | - | [DWk 1999](Draft-pexma1999-GL.md) | - kp- bm-|
 | [1998][]; [Wkia1998][] | dog1998.004 | (05/01/1998) | - | [DWk 1998](Draft-pexma1998-GL.md) | - kp- bm-|
@@ -71,6 +71,11 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
  [dog2010.251]: http://www.xunta.gal/dog/Publicados/2010/20101231/Anuncio4604E_gl.html
 
  [Wkia2018]: http://es.galirema.wikia.com/wiki/PexmaA2018
+ [Wkia2005]: http://es.galirema.wikia.com/wiki/PexmaA2005
+ [Wkia2004]: http://es.galirema.wikia.com/wiki/PexmaA2004
+ [Wkia2003]: http://es.galirema.wikia.com/wiki/PexmaA2003
+ [Wkia2002]: http://es.galirema.wikia.com/wiki/PexmaA2002
+ [Wkia2001]: http://es.galirema.wikia.com/wiki/PexmaA2001
  [Wkia2000]: http://es.galirema.wikia.com/wiki/PexmaA2000
  [Wkia1999]: http://es.galirema.wikia.com/wiki/PexmaA1999
  [Wkia1998]: http://es.galirema.wikia.com/wiki/PexmaA1998
