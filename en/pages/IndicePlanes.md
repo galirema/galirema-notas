@@ -30,9 +30,9 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 | [1997][] | dog1997.002 | (03/01/1997) | - | [DWk 1997](Draft-pexma1997-GL.md) | - kp- bm-|
 | [1996][] | dog1996.001 | (02/01/1996) | - | [DWk 1996](Draft-pexma1996-GL.md) | - kp- bm-|
 | [1995][] | dog1995.001 | (02/01/1995) | - | [DWk 1995](Draft-pexma1995-GL.md) | - kp- bm-|
-| [1994][] | dog1993.251 | (30/12/1993) | - | - | - kp- bm-|
-| [1993][] | dog1993.003 | (07/01/1993) | - | - | - kp- bm-|
-| [1992][]; [] | dog1992.124 | (30/06/1992) | - | - | - kp- bm-|
+| [1994][]; [Wkia1994][] | dog1993.251 | (30/12/1993) | - | - | - kp- bm-|
+| [1993][]; [Wkia1993][] | dog1993.003 | (07/01/1993) | - | - | - kp- bm-|
+| [1992][]; [Wkia1992][] | dog1992.124 | (30/06/1992) | - | - | - kp- bm-|
 | [Decreto 059/1992][] | dog1992.052 | (16/03/1992) | - | - | - |
 
 
@@ -71,3 +71,6 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
  [dog2010.251]: http://www.xunta.gal/dog/Publicados/2010/20101231/Anuncio4604E_gl.html
 
  [Wkia2018]: http://es.galirema.wikia.com/wiki/PexmaA2018
+ [Wkia1994]: http://es.galirema.wikia.com/wiki/PexmaA1994 
+ [Wkia1993]: http://es.galirema.wikia.com/wiki/PexmaA1993
+ [Wkia1992]:http://es.galirema.wikia.com/wiki/PexmaA1992
