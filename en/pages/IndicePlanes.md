@@ -6,7 +6,7 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 
 | Plan General | DOG Año Num. | Fecha de publicación | GM - Draft | Wikia-Draft |BD Muestreos|
 | :----------- | :----------: | :------------------: | :--------: | :---------: | :--------- |
-| [2018][]; [Wkia2018](http://es.galirema.wikia.com/wiki/PexmaA2018)| [dog2017.246](https://goo.gl/K7QC8H)PX-[PE](https://goo.gl/a1skz7) | (29/12/2017) | | - |pexma pespec plantidad KPOL BMSig|
+| [2018][]; [Wkia2018][]| [dog2017.246](https://goo.gl/K7QC8H)PX-[PE](https://goo.gl/a1skz7) | (29/12/2017) | | - |pexma pespec plantidad KPOL BMSig|
 | [2017][] | [dog2016.249](https://goo.gl/m8W7gR)PX-[PE](https://goo.gl/MNm08K) | (30/12/2016) |[borrador2017v1.30U](draft-pexma2017.md)| - |pexma pespec plantidad KPOL BMSig|
 | [2016][] | [dog2015.248](http://goo.gl/2djtGX) | (30/12/2015) | [borrador2016](draft-plangeneral2016.md) | - |pexma pespec plantidad KPOL BMSig|
 | [2015][] | [dog2014.250](http://goo.gl/V79N6H) | (31/12/2014) | - | - |pexma pespec plantidad KPOL BMSig|
@@ -32,7 +32,7 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 | [1995][] | dog1995.001 | (02/01/1995) | - | [DWk 1995](Draft-pexma1995-GL.md) | - kp- bm-|
 | [1994][] | dog1993.251 | (30/12/1993) | - | - | - kp- bm-|
 | [1993][] | dog1993.003 | (07/01/1993) | - | - | - kp- bm-|
-| [1992][] | dog1992.124 | (30/06/1992) | - | - | - kp- bm-|
+| [1992][]; [] | dog1992.124 | (30/06/1992) | - | - | - kp- bm-|
 | [Decreto 059/1992][] | dog1992.052 | (16/03/1992) | - | - | - |
 
 
@@ -70,3 +70,4 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 
  [dog2010.251]: http://www.xunta.gal/dog/Publicados/2010/20101231/Anuncio4604E_gl.html
 
+ [Wkia2018]: http://es.galirema.wikia.com/wiki/PexmaA2018
