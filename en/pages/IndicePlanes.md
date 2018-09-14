@@ -11,14 +11,14 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 | [2016][] | [dog2015.248](http://goo.gl/2djtGX) | (30/12/2015) | [borrador2016](draft-plangeneral2016.md) | - |pexma pespec plantidad KPOL BMSig|
 | [2015][] | [dog2014.250](http://goo.gl/V79N6H) | (31/12/2014) | - | - |pexma pespec plantidad KPOL BMSig|
 | [2014][] | [dog2013.249](http://goo.gl/SML2Rg) | (31/12/2013) | - | - |pexma pespec plantidad KPOL BMSig|
-| [2013][] | [dog2012.248](http://goo.gl/ipYXr) | (31/12/2012) | - | - |pexma pespec plantidad KPOL|
-| [2012][] | [dog2012.001](http://goo.gl/JAChJ) | (02/01/2012) | - | - |pexma pespec plantidad KPOL|
-| [2011][] | [dog2010.251][] | (31/12/2010) | - | - |pexma pespec plantidad KPOL|
-| [2010][] | [dog2009.254](http://goo.gl/soJecp) | (31/12/2009) | - | - |pexma pespec plantidad KPOL|
-| [2009][] | [dog2008.253](http://goo.gl/0xjEx9) | (31/12/2008) | - | - |pexma pespec plantidad KPOL|
-| [2008][] | [dog2008.002](http://goo.gl/0K8Zf3) | (03/01/2008) | - | - |pexma pespec plantidad KPOL|
-| [2007][] | [dog2007.011](http://goo.gl/ygwiQv) | (16/01/2007) | - | [DWk 2007](Draft-pexma2007-GL.md) |pexma pespec plantidad KPOL bm-|
-| [2006][] | dog2006.008 | (12/01/2006) | - | [DWk 2006](Draft-pexma2006-GL.md) |pexma pespec plantidad KPOL bm-|
+| [2013][]; [Wkia2013][] | [dog2012.248](http://goo.gl/ipYXr) | (31/12/2012) | - | - |pexma pespec plantidad KPOL|
+| [2012][]; [Wkia2012][] | [dog2012.001](http://goo.gl/JAChJ) | (02/01/2012) | - | - |pexma pespec plantidad KPOL|
+| [2011][]; [Wkia2011][] | [dog2010.251][] | (31/12/2010) | - | - |pexma pespec plantidad KPOL|
+| [2010][]; [Wkia2010][] | [dog2009.254](http://goo.gl/soJecp) | (31/12/2009) | - | - |pexma pespec plantidad KPOL|
+| [2009][]; [Wkia2009][] | [dog2008.253](http://goo.gl/0xjEx9) | (31/12/2008) | - | - |pexma pespec plantidad KPOL|
+| [2008][]; [Wkia2008][] | [dog2008.002](http://goo.gl/0K8Zf3) | (03/01/2008) | - | - |pexma pespec plantidad KPOL|
+| [2007][]; [Wkia2007][] | [dog2007.011](http://goo.gl/ygwiQv) | (16/01/2007) | - | [DWk 2007](Draft-pexma2007-GL.md) |pexma pespec plantidad KPOL bm-|
+| [2006][]; [Wkia2006][] | dog2006.008 | (12/01/2006) | - | [DWk 2006](Draft-pexma2006-GL.md) |pexma pespec plantidad KPOL bm-|
 | [2005][]; [Wkia2005][] | dog2005.005 | (10/01/2005) | - | [DWk 2005](Draft-pexma2005-GL.md) |pexma pespec plantidad kp- bm-|
 | [2004][]; [Wkia2004][] | dog2004.006 | (12/01/2004) | - | [DWk 2004](Draft-pexma2004-GL.md) |pexma pespec plantidad kp- bm-|
 | [2003][]; [Wkia2003][] | dog2003.004 | (08/01/2003) | - | [DWk 2003](Draft-pexma2003-GL.md) |pexma pespec plantidad kp- bm-|
@@ -71,6 +71,14 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
  [dog2010.251]: http://www.xunta.gal/dog/Publicados/2010/20101231/Anuncio4604E_gl.html
 
  [Wkia2018]: http://es.galirema.wikia.com/wiki/PexmaA2018
+ [Wkia2013]: http://es.galirema.wikia.com/wiki/PexmaA2013
+ [Wkia2012]: http://es.galirema.wikia.com/wiki/PexmaA2012
+ [Wkia2011]: http://es.galirema.wikia.com/wiki/PexmaA2011
+ [Wkia2010]: http://es.galirema.wikia.com/wiki/PexmaA2010
+ [Wkia2009]: http://es.galirema.wikia.com/wiki/PexmaA2009
+ [Wkia2008]: http://es.galirema.wikia.com/wiki/PexmaA2008
+ [Wkia2007]: http://es.galirema.wikia.com/wiki/PexmaA2007
+ [Wkia2006]: http://es.galirema.wikia.com/wiki/PexmaA2006
  [Wkia2005]: http://es.galirema.wikia.com/wiki/PexmaA2005
  [Wkia2004]: http://es.galirema.wikia.com/wiki/PexmaA2004
  [Wkia2003]: http://es.galirema.wikia.com/wiki/PexmaA2003
