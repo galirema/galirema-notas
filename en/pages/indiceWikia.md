@@ -8,6 +8,8 @@
 
 * Neste apartado recollemos os distintos Plans Xeral de Explotación Marisqueira publicados mediante ordes desde 1992 no __Diario Oficial de Galicia__ ([DOG][]), as ordes dos plans Poliquetos desde 2006 ata 2016, as ordes dos plans específicos desde 2017 que recolle os plans específicos publiacados no plan xeral (percebe, equinodermos, solénidos, peneira, algas e anémonas) e os plans de poliquetos.
 
+* Ir ó indice plans publicados en [Wiki Galirema][]
+
 
 ## As Especies
 
@@ -35,4 +37,5 @@ O proxecto galirema pretende diferenciar os diferentes territorios da costa gale
 
  [Galicia Mariñeira]: http://www.galiciamarineira.info/
  [DOG]: https://www.xunta.gal/diario-oficial-galicia/portalPublicoHome.do?fecha=20180917&ruta=%2Fsrv%2Fwww%2Fdoga%2FPublicados%2F2018%2F20180917%2FIndice177_gl.html
+ [Wiki Galirema]: http://es.galirema.wikia.com/wiki/Plans_anuais
  
