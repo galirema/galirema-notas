@@ -29,7 +29,7 @@ Informaciones existentes en internet sobre os bancos marisqueiros das augas cost
 ## As Áreas de Xestión Unificada (AXU)
 
 * Unha das modificacións pricipais da vixente normativa de xestión dos recursos es a diversidade de normativas de explotación que coexisten de manera simultanea. Unha das primeras consecuencias es a aparición de áreas da ría que estan explotadas cunhanormativa determinad frente a outra áreas proximas xestionadas con unha normati distinta.  
-O proxecto galirema pretende diferenciar os diferentes territorios da costa galega en función da sua normativa de explotación, a estas zonas cunha mema normativa é o que denominamos como __Áreas de Xestión Unificada__ ([AXU]())
+O proxecto galirema pretende diferenciar os diferentes territorios da costa galega en función da sua normativa de explotación, a estas zonas cunha mema normativa é o que denominamos como __Áreas de Xestión Unificada__ ([AXU](indicesZonasProduccion.md))
  
 
 
