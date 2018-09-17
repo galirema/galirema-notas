@@ -6,7 +6,7 @@
 
 ## A xestión do aproveitamento
 
-* Neste apartado recollemos os distintos Plans Xeral de Explotación Marisqueira publicados desde 1992 no __Diario Oficial de Galicia__ ([DOG][])
+* Neste apartado recollemos os distintos Plans Xeral de Explotación Marisqueira publicados mediante ordes desde 1992 no __Diario Oficial de Galicia__ ([DOG][]), as ordes dos plans Poliquetos desde 2006 ata 2016, as ordes dos plans específicos desde 2017 que recolle os plans específicos publiacados no plan xeral (percebe, equinodermos,solénidos, peneira, algas, anemonas) e os plans de poliquetos.
 
 
 ## As Especies
