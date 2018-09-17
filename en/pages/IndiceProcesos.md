@@ -16,6 +16,7 @@ Noutros casos as anotacións xa están mais cerca dunha documentación básica d
 * [Periodo 1995-2007](planes1995-2007.proc.md)
 * [Importación de los planes de Poliquetos](importaPoliquetos.md)
 * [Identificación de las AXU](indicesZonasProduccion.md) (__AXU__: _Áreas de Xestión Unificada_)
+* [indice de publicaciones en wikia](indiceWikia.md)
 
 
 ## Información elaborada
