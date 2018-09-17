@@ -21,12 +21,12 @@
 
 ## Os recursos na rede
 
-Recopilación dos recursos eistentes no ciberespacio sobre os recursos marinos próximos.
+* Recopilación dos recursos eistentes no ciberespacio sobre os recursos marinos próximos.
 
 
 ## Os bancos marisqueiros
 
-Informaciones existentes en internet sobre os bancos marisqueiros das augas costeiras de Galicia
+* Informaciones existentes en internet sobre os bancos marisqueiros das augas costeiras de Galicia
 
 ## As Áreas de Xestión Unificada (AXU)
 
