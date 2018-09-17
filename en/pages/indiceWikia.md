@@ -6,6 +6,8 @@
 
 ## A xestión do aproveitamento
 
+* Neste apartado recollemos os distintos Plans Xeral de Explotación Marisqueira publicados desde 1992 no __Diario Oficial de Galicia__ ([DOG][])
+
 
 ## As Especies
 
@@ -25,3 +27,5 @@
 
 
  [Galicia Mariñeira]: http://www.galiciamarineira.info/
+ [DOG]: https://www.xunta.gal/diario-oficial-galicia/portalPublicoHome.do?fecha=20180917&ruta=%2Fsrv%2Fwww%2Fdoga%2FPublicados%2F2018%2F20180917%2FIndice177_gl.html
+ 
