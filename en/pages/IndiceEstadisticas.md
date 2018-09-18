@@ -9,7 +9,7 @@ Estadísticas Pescadegalicia (2004-actualidad)
 
 | Anualidad | Información | Borrador |
 | :-------: | :---------- | -------: |
-| 2017 | - | - |
+| 2017 [csv2017](https://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2017.csv) | - | - |
 | 2016 [csv2016](http://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2016.csv) | - | - |
 | 2015 [csv2015](http://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2015.csv) | - | - |
 | 2014 [csv2014](http://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2014.csv) | - | - |
