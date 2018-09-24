@@ -117,9 +117,9 @@ __Zonas de producción no SIGREMAR:__
 
  __De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)__
  
- |AXU|Entidad|2008|2014|2015|2016|2017|2018|SIGREMAR|
- |---|-------|----|----|----|----|----|----|
- |1. Lagoas de Baldaio. AAUT. A pé;|A.M. Fonte Santa Helena-Baldaio.|2008002,|2014001,|2015001,|2016001,|2017001||(CF-040), (CF-167), banco|da lagoa interna,| 
+|AXU|Entidad|2008|2014|2015|2016|2017|2018|SIGREMAR|
+|---|-------|----|----|----|----|----|----|
+|1. Lagoas de Baldaio. AAUT. A pé;|A.M. Fonte Santa Helena-Baldaio.|2008002,|2014001,|2015001,|2016001,|2017001||(CF-040), (CF-167), banco|da lagoa interna,| 
 
 
 1. Ría do Burgo. AAUT. A pé; Embarcación;. C.P. A Coruña
