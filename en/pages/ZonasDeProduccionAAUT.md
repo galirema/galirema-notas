@@ -124,8 +124,8 @@ __Zonas de producción no SIGREMAR:__
 |Praias de Barallobre, Maniños, AAUT, A pé;|C.P. Barallobre|2008007,|2014007,|2015007,|2016007,|2017007||(CF-138), (CF-139),|
 |Autorización das Pías, Autorización enseada Cabana-A Malata, AAUT, A pé; Embarcación;|C.P. Ferrol, C.P. Barallobre, (plan conxunto)||2014013,|2015014,|2016014,|2017014||(CF-143), (CF-144), (CF-145), (CF-136),|
 |San Felipe, enseada de Cabana-A Malata, praia de Caranza-Montón, de punta Cornida á ponte do tren, AAUT, A pé;|C.P. Ferrol||2014014|2015015|2016015|2017015||(CF-112), (CF-113),|
+|Entre final da praia grande de Miño a punta Allo; entre a canle de Hervás a punta Curbeiros, AAUT, A pé; Embarcación;|C.P. Miño|2008015,|2014015,|2015016,|2016016,|2017016,||(CF-086), (CF-087), (CF-088), (CF-089), (CF-090), (CF-091), (CF-092-I), (CF-092-II), (CF-092-III),|
 
-1. Entre final da praia grande de Miño a punta Allo; entre a canle de Hervás a punta Curbeiros, AAUT A pé; Embarcación; C.P. Miño
 
 1. Punta Promontoiro a rampla do Seixo, punta Redonda a punta Leiras, punta Leiras a punta Promontoiro, Punta Segaño a punta Redonda, AAUT A pé; C.P. Mugardos
 
