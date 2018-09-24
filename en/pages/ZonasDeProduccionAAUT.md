@@ -121,6 +121,7 @@ __Zonas de producción no SIGREMAR:__
  |---|-------|----|----|----|----|----|----|
  |1. Lagoas de Baldaio. AAUT. A pé;|A.M. Fonte Santa Helena-Baldaio.|2008002,|2014001,|2015001,|2016001,|2017001||(CF-040), (CF-167), banco|da lagoa interna,| 
 
+
 1. Ría do Burgo. AAUT. A pé; Embarcación;. C.P. A Coruña
 
 1. Praias de Barallobre, Maniños, AAUT A pé; C.P. Barallobre
