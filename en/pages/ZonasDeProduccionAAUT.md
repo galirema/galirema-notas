@@ -122,8 +122,7 @@ __Zonas de producción no SIGREMAR:__
 |Lagoas de Baldaio. AAUT|A pé;|A.M. Fonte Santa Helena-Baldaio|2008002,|2014001,|2015001,|2016001,|2017001||(CF-040), (CF-167), banco da lagoa interna,|
 |Ría do Burgo. AAUT|A pé; Embarcación;.|C.P. A Coruña|2008004,|2014003,|2015003,|2016003|2017003||(CF-002), (CF-002), (CF-004), (CF-009), (CF-008), (CF-005), (CF-006), (CF-007), (CF-317), (CF-319), (CF-001),|
 |Praias de Barallobre, Maniños, AAUT|A pé;|C.P. Barallobre|2008007,|2014007,|2015007,|2016007,|2017007||(CF-138), (CF-139),|
-
-1. Autorización das Pías, Autorización enseada Cabana-A Malata, AAUT A pé; Embarcación; C.P. Ferrol, C.P. Barallobre, (plan conxunto)
+|Autorización das Pías, Autorización enseada Cabana-A Malata, AAUT|A pé; Embarcación;|C.P. Ferrol, C.P. Barallobre, (plan conxunto)||2014013,|2015014,|2016014,|2017014||(CF-143), (CF-144), (CF-145), (CF-136),|
 
 1. San Felipe, enseada de Cabana-A Malata, praia de Caranza-Montón, de punta Cornida á ponte do tren, AAUT A pé; C.P. Ferrol
 
