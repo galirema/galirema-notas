@@ -117,9 +117,9 @@ __Zonas de producción no SIGREMAR:__
 
  __De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)__
  
-|AXU|Entidad|2008|2014|2015|2016|2017|2018|SIGREMAR|
-|---|-------|----|----|----|----|----|----|--------|
-|Lagoas de Baldaio. AAUT. A pé;|A.M. Fonte Santa Helena-Baldaio.|2008002,|2014001,|2015001,|2016001,|2017001||(CF-040), (CF-167), banco|da lagoa interna,|
+|AXU|Entidad|2008|2014|2015|2016|2017|2018|SIGREMAR 20017|
+|---|-------|----|----|----|----|----|----|--------------|
+|Lagoas de Baldaio. AAUT. A pé;|A.M. Fonte Santa Helena-Baldaio.|2008002,|2014001,|2015001,|2016001,|2017001||(CF-040), (CF-167), banco da lagoa interna,|
 |Ría do Burgo. AAUT. A pé; Embarcación;.|C.P. A Coruña|2008004,|2014003,|2015003,|2016003|2017003||(CF-002), (CF-002), (CF-004), (CF-009), (CF-008), (CF-005), (CF-006), (CF-007), (CF-317), (CF-319), (CF-001),|
 
 1. Praias de Barallobre, Maniños, AAUT A pé; C.P. Barallobre
