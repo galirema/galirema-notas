@@ -12,5 +12,12 @@
 
 * Mapa sobre los recursos de las distintas administraciones pesqueras sobre temas pesqueros.
 
-  1. [Administración Pesqueira Galega](https://umap.openstreetmap.fr/es/map/administracion-pesqueira-galega_245988#7/42.763/-7.157)  
+  1. [Administración Pesqueira Galega](http://u.osmfr.org/m/245988/)  
   Ubicacion de las dependencias de la acdministración pesquera de Galicia agrupada por su temática.
+  
+  
+
+## Áreas de Xestión Unificada (AXU)
+
+* __A0001v2017__ - [Lagoas de Baldaio. AAUT, A pé;](http://u.osmfr.org/m/250411/)
+
