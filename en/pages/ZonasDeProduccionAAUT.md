@@ -54,7 +54,7 @@ __Zonas de producción no SIGREMAR:__
 
 1. Entre punta Peralto, punta Pedra Rubia, AAUT A pé; __A0008v2017__. C.P. Cabo de Cruz
 
-1. Entre punta Peralto, punta Pedra Rubia, AAUT Embarcación; C.P. Cabo de Cruz
+1. Entre punta Peralto, punta Pedra Rubia, AAUT Embarcación; __A0009v2017__. C.P. Cabo de Cruz
 
 1. Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT A pé; C.P. Palmeira
 
@@ -110,7 +110,7 @@ __Zonas de producción no SIGREMAR:__
 
 1. Zona de autorización do río Anllóns. AAUT. A pé; __A0002v2017__. A.M. Esteiro do río Anllóns.
 
-1. De punta Lago a punta Roda, de punta Sandía a punta Roda, de punta Sandía a punta Insuela, enseada da Vasa, AAUT Embarcación; C.P. Camariñas
+1. De punta Lago a punta Roda, de punta Sandía a punta Roda, de punta Sandía a punta Insuela, enseada da Vasa, AAUT Embarcación; __A0010v2017__. C.P. Camariñas
 
 
 ## Coruña - Ferrol (CF)
@@ -135,9 +135,9 @@ __Zonas de producción no SIGREMAR:__
 
   _De punta Frouxeira (43.62 N, 8.1893 W)  ata o rio EO (43.4721 N, 7.0566 W)_
 
-1. Autorizacións da confraría de Cariño AAUT A pé; C.P. Cariño
+1. Autorizacións da confraría de Cariño AAUT A pé; __A0011v2017__. C.P. Cariño
 
-1. Enseada de Esteiro, enseada de Pantín, AAUT A pé; C.P. Cedeira
+1. Enseada de Esteiro, enseada de Pantín, AAUT A pé; __A0012v2017__. C.P. Cedeira
 
 1. Autorización de Espasante, AAUT A pé; C.P. Espasante
 
