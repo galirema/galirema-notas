@@ -90,6 +90,8 @@ __Zonas de producción no SIGREMAR:__
 
 1. Autorización de C.P. Vilanova (Sublitoral) AAUT Embarcación; __A0045v2017__ C.P. Vilanova
 
+1. De punta Ferrazo a Regato Aduana, AAUT A pé; __A0046v2017__. C.P. Vilaxoán
+
 
 ## Ría de Muros - Noia (MN)
 
@@ -143,7 +145,7 @@ __Zonas de producción no SIGREMAR:__
 
 1. Zonas de autorización situadas na marxe esquerda da ría do Barqueiro AAUT A pé; __A0022v2017__. C.P. O Barqueiro-Bares
 
-1. Praia de Arealonga e Lombo das Navallas AAUT A pé, C.P. O Vicedo
+1. Praia de Arealonga e Lombo das Navallas AAUT A pé; __A0047v2008__. C.P. O Vicedo
 
 
 [Indice](indicesZonasProduccion.md)
