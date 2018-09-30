@@ -130,7 +130,7 @@ __Zonas de producción no SIGREMAR:__
 |Punta Promontoiro a rampla do Seixo, punta Redonda a punta Leiras, punta Leiras a punta Promontoiro, Punta Segaño a punta Redonda, AAUT, A pé; __A0017v2017__.|C.P. Mugardos|2008016,|2014016,|2015017,|2016017,|2017017||(CF-150), (CF-153), (CF-155), (CF-156), (CF-157), (CF-159), (CF-160), (CF-161), (CF-162), (CF-315), (CF-163), (CF-164), (CF-165),|
 |De praia Almieiras a punta Carboeira AAUT, A pé; __A0025v2017__.|C.P. Pontedeume|2008024,|2014024,|2015025,|2016025,|2017025||(CF-101), (CF-102), (CF-103), (CF-104-I), (CF-104-II), (CF-104-III), (CF-097-I), (CF-097-II), (CF-098), (CF-099), (CF-099), (CF-168),|
 |De praia Almieiras a punta Carboeira AAUT, Embarcación; __A0026v2017__.|C.P. Pontedeume|2008025,|2014025,|2015026,|2016026,|2017026,||(CF-093), (CF-094), (CF-096), (CF-095), (CF-097-I), (CF-097-II), (CF-098), (CF-099), (CF-100), (CF-100-I),|
-|Praia de Sada AAUT, A pé; __A0031v2017__.|C.P. Sada|2008029,|2014030,|2015031,|2016031,|||(CF-080),|
+|Praia de Sada AAUT, A pé; __A0031v2016__.|C.P. Sada|2008029,|2014030,|2015031,|2016031,|||(CF-080),|
 
 
 ## Costa Lucense (CL)
