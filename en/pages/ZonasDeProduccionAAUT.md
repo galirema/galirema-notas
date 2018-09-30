@@ -30,16 +30,16 @@ __Zonas de producción no SIGREMAR:__
  _De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)_
 
 
-1. Foz do río Miñor, praia Ladeira, praia do Burgo, praia de Santa Marta, paseo da Lonxa, praia Ribeira, praia Barbeira, AAUT A pé; C.P. Baiona
+1. Foz do río Miñor, praia Ladeira, praia do Burgo, praia de Santa Marta, paseo da Lonxa, praia Ribeira, praia Barbeira, AAUT A pé; __A0036v2017__. C.P. Baiona
 
-1. Autorización administrativa C.P. Baiona Sublitoral AAUT Embarcación; C.P. Baiona
+1. Autorización administrativa C.P. Baiona Sublitoral AAUT Embarcación; __A0037v2017__. C.P. Baiona
 
 
 ## Ría de Pontevedra (PO)
 
  _De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_
 
-1. De punta Alada a punta Preguntoiro, cara ao interior da ría de Aldán AAUT A pé; C.P. Aldán-O Hio
+1. De punta Alada a punta Preguntoiro, cara ao interior da ría de Aldán AAUT A pé; __A0035v2017__. C.P. Aldán-O Hio
 
 
 ## Ría de Arousa (AR)
@@ -56,39 +56,39 @@ __Zonas de producción no SIGREMAR:__
 
 1. Entre punta Peralto, punta Pedra Rubia, AAUT Embarcación; __A0009v2017__. C.P. Cabo de Cruz
 
-1. Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT A pé; C.P. Palmeira
+1. Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT A pé; __A0023v2017__. C.P. Palmeira
 
-1. Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT Embarcación; C.P. Palmeira
+1. Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT Embarcación; __A0024v2017__. C.P. Palmeira
 
-1. Autorización de Rianxo AAUT A pé; C.P. Rianxo
+1. Autorización de Rianxo AAUT A pé; __A0027v2017__. C.P. Rianxo
 
-1. Autorización de Rianxo sublitoral AAUT Embarcación; C.P. Rianxo
+1. Autorización de Rianxo sublitoral AAUT Embarcación; __A0028v2017__. C.P. Rianxo
 
-1. Autorización de Ribeira AAUT Embarcación; C.P. Ribeira
+1. Autorización de Ribeira AAUT Embarcación; __A0029v2017__. C.P. Ribeira
 
-1. De punta Aguiúncho a Eiró Grande, de Eiró Grande a Carabancelo, de Carabancelo a Redonda Vella, de Redonda Vella a punta Castro AAUT Rastro de vieira ou voandeira; C.P. Ribeira
+1. De punta Aguiúncho a Eiró Grande, de Eiró Grande a Carabancelo, de Carabancelo a Redonda Vella, de Redonda Vella a punta Castro AAUT Rastro de vieira ou voandeira; __A0030v2017__. C.P. Ribeira
 
-1. De punta Portomouro a punta Pedra Rubia, AAUT A pé; Embarcación; Ría de Arousa S.C.G.
+1. De punta Portomouro a punta Pedra Rubia, AAUT A pé; Embarcación; __A0032v2017__. Ría de Arousa S.C.G.
 
-1. Zonas de autorización: intermareal de illa de Arousa AAUT A pé; C.P. A Illa de Arousa
+1. Zonas de autorización: intermareal de illa de Arousa AAUT A pé; __A0033v2017__. C.P. A Illa de Arousa
 
-1. Zonas de autorización: submareal de Illa de Arousa AAUT Embarcación; C.P. A Illa de Arousa
+1. Zonas de autorización: submareal de Illa de Arousa AAUT Embarcación; __A0034v2017__. C.P. A Illa de Arousa
 
-1. Zona intermareal atorización de Cambados AAUT A pé; C.P. Cambados
+1. Zona intermareal atorización de Cambados AAUT A pé; __A0038v2017__. C.P. Cambados
 
-1. De Rego do Alcalde a punta Tragove, de punta Borrón e peirao de Cambados a punta Borrelo, AAUT Embarcación; C.P. Cambados
+1. De Rego do Alcalde a punta Tragove, de punta Borrón e peirao de Cambados a punta Borrelo, AAUT Embarcación; __A0039v2017__. C.P. Cambados
 
-1. A Fangueira, Sublitoral AAUT Embarcación; C.P. Carril
+1. A Fangueira, Sublitoral AAUT Embarcación; __A0040v2017__. C.P. Carril
 
-1. A Fangueira, Intermareal AAUT A pé; C.P. Carril
+1. A Fangueira, Intermareal AAUT A pé; __A0041v2017__. C.P. Carril
 
-1. Zonas de autorización (Intermareal) C.P. O Grove, AAUT A pé; C.P. O Grove
+1. Zonas de autorización (Intermareal) C.P. O Grove, AAUT A pé; __A0042v2017__. C.P. O Grove
 
-1. Zonas de autorización C.P. O Grove, (Sublitoral) AAUT Embarcación; C.P. O Grove
+1. Zonas de autorización C.P. O Grove, (Sublitoral) AAUT Embarcación; __A0043v2017__. C.P. O Grove
 
-1. De regato Aduana a Rego do Alcalde, (Intermareal) AAUT A pé; C.P. Vilanova
+1. De regato Aduana a Rego do Alcalde, (Intermareal) AAUT A pé; __A0044v2017__. C.P. Vilanova
 
-1. Autorización de C.P. Vilanova (Sublitoral) AAUT Embarcación; C.P. Vilanova
+1. Autorización de C.P. Vilanova (Sublitoral) AAUT Embarcación; __A0045v2017__ C.P. Vilanova
 
 
 ## Ría de Muros - Noia (MN)
@@ -126,9 +126,9 @@ __Zonas de producción no SIGREMAR:__
 |San Felipe, enseada de Cabana-A Malata, praia de Caranza-Montón, de punta Cornida á ponte do tren, AAUT, A pé; __A0015v2017__.|C.P. Ferrol||2014014|2015015|2016015|2017015||(CF-112), (CF-113),|
 |Entre final da praia grande de Miño a punta Allo; entre a canle de Hervás a punta Curbeiros, AAUT, A pé; Embarcación; __A0016v2017__.|C.P. Miño|2008015,|2014015,|2015016,|2016016,|2017016,||(CF-086), (CF-087), (CF-088), (CF-089), (CF-090), (CF-091), (CF-092-I), (CF-092-II), (CF-092-III),|
 |Punta Promontoiro a rampla do Seixo, punta Redonda a punta Leiras, punta Leiras a punta Promontoiro, Punta Segaño a punta Redonda, AAUT, A pé; __A0017v2017__.|C.P. Mugardos|2008016,|2014016,|2015017,|2016017,|2017017||(CF-150), (CF-153), (CF-155), (CF-156), (CF-157), (CF-159), (CF-160), (CF-161), (CF-162), (CF-315), (CF-163), (CF-164), (CF-165),|
-|De praia Almieiras a punta Carboeira AAUT, A pé;|C.P. Pontedeume|2008024,|2014024,|2015025,|2016025,|2017025||(CF-101), (CF-102), (CF-103), (CF-104-I), (CF-104-II), (CF-104-III), (CF-097-I), (CF-097-II), (CF-098), (CF-099), (CF-099), (CF-168),|
-|De praia Almieiras a punta Carboeira AAUT, Embarcación;|C.P. Pontedeume|2008025,|2014025,|2015026,|2016026,|2017026,||(CF-093), (CF-094), (CF-096), (CF-095), (CF-097-I), (CF-097-II), (CF-098), (CF-099), (CF-100), (CF-100-I),|
-|Praia de Sada AAUT, A pé;|C.P. Sada|2008029,|2014030,|2015031,|2016031,|||(CF-080),|
+|De praia Almieiras a punta Carboeira AAUT, A pé; __A0025v2017__.|C.P. Pontedeume|2008024,|2014024,|2015025,|2016025,|2017025||(CF-101), (CF-102), (CF-103), (CF-104-I), (CF-104-II), (CF-104-III), (CF-097-I), (CF-097-II), (CF-098), (CF-099), (CF-099), (CF-168),|
+|De praia Almieiras a punta Carboeira AAUT, Embarcación; __A0026v2017__.|C.P. Pontedeume|2008025,|2014025,|2015026,|2016026,|2017026,||(CF-093), (CF-094), (CF-096), (CF-095), (CF-097-I), (CF-097-II), (CF-098), (CF-099), (CF-100), (CF-100-I),|
+|Praia de Sada AAUT, A pé; __A0031v2017__.|C.P. Sada|2008029,|2014030,|2015031,|2016031,|||(CF-080),|
 
 
 ## Costa Lucense (CL)
@@ -141,7 +141,7 @@ __Zonas de producción no SIGREMAR:__
 
 1. Autorización de Espasante, AAUT A pé; __A0013v2017__. C.P. Espasante
 
-1. Zonas de autorización situadas na marxe esquerda da ría do Barqueiro AAUT A pé; C.P. O Barqueiro-Bares
+1. Zonas de autorización situadas na marxe esquerda da ría do Barqueiro AAUT A pé; __A0022v2017__. C.P. O Barqueiro-Bares
 
 1. Praia de Arealonga e Lombo das Navallas AAUT A pé, C.P. O Vicedo
 
