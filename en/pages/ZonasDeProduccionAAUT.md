@@ -95,13 +95,13 @@ __Zonas de producción no SIGREMAR:__
 
  _De praia de Catia (42.261 N, 9.0554 W) ata punta Ínsua (42.771 N, 9.1266 W)_
 
-1. Zona de autorización: praia da Virxe e praia da Abelleira AAUT A pé; C.P. Muros
+1. Zona de autorización: praia da Virxe e praia da Abelleira AAUT A pé; __A0018v2017__. C.P. Muros
 
-1. Zona de autorización: praia da Virxe e praia da Abelleira AAUT Embarcación; C.P. Muros
+1. Zona de autorización: praia da Virxe e praia da Abelleira AAUT Embarcación; __A0019v2017__. C.P. Muros
 
-1. Zona de autorización C.P. Noia, AAUT A pé; Embarcación; C.P. Noia
+1. Zona de autorización C.P. Noia, AAUT A pé; Embarcación; __A0020v2017__. C.P. Noia
 
-1. Bancos de ostra de Broña, punta Cabalo Baixo, AAUT Rastro de vieira ou voandeira; C.P. Noia
+1. Bancos de ostra de Broña, punta Cabalo Baixo, AAUT Rastro de vieira ou voandeira; __A0021v2017__. C.P. Noia
 
 
 ## Costa da Morte (CM)
@@ -124,8 +124,8 @@ __Zonas de producción no SIGREMAR:__
 |Praias de Barallobre, Maniños, AAUT, A pé; __A0007v2017__.|C.P. Barallobre|2008007,|2014007,|2015007,|2016007,|2017007||(CF-138), (CF-139),|
 |Autorización das Pías, Autorización enseada Cabana-A Malata, AAUT, A pé; Embarcación; __A0014v2017__.|C.P. Ferrol, C.P. Barallobre, (plan conxunto)||2014013,|2015014,|2016014,|2017014||(CF-143), (CF-144), (CF-145), (CF-136),|
 |San Felipe, enseada de Cabana-A Malata, praia de Caranza-Montón, de punta Cornida á ponte do tren, AAUT, A pé; __A0015v2017__.|C.P. Ferrol||2014014|2015015|2016015|2017015||(CF-112), (CF-113),|
-|Entre final da praia grande de Miño a punta Allo; entre a canle de Hervás a punta Curbeiros, AAUT, A pé; Embarcación;|C.P. Miño|2008015,|2014015,|2015016,|2016016,|2017016,||(CF-086), (CF-087), (CF-088), (CF-089), (CF-090), (CF-091), (CF-092-I), (CF-092-II), (CF-092-III),|
-|Punta Promontoiro a rampla do Seixo, punta Redonda a punta Leiras, punta Leiras a punta Promontoiro, Punta Segaño a punta Redonda, AAUT, A pé;|C.P. Mugardos|2008016,|2014016,|2015017,|2016017,|2017017||(CF-150), (CF-153), (CF-155), (CF-156), (CF-157), (CF-159), (CF-160), (CF-161), (CF-162), (CF-315), (CF-163), (CF-164), (CF-165),|
+|Entre final da praia grande de Miño a punta Allo; entre a canle de Hervás a punta Curbeiros, AAUT, A pé; Embarcación; __A0016v2017__.|C.P. Miño|2008015,|2014015,|2015016,|2016016,|2017016,||(CF-086), (CF-087), (CF-088), (CF-089), (CF-090), (CF-091), (CF-092-I), (CF-092-II), (CF-092-III),|
+|Punta Promontoiro a rampla do Seixo, punta Redonda a punta Leiras, punta Leiras a punta Promontoiro, Punta Segaño a punta Redonda, AAUT, A pé; __A0017v2017__.|C.P. Mugardos|2008016,|2014016,|2015017,|2016017,|2017017||(CF-150), (CF-153), (CF-155), (CF-156), (CF-157), (CF-159), (CF-160), (CF-161), (CF-162), (CF-315), (CF-163), (CF-164), (CF-165),|
 |De praia Almieiras a punta Carboeira AAUT, A pé;|C.P. Pontedeume|2008024,|2014024,|2015025,|2016025,|2017025||(CF-101), (CF-102), (CF-103), (CF-104-I), (CF-104-II), (CF-104-III), (CF-097-I), (CF-097-II), (CF-098), (CF-099), (CF-099), (CF-168),|
 |De praia Almieiras a punta Carboeira AAUT, Embarcación;|C.P. Pontedeume|2008025,|2014025,|2015026,|2016026,|2017026,||(CF-093), (CF-094), (CF-096), (CF-095), (CF-097-I), (CF-097-II), (CF-098), (CF-099), (CF-100), (CF-100-I),|
 |Praia de Sada AAUT, A pé;|C.P. Sada|2008029,|2014030,|2015031,|2016031,|||(CF-080),|
