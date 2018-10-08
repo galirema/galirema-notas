@@ -6,7 +6,10 @@
 
 ## Costa de Galicicia
 
-* Zonas administrativas
+Fuente: Loa Recursos Mrinos de Galicia Serie Técnica - 4 "__Georeferenciación y cartografiado de los bancos marisqueros de Galicia. Evaluación del potencial marisquero.__"
+
+* Zonas administrativas  
+Definidas en el Anexo V de la Orden de 31 de mayo de 1995.
   * __Zona I Ría de Vigo__  (Rio Miño - Punta Soavella)  
   Entidades: C.P. A Guarda, C.P. Baiona, C.P. Vigo, C.P. Redondela, C.P. Arcade, C.P. Moaña, C.P. Cangas,
   * __Zona II Ría de Pontevedra__ (Punta Soavella - Punta Faxilda)  
@@ -28,7 +31,8 @@
   
   ![Zonas Administrativas](https://lh3.googleusercontent.com/J1EnRr-zxjjqUNUrUqOMbqfD59TBQFFc87YC5dSbNQsfpzHmc2PUlvcYkFyh153gXKMhCtQfWlABTTjHIicrKdn3_Ml6Hkxcy2RN6yOaXLogBnlhJE3g4gWKH0oDYC5063kYImwhhTjYkFunh270jBb-OFo7bDQdCjR15nlhiTUBKS4f4ycns0ho2ZKPFSx1NrYdefJkKUtUQERnggVu9AeGZhRnetUOxWqqPqZLyo72-dC-r0VpdU992K9UqTJWpju7xAFTqC9dN0ahJuNwHzZSjbKH3zOFOuX5W-Op4VtqZTwkgWnGBTULjwtCFd6ZWyDVzCTlAJHWfw6k8rhOF-WKXNIHxR3HrpuEHyA54M3OMEIL1Sw3aJb5ykmhQOwsn_79cMigg3hn09nGNkx9A14qRo0pLNf2ryYcGGXXEeVuuMFB2WDNGr2OyBGNO-B-g7AuWlbAwY3J6zp-FBTemIQvVUWjlyQ3CiVFVvP49FkMTIc4HpiUl8T_0s7BK4TDrDgIjQV8Mr_Ef-lej-NHmj90lQAyfguYedIy55lQCWT8EZ-KHGdn665g6LkNt74mrpzjItcHxoII3IJlmeDGuvaEDrNHBFLIdmY4l3brDfFWSWGy8rP_UfvDLMQ5NJ-MuhLWQluk6Y2OO9UCPEJhrhUH9WMsPY4oaC_g8QpFgKWC0pSd7uVz0Koa=s700 "Fuente: Los Recursos Marinos de Galicia, Seria Técnica- 4")
 
-* Zonas oceanográficas
+* Zonas oceanográficas  
+Definidas por la UTPB. Consellería del Mar.
  * __Zona A Rías Baixas__ (Río Miño - Cabo Touriñan)  
  Z.I, Z.II, Z.III, Z.IV, Z.V,
  * __Zona B Arco Ártabro__ (Cabo Touriñan - Cabo Prioriño)  
