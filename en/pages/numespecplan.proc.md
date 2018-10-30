@@ -48,6 +48,17 @@ o resultado desta consulta son os comandos SQL para cargar dicho campo en cada r
 
 ```sql
 
+-- pespec1995
+CREATE TABLE pespec1995 (
+    idesplan    INTEGER  PRIMARY KEY AUTOINCREMENT
+                         NOT NULL,
+    anualidad   INTEGER,
+    idPlanAnual INTEGER,
+    tipoCode    CHAR (4),
+    codeFAO     CHAR (3) 
+);
+SELECT 'UPDATE pexma1995 SET numesp= '|| COUNT("codeFAO") || ' WHERE idPlanAnual = +' || "idPlanAnual" ||'+ AND numesp ISNULL;' AS orden FROM "pespec1995" GROUP BY "idPlanAnual";
+
 -- pespec2000
 CREATE TABLE pespec2000 (
     idesplan    INTEGER  PRIMARY KEY AUTOINCREMENT
