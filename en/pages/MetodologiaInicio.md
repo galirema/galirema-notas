@@ -23,6 +23,14 @@
 * La presentación de los resultados del proyecto tiene distintos niveles, por la naturaleza de las fuentes pues los datos estan embevidos dentro de documentos o tener una estructura que permite su facil obtención para ser tratados (csv, xml, etc..)
 
 + [Repositorio](repoGithub.md) donde se publican los datos que no tienen un facil acceso en las fuentes que los contienen.  
-El formato elegido poara los datos publicados en el repositorio es el _csv_
+El formato elegido poara los datos publicados en el repositorio es el _csv_.
+
++ La divulgación del __Proyecto Galirema__ se lleva a cabo en la web mediante dos sites: 
+
+  * Uno en [castellano](http:www.galiciamarineira.info) en formato blog basado en [Dupal](https://www.drupal.org/).  
+  Para un mejor seguimiento del proceso los datos obtenidos se presentan bajo el formato legal del que se obtubieron para facilitar el seguimiento de los datos por los usarios.  
+  Metodología para el [mantenimiento del CMS Drupal](MantenimientoDrupal.md)
+  
+  * En formato [wiki](http://es.galirema.wikia.com/wiki/Wiki_Galirema) la versión en _«galego»_ de la presentación de los resultado.
 
 
