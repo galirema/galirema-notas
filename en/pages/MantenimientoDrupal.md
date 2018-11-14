@@ -1,19 +1,25 @@
 #Mantenimiento CMS Drupal
 
 
+## Enlaces de documentación
+
+* [A Beginner's Guide To Drush: The Drupal Shell S](https://www.digitalocean.com/community/tutorials/a-beginner-s-guide-to-drush-the-drupal-shell)
+
+* [Drush Commands Drupal 7](https://drushcommands.com/drush-7x/) 
+
+
 ## The Drupal Shell
 
 * Un shell para Drupal
 
 * [A Command line Shell for Drupal](https://www.drush.org/)
 
-### Enlaces de documentación
+### Comandos de Drupal Shell
 
-* [A Beginner's Guide To Drush: The Drupal Shell](https://www.digitalocean.com/community/tutorials/a-beginner-s-guide-to-drush-the-drupal-shell)
-
-* [Drush Commands Drupal 7](https://drushcommands.com/drush-7x/) 
-
+* Cache
 	* Borrar un caché específico, o todos los cachés de drupal. [drush cache-clear](https://drushcommands.com/drush-7x/cache/cache-clear/)
+	
+* Core
 
 	* Copia de seguridad de su código, archivos y base de datos en un solo archivo. [drush archive-dump](https://drushcommands.com/drush-7x/core/archive-dump/)
 
@@ -25,6 +31,8 @@
 
 	* Devuelva la ruta del sistema de archivos para módulos / temas y otras carpetas clave. [drush drupal-directory](https://drushcommands.com/drush-7x/core/drupal-directory/)
 
+* PM
+
 	* Actualice los proyectos de Drupal core y contrib y aplique las actualizaciones de bases de datos pendientes (igual que pm-updatecode + updatedb). [drush pm-update](https://drushcommands.com/drush-7x/pm/pm-update/)
 
 	* Desinstalar uno o más módulos. [drush pm-uninstall](https://drushcommands.com/drush-7x/pm/pm-uninstall/)
@@ -33,7 +41,11 @@
 
 	* Muestra información detallada de una o más extensiones (módulos o temas). [drush pm-info](https://drushcommands.com/drush-7x/pm/pm-info/)
 
+* Expire
+
 	* Expira un usuario por ID de usuario. [drush expire-user](https://drushcommands.com/drush-7x/expire/expire-user/)
+
+* SQL
 
 	* Abra una interfaz de línea de comandos SQL con las credenciales de Drupal. [drush sql-cli](https://drushcommands.com/drush-7x/sql/sql-cli/)
 
@@ -50,4 +62,6 @@
 	* Ejecutar las operaciones de saneamiento en la base de datos actual. [drush sql-sanitize](https://drushcommands.com/drush-7x/sql/sql-sanitize/)
 
 	* Copia el contenido de la base de datos de un sitio de origen a un sitio de destino. Transfiere el volcado de la base de datos a través de rsync. [drush sql-sync](https://drushcommands.com/drush-7x/sql/sql-sync/)
+
+
 
