@@ -69,6 +69,8 @@
 
 * Los aspectos metodológicos no van a estar muy desarrollados en __Galicia Mariñeira__, ya que este aspecto está reservado para la sede del proyecto [galirema en GitHub](https://goo.gl/SyCglx)
 
+* La metodología para el mantenimiento de un site basado en Drupal utilizo el [Shell de Drupal](MantenimientoDrupal.md)
+
 
 * [Volver al índice de publicaciones](IndicePublicacion.md)
 
