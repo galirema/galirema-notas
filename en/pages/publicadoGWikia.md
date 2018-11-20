@@ -15,8 +15,8 @@
 	Menú GSOL: 24 Fichas  
 	Menú FEQD: 18 Fichas  
 	Menú HPEN: 5 Fichas  
-	Menú IALG:  
-	Menú JANE:  
+	Menú IALG: 23 Fichas  
+	Menú JANE: 10 Fichas  
 	Menú KPOL:
 	1. 2017 dog2016.249 (30/12/2016) Total Fichas: 0
 	1. 2016 dog2015.248 (30/12/2015) Total Fichas: 0
