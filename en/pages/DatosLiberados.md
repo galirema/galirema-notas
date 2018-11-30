@@ -6,9 +6,13 @@ En el presente listado se ordenan por fecha de publicación.
 
 Los datos estan alojados en la carpeta [Data](https://github.com/galirema/galirema/tree/master/Data) del proyecto [Galirema](https://github.com/galirema/galirema) alojado en _GitHub_.
 
+Una información mas detallada la se puede encontrar en la [página de introducción](https://github.com/galirema/galirema/blob/master/Data/ReadmeES.md) del __repositorio de datos de Galirema__. 
+
 En la Wiki asociada al proyecto [Galirema](https://github.com/galirema/galirema/wiki) podrás encontrar la documentación sobre los datos liberados en este repositorio.
 
 ## Datos 
+
+Ir a la carpeta de los [datos](https://github.com/galirema/galirema/tree/master/Data)
 
 * 2017/10/18 Plan de explotación del año 2017
 * 2018/03/13 Plan de explotación del año 2018
