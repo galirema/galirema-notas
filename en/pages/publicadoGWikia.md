@@ -18,8 +18,8 @@
 	Menú IALG: 23 Fichas  
 	Menú JANE: 10 Fichas  
 	Menú KPOL: 24 Fichas  
-	1. Pexma2017 dog2016.249 (30/12/2016) Total Fichas: 0  
-	Menú AAUT: - Fichas  
+	1. [Pexma2017](http://es.galirema.wikia.com/wiki/PexmaA2017) dog2016.249 (30/12/2016) Total Fichas: 55  
+	Menú AAUT: 45 Fichas  
 	Menú BESP: - Fichas  
 	Menú DPER: - Fichas  
 	Menú GSOL: - Fichas  
