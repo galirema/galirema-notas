@@ -2,7 +2,7 @@
 
 * [Volver al índice de publicaciones](IndicePublicacion.md)
 
-## Wiki Galirema. Fichas Publicadas 184
+## Wiki Galirema. Fichas Publicadas 325
 
 1. [Wiki_Galirema](http://es.galirema.wikia.com/wiki/Wiki_Galirema) Total Fichas: 1
 1. [GaliremaInicio](http://es.galirema.wikia.com/wiki/GaliremaInicio) Total Fichas: 1
