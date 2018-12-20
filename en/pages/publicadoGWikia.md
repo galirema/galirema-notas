@@ -24,9 +24,9 @@
 	Menú DPER: 35 Fichas  
 	Menú GSOL: - Fichas  
 	Menú FEQD: 18 Fichas  
-	Menú HPEN: - Fichas  
+	Menú HPEN:  5 Fichas  
 	Menú IALG: - Fichas  
-	Menú JANE: - Fichas  
+	Menú JANE:  9 Fichas  
 	Menú KPOL: - Fichas  
 	1. Pexma2016 dog2015.248 (30/12/2015) Total Fichas: 0
 	1. Pexma2015 dog2014.250 (31/12/2014) Total Fichas: 0
