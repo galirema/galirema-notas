@@ -22,7 +22,7 @@
 	Menú AAUT: 45 Fichas  
 	Menú BESP: 48 Fichas  
 	Menú DPER: 35 Fichas  
-	Menú GSOL: - Fichas  
+	Menú GSOL: 24 Fichas  
 	Menú FEQD: 18 Fichas  
 	Menú HPEN:  5 Fichas  
 	Menú IALG: - Fichas  
