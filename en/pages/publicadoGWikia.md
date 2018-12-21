@@ -2,12 +2,12 @@
 
 * [Volver al índice de publicaciones](IndicePublicacion.md)
 
-## Wiki Galirema. Fichas Publicadas 464
+## Wiki Galirema. Fichas Publicadas 506
 
 1. [Wiki_Galirema](http://es.galirema.wikia.com/wiki/Wiki_Galirema) Total Fichas: 1
 1. [GaliremaInicio](http://es.galirema.wikia.com/wiki/GaliremaInicio) Total Fichas: 1
 1. [AbrevCadros](http://es.galirema.wikia.com/wiki/AbrevCadros) Total Fichas: 1
-1. [Plans_anuais](http://es.galirema.wikia.com/wiki/Plans_anuais) Total Fichas: 1 (461)
+1. [Plans_anuais](http://es.galirema.wikia.com/wiki/Plans_anuais) Total Fichas: 1 (503)
 	1. [Pexma2018](http://es.galirema.wikia.com/wiki/PexmaA2018) dog2017.246 (29/12/2017) Total Fichas: __244__  
 	Menú AAUT: 46 Fichas  
 	Menú BESP: 48 Fichas  
@@ -18,16 +18,16 @@
 	Menú IALG: 23 Fichas  
 	Menú JANE: 10 Fichas  
 	Menú KPOL: 24 Fichas  
-	1. [Pexma2017](http://es.galirema.wikia.com/wiki/PexmaA2017) dog2016.249 (30/12/2016) Total Fichas: 194  
+	1. [Pexma2017](http://es.galirema.wikia.com/wiki/PexmaA2017) dog2016.249 (30/12/2016) Total Fichas: __236__  
 	Menú AAUT: 45 Fichas  
 	Menú BESP: 48 Fichas  
 	Menú DPER: 35 Fichas  
 	Menú GSOL: 24 Fichas  
 	Menú FEQD: 18 Fichas  
 	Menú HPEN:  5 Fichas  
-	Menú IALG: - Fichas  
+	Menú IALG: 20 Fichas  
 	Menú JANE:  9 Fichas  
-	Menú KPOL: - Fichas  
+	Menú KPOL: 22 Fichas  
 	1. Pexma2016 dog2015.248 (30/12/2015) Total Fichas: 0
 	1. Pexma2015 dog2014.250 (31/12/2014) Total Fichas: 0
 	1. Pexma2014 dog2013.249 (31/12/2013) Total Fichas: 0
