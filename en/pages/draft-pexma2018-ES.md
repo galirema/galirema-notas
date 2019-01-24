@@ -38,7 +38,7 @@
 |[PG-Artículo 2](#item02). Planes de explotación en autorizaciones marisqueras|__AAUT__||[PG.A](#cadroAAUT)|
 |[PG-Artículo 3](#item03). Planes específicos de explotación para las zonas de libre marisqueo|__BESP__||[PG.B](#cadroBESP)|
 |[PG-Artículo 4](#item04). Zonas de libre marisqueo para el año 2018|__CLBM__||[PG.C](#cadroCLBM)|
-[PG-Artículo 5](#item05). Crustáceos|__ECRU__||[PG.E](#cadroECRU)|
+|[PG-Artículo 5](#item05). Crustáceos|__ECRU__||[PG.E](#cadroECRU)|
 |[PG-Articulado normativo:](#item06). Desde el artículo 6 al 17||||
 |[PG-Disposiciones adicionales](#item07). (Ocho disposiciones)||||
 |[PG-Disposiciones finales](#item08). (Tres disposiciones)||||
