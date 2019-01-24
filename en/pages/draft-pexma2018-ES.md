@@ -42,16 +42,16 @@
 |[PG-Articulado normativo:](#item06). Desde el artículo 6 al 17||||
 |[PG-Disposiciones adicionales](#item07). (Ocho disposiciones)||||
 |[PG-Disposiciones finales](#item08). (Tres disposiciones)||||
-|[PE-Artículo 1](#item09). Objeto|||
-|[PE-Artículo 2](#item10). Percebe (Pollicipes pollicipes)|__DPER__||[PE.A](#cadroDPER)
-|[PE-Artículo 3](#item11). Solénidos (navaja/muergo/muergo)|__GSOL__||[PE.B](#cadroGSOL)
-|[PE-Artículo 4](#item12). Equinodermos|__FEQD__||[PE.C](#cadroFEQD)
-|[PE-Artículo 5](#item13). Oreja de mar|__HPEN__||[PE.D](#cadroHPEN)
-|[PE-Artículo 6](#item14). Algas|__IALG__||[PE.E](#cadroIALG)
-|[PE-Artículo 7](#item15). Anémonas|__JANE__||[PE.F](#cadroJANE)
-|[PE-Artículo 8](#item16). Poliquetos|__KPOL__||[PE.G](#cadroKPOL)
-|[PE-Disposiciones adicionales](#item17). Cuatro disposiciones|||
-|[PE-Disposiciones finales](#item18). Tres disposiciones|||
+|[PE-Artículo 1](#item09). Objeto||||
+|[PE-Artículo 2](#item10). Percebe (Pollicipes pollicipes)|__DPER__||[PE.A](#cadroDPER)|
+|[PE-Artículo 3](#item11). Solénidos (navaja/muergo/muergo)|__GSOL__||[PE.B](#cadroGSOL)|
+|[PE-Artículo 4](#item12). Equinodermos|__FEQD__||[PE.C](#cadroFEQD)|
+|[PE-Artículo 5](#item13). Oreja de mar|__HPEN__||[PE.D](#cadroHPEN)|
+|[PE-Artículo 6](#item14). Algas|__IALG__||[PE.E](#cadroIALG)|
+|[PE-Artículo 7](#item15). Anémonas|__JANE__||[PE.F](#cadroJANE)|
+|[PE-Artículo 8](#item16). Poliquetos|__KPOL__||[PE.G](#cadroKPOL)|
+|[PE-Disposiciones adicionales](#item17). Cuatro disposiciones||||
+|[PE-Disposiciones finales](#item18). Tres disposiciones||||
 
 ----
 
