@@ -51,7 +51,7 @@
 |[PE-Artículo 7](#item15). Anémonas|__JANE__|10|[PE.F](#cadroJANE)|
 |[PE-Artículo 8](#item16). Poliquetos|__KPOL__|24|[PE.G](#cadroKPOL)|
 |[PE-Disposiciones adicionales](#item17). Cuatro disposiciones||||
-|[PE-Disposiciones finales](#item18). Tres disposiciones||||
+|[PE-Disposiciones finales](#item18). Tres disposiciones|.|.|.|
 
 ----
 
