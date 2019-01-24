@@ -101,9 +101,9 @@
 
 |idPlanAnual|Entidade([a](#abrv-a))|Modalidade|Especies([b](#abrv-b))|
 |----------:|:----------|:---------|:----------|
-[001](http://www.galiciamarineira.info/content/pexma2018AAUT001)|A.M. Fonte Santa Helena-Baldaio|A pé;|CTG, CLJ, COC, RAE, OYF,
-[002](http://www.galiciamarineira.info/content/pexma2018AAUT002)|A.M Esteiro do río Anllóns|A pé;|COC, CLJ,
-[003](http://www.galiciamarineira.info/content/pexma2018AAUT003)|C.P. A Coruña|A pé; Embarcación;|CTG, CTS, COC, CLJ, OYF, OYG,
+|[001](http://www.galiciamarineira.info/content/pexma2018AAUT001)|A.M. Fonte Santa Helena-Baldaio|A pé;|CTG, CLJ, COC, RAE, OYF,|
+|[002](http://www.galiciamarineira.info/content/pexma2018AAUT002)|A.M Esteiro do río Anllóns|A pé;|COC, CLJ,|
+|[003](http://www.galiciamarineira.info/content/pexma2018AAUT003)|C.P. A Coruña|A pé; Embarcación;|CTG, CTS, COC, CLJ, OYF, OYG,|
 [004](http://www.galiciamarineira.info/content/pexma2018AAUT004)|C.P. A Pobra do Caramiñal|A pé;|CTG, CTS, CTS, COC, RAE,
 [005](http://www.galiciamarineira.info/content/pexma2018AAUT005)|C.P. A Pobra do Caramiñal|Embarcación;|CTG, CLJ, CTS, COC, VNA, VNR, VEV, DSX,
 [006](http://www.galiciamarineira.info/content/pexma2018AAUT006)|C.P. Aguiño|Embarcación;|CTS, VNR, VEV, DSX,
