@@ -23,7 +23,7 @@
 
     + en castellano [PE html ES][] / [PE Pdf ES][]
 
-* Las Fichas individuales de los planes de explotación del año 2018 (enlace a [planes vigentes][] en pescadegalicia.com)
+* Las Fichas individuales de los planes de explotación del año 2018 (enlace a [planes anuales de 2018][] en pescadegalicia.com)
 
 
 ![Plan general 2018](https://lh3.googleusercontent.com/6hMBaXYUp9sDVdoujdETjvEav5RiN1wKFu3xzNvNos8xGotPvpw4SdvduF7SR2BeYFdl9mr1-cDItAiEkJe74SrveK__ZhGgcXwoQg52ZvdnIZyqD8ELDbaEFourTrnZVs55egbZTuK7nmbVTJgQb6zJtGp-mZnyF2TA9F_iSuuwz4ySDGfTrgCacPbv6vV8HEOFqCgcut1gy3MrFEX2EEYEAuEOxFTsEeACVozoVPE7tV7hlzL_zuQG3oArj2eEE7ntMo4O4i42BCewI2SzbOGJrqvn1xCgyuNH1cSVGmZvfdZiwl5519YnRYDGBWI6TUQE2x_2lr04NAPyoINJCWHPQB8pso4DOMC_ZxbOxxI8GWZv8OgNkBlNLL4onAcYFcQCQQnzh_3kPmEGt8P8hmW-Uq0v7j4BFEDOfvxgIK79gK3dXzW00q8yt-0MfETsAv6YNHY2EpjDg33VvesiGnbfEmAorbZBlmtIh6zq4wTWPV-5DZ3VSdurAED-dmbwH_PIJQj-m1Ty0ugssBX5goJaRffphe16cS1c6CFq9nE1l-j9ASeDR4AWoCqqCym5WG8rrb4vndz4ptPi-_DvN5lFoWaAsyk2yBzEDnRrMkCkgmeL6I1YwTQ3UjP6o8rY1w0_FTC9MENrxR9E2iZp-hpfbFGzsXRn=w600-h450-no "M01-01. Plan General y Específicos 2018 por tipos de plan")
@@ -972,7 +972,7 @@ MSAS|Buceo con suministro de aire desde superficie
 
 
  [planes vigentes]: http://goo.gl/4k6J1
-
+ [planes anuales de 2018]: https://goo.gl/JEurai
 
  [PX html GL orixinal]: https://www.xunta.gal/dog/Publicados/2017/20171229/AnuncioG0427-261217-0004_gl.html
  [PX html GL]: https://goo.gl/K7QC8H 
