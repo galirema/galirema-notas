@@ -110,43 +110,43 @@
 |[007](http://www.galiciamarineira.info/content/pexma2018AAUT007)|C.P. Barallobre|A pé;|CTS, CTG, CLJ, COC, OYF, VNA, PEE, OYG, LPZ, EQK, EQI,|
 |[008](http://www.galiciamarineira.info/content/pexma2018AAUT008)|C.P. Cabo de Cruz|A pé;|CTS, CTG, CLJ, COC, RAE, DSX,|
 |[009](http://www.galiciamarineira.info/content/pexma2018AAUT009)|C.P. Cabo de Cruz|Embarcación;|CTG, CLJ, CTS, COC, VNA, VNR, VEV, DSX,|
-[010](http://www.galiciamarineira.info/content/pexma2018AAUT010)|C.P. Camariñas|A pé; Embarcación;|CTG, CLJ, CTS, COC, RAE, EQI, PEE,
-[011](http://www.galiciamarineira.info/content/pexma2018AAUT011)|C.P. Cariño|A pé;|CTG, CTS, CLJ, COC, RAE, OYG,
-[012](http://www.galiciamarineira.info/content/pexma2018AAUT012)|C.P. Cedeira|A pé;|COC, CTG, PEE,
-[013](http://www.galiciamarineira.info/content/pexma2018AAUT013)|C.P. Espasante|A pé;|CTG, CTS, CLJ, COC, RAE, PEE, LPZ, OYF, OYG,
-[014](http://www.galiciamarineira.info/content/pexma2018AAUT014)|C.P. Ferrol, C.P. Barallobre, (plan conxunto)|A pé; Embarcación;|CTS, CTG, CLJ, COC, VEV, DSX, OYF,
-[015](http://www.galiciamarineira.info/content/pexma2018AAUT015)|C.P. Ferrol|A pé;|CTG, CTS, CLJ, COC, OYF, EQK,
-[016](http://www.galiciamarineira.info/content/pexma2018AAUT016)|C.P. Miño|A pé; Embarcación;|CTG, CTS, COC, OYF, CLJ, RAE, PEE,
-[017](http://www.galiciamarineira.info/content/pexma2018AAUT017)|C.P. Mugardos|A pé;|CTS, CTG, CLJ, COC, VNA, OYF, OYG, PEE,
-[018](http://www.galiciamarineira.info/content/pexma2018AAUT018)|C.P. Muros|A pé;|COC, CTG, CTS, CLJ, UTL, ULO, KLK,
-[019](http://www.galiciamarineira.info/content/pexma2018AAUT019)|C.P. Muros|Embarcación;|CTS, CTG, CLJ, ULO, COC, VEV, VNR, VNA, KLK, DSX,
-[020](http://www.galiciamarineira.info/content/pexma2018AAUT020)|C.P. Noia|A pé; Embarcación;|CTG, CTS, CLJ, COC, ULO, SVE, VNA,
-[021](http://www.galiciamarineira.info/content/pexma2018AAUT021)|C.P. Noia|rastro de vieira ou volandeira;|OYF,
-[022](http://www.galiciamarineira.info/content/pexma2018AAUT022)|C.P. O Barqueiro-Bares|A pé;|CTG, CTS, COC, CLJ, OYF, OYG, RAE, PEE,
-[023](http://www.galiciamarineira.info/content/pexma2018AAUT023)|C.P. Palmeira|A pé;|CTG, CLJ, CTS, COC, VNA, VEV, DSX,
-[024](http://www.galiciamarineira.info/content/pexma2018AAUT024)|C.P. Palmeira|Embarcación;|CTS, VNR, CTG, VNA, VEV, COC, DSX, CLJ,
-[025](http://www.galiciamarineira.info/content/pexma2018AAUT025)|C.P. Pontedeume|A pé;|CTG, CLJ, CTS, COC, OYF,
-[026](http://www.galiciamarineira.info/content/pexma2018AAUT026)|C.P. Pontedeume|Embarcación;|CTG, CLJ, CTS, COC, OYF,
-[027](http://www.galiciamarineira.info/content/pexma2018AAUT027)|C.P. Rianxo|A pé;|CTG, CTS, CLJ, COC, RAE,
-[028](http://www.galiciamarineira.info/content/pexma2018AAUT028)|C.P. Rianxo|Embarcación;|CTG, COC, CTS, CLJ,
-[029](http://www.galiciamarineira.info/content/pexma2018AAUT029)|C.P. Ribeira|Embarcación;|CTS, VNR, CTG, CLJ, VEV, COC, DSX,
-[030](http://www.galiciamarineira.info/content/pexma2018AAUT030)|C.P. Ribeira|Embarcación: rastro de vieira ou volandeira;|OYF,
-[031](http://www.galiciamarineira.info/content/pexma2018AAUT031)|C.P. Sada|A pé;|CTG, CTS, CLJ, COC,
-[032](http://www.galiciamarineira.info/content/pexma2018AAUT032)|Ria de Arousa, S.C.G.|A pé; Embarcación;|CTG, CLJ, CTS, COC,
-[033](http://www.galiciamarineira.info/content/pexma2018AAUT033)|C.P. A Illa de Arousa|A pé;|CTG, CTS, VNA, CLJ, COC, DSX, PEE, RAE, EQK, LPZ,
-[034](http://www.galiciamarineira.info/content/pexma2018AAUT034)|C.P. A Illa de Arousa|Embarcación;|CTG, CTS, VNR, VNA, CLJ, COC, VEV, DSX,
-[035](http://www.galiciamarineira.info/content/pexma2018AAUT035)|C.P. Aldán-Hío|A pé;|CTG, CTS, CLJ, COC, VEV, LPZ, PEE, DSX,
-[036](http://www.galiciamarineira.info/content/pexma2018AAUT036)|C.P. Baiona|A pé;|CTG, CTS, CLJ, COC, DSX, PEE, VEV,
-[037](http://www.galiciamarineira.info/content/pexma2018AAUT037)|C.P. Baiona|Embarcación;|VNR, CTS, ULO, VEV, CTG, VNA, DSX, CLJ, COC,
-[038](http://www.galiciamarineira.info/content/pexma2018AAUT038)|C.P. Cambados|A pé;|CTG, CLJ, CTS, VNA, COC, EQK, RAE, PEE, LPZ, OYF, DSX,
-[039](http://www.galiciamarineira.info/content/pexma2018AAUT039)|C.P. Cambados|Embarcación;|CTS, CTG, VNR, VNA, CLJ, COC, VEV, DSX, GKL,
-[040](http://www.galiciamarineira.info/content/pexma2018AAUT040)|C.P. Carril|Embarcación;|CTG, CTS, CLJ, COC, VNA,
-[041](http://www.galiciamarineira.info/content/pexma2018AAUT041)|C.P. Carril|A pé;|COC, CTS, CLJ, CTG,
-[042](http://www.galiciamarineira.info/content/pexma2018AAUT042)|C.P. O Grove|A pé;|CTG, CLJ, CTS, VNA, COC, VEV, DSX, PEE, LPZ, BOY, FNT,
-[043](http://www.galiciamarineira.info/content/pexma2018AAUT043)|C.P. O Grove|Embarcación;|CTG, CTS, VNA, CLJ, VNR, COC, VEV, DSX, BOY, FNT,
-[044](http://www.galiciamarineira.info/content/pexma2018AAUT044)|C.P. Vilanova|A pé;|CTG, CTS, CLJ, VNA, COC,
-[045](http://www.galiciamarineira.info/content/pexma2018AAUT045)|C.P. Vilanova|Embarcación;|CTG, CTS, CLJ, VNR, VNA, COC, VEV, DSX,
-[046](http://www.galiciamarineira.info/content/pexma2018AAUT046)|C.P. Vilaxoán|A pé;|CTG, CTS, CLJ, VNA, COC, EQK, RAE, PEE,
+|[010](http://www.galiciamarineira.info/content/pexma2018AAUT010)|C.P. Camariñas|A pé; Embarcación;|CTG, CLJ, CTS, COC, RAE, EQI, PEE,|
+|[011](http://www.galiciamarineira.info/content/pexma2018AAUT011)|C.P. Cariño|A pé;|CTG, CTS, CLJ, COC, RAE, OYG,|
+|[012](http://www.galiciamarineira.info/content/pexma2018AAUT012)|C.P. Cedeira|A pé;|COC, CTG, PEE,|
+|[013](http://www.galiciamarineira.info/content/pexma2018AAUT013)|C.P. Espasante|A pé;|CTG, CTS, CLJ, COC, RAE, PEE, LPZ, OYF, OYG,|
+|[014](http://www.galiciamarineira.info/content/pexma2018AAUT014)|C.P. Ferrol, C.P. Barallobre, (plan conxunto)|A pé; Embarcación;|CTS, CTG, CLJ, COC, VEV, DSX, OYF,|
+|[015](http://www.galiciamarineira.info/content/pexma2018AAUT015)|C.P. Ferrol|A pé;|CTG, CTS, CLJ, COC, OYF, EQK,|
+|[016](http://www.galiciamarineira.info/content/pexma2018AAUT016)|C.P. Miño|A pé; Embarcación;|CTG, CTS, COC, OYF, CLJ, RAE, PEE,|
+|[017](http://www.galiciamarineira.info/content/pexma2018AAUT017)|C.P. Mugardos|A pé;|CTS, CTG, CLJ, COC, VNA, OYF, OYG, PEE,|
+|[018](http://www.galiciamarineira.info/content/pexma2018AAUT018)|C.P. Muros|A pé;|COC, CTG, CTS, CLJ, UTL, ULO, KLK,|
+|[019](http://www.galiciamarineira.info/content/pexma2018AAUT019)|C.P. Muros|Embarcación;|CTS, CTG, CLJ, ULO, COC, VEV, VNR, VNA, KLK, DSX,|
+|[020](http://www.galiciamarineira.info/content/pexma2018AAUT020)|C.P. Noia|A pé; Embarcación;|CTG, CTS, CLJ, COC, ULO, SVE, VNA,|
+|[021](http://www.galiciamarineira.info/content/pexma2018AAUT021)|C.P. Noia|rastro de vieira ou volandeira;|OYF,|
+|[022](http://www.galiciamarineira.info/content/pexma2018AAUT022)|C.P. O Barqueiro-Bares|A pé;|CTG, CTS, COC, CLJ, OYF, OYG, RAE, PEE,|
+|[023](http://www.galiciamarineira.info/content/pexma2018AAUT023)|C.P. Palmeira|A pé;|CTG, CLJ, CTS, COC, VNA, VEV, DSX,|
+|[024](http://www.galiciamarineira.info/content/pexma2018AAUT024)|C.P. Palmeira|Embarcación;|CTS, VNR, CTG, VNA, VEV, COC, DSX, CLJ,|
+|[025](http://www.galiciamarineira.info/content/pexma2018AAUT025)|C.P. Pontedeume|A pé;|CTG, CLJ, CTS, COC, OYF,|
+|[026](http://www.galiciamarineira.info/content/pexma2018AAUT026)|C.P. Pontedeume|Embarcación;|CTG, CLJ, CTS, COC, OYF,|
+|[027](http://www.galiciamarineira.info/content/pexma2018AAUT027)|C.P. Rianxo|A pé;|CTG, CTS, CLJ, COC, RAE,|
+|[028](http://www.galiciamarineira.info/content/pexma2018AAUT028)|C.P. Rianxo|Embarcación;|CTG, COC, CTS, CLJ,|
+|[029](http://www.galiciamarineira.info/content/pexma2018AAUT029)|C.P. Ribeira|Embarcación;|CTS, VNR, CTG, CLJ, VEV, COC, DSX,|
+|[030](http://www.galiciamarineira.info/content/pexma2018AAUT030)|C.P. Ribeira|Embarcación: rastro de vieira ou volandeira;|OYF,|
+|[031](http://www.galiciamarineira.info/content/pexma2018AAUT031)|C.P. Sada|A pé;|CTG, CTS, CLJ, COC,|
+|[032](http://www.galiciamarineira.info/content/pexma2018AAUT032)|Ria de Arousa, S.C.G.|A pé; Embarcación;|CTG, CLJ, CTS, COC,|
+|[033](http://www.galiciamarineira.info/content/pexma2018AAUT033)|C.P. A Illa de Arousa|A pé;|CTG, CTS, VNA, CLJ, COC, DSX, PEE, RAE, EQK, LPZ,|
+|[034](http://www.galiciamarineira.info/content/pexma2018AAUT034)|C.P. A Illa de Arousa|Embarcación;|CTG, CTS, VNR, VNA, CLJ, COC, VEV, DSX,|
+|[035](http://www.galiciamarineira.info/content/pexma2018AAUT035)|C.P. Aldán-Hío|A pé;|CTG, CTS, CLJ, COC, VEV, LPZ, PEE, DSX,|
+|[036](http://www.galiciamarineira.info/content/pexma2018AAUT036)|C.P. Baiona|A pé;|CTG, CTS, CLJ, COC, DSX, PEE, VEV,|
+|[037](http://www.galiciamarineira.info/content/pexma2018AAUT037)|C.P. Baiona|Embarcación;|VNR, CTS, ULO, VEV, CTG, VNA, DSX, CLJ, COC,|
+|[038](http://www.galiciamarineira.info/content/pexma2018AAUT038)|C.P. Cambados|A pé;|CTG, CLJ, CTS, VNA, COC, EQK, RAE, PEE, LPZ, OYF, DSX,|
+|[039](http://www.galiciamarineira.info/content/pexma2018AAUT039)|C.P. Cambados|Embarcación;|CTS, CTG, VNR, VNA, CLJ, COC, VEV, DSX, GKL,|
+|[040](http://www.galiciamarineira.info/content/pexma2018AAUT040)|C.P. Carril|Embarcación;|CTG, CTS, CLJ, COC, VNA,|
+|[041](http://www.galiciamarineira.info/content/pexma2018AAUT041)|C.P. Carril|A pé;|COC, CTS, CLJ, CTG,|
+|[042](http://www.galiciamarineira.info/content/pexma2018AAUT042)|C.P. O Grove|A pé;|CTG, CLJ, CTS, VNA, COC, VEV, DSX, PEE, LPZ, BOY, FNT,|
+|[043](http://www.galiciamarineira.info/content/pexma2018AAUT043)|C.P. O Grove|Embarcación;|CTG, CTS, VNA, CLJ, VNR, COC, VEV, DSX, BOY, FNT,|
+|[044](http://www.galiciamarineira.info/content/pexma2018AAUT044)|C.P. Vilanova|A pé;|CTG, CTS, CLJ, VNA, COC,|
+|[045](http://www.galiciamarineira.info/content/pexma2018AAUT045)|C.P. Vilanova|Embarcación;|CTG, CTS, CLJ, VNR, VNA, COC, VEV, DSX,|
+|[046](http://www.galiciamarineira.info/content/pexma2018AAUT046)|C.P. Vilaxoán|A pé;|CTG, CTS, CLJ, VNA, COC, EQK, RAE, PEE,|
 
 
 [Volver al resumen](#item00)
