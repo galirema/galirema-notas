@@ -104,12 +104,12 @@
 |[001](http://www.galiciamarineira.info/content/pexma2018AAUT001)|A.M. Fonte Santa Helena-Baldaio|A pé;|CTG, CLJ, COC, RAE, OYF,|
 |[002](http://www.galiciamarineira.info/content/pexma2018AAUT002)|A.M Esteiro do río Anllóns|A pé;|COC, CLJ,|
 |[003](http://www.galiciamarineira.info/content/pexma2018AAUT003)|C.P. A Coruña|A pé; Embarcación;|CTG, CTS, COC, CLJ, OYF, OYG,|
-[004](http://www.galiciamarineira.info/content/pexma2018AAUT004)|C.P. A Pobra do Caramiñal|A pé;|CTG, CTS, CTS, COC, RAE,
-[005](http://www.galiciamarineira.info/content/pexma2018AAUT005)|C.P. A Pobra do Caramiñal|Embarcación;|CTG, CLJ, CTS, COC, VNA, VNR, VEV, DSX,
-[006](http://www.galiciamarineira.info/content/pexma2018AAUT006)|C.P. Aguiño|Embarcación;|CTS, VNR, VEV, DSX,
-[007](http://www.galiciamarineira.info/content/pexma2018AAUT007)|C.P. Barallobre|A pé;|CTS, CTG, CLJ, COC, OYF, VNA, PEE, OYG, LPZ, EQK, EQI,
-[008](http://www.galiciamarineira.info/content/pexma2018AAUT008)|C.P. Cabo de Cruz|A pé;|CTS, CTG, CLJ, COC, RAE, DSX,
-[009](http://www.galiciamarineira.info/content/pexma2018AAUT009)|C.P. Cabo de Cruz|Embarcación;|CTG, CLJ, CTS, COC, VNA, VNR, VEV, DSX,
+|[004](http://www.galiciamarineira.info/content/pexma2018AAUT004)|C.P. A Pobra do Caramiñal|A pé;|CTG, CTS, CTS, COC, RAE,|
+|[005](http://www.galiciamarineira.info/content/pexma2018AAUT005)|C.P. A Pobra do Caramiñal|Embarcación;|CTG, CLJ, CTS, COC, VNA, VNR, VEV, DSX,|
+|[006](http://www.galiciamarineira.info/content/pexma2018AAUT006)|C.P. Aguiño|Embarcación;|CTS, VNR, VEV, DSX,|
+|[007](http://www.galiciamarineira.info/content/pexma2018AAUT007)|C.P. Barallobre|A pé;|CTS, CTG, CLJ, COC, OYF, VNA, PEE, OYG, LPZ, EQK, EQI,|
+|[008](http://www.galiciamarineira.info/content/pexma2018AAUT008)|C.P. Cabo de Cruz|A pé;|CTS, CTG, CLJ, COC, RAE, DSX,|
+|[009](http://www.galiciamarineira.info/content/pexma2018AAUT009)|C.P. Cabo de Cruz|Embarcación;|CTG, CLJ, CTS, COC, VNA, VNR, VEV, DSX,|
 [010](http://www.galiciamarineira.info/content/pexma2018AAUT010)|C.P. Camariñas|A pé; Embarcación;|CTG, CLJ, CTS, COC, RAE, EQI, PEE,
 [011](http://www.galiciamarineira.info/content/pexma2018AAUT011)|C.P. Cariño|A pé;|CTG, CTS, CLJ, COC, RAE, OYG,
 [012](http://www.galiciamarineira.info/content/pexma2018AAUT012)|C.P. Cedeira|A pé;|COC, CTG, PEE,
