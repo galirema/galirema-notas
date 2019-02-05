@@ -6,7 +6,7 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 
 | Plan General | DOG Año Num. | Fecha de publicación | GM - Draft | Wikia-Draft |BD Muestreos|
 | :----------- | :----------: | :------------------: | :--------: | :---------: | :--------- |
-| | | | | | |
+| | | [2018.248](https://goo.gl/4TcN5u)PX - [PE](https://goo.gl/b6bBvf) | | | |
 | [2018][]; [Wkia2018][]| [dog2017.246](https://goo.gl/K7QC8H)PX-[PE](https://goo.gl/a1skz7) | (29/12/2017) | [Pexma2018.1_3](draft-pexma2018-ES.md) | - |pexma pespec plantidad KPOL BMSig|
 | [2017][] | [dog2016.249](https://goo.gl/m8W7gR)PX-[PE](https://goo.gl/MNm08K) | (30/12/2016) |[borrador2017v1.30U](draft-pexma2017.md)| - |pexma pespec plantidad KPOL BMSig|
 | [2016][] | [dog2015.248](http://goo.gl/2djtGX) | (30/12/2015) | [borrador2016](draft-plangeneral2016.md) | - |pexma pespec plantidad KPOL BMSig|
