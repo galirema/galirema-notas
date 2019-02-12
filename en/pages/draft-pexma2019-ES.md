@@ -32,7 +32,7 @@
 
 |orden-Artículo|Grupo de planes|Nº de planes| Cuadros|
 |:-------------|:-------------:|-----------:|:------:|
-|[PG-Artículo 1](#artículo-1.). Objeto||||
+|[PG-Artículo 1](#artículo-1). Objeto||||
 |[PG-Artículo 2](#item02). Planes de explotación en autorizaciones marisqueras|__AAUT__|47|[PG.A](#cadroAAUT)|
 |[PG-Artículo 3](#item03). Planes específicos de explotación para las zonas de libre marisqueo|__BESP__|50|[PG.B](#cadroBESP)|
 |[PG-Artículo 4](#item04). Zonas de libre marisqueo para el año 2019|__CLBM__||[PG.C](#cadroCLBM)|
@@ -61,8 +61,9 @@ __DOG Núm. 248 - Lunes, 31 de diciembre de 2018 - Pág. 54967__
 _ORDEN de 20 de diciembre de 2018 por la que se aprueba el Plan general de explotación marisquera para el año 2019._
 
 
-## Artículo 1.
-### Objeto    {#item01}
+## Artículo 1
+
+### Objeto 
 
 1. Esta orden tiene por objeto aprobar el conjunto de normas y orientaciones destinadas a regular y programar la extracción del marisco para el año 2019.
 
