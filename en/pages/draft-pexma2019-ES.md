@@ -101,7 +101,7 @@ _ORDEN de 20 de diciembre de 2018 por la que se aprueba el Plan general de explo
 
 ### CADRO A: PLANS DE EXPLOTACIÓN EN AUTORIZACIÓNS MARISQUEIRAS AAUT   {#cadroAAUT}
 
-|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade[(a)](#entidada)|Modalidade|Especies[(b)](#especiesb)|
 |----------:|:----------|:---------|:----------|
 |[001](http://www.galiciamarineira.info/content/pexma2019AAUT001)|A.M. Fonte Santa Helena-Baldaio|A pé;|CTG, CLJ, COC, RAE,|
 |[002](http://www.galiciamarineira.info/content/pexma2019AAUT002)|A.M Esteiro do río Anllóns|A pé;|COC,|
@@ -173,7 +173,7 @@ _ORDEN de 20 de diciembre de 2018 por la que se aprueba el Plan general de explo
 
 ### CADRO B: PLANS ESPECÍFICOS EN ZONAS DE LIBRE MARISQUEO  BESP     {#cadroBESP}
 
-|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade[(a)](#entidada)|Modalidade|Especies[(b)](#especiesb)|
 |----------:|:----------|:---------|:----------|
 |[048](http://www.galiciamarineira.info/content/pexma2019BESP048)|A.M. San Cosme de Barreiros-Foz|A pé;|CTG, COC, RAE, PEE, LPZ, OYG, CLJ,|
 |[049](http://www.galiciamarineira.info/content/pexma2019BESP049)|C.P. Celeiro|A pé;|CTG, OYG, PEE, LPZ, COC, CLJ,|
@@ -621,7 +621,7 @@ Se aprueban los planes de gestión para el año 2019 para la extracción de perc
 
 ### Cadro A: plans de xestión de percebe (Pollicipes pollicipes) DPER     {#cadroDPER}
 
-|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade[(a)](#entidada)|Modalidade|Especies[(b)](#especiesb)|
 |----------:|:----------|:---------|:----------|
 |[098](http://www.galiciamarineira.info/content/pexma2019DPER098)|A.M. San Cosme de Barreiros-Foz|A pé;|PCB,|
 |[099](http://www.galiciamarineira.info/content/pexma2019DPER099)|C.P. Burela|Embarcación;|PCB,|
@@ -682,7 +682,7 @@ La autorización de apertura mensual queda supeditada a la adecuación y efectiv
 
 ### Cadro B: plans de xestión de solénidos (Navalla, longueirón e longueirón vello) (Ensis magnus, Ensis siliqua, Solen marginatus,) GSOL     {#cadroGSOL}
 
-|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#modalidadc)|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade[(a)](#entidada)|Modalidade[(c)](#modalidadc)|Especies[(b)](#especiesb)|
 |----------:|:----------|:---------|:----------|
 |[159](http://www.galiciamarineira.info/content/pexma2019GSOL159)|C.P. A Coruña|MA; MSAS;|EQK, EQI,|
 |[160](http://www.galiciamarineira.info/content/pexma2019GSOL160)|C.P. A Pobra do Caramiñal|MA; MSAS;|EQK,|
@@ -727,7 +727,7 @@ Se aprueban os planes de gestión para o año 2019, para la extracción de equin
 
 ### Cadro C: plans de xestión de equinodermos  FEQD   {#cadroFEQD}
 
-|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#modalidadc)|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade[(a)](#entidada)|Modalidade[(c)](#modalidadc)|Especies[(b)](#especiesb)|
 |----------:|:----------|:---------|:----------|
 |[135](http://www.galiciamarineira.info/content/pexma2019FEQD135)|A.M. Aresmar|MSAS;|URM,|
 |[136](http://www.galiciamarineira.info/content/pexma2019FEQD136)|C.P. Celeiro|A pé;|URM,|
@@ -771,7 +771,7 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de ore
 
 ### Cadro D: plans de xestión de peneira (Haliotis tuberculata)  HPEN   {#cadroHPEN}
 
-|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#modalidadc)|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade[(a)](#entidada)|Modalidade[(c)](#modalidadc)|Especies[(b)](#especiesb)|
 |----------:|:----------|:---------|:----------|
 |[184](http://www.galiciamarineira.info/content/pexma2019HPEN184)|C.P. Fisterra, C.P. Corcubión, C.P. Lira (plan conxunto)|MA; MSAS;|HLT,|
 |[185](http://www.galiciamarineira.info/content/pexma2019HPEN185)|C.P. Aldán-O Hio|MA; MSAS;|HLT,|
@@ -794,7 +794,7 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de alg
 
 ### Cadro E: plans de xestión de algas   IALG     {#cadroIALG}
 
-|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#modalidadc)|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade[(a)](#entidada)|Modalidade[(c)](#modalidadc)|Especies[(b)](#especiesb)|
 |----------:|:----------|:---------|:----------|
 |[187](http://www.galiciamarineira.info/content/pexma2019IALG187)|Algamar, S.L.|A pé;|HLZ, L1O, OFH, UVU, UDP,|
 |[188](http://www.galiciamarineira.info/content/pexma2019IALG188)|Ceamsa, S.L.|A pé;|MVT, IMS, GHG,|
@@ -839,7 +839,7 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de ane
 
 ### Cadro F: plans de xestión de anemone (Anemonia sulcata)     JANE      {#cadroJANE}
 
-|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#modalidadc)|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade[(a)](#entidada)|Modalidade[(c)](#modalidadc)|Especies[(b)](#especiesb)|
 |----------:|:----------|:---------|:----------|
 |[211](http://www.galiciamarineira.info/content/pexma2019JANE211)|A.M. Aresmar|MSAS;|NOW,|
 |[212](http://www.galiciamarineira.info/content/pexma2019JANE212)|A.M. San Cosme de Barreiros-Foz|A pé;|NOW,|
@@ -874,7 +874,7 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de pol
 
 ### Cadro G: plans de xestión de poliquetos    KPOL    {#cadroKPOL}
 
-|idPlanAnual|Entidade [(a)](#abrv-a)|Modalidade[(c)](#modalidadc)|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade [(a)](#entidada)|Modalidade[(c)](#modalidadc)|Especies[(b)](#especiesb)|
 |----------:|:----------|:---------|:----------|
 |[226](http://www.galiciamarineira.info/content/pexma2019KPOL226)|A.M. San Cosme de Barreiros-Foz|A pé;|ARM,|
 |[227](http://www.galiciamarineira.info/content/pexma2019KPOL227)|A.M. Fonte Santa Helena-Baldaio|A pé;|ARM,|
@@ -975,7 +975,7 @@ C.P.|Confraría de pescadores
 
 [Volver al resumen](#Resumen)
 	
-#####  Especies(b):   {#abrv-b}
+#####  Especies(b)
 
 
 |Abreviatura|Nombre comercial|Nombre científico|alfa-3 FAO|
