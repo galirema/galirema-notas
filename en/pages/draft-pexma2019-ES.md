@@ -93,7 +93,7 @@ _ORDEN de 20 de diciembre de 2018 por la que se aprueba el Plan general de explo
 ![Planes de autorizaciones por zona de costa](https://lh3.googleusercontent.com/BRCzUZKYXTdjYrGATcfE0ILjELBMP-j3Qh7v_wDw1JY2ZyydqS9fUxn5FYOnY7pY4OO3q1mFh75KKxuXoh2jN-2S2k2fksak1jamlk6-mHftlcYnTUkiDgoG1vLq5FA0OxnHq_0orFu7aRQ4xbKzFgSBs_r0J2442u6nHkD7j0s89f6sIcURGyg_GPoY8kjWV8ASJPfCX2U76sjmvBSCjEK6ZJxiMVHn6LaH06qOQgdYQcKtzHjBbZ3vTtuYRWMr4AOTuGv1Dsxi0aUGrfuQ7OF7gpVgB7mQsHaCL6fwK6uebTtgLwrgONuE_G8tJUVuwom3Segc7KP22CYGIecUk1ae5O_HuMUbX3ZQDktK3IkCFXaID9ql2b8xTCvEg90dW50nAAgL0CyCO45U3uC_o3tnSFwbEEulYPixkrnHisGL_-sXka-cuQbZdbB--1pvCu6CFOogM5jUEsJG2t91oKXJntqOXDGCwfQ2qtY1G7107SHMtbmwYJjLCKo5dYV27vQZAfDGWbHRmJ5aYW1cmt8zOrfkJkeT5FgChvNcbWRfhne1a_zKcC7pZivADR0qr4GuSbwr4I1__kGAvrhBW7RngXYPN9Ouvfl_RnpYatjnKRzpy24zimuzFdiXJZZzr9O2G-G-HqjIaDml5Of2_3EHo9lxHCMGlZR2qAVHbCSEQFG3xLP2cqOeHNgF2C7ohXlDn-WLudxSAEqWaHlkiM4N=w650-h450-no "M07-06 Plan General 2019 AAUT por zona de costa")
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 ### CADRO A: PLANS DE EXPLOTACIÓN EN AUTORIZACIÓNS MARISQUEIRAS AAUT   {#cadroAAUT}
@@ -150,8 +150,7 @@ _ORDEN de 20 de diciembre de 2018 por la que se aprueba el Plan general de explo
 
 
 
-[Volver al resumen](#item00)
-
+[Volver al resumen](#Resumen)
 
 
 ## Artículo 3. Planes específicos de explotación para las zonas de libre marisqueo    {#item03}
@@ -165,7 +164,7 @@ _ORDEN de 20 de diciembre de 2018 por la que se aprueba el Plan general de explo
 ![Planes especificos de libre marisqueo por zona de costa](https://lh3.googleusercontent.com/LSdC5VXKkPP59ZJBt5Ci2s9M-guPzCWJpCZ8P0fDBNi5ESHBZ9NbF5blGGzFgDUS4K3dbNlkiRkSJ9KJz1MG6tyrVbnc4rNrJSzi-RpnzrcJsLaoZBEJDYYqhBrFjtYEtf5glR6sOUM63Y23z8sKEb5J2wgwZF__XuhPgy_iPoJoedqa4PluItu4UuROB9kdh8caFmnEqEsi9YideVYuPyG7rUUXMtTAsjHrFEP8KTJlsvzgLlylq1U7rmDXp13JstSK3_XIcWi8WR8P5k7xLllcQiIpWX8ANzDlIUvIWvllfdZ3sm9Wst5g4WUFU5_nGVNIBJNATEbYTQstFhLYH0Hle0S0wUEGlL9gAHYeXDwWn__38lp9Os6WNM9zkpo2qCt4bfJxMV0t_X97crd-ZW84yGZwQtaAEe2BKmyJRj5eM24Eu_NJUYZ3JmpQJs3eBnzNMOgSIcNfb8-IuJvtEv3CZ9PeY3DV_a280F6LE4pL5yHK46XyJYrZI6Puo_O5wPpgBh3095l8HxJtH9vrYUeg0xw1wHfB2ly0suY2oGtu0wrzt2Hat7IP6giM8_zZTpRVmGBoMks64paOgtxekF8cTk7Rf-fwMnHuk-Dm40KL1xZ62wFB9kJnpghwCa1W75rfXLRjNSBZfC9XYKNhW06wX2iKl18r4ZQlc1B7D-Vnp3-aci6gWVMtXrSwR9uZ9Yjjsyn1f1y4UVzTuf5zCUll=w650-h450-no "M07-07 Plan General 2019 BESP por zona de costa")
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 ### CADRO B: PLANS ESPECÍFICOS EN ZONAS DE LIBRE MARISQUEO  BESP     {#cadroBESP}
@@ -223,8 +222,7 @@ _ORDEN de 20 de diciembre de 2018 por la que se aprueba el Plan general de explo
 |[096](http://www.galiciamarineira.info/content/pexma2019BESP096)|C.P. Vilanova|Embarcación;|CTG, CTS, CLJ, VNA, VNR, COC, VEV, DSX,|
 |[097](http://www.galiciamarineira.info/content/pexma2019BESP097)|C.P. Vilaxoán|Embarcación;|CTG, CTS, CLJ, VNA, COC, DSX,|
 
-
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 
@@ -238,7 +236,7 @@ _ORDEN de 20 de diciembre de 2018 por la que se aprueba el Plan general de explo
 
 4. Las zonas de trabajo de los sectores de marisqueo a pie y desde embarcación en las zonas de libre marisqueo, estarán delimitadas por la línea que une los puntos de cota mareal cero, correspondiente con la línea de la bajamar máxima escorada.
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 ### CADRO C: ZONAS DE LIBRE MARISQUEO DA RÍA DE AROUSA NON SOMETIDAS A PLAN DE EXPLOTACIÓN   {#cadroCLBM}
 
@@ -336,8 +334,7 @@ __Cotas máximas de captura__
 |Outros moluscos |15|
 
 
-
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 
@@ -346,7 +343,7 @@ __Cotas máximas de captura__
 Los períodos autorizados en el año 2019 para la extracción de las especies de crustáceos se establecen en el [cuadro E](#cadroECRU).
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 ### CADRO E: OUTROS CRUSTÁCEOS    {#cadroECRU}
 
@@ -362,7 +359,7 @@ Los períodos autorizados en el año 2019 para la extracción de las especies de
 
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 
@@ -503,7 +500,7 @@ Si alguna de las personas interesadas presenta la documentación complementaria 
 
 Todos los trámites administrativos que las personas interesadas deban realizar durante la tramitación de estos procedimientos deberán ser realizados electrónicamente accediendo a la Carpeta del ciudadano de la persona interesada disponible en la sede electrónica de la Xunta de Galicia.
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 ## Disposiciones adicionales    {#item07}
@@ -555,7 +552,7 @@ Dentro del ámbito de los planes de explotación marisquera pueden contemplarse 
 
 En la página web <https://www.pescadegalicia.gal/gl/poliquetos> se publicarán las zonas que las entidades asociativas del sector titulares de planes de explotación marisquera, de ser el caso, reservarán para la extracción de poliquetos para pesca marítima de recreo en superficie.
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 ## Disposiciones finales:         {#item08}
 
@@ -572,7 +569,7 @@ Se autoriza a la persona titular de la dirección general competente en materia 
 
 Esta orden entrará en vigor el mismo día de su publicación en el Diario Oficial de Galicia.
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 Santiago de Compostela, 20 de diciembre de 2018
@@ -580,7 +577,7 @@ Santiago de Compostela, 20 de diciembre de 2018
 Rosa Mª Quintana Carballo  
 Conselleira del Mar
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 ----
@@ -592,7 +589,7 @@ Conselleira del Mar
  _ORDE do 20 de decembro de 2018 pola que se aproban os plans de xestión para recursos específicos en Galicia para o ano 2019._
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 
@@ -600,7 +597,7 @@ Conselleira del Mar
 
 Esta orden tiene por objeto aprobar los planes de gestión para recursos específicos para el año 2019 que fueron elaborados por las entidades asociativas del sector.
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 ## Artículo 2. Percebe (Pollicipes pollicipes)         {#item10}
@@ -610,7 +607,7 @@ Se aprueban los planes de gestión para el año 2019 para la extracción de perc
 ![Planes Especificos 2019 Percebe por zona de costa](https://lh3.googleusercontent.com/Y3JzcSmWAbsb-clLNnEKk3XYJkAOUdPnlUgyJG1W3DEFAJyi88ul6t7Y373KqA3AoU4xZllRqBNawnCD1pWMJtbQPMMC5kvmCXBhmyDJ4vhdPFNgfcoIFItc-0QfWMQJlcdZo0u0gIUunBGuU0FKKUSF4WDRpIAOZb9gL4JVVdeont10VdJ2YTr99WqhderDO8xgg00UNif3KeY8Gf41MWbEikQXGJZB6NGWbMM_9vlA1KmoZ5OgkIMpdS4sYOLJn0K9PHqS7QqGC-bwRx_sJlLUcqxFHbgoubjBH4Q1JIVtud1LJ4QO6GZ7mqAtHAN07N35QdazyDjHk2tSAeLUW8fIgqCIb3t9bsXa12vPqXvCMoPFfEbF5WxHrJOkG2yLomgO7F1VXxN8Odjfm2cbrsyaZ3HQ6cnraPlwELRcTgpdWgiFazOTnvXIkT1fh2n25DI-es8r_otnu4SxL9quGfBvkBO_fPRBKfAz5a1vC6tykNcEQzO5P6KTObJNv08HQq8EV0jJgMV_L3BuYvFTFXqijVgBY0PgWz_fQQaXqIXTtVWPESQGFeMuQwBu3rxXYKnaxxLyLpCaVGcyIs5tt7eHcy1ehfA1h5Sr54j6vrlaet2grJIa22sMt2Act0w5EjVeq2wp6jUTDwvC3NF_FIYi-irD2idDWFRD6HQ3AiHRHOJ75V_QLCVzWcUMB4xCNIJnfCgcJtErG9tC2Gt0nlh4=w650-h450-no "M07-08 Planes Especificos 2019 DPER por zona de costa")
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 ### Cadro A: plans de xestión de percebe (Pollicipes pollicipes) DPER     {#cadroDPER}
@@ -656,7 +653,7 @@ Se aprueban los planes de gestión para el año 2019 para la extracción de perc
 |[134](http://www.galiciamarineira.info/content/pexma2019DPER134)|C.P. Vigo|A pé;|PCB,|
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 
@@ -671,7 +668,7 @@ La autorización de apertura mensual queda supeditada a la adecuación y efectiv
 ![Planes Especificos 2019 Solénidos por zona de costa](https://lh3.googleusercontent.com/9p22Xd_6-ztpgFlIXeorP-gP7ArJNFYgopQxk1eRUBRKyc0xxZAocVd-1ol18YhQlXtDA9ZcbrQ1NJ-0FdyfJdElRACpYJFT8kMvr496wrXwqJzz1-jKBWjV9BCR8srL31cLgxjR58pGoHBUuwgfJS1WjSttG_Xi7WF6SUaaDeQl6beQM_NrOkdWQMfXtOa7kz4785FrKSvlLHQ4HvXRPnQ8D3b44TQRcg2CBq-bC5EnOfYFd4AByrbzREGXSLRfuiR-WSd04lY8DezCWdmScQTJPr9z4MrQ-exLmem-3fu3Nox18jVpFLYxQQ8IJt-adwpP1851ivY4Q9jk8eVWNZwaaBhtCCdeHzOGXQku0zyOHOPw0LInGRUcLyqX63x_TnBCZOYH0xOOgmBT-GEUN8rhelp4iHgWqBeL_NGkhz5fQWXLJ0G_tOEAbLfL6Vm8PRdzE0hRyuG8Yj13F2rFhE4e3G8BK3LbNrFz4ASXld9iZdyIbY1Sic7Lr6-zhrF9csM7JNcw59QrieOUiGO52nrTteoEMeQ_q1I3QUAkoP0sqRkm04esP0wjnqlBYOK4O3478zdbjDUhmCkkwL-vY9VnKck2X_pq34SW-ND9LSRd5D_2w1R_3u48h14GuhrmmxtTASlcrpjYV41AZ5tMHHHrEhspRxjP8KewS4vmAF431xpyh7vIjgv72A88mgJ3_pMTzy-Qi3cMDkTuSyuQorVY=w650-h450-no "Planes Especificos 2019 GSOL por zona de costa")
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 ### Cadro B: plans de xestión de solénidos (Navalla, longueirón e longueirón vello) (Ensis magnus, Ensis siliqua, Solen marginatus,) GSOL     {#cadroGSOL}
@@ -705,7 +702,7 @@ La autorización de apertura mensual queda supeditada a la adecuación y efectiv
 |[183](http://www.galiciamarineira.info/content/pexma2019GSOL183)|C.P. Vilanova|MA;|EQK, RAE,|
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 
@@ -716,7 +713,7 @@ Se aprueban os planes de gestión para o año 2019, para la extracción de equin
 ![Planes Especificos 2019 Equinodermos por zona de costa](https://lh3.googleusercontent.com/UHR8xaWNfM5zcxiQRgs98OHATsO_Yfx9XvzWk4j-kKcSWatmqrk05zF45lYFDXS6LwybTG9BUxdTuIOtU12f14sZQ1Cpg3M49cYeM_b6O31-hK2kXOGNDAuDWoLWob5BtswgJPVOWwfYhxF9M5yVi_DTAVs0rJcrmBrHBBbIty-8NCOL37A1Yh6GMQVDdyXjCS8UP0DYPJqzSS846GlTA_ccodbbccFvgfbNGHzkwJOGDgFahNkZ1-y6sVjKHw1hu6oCX5sPJsAWP9zXjZD14YYjQ_FuNNhOSuhUKI0Suv9REgImzOFDauXbevUK_tV74cAza4dVZ6Ff_5MbMcEMLR24JmqLGqSpMF1o66aWi4TsDElbVXG-sRxLKGCGY7GhiUaEO7cQYrZ27ojATjppdrVhC3_uqjwPJGHuOwhp3D9wk1RpggsqIe04J1KmPa4yb1UpdJsB4Fc5W2JZqYRZAM1AWqMRgP6sL_Dni3BBVw41894sQK3MszWwgwxn1P_YLxh7T2Z-R-CTUJP6La19eK3eI06G82TkyffLbNhlL8HUuks107n1f5U88oOH--tORLtyodIL919pcHuK739dL_3PnuuCz9eYg6wGGBDy4pEIZpHKzG57akBBmwEQQIDuIpf9k7e79HhxQzooluwhjTXLJq4432lAAV3mEbqooBV14uP35aOak1gLtSKR1KiEZyySRefS-N853XvrTkkvgxxU=w650-h450-no "Planes Especificos 2019 FEQD por zona de costa")
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 ### Cadro C: plans de xestión de equinodermos  FEQD   {#cadroFEQD}
@@ -749,7 +746,7 @@ Se aprueban os planes de gestión para o año 2019, para la extracción de equin
 |[158](http://www.galiciamarineira.info/content/pexma2019FEQD158)|C.P. Vigo|MA; MSAS;|URM,|
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 
@@ -760,7 +757,7 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de ore
 ![Planes Especificos 2019 Peneira por zona de costa](https://lh3.googleusercontent.com/C7niSilmDc7T1W0-y6HMMp5Fpg9jnqN_WgxA2qx8U684zx2_LFx5LglhE-v1ZuoL4jDwLv5ZiQ6ptD-RhmN2XX-fX2JmP-nBeRM8MG20EbWCFMkR2QXaELqHRUh2Z1Ijyloe2u4tOJEM3hxJHfkAToZt78yPKfVa2c6xs4odfWR-0cGe-J5Ync-sObe2lJJvzBRMrtWcFzVPv5rNZGp0h2uu_nEVXmONS1rk266YVNQ1MQkHb7lgzKKBnq_ofcIDzGWMfRAnfRKmSKHlil6KaA_ra3-7yPiLTXEhiNnYpEhMYGoxmBQvAma4YnUBLn7pEvMHs_UFCqqS1roH0nDhDB97CGJal1FprN_tk74ZljYQUnnxOsWFw0-kZzzytQTEri4zG4wiQMBMj7elcgkVxzSYMvZfhKGQk6BOmQOsr2VGJO5U_hDZvsmAP9qGPwQtpUCtU9U7ON9ykmp9BtjgBtbeFkl7hvSMV4urygYoMmyB0Zxkku9j4mCmlDmdPwzZz5PEh7FXj8I3oUP7Wj7yF13BSa-ukR0tG3oF1Mbh40HChQYPKnTYfapmIlgXeloLRbOoxh3GXXZaOVK2l6vP-8D9aPBHKuCFUgEwtF2WJSIz_vKy5ypxwEFamcnIUqoCRYiMHWaBQmCKI1rsIaJPhKRUpdV5BwYYipfCSt-1yEOPzkYooCqeV6HYQ0XoF6GCdWp2aVpPkWtQ8MOD33Jtlmmy=w650-h450-no "Planes Especificos 2019 HPEN por zona de costa")
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 ### Cadro D: plans de xestión de peneira (Haliotis tuberculata)  HPEN   {#cadroHPEN}
@@ -772,7 +769,7 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de ore
 |[186](http://www.galiciamarineira.info/content/pexma2019HPEN186)|C.P. Cangas|MA; MSAS;|HLT,|
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 
@@ -783,7 +780,7 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de alg
 ![Planes Especificos 2019 Algas por zona de costa](https://lh3.googleusercontent.com/gYXFDgePhaBbDi5ZH84EfFcL-QHhkPbdOi8vNFNQtu_OX8lEKj99XAj-5SjKfTN5O8-FfNd_MhPeSCuveWgNPMNk-Te-UmifhsUDq1sDHWoBRLPLixYRvfPu9NOFGaEyNYEMc0DyvSAOKaJjghgG1bMy8ZK-77WeTvfYirosdMXA5TC_HPs_OboymKw0vu0uPmwJZHo5-8JdjgmFRj5gMZOQ1fpwEM4l8GABrViXpr6gCZQiFGRN-vHTgZo2fvgUB7Afdb1a9GzBdlRLZYE6n__j-3Xic4x4rm2e512BnExJHaZN4Cg0iJZZS7CazX5Wn6DrrrlKPy0_gN-UVvjq9Nb-vaxmV0C08Oaos26xHH5avZdBfgf9Q1JGPJ2tE42UJxOH08ls-0ORyYt3ylNx3m0iYO-xfJixf7dJQYNHeu2DjKqIfVHkmZQ6FsBW4sl4H2xaShYwjryRu_lC1ide0RjCZUtympjTlPX6srZzI3KUbCWKaeEvVSLhhht3_BNJv3uk7GneN0f1nLmWywspnDFC6i6EIVTYoqKH5cgD3kgZwmadO9RyYop2mCzH0gmvmXL8Yy7hKAQ5Ul63oP2i_BbH1Y_Bs6t122hz6z8sIsmCWiXrya_WYfNar6eazXWFcLH3-f1y1tYNIXhAQTm9lFMSo-4E9vEGCCpmCaq6gmWJ9REyF5kiLGRqGOb25xEOw3T0qZ34iT6B5vhQVQcjDLRF=w650-h450-no "Planes Especificos 2019 IALG por zona de costa")
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 ### Cadro E: plans de xestión de algas   IALG     {#cadroIALG}
@@ -817,7 +814,7 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de alg
 
  UCU,*: Fucus spp. (UCU,) agás Fucus serratus (FUU,)
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 
@@ -828,7 +825,7 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de ane
 ![Planes Especificos 2019 Anémonas por zona de costa](https://lh3.googleusercontent.com/359bHTAkNEpmUC0dBQ_GS95vuPnAjAcSHNCKgi3JvIJtLJfePmt__k37N7Rd32EOOV3k4qRoxUvBhTR9N8XP0oP8fgCQkSRrrezNTymqLR2WD928y9W_gZJtNgu80AaF6M6y7nmnpgEOvNjXntENLm3TN9Jgf1W3aODgnqd_GQfLeJHwRQSPSzvaT6EFqYDUfIgS0sWsIsPlz76jO3AxJn8ysoGx94-dqUW-9H_o6qJFNC4B0fqqcavsNBWAqLQpe3APPsUdoLAMo8-xGyCRZSqeW4rCJ4EPs8h4ltkzp-k2dVp8QUIhv6i6e4xjoCpZsi0rAMQZqBpcrRUIe_X3Va-t8IGe15RmgYcqwZeOGCabp6J0Tw-AbOvb090yor4Vp1o9OcZq89E2qFKXudu4RQ02NlWIMeNiWzJDEAaQplzarDtDw_dceVdPU31w0NGIZuFLYsw3Im4_FC4gIIq1kHWsGa8raQy4NGhu63x4cFztNOovt25N8qmwcvL7KyXSI7jqRjXgp38TuwYcizJNdEFHj0asllBWe1ALv7qxs7IeNyq0Zu7apG3BkqAIQE_O4t0NhavwCIzXHGWvheYybeqsAsgjBi9SLAT299WgusTng19TCX8oHeawt9-9C3SK2ee_qiTuHlv3_OHY4rhlooSVF9wnfwPJSylGHLqIDhAvaBdHta_jFVDrpxed5YY48GcSYctmQGVfaYRB_mx3cVLB=w650-h450-no "Planes Especificos 2019 JANE por zona de costa")
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 ### Cadro F: plans de xestión de anemone (Anemonia sulcata)     JANE      {#cadroJANE}
@@ -852,7 +849,7 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de ane
 |[225](http://www.galiciamarineira.info/content/pexma2019JANE225)|C.P. Vigo|A pé; MA; MSAS;|NOW,|
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 
@@ -863,7 +860,7 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de pol
 ![Planes Especificos 2019 Poliquetos por zona de costa](https://lh3.googleusercontent.com/HwYlBiTuGmXn7vRlXeht5uoarbTj7qJ_nalI1gt03dXaWK623vfC0LNa5wwa_3xZoFJ1tMvQmWQRYZFj-NLe3BklWb2jcl6xb53KTv0vA5MTc0D8EGnUw46Bs3uxaIq1RmZC76AolWTScAX7WSmZPVXIX4FJQ2SiuQ3RVhADL_ghTJxT_X9jixMpOGLpkMWPsaw5sl4v5zVFrxZGk9eK6vtBJyMHB9fD4VvP_w0MvmMRc-VJxZ6sjISggeCaXKhMBvd7SLI3x53Qe07qtZmj3couzT4U6AwqIPOzyjnG5deYrhavc1h1PSR_FThoWx617ctY9vhDSG5Ic5ZavUkczwbRtZ-bSOQBqpTU-JdS3GOBauepeND7lfQDxFMKb0Lg8kYZ_tbYQ6DeLIMgk31jbDK0dsn_gWK9lBFlwNzSxnKJ7y1-Y07NtzBgwmzK__jOHgV0sA82PoCZ2vizf44vgkqbLaK34LsEOi35X4m2x2XY6MnR-OxJMr3Wjegx8J9wm90GrwQ87eSjGQdkmXJ9T5pjVe1fvLJpEkUorie9O9xrE7BLOwP3p4D9vYr5RE3VDUjfEKshTF3AkOnMDOYLXl5vGioGAYTnA8x1uivgStMA9uqN4LrqvLQYSmmdREp_pVE6bJ2CMvvnbOJCj39sLxe2vOunm__f1hsm0tpFSPnPLbG9WKgzXMeojQbU76dlLAa1j_6Ll1AKeaHVP9LRc7HG=w650-h450-no "Planes Especificos 2019 KPOL por zona de costa")
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 ### Cadro G: plans de xestión de poliquetos    KPOL    {#cadroKPOL}
@@ -893,7 +890,7 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de pol
 |[246](http://www.galiciamarineira.info/content/pexma2019KPOL246)|C.P. Vilanova|MA;|DIN,|
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 ## Disposiciones adicionales:       {#item17}
@@ -928,7 +925,7 @@ De acuerdo con el artículo 2.4 del _Decreto 423/1993,[⁵] de 17 de diciembre,_
 Las personas interesadas en desenvolver un plan de gestión de recursos específicos en el año 2020, deberán adjuntar con la solicitud, un plan de gestión para ese año, para lo cuál se empleará el modelo que se puede consultar en la página web de la Consellería del Mar (<http://mar.xunta.gal/gl/content/plans-de-xestion-e-biodiversidade>).
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 ## Disposiciones finales:       {#item18}
 
@@ -951,7 +948,7 @@ Rosa Mª Quintana Carballo
 Conselleira del Mar
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 	
 
 ##### Abreviatura (a) Entidad:    {#abrv-a}
@@ -962,7 +959,7 @@ A.M.|Asociación de mariscadoras
 C.P.|Confraría de pescadores
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 	
 ##### Abreviatura (b) Especies:   {#abrv-b}
 
@@ -1053,7 +1050,7 @@ C.P.|Confraría de pescadores
 Las algas no aparecen en el D.O.G. pero si en los planes anuales. El cuadro está basado en los planes anuales de algas del año 2014.
 (LA5)*: Es el código utilizado en «pescadegalicia.gal»
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 ##### Abreviatura (c) Modalidad    {#abrv-c}
 
@@ -1064,7 +1061,7 @@ MA|Buceo en apnea
 MSAS|Buceo con suministro de aire desde superficie
 
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 
