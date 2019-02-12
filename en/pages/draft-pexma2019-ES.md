@@ -32,7 +32,7 @@
 
 |orden-Artículo|Grupo de planes|Nº de planes| Cuadros|
 |:-------------|:-------------:|-----------:|:------:|
-|[PG-Artículo 1](#Artículo 1.). Objeto||||
+|[PG-Artículo 1](#artículo-1.). Objeto||||
 |[PG-Artículo 2](#item02). Planes de explotación en autorizaciones marisqueras|__AAUT__|47|[PG.A](#cadroAAUT)|
 |[PG-Artículo 3](#item03). Planes específicos de explotación para las zonas de libre marisqueo|__BESP__|50|[PG.B](#cadroBESP)|
 |[PG-Artículo 4](#item04). Zonas de libre marisqueo para el año 2019|__CLBM__||[PG.C](#cadroCLBM)|
