@@ -32,24 +32,24 @@
 
 |orden-Artículo|Grupo de planes|Nº de planes| Cuadros|
 |:-------------|:-------------:|-----------:|:------:|
-|[PG-Artículo 1](#artículo-1). Objeto||||
-|[PG-Artículo 2](#item02). Planes de explotación en autorizaciones marisqueras|__AAUT__|47|[PG.A](#cadroAAUT)|
-|[PG-Artículo 3](#item03). Planes específicos de explotación para las zonas de libre marisqueo|__BESP__|50|[PG.B](#cadroBESP)|
-|[PG-Artículo 4](#item04). Zonas de libre marisqueo para el año 2019|__CLBM__||[PG.C](#cadroCLBM)|
-|[PG-Artículo 5](#item05). Crustáceos|__ECRU__||[PG.E](#cadroECRU)|
-|[PG-Articulado normativo:](#item06). Desde el artículo 6 al 17||||
-|[PG-Disposiciones adicionales](#item07). (Ocho disposiciones)||||
-|[PG-Disposiciones finales](#item08). (Tres disposiciones)||||
-|[PE-Artículo 1](#item09). Objeto||||
-|[PE-Artículo 2](#item10). Percebe (Pollicipes pollicipes)|__DPER__|37|[PE.A](#cadroDPER)|
-|[PE-Artículo 3](#item11). Solénidos (navaja/muergo/muergo)|__GSOL__|25|[PE.B](#cadroGSOL)|
-|[PE-Artículo 4](#item12). Equinodermos|__FEQD__|24|[PE.C](#cadroFEQD)|
-|[PE-Artículo 5](#item13). Oreja de mar|__HPEN__|3|[PE.D](#cadroHPEN)|
-|[PE-Artículo 6](#item14). Algas|__IALG__|24|[PE.E](#cadroIALG)|
-|[PE-Artículo 7](#item15). Anémonas|__JANE__|15|[PE.F](#cadroJANE)|
-|[PE-Artículo 8](#item16). Poliquetos|__KPOL__|21|[PE.G](#cadroKPOL)|
-|[PE-Disposiciones adicionales](#item17). Seis disposiciones||||
-|[PE-Disposiciones finales](#item18). Tres disposiciones|||-|
+|[PG-Artículo 1](#PG01). Objeto||||
+|[PG-Artículo 2](#PG02). Planes de explotación en autorizaciones marisqueras|__AAUT__|47|[PG.A](#cadroAAUT)|
+|[PG-Artículo 3](#PG03). Planes específicos de explotación para las zonas de libre marisqueo|__BESP__|50|[PG.B](#cadroBESP)|
+|[PG-Artículo 4](#PG04). Zonas de libre marisqueo para el año 2019|__CLBM__||[PG.C](#cadroCLBM)|
+|[PG-Artículo 5](#PG05). Crustáceos|__ECRU__||[PG.E](#cadroECRU)|
+|[PG-Articulado normativo:](#PG06). Desde el artículo 6 al 17||||
+|[PG-Disposiciones adicionales](#PG07). (Ocho disposiciones)||||
+|[PG-Disposiciones finales](#PG08). (Tres disposiciones)||||
+|[PE-Artículo 1](#PE01). Objeto||||
+|[PE-Artículo 2](#PE02). Percebe (Pollicipes pollicipes)|__DPER__|37|[PE.A](#cadroDPER)|
+|[PE-Artículo 3](#PE03). Solénidos (navaja/muergo/muergo)|__GSOL__|25|[PE.B](#cadroGSOL)|
+|[PE-Artículo 4](#PE04). Equinodermos|__FEQD__|24|[PE.C](#cadroFEQD)|
+|[PE-Artículo 5](#PE05). Oreja de mar|__HPEN__|3|[PE.D](#cadroHPEN)|
+|[PE-Artículo 6](#PE06). Algas|__IALG__|24|[PE.E](#cadroIALG)|
+|[PE-Artículo 7](#PE07). Anémonas|__JANE__|15|[PE.F](#cadroJANE)|
+|[PE-Artículo 8](#PE08). Poliquetos|__KPOL__|21|[PE.G](#cadroKPOL)|
+|[PE-Disposiciones adicionales](#PE09). Seis disposiciones||||
+|[PE-Disposiciones finales](#PE10). Tres disposiciones|||-|
 
 ----
 
@@ -61,9 +61,9 @@ __DOG Núm. 248 - Lunes, 31 de diciembre de 2018 - Pág. 54967__
 _ORDEN de 20 de diciembre de 2018 por la que se aprueba el Plan general de explotación marisquera para el año 2019._
 
 
-## Artículo 1
+## PG01
 
-### Objeto 
+### Artículo 1. Objeto
 
 1. Esta orden tiene por objeto aprobar el conjunto de normas y orientaciones destinadas a regular y programar la extracción del marisco para el año 2019.
 
@@ -85,8 +85,9 @@ _ORDEN de 20 de diciembre de 2018 por la que se aprueba el Plan general de explo
 
 [Volver al resumen](#Resumen)
 
+## PG02
 
-## Artículo 2. Planes de explotación en autorizaciones marisqueras    {#item02}
+### Artículo 2. Planes de explotación en autorizaciones marisqueras 
 
 1. Se aprueban los planes de explotación para el año 2019, para las zonas de autorización, presentados por las entidades asociativas del sector, que se relacionan en el [cuadro A](#cadroAAUT). Los planes de explotación se desarrollarán conforme a lo establecido en el [artículo 6](#arti06) de esta orden y las instrucciones que posteriormente se dicten, de ser necesarias.
 
@@ -154,8 +155,9 @@ _ORDEN de 20 de diciembre de 2018 por la que se aprueba el Plan general de explo
 
 [Volver al resumen](#Resumen)
 
+## PG03
 
-## Artículo 3. Planes específicos de explotación para las zonas de libre marisqueo    {#item03}
+### Artículo 3. Planes específicos de explotación para las zonas de libre marisqueo    {#item03}
 
 1. Se aprueban los planes de explotación para el año 2019 para las zonas de libre marisqueo, presentados por las entidades asociativas del sector que se relacionan en el [cuadro B](#cadroBESP). Los planes de explotación se desarrollarán conforme a lo establecido en el [artículo 6](#arti06) de esta orden y las instrucciones que posteriormente se dicten, de ser necesarias.
 
@@ -226,9 +228,9 @@ _ORDEN de 20 de diciembre de 2018 por la que se aprueba el Plan general de explo
 
 [Volver al resumen](#Resumen)
 
+## PG04
 
-
-## Artículo 4. Zonas de libre marisqueo para el año 2019    {#item04}
+### Artículo 4. Zonas de libre marisqueo para el año 2019 
 
 1. Como norma general, se autoriza la extracción de moluscos en las zonas de libre marisqueo, no sujetas a plan específico, desde el 2 de enero al 29 de marzo y desde el 1 de octubre al 31 de diciembre.
 
@@ -338,9 +340,9 @@ __Cotas máximas de captura__
 
 [Volver al resumen](#Resumen)
 
+## PG05
 
-
-## Artículo 5. Crustáceos    {#item05}
+### Artículo 5. Crustáceos 
 
 Los períodos autorizados en el año 2019 para la extracción de las especies de crustáceos se establecen en el [cuadro E](#cadroECRU).
 
@@ -364,8 +366,9 @@ Los períodos autorizados en el año 2019 para la extracción de las especies de
 [Volver al resumen](#Resumen)
 
 
+## PG06
 
-## Articulado normativo:   {#item06}
+__Articulado normativo:__
 
 ## Artículo 6. El desarrollo de los planes de explotación      {#arti06}
 
@@ -504,8 +507,9 @@ Todos los trámites administrativos que las personas interesadas deban realizar 
 
 [Volver al resumen](#Resumen)
 
+## PG07
 
-## Disposiciones adicionales    {#item07}
+ __Disposiciones adicionales__ 
 
 
 ### Disposición adicional primera. Información básica sobre protección de datos personales
@@ -556,8 +560,10 @@ En la página web <https://www.pescadegalicia.gal/gl/poliquetos> se publicarán 
 
 [Volver al resumen](#Resumen)
 
-## Disposiciones finales:         {#item08}
 
+## PG08
+
+__Disposiciones finales:__ 
 
 ### Disposición final primera. Consulta de los planes de explotación
 
@@ -593,16 +599,17 @@ Conselleira del Mar
 
 [Volver al resumen](#Resumen)
 
+## PE01
 
-
-## Artículo 1. Objeto         {#item09}   
+### Artículo 1. Objeto  
 
 Esta orden tiene por objeto aprobar los planes de gestión para recursos específicos para el año 2019 que fueron elaborados por las entidades asociativas del sector.
 
 [Volver al resumen](#Resumen)
 
+## PE02
 
-## Artículo 2. Percebe (Pollicipes pollicipes)         {#item10}
+### Artículo 2. Percebe (Pollicipes pollicipes) 
 
 Se aprueban los planes de gestión para el año 2019 para la extracción de percebe, presentados por las entidades asociativas del sector, que se relacionan en el [cuadro A](#cadroDPER).
 
@@ -657,9 +664,9 @@ Se aprueban los planes de gestión para el año 2019 para la extracción de perc
 
 [Volver al resumen](#Resumen)
 
+## PE03
 
-
-## Artículo 3. Solénidos (navaja/ muergo/ longueirón)         {#item11}
+### Artículo 3. Solénidos (navaja/ muergo/ longueirón) 
 
 1. Se aprueban los planes de gestión para el año 2019, para la extracción de solénidos presentados por las entidades asociativas del sector, que se relacionan en el [cuadro B](#cadroGSOL).
 
@@ -675,7 +682,7 @@ La autorización de apertura mensual queda supeditada a la adecuación y efectiv
 
 ### Cadro B: plans de xestión de solénidos (Navalla, longueirón e longueirón vello) (Ensis magnus, Ensis siliqua, Solen marginatus,) GSOL     {#cadroGSOL}
 
-|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#abrv-c)|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#Modalidad(c))|Especies[(b)](#abrv-b)|
 |----------:|:----------|:---------|:----------|
 |[159](http://www.galiciamarineira.info/content/pexma2019GSOL159)|C.P. A Coruña|MA; MSAS;|EQK, EQI,|
 |[160](http://www.galiciamarineira.info/content/pexma2019GSOL160)|C.P. A Pobra do Caramiñal|MA; MSAS;|EQK,|
@@ -706,9 +713,9 @@ La autorización de apertura mensual queda supeditada a la adecuación y efectiv
 
 [Volver al resumen](#Resumen)
 
+## PE04
 
-
-## Artículo 4. Equinodermos         {#item12}
+### Artículo 4. Equinodermos      
 
 Se aprueban os planes de gestión para o año 2019, para la extracción de equinodermos, presentados por las entidades asociativas del sector, que se relacionan en el [cuadro C](#cadroFEQD).
 
@@ -720,7 +727,7 @@ Se aprueban os planes de gestión para o año 2019, para la extracción de equin
 
 ### Cadro C: plans de xestión de equinodermos  FEQD   {#cadroFEQD}
 
-|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#abrv-c)|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#Modalidad(c))|Especies[(b)](#abrv-b)|
 |----------:|:----------|:---------|:----------|
 |[135](http://www.galiciamarineira.info/content/pexma2019FEQD135)|A.M. Aresmar|MSAS;|URM,|
 |[136](http://www.galiciamarineira.info/content/pexma2019FEQD136)|C.P. Celeiro|A pé;|URM,|
@@ -750,9 +757,9 @@ Se aprueban os planes de gestión para o año 2019, para la extracción de equin
 
 [Volver al resumen](#Resumen)
 
+## PE05
 
-
-## Artículo 5. Oreja de mar         {#item13}
+### Artículo 5. Oreja de mar 
 
 Se aprueban los planes de gestión para el año 2019, para la extracción de oreja de mar, presentados por las entidades asociativas del sector, que se relacionan en el [cuadro D](#cadroHPEN).
 
@@ -764,7 +771,7 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de ore
 
 ### Cadro D: plans de xestión de peneira (Haliotis tuberculata)  HPEN   {#cadroHPEN}
 
-|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#abrv-c)|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#Modalidad(c))|Especies[(b)](#abrv-b)|
 |----------:|:----------|:---------|:----------|
 |[184](http://www.galiciamarineira.info/content/pexma2019HPEN184)|C.P. Fisterra, C.P. Corcubión, C.P. Lira (plan conxunto)|MA; MSAS;|HLT,|
 |[185](http://www.galiciamarineira.info/content/pexma2019HPEN185)|C.P. Aldán-O Hio|MA; MSAS;|HLT,|
@@ -773,9 +780,9 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de ore
 
 [Volver al resumen](#Resumen)
 
+## PE06
 
-
-## Artículo 6. Algas         {#item14}
+### Artículo 6. Algas  
 
 Se aprueban los planes de gestión para el año 2019, para la extracción de algas, presentados por las entidades asociativas del sector y empresas, que se relacionan en el [cuadro E](#cadroIALG).
 
@@ -787,7 +794,7 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de alg
 
 ### Cadro E: plans de xestión de algas   IALG     {#cadroIALG}
 
-|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#abrv-c)|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](Modalidad(c))|Especies[(b)](#abrv-b)|
 |----------:|:----------|:---------|:----------|
 |[187](http://www.galiciamarineira.info/content/pexma2019IALG187)|Algamar, S.L.|A pé;|HLZ, L1O, OFH, UVU, UDP,|
 |[188](http://www.galiciamarineira.info/content/pexma2019IALG188)|Ceamsa, S.L.|A pé;|MVT, IMS, GHG,|
@@ -818,9 +825,9 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de alg
 
 [Volver al resumen](#Resumen)
 
+## PE07
 
-
-## Artículo 7. Anémonas         {#item15}
+### Artículo 7. Anémonas  
 
 Se aprueban los planes de gestión para el año 2019, para la extracción de anemonas presentados por las entidades asociativas del sector, que se relacionan en el [cuadro F](#cadroJANE).
 
@@ -832,7 +839,7 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de ane
 
 ### Cadro F: plans de xestión de anemone (Anemonia sulcata)     JANE      {#cadroJANE}
 
-|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#abrv-c)|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#Modalidad(c))|Especies[(b)](#abrv-b)|
 |----------:|:----------|:---------|:----------|
 |[211](http://www.galiciamarineira.info/content/pexma2019JANE211)|A.M. Aresmar|MSAS;|NOW,|
 |[212](http://www.galiciamarineira.info/content/pexma2019JANE212)|A.M. San Cosme de Barreiros-Foz|A pé;|NOW,|
@@ -853,9 +860,9 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de ane
 
 [Volver al resumen](#Resumen)
 
+## PE08
 
-
-## Artículo 8. Poliquetos         {#item16}
+### Artículo 8. Poliquetos         {#item16}
 
 Se aprueban los planes de gestión para el año 2019, para la extracción de poliquetos presentados por las entidades asociativas del sector, que se relacionan en el [cuadro G](#cadroKPOL).
 
@@ -867,7 +874,7 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de pol
 
 ### Cadro G: plans de xestión de poliquetos    KPOL    {#cadroKPOL}
 
-|idPlanAnual|Entidade [(a)](#abrv-a)|Modalidade[(c)](#abrv-c)|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade [(a)](#abrv-a)|Modalidade[(c)](#Modalidad(c))|Especies[(b)](#abrv-b)|
 |----------:|:----------|:---------|:----------|
 |[226](http://www.galiciamarineira.info/content/pexma2019KPOL226)|A.M. San Cosme de Barreiros-Foz|A pé;|ARM,|
 |[227](http://www.galiciamarineira.info/content/pexma2019KPOL227)|A.M. Fonte Santa Helena-Baldaio|A pé;|ARM,|
@@ -895,7 +902,9 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de pol
 [Volver al resumen](#Resumen)
 
 
-## Disposiciones adicionales:       {#item17}
+## PE09
+
+ __Disposiciones adicionales:__  
 
 
 ### Disposición adicional primera. Zonas de trabajo de los sectores de a pie y desde embarcación
@@ -929,7 +938,10 @@ Las personas interesadas en desenvolver un plan de gestión de recursos específ
 
 [Volver al resumen](#Resumen)
 
-## Disposiciones finales:       {#item18}
+
+## PE10
+
+ __Disposiciones finales:__  
 
 
 ### Disposición final primera. Consulta de los planes de gestión
@@ -953,7 +965,7 @@ Conselleira del Mar
 [Volver al resumen](#Resumen)
 	
 
-##### Abreviatura (a) Entidad:    {#abrv-a}
+##### Entidad(a)
 
 |Abreviatura| |
 |-----------|-|
@@ -963,7 +975,7 @@ C.P.|Confraría de pescadores
 
 [Volver al resumen](#Resumen)
 	
-##### Abreviatura (b) Especies:   {#abrv-b}
+#####  Especies(b):   {#abrv-b}
 
 
 |Abreviatura|Nombre comercial|Nombre científico|alfa-3 FAO|
@@ -1054,8 +1066,7 @@ Las algas no aparecen en el D.O.G. pero si en los planes anuales. El cuadro est�
 
 [Volver al resumen](#Resumen)
 
-##### Abreviatura (c) Modalidad    {#abrv-c}
-
+##### Modalidad(c)  
 
 |Abreviatura| |
 |-----------|-|
