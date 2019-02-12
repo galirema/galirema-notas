@@ -874,7 +874,7 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de pol
 
 ### Cadro G: plans de xestión de poliquetos    KPOL    {#cadroKPOL}
 
-|idPlanAnual|Entidade [(a)](#abrv-a)|Modalidade[(c)](#Modalidad(c))|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade [(a)](#abrv-a)|Modalidade[(c)](#modalidadc)|Especies[(b)](#abrv-b)|
 |----------:|:----------|:---------|:----------|
 |[226](http://www.galiciamarineira.info/content/pexma2019KPOL226)|A.M. San Cosme de Barreiros-Foz|A pé;|ARM,|
 |[227](http://www.galiciamarineira.info/content/pexma2019KPOL227)|A.M. Fonte Santa Helena-Baldaio|A pé;|ARM,|
