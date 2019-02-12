@@ -28,7 +28,7 @@
 ![Plan general 2019](https://lh3.googleusercontent.com/JdbuNx0hmazlsCw-yGO4m7icgIA56wufUsrKRML6lmjL-O50WAH926VoQ4XVoOagx5dwx-ZfH9VBF8tYhB2wXp2L-BxGYdy-39BjLr5HJ_3e5J_Ey514ipGCjCFL7wv-1oQ_qvYLckiEhdf-0grnssCbU59WYovPLXt4tKu3jkHJ0VPivcMMEs5AAoi7sdyPK7PHJYdlJuZn4Jh2MX7TiXAAOvO388WJS7c5BUcprgRacrM7oxoPBfeWpOhey3707ymRYqR3voNJ53yGdcBekdLe6NmkhJ2Errn2-WUEc7RzahdBFmOXsXRAAH3UFu6881lgFEjT80To5W99x_dQoh_q_DRrYgUg_dKsLP4-UeNx6IeRkX9lP6v1gNKVf4meGEvhu121IdZc8b0NtGVA6qiwvQlmR6hlVPzlvwp_Sqyqt-a-RXhis7af8MOfyiLkqpYWd5lIms_ucXcTsM8uxw0Q-mtc2HjNAzRiOJe9qQZGVaEtX1JdiYe1-U18UcIg_aQSQG1v-8VIvD7BITmPgWlaPrn2Vp8O1JrAA6ar9k0nbrt3OSLWKQp4OC01cA6DX-31OUEE65swDEfbefZ43ueproAM_p9cO61s5h2Pwu4YEFW8pJfhPuAsH1zn_fbp8vWubK6jDi6AorZvDs-3vyxOnUrrN8EHYVgvz4dXNQQhKFzxJhb5JxaZRoWBgZoDZ7ab-dqdxVWhgOAZpQkBtqYP=w600-h450-no "M01-01. Plan General y Específicos 2019 por tipos de plan")
 
 
-## Resumen {#item00}
+## Resumen
 
 |orden-Artículo|Grupo de planes|Nº de planes| Cuadros|
 |:-------------|:-------------:|-----------:|:------:|
@@ -81,7 +81,7 @@ _ORDEN de 20 de diciembre de 2018 por la que se aprueba el Plan general de explo
 
 	d\) Autorización de extracción, traslado, resiembra, limpieza en planes de explotación para autorizaciones o concesiones marisqueras (PE 403E).
 
-[Volver al resumen](#item00)
+[Volver al resumen](#Resumen)
 
 
 ## Artículo 2. Planes de explotación en autorizaciones marisqueras    {#item02}
