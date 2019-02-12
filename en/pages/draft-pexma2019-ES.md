@@ -682,7 +682,7 @@ La autorización de apertura mensual queda supeditada a la adecuación y efectiv
 
 ### Cadro B: plans de xestión de solénidos (Navalla, longueirón e longueirón vello) (Ensis magnus, Ensis siliqua, Solen marginatus,) GSOL     {#cadroGSOL}
 
-|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#Modalidad(c))|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#modalidadc)|Especies[(b)](#abrv-b)|
 |----------:|:----------|:---------|:----------|
 |[159](http://www.galiciamarineira.info/content/pexma2019GSOL159)|C.P. A Coruña|MA; MSAS;|EQK, EQI,|
 |[160](http://www.galiciamarineira.info/content/pexma2019GSOL160)|C.P. A Pobra do Caramiñal|MA; MSAS;|EQK,|
@@ -727,7 +727,7 @@ Se aprueban os planes de gestión para o año 2019, para la extracción de equin
 
 ### Cadro C: plans de xestión de equinodermos  FEQD   {#cadroFEQD}
 
-|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#Modalidad(c))|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#modalidadc)|Especies[(b)](#abrv-b)|
 |----------:|:----------|:---------|:----------|
 |[135](http://www.galiciamarineira.info/content/pexma2019FEQD135)|A.M. Aresmar|MSAS;|URM,|
 |[136](http://www.galiciamarineira.info/content/pexma2019FEQD136)|C.P. Celeiro|A pé;|URM,|
@@ -771,7 +771,7 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de ore
 
 ### Cadro D: plans de xestión de peneira (Haliotis tuberculata)  HPEN   {#cadroHPEN}
 
-|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#Modalidad(c))|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#modalidadc)|Especies[(b)](#abrv-b)|
 |----------:|:----------|:---------|:----------|
 |[184](http://www.galiciamarineira.info/content/pexma2019HPEN184)|C.P. Fisterra, C.P. Corcubión, C.P. Lira (plan conxunto)|MA; MSAS;|HLT,|
 |[185](http://www.galiciamarineira.info/content/pexma2019HPEN185)|C.P. Aldán-O Hio|MA; MSAS;|HLT,|
@@ -794,7 +794,7 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de alg
 
 ### Cadro E: plans de xestión de algas   IALG     {#cadroIALG}
 
-|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](Modalidad(c))|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#modalidadc)|Especies[(b)](#abrv-b)|
 |----------:|:----------|:---------|:----------|
 |[187](http://www.galiciamarineira.info/content/pexma2019IALG187)|Algamar, S.L.|A pé;|HLZ, L1O, OFH, UVU, UDP,|
 |[188](http://www.galiciamarineira.info/content/pexma2019IALG188)|Ceamsa, S.L.|A pé;|MVT, IMS, GHG,|
@@ -839,7 +839,7 @@ Se aprueban los planes de gestión para el año 2019, para la extracción de ane
 
 ### Cadro F: plans de xestión de anemone (Anemonia sulcata)     JANE      {#cadroJANE}
 
-|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#Modalidad(c))|Especies[(b)](#abrv-b)|
+|idPlanAnual|Entidade[(a)](#abrv-a)|Modalidade[(c)](#modalidadc)|Especies[(b)](#abrv-b)|
 |----------:|:----------|:---------|:----------|
 |[211](http://www.galiciamarineira.info/content/pexma2019JANE211)|A.M. Aresmar|MSAS;|NOW,|
 |[212](http://www.galiciamarineira.info/content/pexma2019JANE212)|A.M. San Cosme de Barreiros-Foz|A pé;|NOW,|
@@ -1123,123 +1123,123 @@ MSAS|Buceo con suministro de aire desde superficie
  [¹³]: https://www.xunta.gal/dog/Publicados/2013/20131031/AnuncioG0165-251013-0001_es.html
  [¹⁴]: https://www.xunta.gal/dog/Publicados/2008/20081216/Anuncio4C1EE_es.html
 
-*[CTS]: Ameixa babosa
-*[ULO]: Cornecha
-*[VNA]: Ameixa bicuda
-*[CTG]: Ameixa fina
-*[CLJ]: Ameixa xaponesa
-*[VNR]: Ameixa rubia
-*[KLK]: Ameixón
-*[GKL]: Rabioso
-*[UTL]: Arola
-*[COC]: Berberecho
-*[LVC]: Saltón
-*[AKJ]: Berberecho bravo
-*[SVE]: Chirla
-*[DON]: Cadelucha
-*[KTT]: Marolo
-*[VEV]: Carneiro
-*[RAE]: Longueirón vello
-*[EQI]: Longueirón
-*[EQK]: Navalla
-*[OYF]: Ostra
-*[OYG]: Ostra rizada
-*[DSX]: Reló
-*[SCE]: Vieira
-*[QSC]: Voandeira
-*[VSC]: Zamburiña
-*[SQR]: Lura
-*[CTC]: Choco
-*[EJE]: Choquiño
-*[OCC]: Polbo
-*[OUW]: Puntillas
-*[PEE]: Caramuxos
-*[PEE]: Caramuxos
-*[LPZ]: Lapas
-*[HLT]: Peneira
-*[CRE]: Boi
-*[CPR]: Camarón común
-*[CRG]: Cangrexo común
-*[KEF]: Cangrexo real
-*[JCX]: Centola
-*[NEP]: Cigala
-*[SLO]: Lagosta
-*[LBE]: Lumbrigante
-*[LIO]: Nécora
-*[PCB]: Percebe
-*[SCY]: Santiaguiño
-*[URM]: Ourizo
-*[URS]: Ourizo comestible
-*[KTG]: Berberecho birollo
-*[FNT]: Cornecho truncado
-*[BOY]: Cornecho espinoso
-*[NOW]: Anémona
-*[SWX]: Algas
-*[SWB]: Algas Pardas
-*[ASN]: Buche bravo
-*[UCU]: Bocho
-*[FUU]: Bocho
-*[F1S]: Bocho
-*[FUV]: Bocho
-*[P1C]: Pelvetia canaliculata
-*[HLZ]: Correa
-*[B1B]: Bifurcaria
-*[C1B]: Cystoseira baccata
-*[S1M]: sargazo xaponés
-*[UDP]: Grelo de mar
-*[LAZ]: Golfos
-*[LAH]: Canouco
-*[L1O]: Argazo
-*[LQX]: Cañoto
-*[LQD]: Golfos
-*[LQX]: Cañoto
-*[LA5]: Argazo bravo
-*[ZSY]: Argazo bravo
-*[SWG]: Algas verdes
-*[KJT]: Fideo de mar
-*[KJT]: Fideo de mar
-*[UVU]: Leituga de mar
-*[UVQ]: Leituga de mar
-*[SWR]: Algas vermellas
-*[FYS]: Touca
-*[OFH]: Touca
-*[NLO]: Espagueti de mar
-*[RHP]: Dulse
-*[O1P]: Osmundea
-*[GEL]: marullo
-*[GEQ]: marullo
-*[GEQ]: Xerés
-*[P2C]: Pterocladiella
-*[SWP]: Dilsea
-*[D1C]: Dumontia
-*[GJA]: Espuela de gallo
-*[GJE]: Rastrillo de mar
-*[IMS]: Carrapucho
-*[GHG]: Gigartina
-*[GHG]: Gigartina
-*[MVT]: Carrapicho
-*[MVT]: Carrapicho
-*[GLS]: Gracilarias
-*[GLS]: Gracilarias
-*[G1T]: Grateloupia
+*[CTS]: Ameixa babosa  
+*[ULO]: Cornecha  
+*[VNA]: Ameixa bicuda  
+*[CTG]: Ameixa fina  
+*[CLJ]: Ameixa xaponesa  
+*[VNR]: Ameixa rubia  
+*[KLK]: Ameixón  
+*[GKL]: Rabioso  
+*[UTL]: Arola  
+*[COC]: Berberecho  
+*[LVC]: Saltón  
+*[AKJ]: Berberecho bravo  
+*[SVE]: Chirla  
+*[DON]: Cadelucha  
+*[KTT]: Marolo  
+*[VEV]: Carneiro  
+*[RAE]: Longueirón vello  
+*[EQI]: Longueirón  
+*[EQK]: Navalla  
+*[OYF]: Ostra  
+*[OYG]: Ostra rizada  
+*[DSX]: Reló  
+*[SCE]: Vieira  
+*[QSC]: Voandeira  
+*[VSC]: Zamburiña  
+*[SQR]: Lura  
+*[CTC]: Choco  
+*[EJE]: Choquiño  
+*[OCC]: Polbo  
+*[OUW]: Puntillas  
+*[PEE]: Caramuxos  
+*[PEE]: Caramuxos  
+*[LPZ]: Lapas  
+*[HLT]: Peneira  
+*[CRE]: Boi  
+*[CPR]: Camarón común  
+*[CRG]: Cangrexo común  
+*[KEF]: Cangrexo real  
+*[JCX]: Centola  
+*[NEP]: Cigala  
+*[SLO]: Lagosta  
+*[LBE]: Lumbrigante  
+*[LIO]: Nécora  
+*[PCB]: Percebe  
+*[SCY]: Santiaguiño  
+*[URM]: Ourizo  
+*[URS]: Ourizo comestible  
+*[KTG]: Berberecho birollo  
+*[FNT]: Cornecho truncado  
+*[BOY]: Cornecho espinoso  
+*[NOW]: Anémona  
+*[SWX]: Algas  
+*[SWB]: Algas Pardas  
+*[ASN]: Buche bravo  
+*[UCU]: Bocho  
+*[FUU]: Bocho  
+*[F1S]: Bocho  
+*[FUV]: Bocho  
+*[P1C]: Pelvetia canaliculata  
+*[HLZ]: Correa  
+*[B1B]: Bifurcaria  
+*[C1B]: Cystoseira baccata  
+*[S1M]: sargazo xaponés  
+*[UDP]: Grelo de mar  
+*[LAZ]: Golfos  
+*[LAH]: Canouco  
+*[L1O]: Argazo  
+*[LQX]: Cañoto  
+*[LQD]: Golfos  
+*[LQX]: Cañoto  
+*[LA5]: Argazo bravo  
+*[ZSY]: Argazo bravo  
+*[SWG]: Algas verdes  
+*[KJT]: Fideo de mar  
+*[KJT]: Fideo de mar  
+*[UVU]: Leituga de mar  
+*[UVQ]: Leituga de mar  
+*[SWR]: Algas vermellas  
+*[FYS]: Touca  
+*[OFH]: Touca  
+*[NLO]: Espagueti de mar  
+*[RHP]: Dulse  
+*[O1P]: Osmundea  
+*[GEL]: marullo  
+*[GEQ]: marullo  
+*[GEQ]: Xerés  
+*[P2C]: Pterocladiella  
+*[SWP]: Dilsea  
+*[D1C]: Dumontia  
+*[GJA]: Espuela de gallo  
+*[GJE]: Rastrillo de mar  
+*[IMS]: Carrapucho  
+*[GHG]: Gigartina  
+*[GHG]: Gigartina  
+*[MVT]: Carrapicho  
+*[MVT]: Carrapicho  
+*[GLS]: Gracilarias  
+*[GLS]: Gracilarias  
+*[G1T]: Grateloupia  
 
-*[ICC]: Conguito
-*[IOD]: Patulate
+*[ICC]: Conguito  
+*[IOD]: Patulate  
 
-*[WBX]: carallo de mar
+*[WBX]: carallo de mar  
 
-*[L1A]: Lomentaria
+*[L1A]: Lomentaria  
 
-*[ARM]: Mangón, miñoca de area
-*[DIN]: Miñoca de tubo, casulo
-*[NER]: Miñoca
-*[UBI]: Gabián
-*[WOR]: Bicho
+*[ARM]: Mangón, miñoca de area  
+*[DIN]: Miñoca de tubo, casulo  
+*[NER]: Miñoca  
+*[UBI]: Gabián  
+*[WOR]: Bicho  
 
-*[KII]: Taborra
-*[G1M]: Gracilaria multipartita
-*[EOW]: Verdello claro
-*[G1O]: Gastroclonium ovatum
+*[KII]: Taborra  
+*[G1M]: Gracilaria multipartita  
+*[EOW]: Verdello claro  
+*[G1O]: Gastroclonium ovatum  
 
 
 
