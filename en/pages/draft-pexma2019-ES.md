@@ -370,7 +370,7 @@ Los períodos autorizados en el año 2019 para la extracción de las especies de
 
 __Articulado normativo:__
 
-## Artículo 6. El desarrollo de los planes de explotación      {#arti06}
+### Artículo 6. El desarrollo de los planes de explotación      {#arti06}
 
 1. Las entidades titulares de planes de explotación aprobados dirigirán las solicitudes para el desarrollo de la actividad a las jefaturas territoriales correspondientes de la Consellería del Mar.
 
@@ -385,7 +385,7 @@ La falta de resolución expresa determinará la autorización presunta de la act
 
 6. El traslado de semilla, la limpieza de los bancos marisqueros, así como las actividades de semicultivo necesarias para la mejora de la producción, requerirán de la autorización y podrán llevarse a cabo durante todo el año, conforme a lo establecido en el artículo 2.3 del _Decreto 423/1993,[⁵] de 17 de diciembre, por el que se refunde la normativa vigente en materia de marisqueo, extracción de algas y cultivos marinos_.
 
-## Artículo 7. Adaptación de las medidas de gestión durante el desarrollo del plan
+### Artículo 7. Adaptación de las medidas de gestión durante el desarrollo del plan
 
 1. Las medidas de gestión aprobadas podrán ser adaptadas, mediante orden de la consejería, cuando se produzcan circunstancias de fuerza mayor o debidamente justificadas que dificultan o impidan el desarrollo previsto del plan de explotación. Entre estas circunstancias estarían, entre otras, los episodios de biotoxinas, la mortalidad de los recursos o cambios imprevistos en la clasificación de las zonas de producción.
 
@@ -399,7 +399,7 @@ La falta de resolución expresa determinará la autorización presunta de la act
 
 	c\) Informe favorable del servicio competente en materia de marisqueo.
 
-## Artículo 8. De los planes zonales
+### Artículo 8. De los planes zonales
 
 1. La Consellería del Mar podrá adoptar planes zonales, que contendrán medidas reguladoras de la actividad pesquera, aplicadas en una zona y en un período de tiempo determinado, que tenga por objeto, entre otros, nuevas especies, nuevas artes, modificación o uso diferente de lo establecido en los planes de gestión, así como nuevas medidas de gestión, incluyendo limitación de capturas, capacidad y esfuerzo pesquero, de acuerdo con lo establecido en artículo 7.2.a) de la _Ley 11/2008,[¹⁴] de 3 de diciembre, de pesca de Galicia_.
 
@@ -411,7 +411,7 @@ La falta de resolución expresa determinará la autorización presunta de la act
 
 5. La documentación complementaria se corresponde con la establecida en el artículo 15.2 de esta orden.
 
-## Artículo 9. Subsanación de la solicitud de los planes zonales
+### Artículo 9. Subsanación de la solicitud de los planes zonales
 
 1. La dirección general competente en materia de marisqueo, como órgano responsable de la tramitación de la solicitud, comprobará que reúnen todos los requisitos. En caso contrario, se les requerirá a las entidades para que, en un plazo de 10 días, remitan cuantos datos, documentos complementarios y aclaraciones se consideren necesarios para evaluar la solicitud del plan zonal. De no ser así, se considerará que desistieron de su petición tras resolución que deberá ser dictada en los términos previstos en el artículo 21 de la _Ley 39/2015,[¹²] de 1 de octubre, del procedimiento administrativo común de las administraciones públicas_.
 
@@ -429,13 +429,13 @@ La falta de resolución expresa determinará la autorización presunta de la act
 
 	e\) Plan financiero.
 
-## Artículo 10. Resolución
+### Artículo 10. Resolución
 
 1. La resolución de las solicitudes presentadas le corresponde a la persona titular de la Consellería del Mar.
 
 2. El plazo máximo para dictar y notificar la resolución será de dos meses, contados a partir de la fecha de entrada de la solicitud en el registro del órgano competente. Transcurrido el plazo sin resolución expresa, las personas interesadas podrán entender desestimadas sus solicitudes de conformidad con el dispuesto en el artículo 24.1 de la _Ley 39/2015,[¹²] de 1 de octubre_.
 
-## Artículo 11. De los planes de explotación
+### Artículo 11. De los planes de explotación
 
 1. Las entidades asociativas del sector, dirigirán las solicitudes a la dirección general competente en materia de marisqueo antes del 1 de noviembre.
 
@@ -445,7 +445,7 @@ La falta de resolución expresa determinará la autorización presunta de la act
 
 4. La documentación complementaria se corresponde con la establecida en el artículo 15.3 de esa orden.
 
-## Artículo 12. Subsanación de la solicitud
+### Artículo 12. Subsanación de la solicitud
 
 1. Las jefaturas territoriales, como órganos responsables de la tramitación de la solicitud, comprobarán que reúnen todos los requisitos. En caso contrario, se les requerirá a las entidades para que, en un plazo de 10 días, remitan cuantos datos, documentos complementarios y aclaraciones se consideren necesarias para evaluar el plan. Si así no lo hiciesen, se considerará que desistieron de su petición, previa resolución que deberá ser dictada en los términos previstos en el artículo 21 de la _Ley 39/2015,[¹²] de 1 de octubre, del procedimiento administrativo común de las administraciones públicas_.
 
@@ -461,11 +461,11 @@ La falta de resolución expresa determinará la autorización presunta de la act
 
 	d\) Plan financiero.
 
-## Artículo 13. Aprobación
+### Artículo 13. Aprobación
 
 Los planes de explotación serán aprobados mediante orden de la Consellería del Mar, con anterioridad al inicio del año.
 
-## Artículo 14. Presentación de solicitudes      {#arti14}
+### Artículo 14. Presentación de solicitudes      {#arti14}
 
 1. La solicitudes se presentarán obligatoriamente por medios electrónicos a través del formulario normalizado accesible desde la sede electrónica de la Xunta de Galicia, <https://sede.xunta.gal>.
 
@@ -473,7 +473,7 @@ Si alguna de las personas interesadas presentase la solicitud presencialmente, s
 
 Para la presentación de las solicitudes podrá emplearse cualquiera de los mecanismos de identificación y firma admitidas por la sede electrónica de la Xunta de Galicia, incluido el sistema de usuario y clave Chave365 (<https:/sede.xunta.gal/chave365>)
 
-## Artículo 15. Documentación complementaria necesaria para la tramitación del procedimiento
+### Artículo 15. Documentación complementaria necesaria para la tramitación del procedimiento
 
 1. Las persoas interesadas deberán adjuntar con la solicitud de desarrollo del plan de explotación en zonas de autorización (anexo III-PE 403D) o de planes específicos de explotación en zonas de libre marisqueo (anexo IV-PE 403E), los datos de la explotación anteriores necesarios para el seguimiento y gestión de los bancos, de acuerdo con las indicaciones del personal técnico de la consellería responsables de informar la solicitud. No será necesario el envío de estos datos siempre y cuando estén disponibles en la página de seguimiento técnico habilitada para la consulta de esta información.
 
@@ -489,7 +489,7 @@ Si alguna de las personas interesadas presenta la documentación complementaria 
 
 6. En el caso de que alguno de los documentos a presentar de forma electrónica superase el tamaño máximo establecido o tuviese un formato no admitido por la sede electrónica de la Xunta de Galicia, se permitirá la presentación de este de forma presencial dentro de los plazos previstos y en la forma indicada en el párrafo anterior. La información actualizada sobre el tamaño máximo y los formatos admitidos puede consultarse en la sede electrónica de la Xunta de Galicia.
 
-## Artículo 16. Notificaciones
+### Artículo 16. Notificaciones
 
 1. Las notificaciones de resoluciones y actos administrativos se practicarán solo por medios electrónicos, en los términos previstos en la normativa reguladora del procedimiento administrativo común.
 
@@ -501,7 +501,7 @@ Si alguna de las personas interesadas presenta la documentación complementaria 
 
 5. Si el envío de la notificación electrónica no fuese posible por temas técnicos, la Administración general y del sector público autonómico practicarán la notificación por los medios previstos en la normativa reguladora del procedimiento administrativo común.
 
-## Artículo 17. Trámites administrativos posteriores a la presentación de solicitudes
+### Artículo 17. Trámites administrativos posteriores a la presentación de solicitudes
 
 Todos los trámites administrativos que las personas interesadas deban realizar durante la tramitación de estos procedimientos deberán ser realizados electrónicamente accediendo a la Carpeta del ciudadano de la persona interesada disponible en la sede electrónica de la Xunta de Galicia.
 
