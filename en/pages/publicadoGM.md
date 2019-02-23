@@ -9,7 +9,7 @@
 
 | Plan General |Gm (version) | Fecha del post | actualización | planes | Publicados | Notas |
 | :--------- | :-----------: | :------------: | :-----------: | :----- | :--------: | :---: |
-| [2019PG][], [2018PE][], | [GM2019][] (1.3) | (2019-02-12) | (2018-02-19) | 246 | ABDFGHIJK | v2 
+| [2019PG][], [2019PE][], | [GM2019][] (1.3) | (2019-02-12) | (2018-02-19) | 246 | ABDFGHIJK | v2 
 | [2018PG][], [2018PE][], | [GM2018][] (1.3) | (2018-02-07) | (2018-02-16) | 234 | ABDFGHIJK | v2 |
 | [2017PG][], [2017PE][], | [GM2017][] (1.3) | (2017-03-08) | (2017-04-19) | 226 | ABDFGHIJK | V2 |
 | [2016][] | [GM2016][] (1.30U) | (23/03/2016) | (2016-06-22) | 205 | ABDFGHIJ | V2 |
@@ -102,7 +102,7 @@
 
 
 
- [2018PE]: https://goo.gl/SPqbUa
+ [2019PE]: https://goo.gl/SPqbUa
  [2019PG]: https://goo.gl/BJBdqe
  [2018PE]: https://goo.gl/XXVMqW
  [2018PG]: https://goo.gl/J2bJQz
