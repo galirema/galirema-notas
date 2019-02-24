@@ -4,7 +4,7 @@
 
 ### Para la gestión de los recursos costeros de Galicia
 
-`Vesión del post 1.1 (2019-02-12)`
+`Vesión del post 1.3 (2019-02-19)`
 
 * DOG Núm. 248 - Luns, 31 de decembro de 2018 - Páx. 54967
 
