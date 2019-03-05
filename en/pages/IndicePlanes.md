@@ -6,7 +6,7 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 
 | Plan General | DOG Año Num. | Fecha de publicación | GM - Draft | Wikia-Draft |BD Muestreos|
 | :----------- | :----------: | :------------------: | :--------: | :---------: | :--------- |
-| 2018 | [2018.248](https://goo.gl/4TcN5u)PX - [PE](https://goo.gl/b6bBvf) |(31/12/2018 . 27/12/2018) | [Pexma2019.1_1](draft-pexma2019-ES.md)| |pexma pespec plantidad KPOL BMSig|
+| [2019][]; [Wkia2019][] | [2018.248](https://goo.gl/4TcN5u)PX - [PE](https://goo.gl/b6bBvf) |(31/12/2018 . 27/12/2018) | [Pexma2019.1_1](draft-pexma2019-ES.md)| |pexma pespec plantidad KPOL BMSig|
 | [2018][]; [Wkia2018][]| [dog2017.246](https://goo.gl/K7QC8H)PX-[PE](https://goo.gl/a1skz7) | (29/12/2017) | [Pexma2018.1_3](draft-pexma2018-ES.md) | - |pexma pespec plantidad KPOL BMSig|
 | [2017][]; [Wkia2017][] | [dog2016.249](https://goo.gl/m8W7gR)PX-[PE](https://goo.gl/MNm08K) | (30/12/2016) |[borrador2017v1.30U](draft-pexma2017.md)| - |pexma pespec plantidad KPOL BMSig|
 | [2016][] | [dog2015.248](http://goo.gl/2djtGX) | (30/12/2015) | [borrador2016](draft-plangeneral2016.md) | - |pexma pespec plantidad KPOL BMSig|
@@ -39,6 +39,7 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 
 
 
+ [2019]: http://www.galiciamarineira.info/content/planes-general-y-espec%C3%ADficos-2019
  [2018]: http://www.galiciamarineira.info/content/planes-general-y-espec%C3%ADficos-2018
  [2017]: http://www.galiciamarineira.info/content/planes-general-y-espec%C3%ADficos-2017
  [2016]: http://www.galiciamarineira.info/content/plan-general-de-explotaci%C3%B3n-marisquera-2016
@@ -71,6 +72,8 @@ El presente listado de los planes anuales sigue un orden inverso a la anualidad 
 
  [dog2010.251]: http://www.xunta.gal/dog/Publicados/2010/20101231/Anuncio4604E_gl.html
 
+
+ [Wkia2019]: http://es.galirema.wikia.com/wiki/PexmaA2019
  [Wkia2018]: http://es.galirema.wikia.com/wiki/PexmaA2018
  [Wkia2017]: http://es.galirema.wikia.com/wiki/PexmaA2017
  [Wkia2013]: http://es.galirema.wikia.com/wiki/PexmaA2013
