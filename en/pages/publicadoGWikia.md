@@ -2,12 +2,12 @@
 
 * [Volver al índice de publicaciones](IndicePublicacion.md)
 
-## Wiki Galirema. Fichas Publicadas 649
+## Wiki Galirema. Fichas Publicadas 650
 
 1. [Wiki_Galirema](http://es.galirema.wikia.com/wiki/Wiki_Galirema) Total Fichas: 1
 1. [GaliremaInicio](http://es.galirema.wikia.com/wiki/GaliremaInicio) Total Fichas: 1
 1. [AbrevCadros](http://es.galirema.wikia.com/wiki/AbrevCadros) Total Fichas: 1
-1. [Plans_anuais](http://es.galirema.wikia.com/wiki/Plans_anuais) Total Fichas: 1 (645)
+1. [Plans_anuais](http://es.galirema.wikia.com/wiki/Plans_anuais) Total Fichas: 1 (647)
 	1. [Pexma2019](http://es.galirema.wikia.com/wiki/PexmaA2019) dog2018.248 (31/12/2018), dog2018.246 (27/12/2018); Total Fichas: __144__  
 	Menú AAUT: 47 Fichas  
 	Menú BESP: 50 Fichas  
