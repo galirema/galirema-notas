@@ -8,6 +8,16 @@
 1. [GaliremaInicio](http://es.galirema.wikia.com/wiki/GaliremaInicio) Total Fichas: 1
 1. [AbrevCadros](http://es.galirema.wikia.com/wiki/AbrevCadros) Total Fichas: 1
 1. [Plans_anuais](http://es.galirema.wikia.com/wiki/Plans_anuais) Total Fichas: 1 (503)
+	1. [Pexma2019](http://es.galirema.wikia.com/wiki/PexmaA2019) dog2018.248 (31/12/2018), dog2018.246 (27/12/2018); Total Fichas:  
+	Menú AAUT: 47 Fichas  
+	Menú BESP: 50 Fichas  
+	Menú DPER: 37 Fichas  
+	Menú GSOL: - Fichas  
+	Menú FEQD: - Fichas  
+	Menú HPEN: - Fichas  
+	Menú IALG: - Fichas  
+	Menú JANE: - Fichas
+	Menú KPOL: - Fichas
 	1. [Pexma2018](http://es.galirema.wikia.com/wiki/PexmaA2018) dog2017.246 (29/12/2017) Total Fichas: __244__  
 	Menú AAUT: 46 Fichas  
 	Menú BESP: 48 Fichas  
