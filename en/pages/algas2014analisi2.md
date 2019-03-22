@@ -544,7 +544,7 @@ Voltar ao [índice](#Índice)
 |algas vermellas|[SWR](#Algas_vermellas_SWR)|Algas vermellas||
 |[Porphyra spp][]|[FYS](#Porphyra)|Touca||
 |[Chondrus crispus][]|[IMS](#Chondrus)|Carrapicho||
-|[Gelidium spp][]|GEL|Carromeiro ||
+|[Gelidium spp][]|[GEL](#Gelidium)|Carromeiro ||
 
 Voltar ao [índice](#Índice)
 
