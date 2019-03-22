@@ -98,7 +98,7 @@ Voltar ao [índice](#Índice)
 Voltar ao índice do taxón [Xénero](#Xenero)
 
 
-### Algas Pardas SWB   {#apardas}
+### Algas Pardas SWB
 
 #### Ascophyllum
 
@@ -206,7 +206,7 @@ Voltar ao índice do taxón [Xénero](#Xenero)
 Voltar ao índice do taxón [Xénero](#Xenero)
 
 
-### Algas Verdes SWG   {#averdes}
+### Algas Verdes SWG
 
 #### Codium
 
@@ -529,7 +529,7 @@ Voltar ao [índice](#Índice)
 
 ## Estatística Pesqueira
 
-[pescadegalicia][] estatísticas de primeira venda nas lonxas de Galicia
+[pescadegalicia][] estatísticas de primeira venda nas lonxas de Galicia (actualizado 2019)
 
 |Identificada|3A_Code|Nome sep|Comentario|
 |------------|-------|--------|----------|
@@ -540,7 +540,7 @@ Voltar ao [índice](#Índice)
 |[Laminaria spp][]|[LAZ](#Laminaria)|Argazo||
 |argazo bravo|[LA5](#Saccorhiza)|Argazo bravo||
 |Codium tomentosum|[KJT](#Codium)|Fideo de mar||
-|leituga de mar|[SWG](#Ulva)|Leituga de mar||
+|Algas verdes|[SWG](#Algas_Verdes_SWG)|Algas verdes||
 |algas vermellas|[SWR](#Algas_vermellas_SWR)|Algas vermellas||
 |[Porphyra spp][]|[FYS](#Porphyra)|Touca||
 |[Chondrus crispus][]|[IMS](#Chondrus)|Carrapicho||
