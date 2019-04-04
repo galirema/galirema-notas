@@ -185,6 +185,9 @@ Las zonas de Costa en el plan general 2015.
 	+ __CL: Costa lucense__ con 28 planes de 4 tipos diferentes (13,27%). Como costa abierta los planes de percebe seguido de los específicos suma los 2/3 de los planes anuales, le siguen los planes de erizo los de autorización, ya que las rías de Cariño y de Cedeira tuvieron una gran actividad en los años de existencia del __Plan de explotación marisquera de Galicia (PEMARGAL)__ que fué el momento de la expansión de las autorizaciones marisqueras en Galicia.  
 
 
+[Volver a Indice de Informes](IndiceInformes.md)
+
+
 
  [html (es)]: http://goo.gl/bFymd8
  [CERR html (es)]: http://goo.gl/qL95Jc
