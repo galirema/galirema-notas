@@ -1,6 +1,6 @@
 # Informe sobre Plan General de Explotación Marisquera  2019
 
-## Inicio         {#Inicio}
+## Inicio
 
 + [M00](#M00): Ficha descriptiva de la Orden.
 + [M01](#M01): Tipos de plan aprobados en la Orden.
@@ -13,7 +13,7 @@
 
 
 
-## M00    {#M00}
+## M00
 
 ### Ficha descriptiva de la Orden.
 
@@ -41,7 +41,7 @@
 
  [volver al inicio](#Inicio)
 
-## M01     {#M01}
+## M01
 
 ### Tipos de planes aprobados en las Ordenes.
 
@@ -88,7 +88,7 @@
 
  [volver al inicio](#Inicio)
 
-## M02      {#M02}
+## M02
 
 ### Nivel de colaboración entre entidades.
 
@@ -109,7 +109,7 @@
 
  [volver al inicio](#Inicio)
 
-## M03       {#M03}
+## M03
 
 ### Especies objetivo de captura
 
@@ -164,7 +164,7 @@
 
  [volver al inicio](#Inicio)
 
-## M04        {#M04}
+## M04
 
 ### Modalidades de captura
 
@@ -201,7 +201,7 @@
 
  [volver al inicio](#Inicio)
 
-## M05      {#M05}
+## M05
 
 ### Duración da actividad y época de captura
 
@@ -210,7 +210,7 @@
 
  [volver al inicio](#Inicio)
 
-## M06          {#M06}
+## M06
 
 ### Entidades participantes
 
@@ -236,7 +236,7 @@ El numero de planes promovidos por entidad es un índice que nos informa sobre l
 
  [volver al inicio](#Inicio)
 
-## M07         {#M07}
+## M07
 
 ### Las zonas de la costa en la orden
 
@@ -309,122 +309,117 @@ El numero de planes promovidos por entidad es un índice que nos informa sobre l
 
 
 
-*[CTS]: Ameixa babosa
-*[ULO]: Cornecha
-*[VNA]: Ameixa bicuda
-*[CTG]: Ameixa fina
-*[CLJ]: Ameixa xaponesa
-*[VNR]: Ameixa rubia
-*[KLK]: Ameixón
-*[GKL]: Rabioso
-*[UTL]: Arola
-*[COC]: Berberecho
-*[LVC]: Saltón
-*[AKJ]: Berberecho bravo
-*[SVE]: Chirla
-*[DON]: Cadelucha
-*[KTT]: Marolo
-*[VEV]: Carneiro
-*[RAE]: Longueirón vello
-*[EQI]: Longueirón
-*[EQK]: Navalla
-*[OYF]: Ostra
-*[OYG]: Ostra rizada
-*[DSX]: Reló
-*[SCE]: Vieira
-*[QSC]: Voandeira
-*[VSC]: Zamburiña
-*[SQR]: Lura
-*[CTC]: Choco
-*[EJE]: Choquiño
-*[OCC]: Polbo
-*[OUW]: Puntillas
-*[PEE]: Caramuxos
-*[PEE]: Caramuxos
-*[LPZ]: Lapas
-*[HLT]: Peneira
-*[CRE]: Boi
-*[CPR]: Camarón común
-*[CRG]: Cangrexo común
-*[KEF]: Cangrexo real
-*[JCX]: Centola
-*[NEP]: Cigala
-*[SLO]: Lagosta
-*[LBE]: Lumbrigante
-*[LIO]: Nécora
-*[PCB]: Percebe
-*[SCY]: Santiaguiño
-*[URM]: Ourizo
-*[URS]: Ourizo comestible
-*[KTG]: Berberecho birollo
-*[FNT]: Cornecho truncado
-*[BOY]: Cornecho espinoso
-*[NOW]: Anémona
-*[SWX]: Algas
-*[SWB]: Algas Pardas
-*[ASN]: Buche bravo
-*[UCU]: Bocho
-*[FUU]: Bocho
-*[F1S]: Bocho
-*[FUV]: Bocho
-*[P1C]: Pelvetia canaliculata
-*[HLZ]: Correa
-*[B1B]: Bifurcaria
-*[C1B]: Cystoseira baccata
-*[S1M]: sargazo xaponés
-*[UDP]: Grelo de mar
-*[LAZ]: Golfos
-*[LAH]: Canouco
-*[L1O]: Argazo
-*[LQX]: Cañoto
-*[LQD]: Golfos
-*[LQX]: Cañoto
-*[LA5]: Argazo bravo
-*[SWG]: Algas verdes
-*[KJT]: Fideo de mar
-*[KJT]: Fideo de mar
-*[UVU]: Leituga de mar
-*[UVQ]: Leituga de mar
-*[SWR]: Algas vermellas
-*[FYS]: Touca
-*[OFH]: Touca
-*[NLO]: Espagueti de mar
-*[RHP]: Dulse
-*[O1P]: Osmundea
-*[GEL]: marullo
-*[GEQ]: marullo
-*[GEQ]: Xerés
-*[P2C]: Pterocladiella
-*[SWP]: Dilsea
-*[D1C]: Dumontia
-*[GJA]: Espuela de gallo
-*[GJE]: Rastrillo de mar
-*[IMS]: Carrapucho
-*[GHG]: Gigartina
-*[GHG]: Gigartina
-*[MVT]: Carrapicho
-*[MVT]: Carrapicho
-*[GLS]: Gracilarias
-*[GLS]: Gracilarias
-*[G1T]: Grateloupia
-
-*[ICC]: Conguito
-*[IOD]: Patulate
-
-*[WBX]: carallo de mar
-
-*[L1A]: Lomentaria
-
-*[ARM]: Mangón, miñoca de area
-*[DIN]: Miñoca de tubo, casulo
-*[NER]: Miñoca
-*[UBI]: Gabián
-*[WOR]: Bicho
-
-*[KII]: Taborra
-*[G1M]: Gracilaria multipartita
-*[EOW]: Verdello claro
-*[G1O]: Gastroclonium ovatum
+* [CTS]: Ameixa babosa
+* [ULO]: Cornecha
+* [VNA]: Ameixa bicuda
+* [CTG]: Ameixa fina
+* [CLJ]: Ameixa xaponesa
+* [VNR]: Ameixa rubia
+* [KLK]: Ameixón
+* [GKL]: Rabioso
+* [UTL]: Arola
+* [COC]: Berberecho
+* [LVC]: Saltón
+* [AKJ]: Berberecho bravo
+* [SVE]: Chirla
+* [DON]: Cadelucha
+* [KTT]: Marolo
+* [VEV]: Carneiro
+* [RAE]: Longueirón vello
+* [EQI]: Longueirón
+* [EQK]: Navalla
+* [OYF]: Ostra
+* [OYG]: Ostra rizada
+* [DSX]: Reló
+* [SCE]: Vieira
+* [QSC]: Voandeira
+* [VSC]: Zamburiña
+* [SQR]: Lura
+* [CTC]: Choco
+* [EJE]: Choquiño
+* [OCC]: Polbo
+* [OUW]: Puntillas
+* [PEE]: Caramuxos
+* [PEE]: Caramuxos
+* [LPZ]: Lapas
+* [HLT]: Peneira
+* [CRE]: Boi
+* [CPR]: Camarón común
+* [CRG]: Cangrexo común
+* [KEF]: Cangrexo real
+* [JCX]: Centola
+* [NEP]: Cigala
+* [SLO]: Lagosta
+* [LBE]: Lumbrigante
+* [LIO]: Nécora
+* [PCB]: Percebe
+* [SCY]: Santiaguiño
+* [URM]: Ourizo
+* [URS]: Ourizo comestible
+* [KTG]: Berberecho birollo
+* [FNT]: Cornecho truncado
+* [BOY]: Cornecho espinoso
+* [NOW]: Anémona
+* [SWX]: Algas
+* [SWB]: Algas Pardas
+* [ASN]: Buche bravo
+* [UCU]: Bocho
+* [FUU]: Bocho
+* [F1S]: Bocho
+* [FUV]: Bocho
+* [P1C]: Pelvetia canaliculata
+* [HLZ]: Correa
+* [B1B]: Bifurcaria
+* [C1B]: Cystoseira baccata
+* [S1M]: sargazo xaponés
+* [UDP]: Grelo de mar
+* [LAZ]: Golfos
+* [LAH]: Canouco
+* [L1O]: Argazo
+* [LQX]: Cañoto
+* [LQD]: Golfos
+* [LQX]: Cañoto
+* [LA5]: Argazo bravo
+* [SWG]: Algas verdes
+* [KJT]: Fideo de mar
+* [KJT]: Fideo de mar
+* [UVU]: Leituga de mar
+* [UVQ]: Leituga de mar
+* [SWR]: Algas vermellas
+* [FYS]: Touca
+* [OFH]: Touca
+* [NLO]: Espagueti de mar
+* [RHP]: Dulse
+* [O1P]: Osmundea
+* [GEL]: marullo
+* [GEQ]: marullo
+* [GEQ]: Xerés
+* [P2C]: Pterocladiella
+* [SWP]: Dilsea
+* [D1C]: Dumontia
+* [GJA]: Espuela de gallo
+* [GJE]: Rastrillo de mar
+* [IMS]: Carrapucho
+* [GHG]: Gigartina
+* [GHG]: Gigartina
+* [MVT]: Carrapicho
+* [MVT]: Carrapicho
+* [GLS]: Gracilarias
+* [GLS]: Gracilarias
+* [G1T]: Grateloupia
+* [ICC]: Conguito
+* [IOD]: Patulate
+* [WBX]: carallo de mar
+* [L1A]: Lomentaria
+* [ARM]: Mangón, miñoca de area
+* [DIN]: Miñoca de tubo, casulo
+* [NER]: Miñoca
+* [UBI]: Gabián
+* [WOR]: Bicho
+* [KII]: Taborra
+* [G1M]: Gracilaria multipartita
+* [EOW]: Verdello claro
+* [G1O]: Gastroclonium ovatum
 
 
 
