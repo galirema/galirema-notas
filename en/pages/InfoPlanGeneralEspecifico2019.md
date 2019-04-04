@@ -401,25 +401,25 @@ El numero de planes promovidos por entidad es un índice que nos informa sobre l
 * [GJE]: Rastrillo de mar
 * [IMS]: Carrapucho
 * [GHG]: Gigartina
-* [GHG]: Gigartina
-* [MVT]: Carrapicho
-* [MVT]: Carrapicho
-* [GLS]: Gracilarias
-* [GLS]: Gracilarias
-* [G1T]: Grateloupia
-* [ICC]: Conguito
-* [IOD]: Patulate
-* [WBX]: carallo de mar
-* [L1A]: Lomentaria
-* [ARM]: Mangón, miñoca de area
-* [DIN]: Miñoca de tubo, casulo
-* [NER]: Miñoca
-* [UBI]: Gabián
-* [WOR]: Bicho
-* [KII]: Taborra
-* [G1M]: Gracilaria multipartita
-* [EOW]: Verdello claro
-* [G1O]: Gastroclonium ovatum
+* __GHG__: Gigartina
+* __MVT__: Carrapicho
+* __MVT__: Carrapicho
+* __GLS__: Gracilarias
+* __GLS__: Gracilarias
+* __G1T__: Grateloupia
+* __ICC__: Conguito
+* __IOD__: Patulate
+* __WBX__: carallo de mar
+* __L1A__: Lomentaria
+* __ARM__: Mangón, miñoca de area
+* __DIN__: Miñoca de tubo, casulo
+* __NER__: Miñoca
+* __UBI__: Gabián
+* __WOR__: Bicho
+* __KII__: Taborra
+* __G1M__: Gracilaria multipartita
+* __EOW__: Verdello claro
+* __G1O__: Gastroclonium ovatum
 
 
 
