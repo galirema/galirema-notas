@@ -240,30 +240,23 @@ El numero de planes promovidos por entidad es un índice que nos informa sobre l
 
 ### Las zonas de la costa en la orden
 
-* La administración reconoce 9 zonas administrativas en la costa de Galicia:
-	* Zona I Ría de Vigo
-	* Zona II Ría de Pontevedra
-	* Zona III Ría de Arousa
-	* Zona IV Ría de muros-Noia
-	* Zona V Seno de Corcubión
-	* Zona VI Costa da Morte
-	* Zona VII Golfo Ártabro
-	* Zona VIII Cedeira
-	* Zona IX A Mariña
-
- 
+* La administración reconoce 9 zonas administrativas en la costa de Galicia.
 
 * El sistema de información geográfica que reúne la información digitalizada de los recursos costeros (__Sigremar__) las simplifica a 7 reuniendo las zonas VIII y IX por un lado y las zonas V y VI por otro.
-	* VI- Vigo		19,11%
-	* PO- Pontevedra	 7,32%
-	* AR- Arousa		23,58%
-	* MN- Muros-Noia	 6,91%
-	* CM- Costa da Morte	13,41%
-	* CF- Coruña-Ferrol	13,01%
-	* CL- Costa lucense	14,23%
 
-* Para la realización de los informes utiliamos la clasificación del __Sigremar__ a la que hemos añadido una mas para integrar los planes de explotación que abarcan toda la costa de Galicia.
-	* GL- Galicia		 2,44%
+* Para la realización de los informes utilizamos la clasificación del __Sigremar__ a la que hemos añadido una mas para integrar los planes de explotación que abarcan toda la costa de Galicia.
+
+|Zonas Administrativas|Zonas del SIGREMAR| % de planes anuales|
+|---------------------|------------------|-------------------:|
+|__Zona I__ Ría de Vigo|__VI-__ Vigo|19,11%|
+|__Zona II__ Ría de Pontevedra|__PO-__ Pontevedra|7,32%|
+|__Zona III__ Ría de Arousa|__AR-__ Arousa|23,58%|
+|__Zona IV__ Ría de muros-Noia|__MN-__ Muros-Noia|6,91%|
+|__Zona V__ Seno de Corcubión / __Zona VI__ Costa da Morte|__CM-__ Costa da Morte|13,41%|
+|__Zona VII__ Golfo Ártabro|__CF-__ Coruña-Ferrol|13,01%|
+|__Zona VIII__ Cedeira / __Zona IX__ A Mariña|__CL-__ Costa lucense|14,23%|
+| |__GL-__ Galicia|2,44%|
+
 
 * M07-04 La relación entre el número de entidades y número de planes aprobados en cada zona.   
 ![Entidades y planes anuales por zona de costa 2019](https://lh3.googleusercontent.com/9oVheIzWWykZbYpx_gaGYYwdP3UtSFQPNEHfaMYPjW9eh8bmTXpk_q3_4DAcmbQp1xfUYUhU7THBwUAL1-M7pVhPwikpj7AEepoOySbeRP5GTkI84uKtUgmoTnEUvC3U-nyt2SI2pb_Gs6afoMfrxFwIuEZnQwL90UK1tgWGb98HtCbZlblkVIlYpiJ3ZYRBp9rO1fB291Y6xFp8YHJvs_rIymwwXVdo-m5NH-KYnJqCmJiK1qM6AYQo95idscxSt7ItHhX-OTx3Ls4Ijk0QImMmgAlgP-5YaPXM-c0mU-3EMsE-E0hgx3SpfFA_uNnCgLPqf7DZMJMIR3fsa1pBTdJn2qarRZKYWUqOqPwwcBAsMsbkrdQC_JqkR3duMPhKrlMEpJ1A96P13q8Onf0CX5wQ8gj2Bz9Yws0V7QmE1XBmfNLiEM1fI5r5uCyMVqQIZgcOYyztzV5Qa_YZp0q1qdlcf03sTuU025jd3bx2p5dUj-Ccu5XFHzF-BDHEgGJnv1wpI-H_ejcd9tKMe4XuaJcVuGX2o3gks0ZKy0onXz_UP7hv0S45Ci5BHlWWWci3wCLYafyVvoPXu6A_AT7zBUtdV8gj5QxMWMSpJ2rYJr8slGcjda3Z3-ULRmq6b6UuCs4Xyv00Cbx6szv-Sr5PVuesr22Ek8hQrgdTxmKUbIU5953IO1XTVSS-MkUAbVVyJn-eZD56R7D40d2yoJNfdrsp=w709-h426-no "M07-04. Plan General y Específicos 2019. Entidades y planes anuales por zona de costa")
