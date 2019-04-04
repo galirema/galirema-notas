@@ -309,116 +309,128 @@ El numero de planes promovidos por entidad es un índice que nos informa sobre l
 
 
 
-* __CTS__: Ameixa babosa
-* __ULO__: Cornecha
-* __VNA__: Ameixa bicuda
-* __CTG__: Ameixa fina
-* __CLJ__: Ameixa xaponesa
-* __VNR__: Ameixa rubia
-* __KLK__: Ameixón
-* __GKL__: Rabioso
-* __UTL__: Arola
-* __COC__: Berberecho
-* __LVC__: Saltón
+
 * __AKJ__: Berberecho bravo
-* __SVE__: Chirla
+* __CLJ__: Ameixa xaponesa
+* __COC__: Berberecho
+* __CTG__: Ameixa fina
+* __CTS__: Ameixa babosa
 * __DON__: Cadelucha
-* __KTT__: Marolo
-* __VEV__: Carneiro
-* __RAE__: Longueirón vello
+* __DSX__: Reló
 * __EQI__: Longueirón
 * __EQK__: Navalla
+* __GKL__: Rabioso
+* __KLK__: Ameixón
+* __KTG__: Berberecho birollo
+* __KTT__: Marolo
+* __LVC__: Saltón
 * __OYF__: Ostra
 * __OYG__: Ostra rizada
-* __DSX__: Reló
-* __SCE__: Vieira
 * __QSC__: Voandeira
+* __RAE__: Longueirón vello
+* __SCE__: Vieira
+* __SVE__: Chirla
+* __ULO__: Cornecha
+* __UTL__: Arola
+* __VEV__: Carneiro
+* __VNA__: Ameixa bicuda
+* __VNR__: Ameixa rubia
 * __VSC__: Zamburiña
-* __SQR__: Lura
+
+
 * __CTC__: Choco
 * __EJE__: Choquiño
 * __OCC__: Polbo
 * __OUW__: Puntillas
-* __PEE__: Caramuxos
-* __LPZ__: Lapas
+* __SQR__: Lura
+
+
+* __BOY__: Cornecho espinoso
+* __FNT__: Cornecho truncado
 * __HLT__: Peneira
-* __CRE__: Boi
+* __LPZ__: Lapas
+* __PEE__: Caramuxos
+
+
 * __CPR__: Camarón común
+* __CRE__: Boi
 * __CRG__: Cangrexo común
-* __KEF__: Cangrexo real
 * __JCX__: Centola
-* __NEP__: Cigala
-* __SLO__: Lagosta
+* __KEF__: Cangrexo real
 * __LBE__: Lumbrigante
 * __LIO__: Nécora
+* __NEP__: Cigala
 * __PCB__: Percebe
 * __SCY__: Santiaguiño
+* __SLO__: Lagosta
+
+
 * __URM__: Ourizo
 * __URS__: Ourizo comestible
-* __KTG__: Berberecho birollo
-* __FNT__: Cornecho truncado
-* __BOY__: Cornecho espinoso
+
+
 * __NOW__: Anémona
-* __SWX__: Algas
-* __SWB__: Algas Pardas
+
+
 * __ASN__: Buche bravo
-* __UCU__: Bocho
-* __FUU__: Bocho
-* __F1S__: Bocho
-* __FUV__: Bocho
-* __P1C__: Pelvetia canaliculata
-* __HLZ__: Correa
 * __B1B__: Bifurcaria
 * __C1B__: Cystoseira baccata
-* __S1M__: sargazo xaponés
-* __UDP__: Grelo de mar
-* __LAZ__: Golfos
-* __LAH__: Canouco
-* __L1O__: Argazo
-* __LQX__: Cañoto
-* __LQD__: Golfos
-* [LQX]: Cañoto
-* [LA5]: Argazo bravo
-* [SWG]: Algas verdes
-* [KJT]: Fideo de mar
-* [KJT]: Fideo de mar
-* [UVU]: Leituga de mar
-* [UVQ]: Leituga de mar
-* [SWR]: Algas vermellas
-* [FYS]: Touca
-* [OFH]: Touca
-* [NLO]: Espagueti de mar
-* [RHP]: Dulse
-* [O1P]: Osmundea
-* [GEL]: marullo
-* [GEQ]: marullo
-* [GEQ]: Xerés
-* [P2C]: Pterocladiella
-* [SWP]: Dilsea
-* [D1C]: Dumontia
-* [GJA]: Espuela de gallo
-* [GJE]: Rastrillo de mar
-* [IMS]: Carrapucho
-* [GHG]: Gigartina
-* __GHG__: Gigartina
-* __MVT__: Carrapicho
-* __MVT__: Carrapicho
-* __GLS__: Gracilarias
-* __GLS__: Gracilarias
+* __D1C__: Dumontia
+* __EOW__: Verdello claro
+* __F1S__: Bocho
+* __FUU__: Bocho
+* __FUV__: Bocho
+* __FYS__: Touca
+* __G1M__: Gracilaria multipartita
+* __G1O__: Gastroclonium ovatum
 * __G1T__: Grateloupia
+* __GEL__: marullo
+* __GEQ__: marullo
+* __GEQ__: Xerés
+* __GHG__: Gigartina
+* __GHG__: Gigartina
+* __GJA__: Espuela de gallo
+* __GJE__: Rastrillo de mar
+* __GLS__: Gracilarias
+* __GLS__: Gracilarias
+* __HLZ__: Correa
 * __ICC__: Conguito
+* __IMS__: Carrapucho
 * __IOD__: Patulate
-* __WBX__: carallo de mar
+* __KII__: Taborra
+* __KJT__: Fideo de mar
 * __L1A__: Lomentaria
+* __L1O__: Argazo
+* __LA5__: Argazo bravo
+* __LAH__: Canouco
+* __LAZ__: Golfos
+* __LQD__: Golfos
+* __LQX__: Cañoto
+* __LQX__: Cañoto
+* __MVT__: Carrapicho
+* __MVT__: Carrapicho
+* __NLO__: Espagueti de mar
+* __O1P__: Osmundea
+* __OFH__: Touca
+* __P1C__: Pelvetia canaliculata
+* __P2C__: Pterocladiella
+* __RHP__: Dulse
+* __S1M__: sargazo xaponés
+* __SWB__: Algas Pardas
+* __SWG__: Algas verdes
+* __SWP__: Dilsea
+* __SWR__: Algas vermellas
+* __SWX__: Algas
+* __UCU__: Bocho
+* __UDP__: Grelo de mar
+* __UVQ__: Leituga de mar
+* __UVU__: Leituga de mar
+* __WBX__: carallo de mar
+
+
 * __ARM__: Mangón, miñoca de area
 * __DIN__: Miñoca de tubo, casulo
 * __NER__: Miñoca
 * __UBI__: Gabián
 * __WOR__: Bicho
-* __KII__: Taborra
-* __G1M__: Gracilaria multipartita
-* __EOW__: Verdello claro
-* __G1O__: Gastroclonium ovatum
-
-
 
