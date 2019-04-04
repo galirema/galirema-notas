@@ -321,63 +321,62 @@ El numero de planes promovidos por entidad es un índice que nos informa sobre l
 * __COC__: Berberecho
 * __LVC__: Saltón
 * __AKJ__: Berberecho bravo
-* [SVE]: Chirla
-* [DON]: Cadelucha
-* [KTT]: Marolo
-* [VEV]: Carneiro
-* [RAE]: Longueirón vello
-* [EQI]: Longueirón
-* [EQK]: Navalla
-* [OYF]: Ostra
-* [OYG]: Ostra rizada
-* [DSX]: Reló
-* [SCE]: Vieira
-* [QSC]: Voandeira
-* [VSC]: Zamburiña
-* [SQR]: Lura
-* [CTC]: Choco
-* [EJE]: Choquiño
-* [OCC]: Polbo
-* [OUW]: Puntillas
-* [PEE]: Caramuxos
-* [PEE]: Caramuxos
-* [LPZ]: Lapas
-* [HLT]: Peneira
-* [CRE]: Boi
-* [CPR]: Camarón común
-* [CRG]: Cangrexo común
-* [KEF]: Cangrexo real
-* [JCX]: Centola
-* [NEP]: Cigala
-* [SLO]: Lagosta
-* [LBE]: Lumbrigante
-* [LIO]: Nécora
-* [PCB]: Percebe
-* [SCY]: Santiaguiño
-* [URM]: Ourizo
-* [URS]: Ourizo comestible
-* [KTG]: Berberecho birollo
-* [FNT]: Cornecho truncado
-* [BOY]: Cornecho espinoso
-* [NOW]: Anémona
-* [SWX]: Algas
-* [SWB]: Algas Pardas
-* [ASN]: Buche bravo
-* [UCU]: Bocho
-* [FUU]: Bocho
-* [F1S]: Bocho
-* [FUV]: Bocho
-* [P1C]: Pelvetia canaliculata
-* [HLZ]: Correa
-* [B1B]: Bifurcaria
-* [C1B]: Cystoseira baccata
-* [S1M]: sargazo xaponés
-* [UDP]: Grelo de mar
-* [LAZ]: Golfos
-* [LAH]: Canouco
-* [L1O]: Argazo
-* [LQX]: Cañoto
-* [LQD]: Golfos
+* __SVE__: Chirla
+* __DON__: Cadelucha
+* __KTT__: Marolo
+* __VEV__: Carneiro
+* __RAE__: Longueirón vello
+* __EQI__: Longueirón
+* __EQK__: Navalla
+* __OYF__: Ostra
+* __OYG__: Ostra rizada
+* __DSX__: Reló
+* __SCE__: Vieira
+* __QSC__: Voandeira
+* __VSC__: Zamburiña
+* __SQR__: Lura
+* __CTC__: Choco
+* __EJE__: Choquiño
+* __OCC__: Polbo
+* __OUW__: Puntillas
+* __PEE__: Caramuxos
+* __LPZ__: Lapas
+* __HLT__: Peneira
+* __CRE__: Boi
+* __CPR__: Camarón común
+* __CRG__: Cangrexo común
+* __KEF__: Cangrexo real
+* __JCX__: Centola
+* __NEP__: Cigala
+* __SLO__: Lagosta
+* __LBE__: Lumbrigante
+* __LIO__: Nécora
+* __PCB__: Percebe
+* __SCY__: Santiaguiño
+* __URM__: Ourizo
+* __URS__: Ourizo comestible
+* __KTG__: Berberecho birollo
+* __FNT__: Cornecho truncado
+* __BOY__: Cornecho espinoso
+* __NOW__: Anémona
+* __SWX__: Algas
+* __SWB__: Algas Pardas
+* __ASN__: Buche bravo
+* __UCU__: Bocho
+* __FUU__: Bocho
+* __F1S__: Bocho
+* __FUV__: Bocho
+* __P1C__: Pelvetia canaliculata
+* __HLZ__: Correa
+* __B1B__: Bifurcaria
+* __C1B__: Cystoseira baccata
+* __S1M__: sargazo xaponés
+* __UDP__: Grelo de mar
+* __LAZ__: Golfos
+* __LAH__: Canouco
+* __L1O__: Argazo
+* __LQX__: Cañoto
+* __LQD__: Golfos
 * [LQX]: Cañoto
 * [LA5]: Argazo bravo
 * [SWG]: Algas verdes
