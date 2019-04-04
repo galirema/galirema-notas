@@ -309,7 +309,7 @@ El numero de planes promovidos por entidad es un índice que nos informa sobre l
 
 
 
-
+-- Bivalvos --
 * __AKJ__: Berberecho bravo
 * __CLJ__: Ameixa xaponesa
 * __COC__: Berberecho
