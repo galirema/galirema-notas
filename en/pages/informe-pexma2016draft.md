@@ -162,6 +162,11 @@ SELECT "costa", "tipoCode", COUNT("idPlanAnual") FROM "pexma2016" GROUP BY "cost
 
 -----
 
+
+[Volver a Indice de Informes](IndiceInformes.md)
+
+
+
 ## Datos de los gráficos
 
 + M01-01
@@ -316,6 +321,8 @@ SELECT "costa", "tipoCode", COUNT("idPlanAnual") FROM "pexma2016" GROUP BY "cost
 |GL| 0| 0| 0| 0| 0| 0| 5| 0|
 
 
+
+[Volver a Indice de Informes](IndiceInformes.md)
 
 
 
