@@ -71,15 +71,15 @@
 
 |Orden|Tipo de plan|num. planes|media desde 2000|min plan|max plan|standard deviation|años con plan|
 |-----|------------|----------:|---------------:|-------:|-------:|-----------------:|------------:|
-|PG art. 2|AAUT| 47|_43.4_|34|49|4.4177|20|
-|PG art. 3|BESP|50|_48.55_|41|59|4.7625|20|
-|PE art. 2|DPER|__37__|_32.45_|28|__37__|2.3946|20|
-|PE art. 4|FEQD|__24__|_19.4_|17|__24__|2.2337|20|
-|PE art. 3|GSOL|25|27.3|24|35|2.9753|20|
-|PE art. 5|HPEN|__3__|5.06|__3__|7|0.8993|17|
-|PE art. 6|IALG|24|_17.75_|10|25|4.2904|20|
-|PE art. 7|JANE|__15__|_8.57_|4|__15__|3.5989|7|
-|PE art. 8|KPOL|21|_19.57_|14|24|3.0310|14|
+|PG art_2|AAUT| 47|_43.4_|34|49|4.4177|20|
+|PG art_3|BESP|50|_48.55_|41|59|4.7625|20|
+|PE art_2|DPER|__37__|_32.45_|28|__37__|2.3946|20|
+|PE art_4|FEQD|__24__|_19.4_|17|__24__|2.2337|20|
+|PE art_3|GSOL|25|27.3|24|35|2.9753|20|
+|PE art_5|HPEN|__3__|5.06|__3__|7|0.8993|17|
+|PE art_6|IALG|24|_17.75_|10|25|4.2904|20|
+|PE art_7|JANE|__15__|_8.57_|4|__15__|3.5989|7|
+|PE art_8|KPOL|21|_19.57_|14|24|3.0310|14|
 
 * En esta tabla podemos observar que:
 	* En la mayoría de los tipos el número de planes aprobados en 2019 es superior a la media del periodo 2000-2019, excepto para los planes de solénidos (GSOL) y de oreja de mar (HPEN).
