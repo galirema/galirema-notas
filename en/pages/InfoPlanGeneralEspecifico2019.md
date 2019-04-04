@@ -309,18 +309,18 @@ El numero de planes promovidos por entidad es un índice que nos informa sobre l
 
 
 
-* [CTS]: Ameixa babosa
-* [ULO]: Cornecha
-* [VNA]: Ameixa bicuda
-* [CTG]: Ameixa fina
-* [CLJ]: Ameixa xaponesa
-* [VNR]: Ameixa rubia
-* [KLK]: Ameixón
-* [GKL]: Rabioso
-* [UTL]: Arola
-* [COC]: Berberecho
-* [LVC]: Saltón
-* [AKJ]: Berberecho bravo
+* __CTS__: Ameixa babosa
+* __ULO__: Cornecha
+* __VNA__: Ameixa bicuda
+* __CTG__: Ameixa fina
+* __CLJ__: Ameixa xaponesa
+* __VNR__: Ameixa rubia
+* __KLK__: Ameixón
+* __GKL__: Rabioso
+* __UTL__: Arola
+* __COC__: Berberecho
+* __LVC__: Saltón
+* __AKJ__: Berberecho bravo
 * [SVE]: Chirla
 * [DON]: Cadelucha
 * [KTT]: Marolo
