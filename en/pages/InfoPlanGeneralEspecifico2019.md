@@ -337,21 +337,21 @@ El numero de planes promovidos por entidad es un índice que nos informa sobre l
 * __VNR__: Ameixa rubia
 * __VSC__: Zamburiña
 
-
+-- Cefalópodos --
 * __CTC__: Choco
 * __EJE__: Choquiño
 * __OCC__: Polbo
 * __OUW__: Puntillas
 * __SQR__: Lura
 
-
+-- Gasterópodos --
 * __BOY__: Cornecho espinoso
 * __FNT__: Cornecho truncado
 * __HLT__: Peneira
 * __LPZ__: Lapas
 * __PEE__: Caramuxos
 
-
+-- Crustaceos --
 * __CPR__: Camarón común
 * __CRE__: Boi
 * __CRG__: Cangrexo común
@@ -364,14 +364,14 @@ El numero de planes promovidos por entidad es un índice que nos informa sobre l
 * __SCY__: Santiaguiño
 * __SLO__: Lagosta
 
-
+-- Equinodermos --
 * __URM__: Ourizo
 * __URS__: Ourizo comestible
 
-
+-- Anemonas --
 * __NOW__: Anémona
 
-
+-- Algas --
 * __ASN__: Buche bravo
 * __B1B__: Bifurcaria
 * __C1B__: Cystoseira baccata
@@ -427,7 +427,7 @@ El numero de planes promovidos por entidad es un índice que nos informa sobre l
 * __UVU__: Leituga de mar
 * __WBX__: carallo de mar
 
-
+-- Poliquetos --
 * __ARM__: Mangón, miñoca de area
 * __DIN__: Miñoca de tubo, casulo
 * __NER__: Miñoca
