@@ -169,7 +169,8 @@
 	K) "_Mergullo en Apnea, Mergullo Suministrado Aire desde Superficie, A pé_" (K: MA, MSAS, A pie)  
 	
 
-* M04-00x Modalidades de captura  
+* M04-00x Modalidades de captura
+
 ![Planes por modalidad de captura 2019](https://lh3.googleusercontent.com/l8dfDnOoDR9mW_TqyytVH4mRLlcbGd-pe_303h3jk4YKQI4Hf71wo2-Pk9hlGUswjyUd3oCihPiTuAK3Nf9_OzcUbpt8QcKzAr9F1XNrySsHuy0efFKjp6Rbo4QU3q6FJCDbOob5p6II9qwShtFEbGWNa5M6rxXH9_2N1Y9CqHm6Wz_yOGp9WPeZEPDD0ZT74w9dgyqGkATK7k_oNd8x_qmZjuojDy7971dTlngv1W1eNNkEw1qD7QNOStdVUxytIFhYAGp4ZwbLTLml4_bej6M3pNrEfwNdt3MiwuzcsaFmogNdIlrswFzJljLNbM1Il6v_2pRUyCgypXiYzVTxgjxGzcAQU0Wk_AerycevnTUuGhmLqzXD7q5ygnBAhhcf2_mxjWm50zB1XWeJBvPC-BWhzUkbbvw7qIPPxJNL1hXwtnzCZJnTOOM_OeMt_zM8CX8bWLnGOSJnq95nXJAXAUAz2n3OWmAD9zRY5uOKw6qOjso1C5T_6OrjAZektn6p4QhayXqRuuxNhoCe00lRa-WJ8_uYxaEDyEsWLikhVy8Pvq6UZ6RUETEGnmPgCiV6R29eIT9eo23TvMRyLrxU8FwD1okhd4vEX0FqLLAFA63bmdcyl8O9L3AR8Ipgbpuai3ypTdHguxSEn8pRIp0_Ct8a-qKBfyaaw1iRm69Uypc6SYOYnJfRIivPOEHaxxxkeQGq3oMpvsiSm2ag3zYeIOkf=w700-h500-no "M04-00x. Plan General y Específicos 2019. Planes por modalidad de captura")
 
 * Para facilitar el análisis del las modalidades de captura hacemos un reagrupmiento de las mismas:
@@ -178,7 +179,8 @@
 	* Utilización de técnicas buceo y apnea (F: MSAS, G: MA, H: MA, MSAS,) __27,64%__ de loa planes.
 	* combinan modalidades de buceo con otra modalidad tradicional del marisqueo (I: MA, MSAS, Bicheiro, J: A pie, MSAS, K: MA, MSAS, A pie,) __3,25%__ de los planes.
 
-* M04-01 Modalidades de captura por tipo de plan  
+* M04-01 Modalidades de captura por tipo de plan
+
 ![Modalidad de captura por tipo de plan 2019](https://lh3.googleusercontent.com/oLS3sHN1uyG3IAOPuLd_EkJbUswNepLJBJ6AVLNji368xsIZwmcITSrSnR8AHaSauT8GiyfQ2XxMDS809dPAq1eyIGEykxFkBL4RVR2Ru1NbCWHxJdCEPUvw5AJfDKBnPAU4H8kiE60V07B7H6hfY61W1YLgIFqFMslvAKlJb9jyNuAGjrcTpXPIWw97Q2NYLsVZdhO8L1p_QGBfUZtt2OrJor4z_zo1vJT4YgqSJf6Mp0enFwkiaxnYDA-Lhy2Xh1QdmMd1d50ueMbeqvhn-t8M-U9puNYHsGH-cyaKyUu0NKgGb_m2bNUisCOQITiiRlIhhPD7U10QagR9UqToGymTF0p4bTIBBmHWlHEwfWV9iAzWPfm2ax4ja9m4B7fRf73jt8d67ELKkLR3pZXIL-OUntyi-KHlHrfGD-mItzxpeUPkbdp141fxRmVR9hoona_xpk6ysVqCssLkYVM8h-_r9x4XSZBhLq1I7yh8ggsLPYbGsWNEd3HmaDmbXJaqi6pspMYydRWyVjiB2pR33ZdSfL1i0mrZClQ_ZlqiQ7lFGYlx0vp6c8x3m_MoUEE-fJz-z9ijBheQ46jJFLelZmZGGIvO_8GMnv3UFBDwoon7jWn_nSTfS_my7mGU021NF1PeSiztFuOTJS4ohsVf-ZLVT-qY5zPSQJyAyKXjYfGedswRNeex0OB5wUmj6UjjVqWb8xb-aOFSlJ8ObJw6pkXP=w709-h501-no "M04-01. Plan General y Específicos 2019. Modalidad de captura por tipo de plan")
 
 * En la distribución de las modalidades de captura según el tipo de plan podemos observar que en los casos de los planes de para autorizaciones (AAUT) específicos en zonas de libre marisqueo (BESP) y los planes de percebe (DPER) __solo se emplean artes tradicionales__ ya sean de marisqueo o de arrastre.
@@ -204,17 +206,20 @@
 
 
 *  M06-01  
-Las Cofradías de Pescadores son las principales entidades promotoras pero no son excluyentes otro tipos de entidades son las asociaciones de mariscadoras, cooperativas y empresas.  
+Las Cofradías de Pescadores son las principales entidades promotoras pero no son excluyentes otro tipos de entidades son las asociaciones de mariscadoras, cooperativas y empresas.
+
 ![Tipo de entidades promotoras de planes de explotación 2019](https://lh3.googleusercontent.com/seeiQC3r5JhSYQttVIFTKTMv58KqMQ6a2WemaIgLNoLbNlGGSziHdpjwiwyYFkHReBL23eoaS9qujP6EkJ0hrYJQyku4OmZCPWFNS2AWqt5jQtMDLxCdsF4WtXa7R7wUT4U0rUX-s-PgV5oX9h8WCmbWlGm9qcmZ7SEaDS_WP_aVMyI_Uny0YlXbyc3A0wte0Yomf5-JEbbN4ulQaxrZQJHQPcXFrolBSFqw9g2dCTnEXtI8PqDnn8nWeWvLi73QWcmz_DXeTcy2op9gpDjrEGd4RwfaEIocVXNCt4dGXIKzelfhJxUIaMRGT_2njmogOYNNjnjhERHgnTK97n1mXAFpk8Rcbf8-4hIfp8Ymm-m80jA98N9bAmX2a2XF-CnlJsGkI6IOZnyAihlQ4KIkeVIM0lKQdiujYrt_0BrBXkCFBZEuxpgBxIFwH9_6IdmbasTM2-64f1doXcDcbJkwa72wu65-aNYO5uGZzvAnAdSy5mmK6i8TggjmIWyNDN4t0VnmiRaBBezoPWKPBS3WIqapL7dgMa3UwiXos5hofltJ6MGn1Y6c_PAMIusVd-C_LqqW096Wm0hy01C8QLxslbhO_fUcU-2fMPaGMKy_KgF5wjTky_EsV2CvHo6b-gwtBOdaxYlBQCsD-D240qw0J-zJvrX3v8pqzur0_7jsuNpl80-VmYJYSZrTlwlixd_aPjfWBUD2LgtYMJLl6fPP1g7D=w650-h470-no "M06-01. Plan General y Específicos 2019. Tipo de entidades promotoras")
 
 
 * M06-02  
-Bajo el agrupamiento del tipo de entidades se representa la participación de las entidades en todo el Plan General y en los distintos tipos de plan aprobados en las ordenes.  
+Bajo el agrupamiento del tipo de entidades se representa la participación de las entidades en todo el Plan General y en los distintos tipos de plan aprobados en las ordenes.
+
 ![Entidades por tipo de plan 2019](https://lh3.googleusercontent.com/1Cx9aE9T3TL5ulujU_lXpGowBIt_WdSJJO0k68bdyKzFcpiAsG42bYgXhw3klhHO6M8spv3-6oYdfIhU3xvIFqYP4qyP6lWjWD1jJBXADpBnWSyP_wNmOBiqgQ-0hKp72NKyNIeWgLDgV1VJ0UnLbIm783hkN5PhaRwNzW2krc6n9gHsxfPY0LCze7jNqYt3GVTyb1RIiDoyfNT5HRqHizn8lMa2jaUW3tHv3ouobkNnVH9YQPsDa1IvwNaZuTXct2mEEAImJ7e-NV9iZGdoitJl4mtR9MOymTOh4VJlpT0mkxG0fHQnjSFCWIzGdz8iJ3IlweffHRIXVyNE_j1uoy0ina1z3mVarnOc6j2kK_vpTUp-rnIE9Ylzn3iW24wd__dyemI7naifhHZWgcYoWNBa0ju4AH9Cl0JUkjHgpQ7Clc37lcBRHm-10yIzbxcQOUIv3sxe8RZxFpjdFU4qE61dWnZyZrExlMaOa8MnFtbWSot1e8wbI6PWqbG3O_M2vd3sW9APlSvzwjuxR4RqrAUv8kONxXsEVfAO48W23JrF7CxZXglOAjnQzV2rLeIPJxGWzsf5B4wdKxGJcY0aMuo_6PohDIuzQQG2nJ2L-nSQUlT4ke0yEL0oIm_xFQ8NCuyWrqu8eHArxeQf3boS-WlNC8DwY2VMMiRrhPgk_paYyXf1Y47Le_OSMlMF3AFJhGAejnCYUvVA7B9z_VBaAm1U=w709-h598-no "M06-02. Plan General y Específicos 2019. Entidades por tipo de plan")
 
 
 * M06-03  
-El numero de planes promovidos por entidad es un índice que nos informa sobre la especialización de las entidades y la diversidad de recursos en la costa de Galicia.  
+El numero de planes promovidos por entidad es un índice que nos informa sobre la especialización de las entidades y la diversidad de recursos en la costa de Galicia.
+
 ![Número de planes por entidad 2019](https://lh3.googleusercontent.com/HZ_1R0qNYLUwBkXxUFYjRoir17MCeszIn-7YTa8sLn_PdlGxQb_meOV4QgPLynqXBfrMw8-Vq4uHWuLcVtgcJHNpIowyIA_F2BynF6NmeM5eZMjvTzcEPndauAtbzRxpJxJRRAplDeHvhe_0JihKm_8umMnaBwqXvCjq-fzCCntoecdKaVQPULYhgtPWxnHQ7-WxJ4wX8QEY-phlUYh_uoMO-U7Fwqqe6mhJm_BPU8jFi1Vfw5FOqITydyAQqXkmf65X42kNmPWl0Zdq4-QBiXg3DDz39LsBODbgEOmq5L23sCt-4mtCXD2ZI29ek9ERsKepdWkDaFhcUIPThU0YNc-rTWFcrjpWBGTbfzPi6JxspgdGUjmTA5tGuMC7lHjAO7lmd2NFIQ2mCaH803RLVxoGcxmBDfcBymeo2ycC2ezeGhwqhCvNyUBxDc8_nDlzr9bBQ36b5lKfmzOC41xTxWYIgU1AHpAQ87Qpp3nJ-nJZViFakTPWMs3jT9uLRiHmfrf-UUJ3GDSoEqZbcXj-S4RA5NFwQNyuGCx2rXZsE4jxeD65jMYBAVX7woqh9yzXLvkvSkyjPDhB5xx5LA27_WBX5LcGHVT7MMl4cdq1LmGgStyl-e5Gpn_PrQwA77mEDei4CKZmjiQAbZNdtLfQ9yAlNK2y6GpgFxA1DSZ3lCEz6IqWojsfxN-PaNUEN0C88aIxKLaLIy0CnEZDW4Dar6iq=w650-h450-no "M06-03. Plan General y Específicos 2019. Número de planes por entidad")
 
 
@@ -244,11 +249,13 @@ El numero de planes promovidos por entidad es un índice que nos informa sobre l
 | |__GL-__ Galicia|2,44%|
 
 
-* M07-04 La relación entre el número de entidades y número de planes aprobados en cada zona.   
+* M07-04 La relación entre el número de entidades y número de planes aprobados en cada zona.
+
 ![Entidades y planes anuales por zona de costa 2019](https://lh3.googleusercontent.com/9oVheIzWWykZbYpx_gaGYYwdP3UtSFQPNEHfaMYPjW9eh8bmTXpk_q3_4DAcmbQp1xfUYUhU7THBwUAL1-M7pVhPwikpj7AEepoOySbeRP5GTkI84uKtUgmoTnEUvC3U-nyt2SI2pb_Gs6afoMfrxFwIuEZnQwL90UK1tgWGb98HtCbZlblkVIlYpiJ3ZYRBp9rO1fB291Y6xFp8YHJvs_rIymwwXVdo-m5NH-KYnJqCmJiK1qM6AYQo95idscxSt7ItHhX-OTx3Ls4Ijk0QImMmgAlgP-5YaPXM-c0mU-3EMsE-E0hgx3SpfFA_uNnCgLPqf7DZMJMIR3fsa1pBTdJn2qarRZKYWUqOqPwwcBAsMsbkrdQC_JqkR3duMPhKrlMEpJ1A96P13q8Onf0CX5wQ8gj2Bz9Yws0V7QmE1XBmfNLiEM1fI5r5uCyMVqQIZgcOYyztzV5Qa_YZp0q1qdlcf03sTuU025jd3bx2p5dUj-Ccu5XFHzF-BDHEgGJnv1wpI-H_ejcd9tKMe4XuaJcVuGX2o3gks0ZKy0onXz_UP7hv0S45Ci5BHlWWWci3wCLYafyVvoPXu6A_AT7zBUtdV8gj5QxMWMSpJ2rYJr8slGcjda3Z3-ULRmq6b6UuCs4Xyv00Cbx6szv-Sr5PVuesr22Ek8hQrgdTxmKUbIU5953IO1XTVSS-MkUAbVVyJn-eZD56R7D40d2yoJNfdrsp=w709-h426-no "M07-04. Plan General y Específicos 2019. Entidades y planes anuales por zona de costa")
 
 
-* M07-05 La distribución de tipos de de plan por cada zona de costa.  
+* M07-05 La distribución de tipos de de plan por cada zona de costa.
+
 ![Tipo de plan por zona de costa 2019](https://lh3.googleusercontent.com/spZaobKXeS19Ejx1nZ6_UQGM542Nq7ed_s_pjRogaKJWtglDc-W_prwOGcC7HAC4-NG8nTfjUhS0_sv4cMDHJc4yJkqseOjOjDLxDRCvIr6T4oYxalAqHdDTM2nn-djTJoNztnaNssScoQbDZJPaiSdo8ck3IHioSkOxJG_sgF5zmnV89nAQq8IUH8hgrBnkz85BxSdDUAmyO92bqLQoHmAe0dvwmZa2r1JgasawZF5bugNxRrPmop9wRrbRpx4nObz7AqYWHfdNV4UHVJD7vz1KsoeqT5Dv-x5lVUISYV_fis-d1fjWO4fWS3ouWtBRJ_k6xTWbVx_KbvWGxTBAdSns-eo1hfKSuMxldPOMhO5ShHi7mEcdoeVtU2PbGWLUgYQ40wK-J60hmLNDosBbiAMuDzQeZIh-d6-eSpQ6AoovIC1x0IkFb6IAjQDSAsOOBn3aFvmuqLiiPTvzB0ujmqLBgOmMKWaPPn3U0Q60zHtHBrB769jhUo6pF2W0_2nKNkli3whbwosI0P9Afa4XN2MVMcqrrMXchG95169VCauwo8yyWx-ZsFPmKBwl6ZSmZMcP_UlV5PbNyc4t-X_T23cqViSXYHspKSv4cRVXMINC_fmqYe3Q3ASWFpZG1IHGWd5SG5PYsg1TLctubBCUj8vPhf31ttK6xW9oZqhcd0zIAAP9jvAc4jNH26l27ZIsTD58GTMhCTurExqhekbc32UU=w709-h418-no "M07-05. Plan General y Específicos 2018. Tipo de plan por zona de costa")
 
 * __VI: Ría de Vigo__ y la rasa costera que va desde "Baiona" hasta la desembocadura del Miño ("A Guarda"). E esta zona se desarrollan planes de los 9 tipos siendo un total de 47 planes (__19,11%__ del total). Destacan los planes específicos seguidos de los de percebe y algas.
@@ -265,7 +272,8 @@ El numero de planes promovidos por entidad es un índice que nos informa sobre l
 
 * __CL: Costa lucense__ con 35 planes (__14,23%__). Como costa abierta los planes de percebe seguido de los de libre marisqueo, los planes de erizo, de anémonas los de autorización, ya que las rías de Cariño y de Cediera tuvieron una gran actividad en los años de existencia del __Plan de explotación marisquera de Galicia__ (PEMARGAL) que fué el momento de la expansión de las autorizaciones marisqueras en Galicia.
 
-* M07-15 Zona de costa por modalidad de captura 2019  
+* M07-15 Zona de costa por modalidad de captura 2019
+
 ![Zona de costa por modalidad de captura](https://lh3.googleusercontent.com/BK_rS2Ur-brpKAiSJSJecLXdUB8zlz_ZnmWEP7HWodXUaF6e4Pv8TnyzwSjtcTKI6ctauYfhomu8an590eWnpoeEEny61oC-FSpOaO6g2fwMd5UYMXkJacUXcg9eV_5s_4d9kL-Vxx4DApPIRsYwVazbmTbAvLtYv1eYeH5l42xdC0mBsKL2ydle4Diw2Z5c2uKOZZgl4Eah3hANZosFK1yO2cEOyJw8i8Nz-FAP4bWm3RfCfXAq9_S3SJP-9-bftHSPVni2upZkjiU6iEPvUu7TY2NrdL2f7WCJuNlqcEJLCRTw6cKd9uG6qRPq60m_krM9U4f6ptrWOAAM3PG31z4H6AgeMuBIOBGJ8Cc7Sf9WAjEtJcHIvVLidSvxXwTSAG4GnHtuZWFnKoGi8RfE6Lnrpe-vuD2PO-tGtlqIstLSbWW2pT4EA4UXaIrrNw1_L6Vv3vgVBm0HZ4zizouVqQ5vXrL_viB0hhj2p83H4KkYVy0CAVXUPdrHJbH7WG6-vSEbw1BjmbTTyrAwILs1nsO8jXKCs_bMpcU-mZdV6YGUBddKjejqjrbycVgYmQkL5HmLYzsYt71Si675KcrEuxhDuiQaKcKcu6YWihbDOxSWDJdJb3FSaqgtrjj0PToBmNggOJOX8h-5Eo1aF6fTLTMvbWKSYOP6FasPnDu1EAsqsJukbB0JwEka_2QLEXyaERg7UJ1N9fudZ_3ut-YNiZXR=w850-h600-no "M07-15 Zona de costa por modalidad de captura 2019")
 
  [volver al inicio](#Inicio)
