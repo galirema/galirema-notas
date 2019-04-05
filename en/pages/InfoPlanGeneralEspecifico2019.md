@@ -19,7 +19,7 @@
 
 * __Las dos ordenes del 20 de diciembre de 2018__, fueron publicadas en los dias 27 y 29 de diciembre de 2018 en los números del DOG 246 y 248.
 	* En el DOG __246__ (2019.12.27) fue publicada la orden __planes de gestión para recursos específicos en Galicia para el año 2019__ [PE html GL][]/ [PE Pdf GL][] en galego y [PE html ES][]/ [PE Pdf ES] en castellano.
-	* La orden que dicta el __Plan general de explotación Marisquera para el año 2019__ se pulica en el DOG __248__ el día 29/12/2018.
+	* La orden que dicta el __Plan general de explotación Marisquera para el año 2019__ se pulica en el DOG __248__ el día 29/12/2018. En _«galego»_ [PX html GL][] / [PX Pdf GL][] y en castellano [PE html GL][] / [PG Pdf ES][].
 	* las normas generales para todas las zonas de Galicia que no esten recogidas en un plan anual de explotación se dictan en el __artículo 4º__ para los __moluscos__ y en el __artículo 5º__ para los __crustáceos__ de la orden del __plan general de explotación marisquera__.
 	* En __artículo 4__ mantiene el periodo de captura tradicional para el marisqueo _desde el 2 de enero al 29 de marzo y desde el 1 de octubre al 31 de diciembre_.
 	* Se especifican las __tasas de captura__ para toda __Galicia__, tanto para el __marisqueo a pie__ como __desde embarcación__, y otras __específicas para la ría de Arousa__.
