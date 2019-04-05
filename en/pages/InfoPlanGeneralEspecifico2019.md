@@ -64,6 +64,7 @@
 
 
 * M01-01
+
 ![Plan general 2019](https://lh3.googleusercontent.com/JdbuNx0hmazlsCw-yGO4m7icgIA56wufUsrKRML6lmjL-O50WAH926VoQ4XVoOagx5dwx-ZfH9VBF8tYhB2wXp2L-BxGYdy-39BjLr5HJ_3e5J_Ey514ipGCjCFL7wv-1oQ_qvYLckiEhdf-0grnssCbU59WYovPLXt4tKu3jkHJ0VPivcMMEs5AAoi7sdyPK7PHJYdlJuZn4Jh2MX7TiXAAOvO388WJS7c5BUcprgRacrM7oxoPBfeWpOhey3707ymRYqR3voNJ53yGdcBekdLe6NmkhJ2Errn2-WUEc7RzahdBFmOXsXRAAH3UFu6881lgFEjT80To5W99x_dQoh_q_DRrYgUg_dKsLP4-UeNx6IeRkX9lP6v1gNKVf4meGEvhu121IdZc8b0NtGVA6qiwvQlmR6hlVPzlvwp_Sqyqt-a-RXhis7af8MOfyiLkqpYWd5lIms_ucXcTsM8uxw0Q-mtc2HjNAzRiOJe9qQZGVaEtX1JdiYe1-U18UcIg_aQSQG1v-8VIvD7BITmPgWlaPrn2Vp8O1JrAA6ar9k0nbrt3OSLWKQp4OC01cA6DX-31OUEE65swDEfbefZ43ueproAM_p9cO61s5h2Pwu4YEFW8pJfhPuAsH1zn_fbp8vWubK6jDi6AorZvDs-3vyxOnUrrN8EHYVgvz4dXNQQhKFzxJhb5JxaZRoWBgZoDZ7ab-dqdxVWhgOAZpQkBtqYP=w600-h450-no "M01-01. Plan General y Específicos 2019 por tipos de plan")
 
 * Tabla comparativa de la planificación de año 2019 en el periodo 2000 al 2019
@@ -98,10 +99,12 @@
 	* Planes individuales y conjuntos por tipo de plan
 
 
-* M02-01  
+* M02-01
+
 ![Nivel de colaboración 2019](https://lh3.googleusercontent.com/noewkHZJDKNUE3zbG9GHnTQmiP8bVYrXfnj1x2AakYMeDXHTsEEwy_o_M2C5pna9JIog1jx39LY6yVKepxBlHamnLQlNUOPPPPpqgClNkF2CIuukkRU_H2MwcqCe4agcvZU5XkyRfqhIW4H0Pz_JfuxMTPF3GmOD37R6SZlZDb7uldE5J3cUlLe0H5Pn55B-x7wc3LorUPRyKNJaZLh8EjmqaVt_3Nns-CRFCUuinPg1WdfndncYxPuF5lq14bSLao5O46-4O8ut6pdZENl8VwUJaZJrpErGQGm-GoDvcT1JfUdWB3VHmvn4qxnXlbUfkRWj8Yv6kNWMrTIeCZxsiH9ModbwWUtX0GEm6-AZPo7LiypnCOP-tPZ5ZEwhwV0gp2ePFogvUq_nHyJMBtUvMnzTDzqH5s7HPpgDpyo3UysfJFQGRCHwevHcyxgiUUqZEH1bd0WaCGSn6ynnLq9w7OmEx8BnPoHeTEuitSQYb8GgYaBxvRFsnyKSiA8MEQhyw0VIdT_f1B63lxNsKqKUH_1ujWHI2O5RdN3m1dD5H6Dvh6z0PgbWNe6fPi4hIY0hbLcvqbXDf7UIDu5IbvyYx0lcEGeiP57V-8Q4-6A5digsb_aqUNIO_aM6My2BpUDsyC5xBTOS6IUbemfjtvWh7KnljpYmSl0tZnKhkETpexJVY_om1uB8QTupCGiLVox89qx8Eiv_TNJcr7lwZmIR_BPO=w600-h450-no "M02-01. Plan General y Específicos 2019. Nivel de colaboración")
 
-* M02-03  
+* M02-03
+
 ![Nivel de colaboración por tipos de plan 2019](https://lh3.googleusercontent.com/11FXiLdpUHtaa5oxzGOuqod-GPov8yETCP6mXZsloMCanlYj_3ZZ-GxuiP0IGamt7tdRWl5KDLaxQVYvz8NqhufkdWvjdqG2HUmBz-r71PWAczNVLdQcdB4B4CRlpZbK5AXY8WTBnKh7Wob_E_bRQ6I0Y8N5QRNU-W4r7HfEcwBKRAyojsw4eAH-334BmZKsQ17L3U1nqDrrjPhEK7HggaSHBuwZAIuQTx9qSBPJHx3owL5nMInv1pjgiVixYsvGJLbgCjYvw6sUNTw7J9sYU48cYn-vf3llwehTdt3q8WB_eRJeXhdxK6F6ErRYpxJmG4k18FKPfk3FMuI2eR3XvLyQeTAWYKGZRyOwZNG2Yd4ctEXtoy6QW5EQ1H7KCp2aKxoU0rNcHq2TVC8WgtIOawywlLB503oYtd0CiwpVOHhVNHbGmGQmwprmH_25x-ltbQeH6OS4jYZKPhH5Mg7qQCAK_KZQrce1fJiyKC5aIh0YY5cOc2lgUK-IkCJTQ95RvGBjCU4iZe9zzaRpEMlMc9nWzF4t_ohyk8dWiobcc1Gd2IxFEJUfdIbcrawpOk5-3rPorU7n5QvNucAugvnToAEOrmV-YnYAJZfkjgIGIwBNff9jw-qFoLmoDUZ6SZ0p5EZ7QN0_ZuWniuMzDveeV8CxdiQEJyugVlX-eJDTz8Ua46slBFa9GipcOuceDv7oHlu1e2WxnE27R9QGA4g2CUsl=w709-h598-no "M02-03. Plan General y Específicos 2018. Nivel de colaboración por tipos de plan")
 
 * La colaboración entre entidades para gestión y aprovechamiento del recurso es solo de un __13,8%__ del total de planes del año 2019. En tres tipos de planes es superior de una manera significativa en equinodermos (__FEQD__) es de un __33,33%__, en los planes de solénidos (__GSOL__) el __32%__ y en los planes de zonas de libre marisqueo (__BESP__) el __26,0%__.
@@ -121,30 +124,36 @@
 	* Algas (Los planes recogen la posibilidad de recogida son 31 pero la estadísticas de captura solo están identificadas 12 items de rangos que van de especie a otros grupos superiores como familia) [algas en el SEP](https://galirema.github.io/galirema-notas/en/#!pages/algas2014analisi2.md#Estat%C3%ADstica_Pesqueira)
 
 
-* M03-01  
+* M03-01
+
 ![Especies aprovechadas 2019](https://lh3.googleusercontent.com/Uqp1BCTPYkuDUnKXO3eZ2LcjcTUoiM8VjSANPrkl4QnMa3DsAqCj7ozPaDc28r_AEqI6lKl6tPdzr4escp00w9sDfKURoXeeop46mXYLbe3dAyu6c7On5ZMWbeZecG_Nn2Tl85sBkgNtFGCdt6SRgrcZwy2cxhHgqHAYQiizFHxOzTHaeoYS7k3nAmct9IwVsSzU4pXCbRVIICd1s_gc55Rfk96RT6hN-ppvtZo-Nlas1_qgcmed6qI5O-cPLY2WT-QdGvF1oIGmVYQCqBKtjtc7Z9OFCYxDIyLJpUY0iNFBaK1NDMV4Q2g5KxPX28IoBtT3r-6YOL1ZmM4pQpUxUyLBGZLNT55ncx4AcLe_C6M-o0yWCYUTiba9P9sJdeia0crSGUCimIgBOQtDdZcqV0iLrfdPRgl-QI_WlNIc4I5cngMyuJg3sIKeQZu8pvXgUo8AJfGzZ-wDBESPFlI-45cwJfWg6q6EoGTRy5qI21Y37FBqKL2gOFmZ6L2LVsBxNHm1AM2JjrvRakfToiwh2SprC-JhQ9dF1BDA5TtGtPmxRCJDHtosbaGC0qdVZ40B0wt9WstqtQH2aExixBeh1zWZBYa80EygPgmCYX7-aIz_MFTmbdcsu5YBf1Pt5xd_1Q_yUChLHRfXW0zSqJve5L-AvBk1niCrrp4gA62ACDMtiClSgKlxbj-Tkrghszyq4t6WzXzWeoOKMi90egPDjSpH=w650-h500-no "M03-01. Plan General y Específicos 2019. Especies aprovechadas")
 
 
 * Las especies objeto de captura:
 
 	* M03-02 Moluscos Bivalvos
-	* Especies: COC, CTG, CLJ, CTS, VNA, DSX, EQK, RAE, VEV, VNR, OYF, EQI, ULO, OYG, KLK, GKL, DON, SVE, VSC, LVC, QSC, UTL,  
+	* Especies: COC, CTG, CLJ, CTS, VNA, DSX, EQK, RAE, VEV, VNR, OYF, EQI, ULO, OYG, KLK, GKL, DON, SVE, VSC, LVC, QSC, UTL,
+	
 ![Moluscos bivalvos en planes](https://lh3.googleusercontent.com/zyQhQIScWetktedOIYDQaMXKlBr-WFP4xRzvouKdThMgU9tzrgi6hQTSOrN0FofWonUviS482q4OVOYS5ioAom178xfk4LLL_dANjcMKld5_V_9NeJicitKGvqU3rhYiZZk5OoAflyCCUux6TMqbAA6jDI7xI_oQwoFdVbsRuYS8zwEZnKpFEgUz0jIAeQgwIQIUEK2BfZDb8KL11G3JmPPSp1VzLBff_UczM1us42RUBhNR0MdzEHA8S5d8z8NDWSLtmURCu_6a3Neowd4hbdNQOYyVzTnUOmdCv6ftgYbCm38cD1zus_GXFesLzgX0kSrThw7MVgqV6AdB0nJ0zK7ouFIj6GtIQzmkvTGFGWqp8nAdrIFrowL3wTLisG7wJW4U-1g6zx3KTq7zXxve6aRUOdZGtIZRF8LmFXRTSyM4FwYoApUmzM9GZ_TXJAoM-WwbMaU5b5UbRldtijQIvAAvBBgqygnTyuKCWV9WjsyDQG8PSrzeeZ71SFoH4ZgTfCOCBLhD-U4P1BwF3dGhNGzYx6f6sjBZbwjbR1Kmt3gMF78onWbns5S0H68UzuFfgaAheyNz31fX0lmtrkERF-NaDmci8438hjfifqi4LjEi1ONSpmsljM1CjDgGuTK6UUERUeoTOBz18yK10TKXGIP225ubhSafY96ogZUWLtP5APozezKUwKvtGSHvltRzCoVfjp5MNGhUYOFSK4z91zh1=w709-h486-no "Moluscos Bivalvos 2019")
 
 	* M03-04 Moluscos Gasterópodos
-	* Especies: PEE, LPZ, HLT, BOY, FNT,  
+	* Especies: PEE, LPZ, HLT, BOY, FNT,
+	
 ![Moluscos Gasterópodos en planes](https://lh3.googleusercontent.com/njNIqdJvTYFXrzGkt-UWB5dsDla1xuw_zU6Q1isp82G2pGLphAwUzobivVR1qXSeDf7y95__H0F1IvAZZmdfq1cj1q2_PrlRN776aHOwVcaVKBxz6JD9mLizzVeCrxnGjIqDUzepU1f2SxJwH9Tkj_xF4ygKM2F-ZQ9C3zXj_jHSEk1-z7W20jKidqXYCsGL-kK_eHw8FvbrvvgdDbd90oIcG83CcDs0jAAellep5L4oRSLR4zpSMjwLfz6b7pTMe9CwsGE67f2JztT_wlhzZPgswNMY_GoQKO_68Ms9pQSTT2Z4O2EVkJy9_F3gQbMQ0beCbyrvXU5x3xTjN3hz8tSH732-77K-j5XUrczs1YXpVO4wzzapfMkecAb8toEjVlwRccRfxShxSqqWsTpUIr7f0z4QyOzYjit0whYI2bOH7h4K_kJedZ_L62ceLb0DrzoHG-p9d1PqaVwlb42aLCWv7WzeycSOGm2woc4O103rjk5oN8yrvVIn750DJguyU03tmB8bZvJWYOxIxV_zEHs3OkjBpHRVAKULlrlb5he4hV0ECpfD7_xLKaP2gS77zhOgw7iwTHQYZhw2kuxJS6fdZwHIotRnnLN72srGxzyA2_XKwh3gPxq_L7lKx2Ut-I42uKaMlUdTcj33NyNACY0bZK3cs6zgk3PKCD9wY1O8u26TLWK8se7L0XxkMal59v0nOsKnGxe65W4cIV80Km0E=w709-h520-no "Moluscos Gasterópodos 2019")
 
 	* M03-05 Crustaceos, Equinodermos y Anémonas
-	* Especies: PCB, URM, WBX, NOW,  
+	* Especies: PCB, URM, WBX, NOW,
+	
 ![Crustaceos, Equinodermos y Anémonas en planes](https://lh3.googleusercontent.com/38mWHL1oD1c-WRZUlu_XEIJ-e9ew2TqrcaArFX4wR0ZyxcisIROKvRHogJfMWyXgQMpKxw2A0CyVFr_ZgFNtyqiBDHF5sihGNB79ZHqR6Ii9VVNxYnWSUmOm5c-4yKgi6S3AWwnXmq3aUgiOeG2xX3wRyZXP1bwM2Q9yFKB3qdpFyZ6npc5mDK7XVewKvFc_4eUmVRZCzPY9RXkNbb6BphZpYcTJYE2_fFcJd56V3FFJEq7mJ-KbrHZE4Au3GMAWCrfmPzmucSUOS45W9oc9NemqXv7Js9-m7DmRWJlpRInYf896tRE8itxLElHz_u5zTz-aWG0VWx0h7xQ7hSjjG4N3uKSeqgqIL_z4gIgXYMwDjrNrKpA5GTPygYuQWi9Cl4HLF_95eNhLrjmSMHRU1Wn-CU58rTYwtT1x0NhiMmbXoUOGmJWE51gKxeLQ2iid0ZaSg7WaBGpokUmH-f3taNUwF3VGRqpfX5cUnIixXr192G4jTuEVsTfDEEi310JrqPvgP59397H7RsL3irKRInZrza1jC3-PMn2u5kpoAxyWLZj4M_nOOt4GoV7XhcJ7DcAAWQU2B7G5cSXq3xd9ZyzqMwcqj3C2ScEoZ--2QYiuDYQGIuZYNAtqY7G_YosU_FooBYP9reZ0oOgcDAjLTx1pD8O-ZSpxGvoum4IuvrWB7RVL14UaeVSSeTCBXQhPcOaPeeHAR_399aVfAKCAbafM=w709-h520-no "Crustaceos, Equinodermos y Anémonas 2019")
 
 	* M03-03 Algas
-	* Especies: UDP, L1O, HLZ, LA5, UCU, B1B, ASN, FUV, F1S, LAZ, P1C, UVU, KJT, UVQ, IMS, FYS, MVT, O1P, GHG, GEL, OFH, NLO, GEQ, D1C, G1M, GJA, L1A, SWP, G1O, GLS, P2C,  
+	* Especies: UDP, L1O, HLZ, LA5, UCU, B1B, ASN, FUV, F1S, LAZ, P1C, UVU, KJT, UVQ, IMS, FYS, MVT, O1P, GHG, GEL, OFH, NLO, GEQ, D1C, G1M, GJA, L1A, SWP, G1O, GLS, P2C,
+	
 ![Algas en planes](https://lh3.googleusercontent.com/LmAIqzwNEvb3PGOZNqTnMSipnEU_1ptBGHwGj7qGOzA0T46U6I_2GlA8xVm7A4kCKH9E6GPzA9k8gfiTFkex2jgG9jE7I7EuLgCNB2X_W4tnBGu_NUxjE32XIEnQaYrESS6tNWiB_3RsC8QeghkotWGIHMBe12kgXEpEC1liuJHmL2zSgdt6VVU7CgOwjxCnX2GRQdYvBzZQUYNEqUTDTVJH9QpayP7zBKTmYwNJDUCkiGgK3dTemysbwiIN1MriIDoKnVJOmuIqxFVyFYM-dr5uApKpqWYymU38FJ2oThkbc4FVWOgWlOVah2-_bFDskMmYkC3g8hqHT_yp9sGTX-Ism9wf53CjroPo0LkcPskL3Td2u5Bq-qhDx65uyb_Z_G300a54jrUOwCnJBUb9VEO6XtzJ09LzSEdHobBQk3QbyB7Gviydd_LVO9Do7GqwJcwe5C5hurwOFqnYsRvOkLmufIsRlRNqJU9t8XDTMrKSQKhjJIvhyfDtFfwfcQpKyFdX6JIuN7rSTqDOBemitFPrCeAwyuV0tFQaeHsNQHm7Xjn7Bn1oOYbAigNnLLidjSXTGkpwDYEX-vGOSWYSaRBRh7ARTjo8m9hVPRwLmwZgRhdMqG8LQCCxQCKRLZUKhgE0gcs1DN12lK9iJMYeVHeEwTCfpQ3vAZ0c3M3g82r8yajh14tZV9_EROJeiKmZEYSqmEoq-3Jy8mj7H3Yg5NFp=w709-h380-no "Algas 2019 (pardas, verdes y rojas)")
 
 	* M03-06 Poliquetos
-	* Especies: UBI, ARM, NER, DIN,  
+	* Especies: UBI, ARM, NER, DIN,
+	
 ![Poliquetos en planes](https://lh3.googleusercontent.com/-ERBb-5ZGCjfbpNh5Jo-PowvYoEbHFqLA3H_YfsyJCnI1TjlCY2B4RTwsPzcW5SFsIwDUL9U_Thk4GmZUNh6JJpFh_nTfu6yRWg7931Ke94l4Gj8e6KhZM1vINHCmKwEWFGtl2ArvvkQyRMANZA1L1jrQ0_zDvjb7IqxPU2vluwj0vWPlLc1E-f7et5Y-Dae_ureCuE3OUp7EI27uckWTb7ycQMGLX0i9d6ZB7uefdbaJHOz7y72GFnLVbgIcljZUuqpvAc0AHGAXxyR05VvQZskzJpxtUXoQynJ3ZSQpjVaLhZcV-rPys9c05Z0EyYgGqApj2Cei49_17WYRuzOyMJ0L-RHOQ95YrWkBPKj-0FJgCwf7CCBnN3II3RLxFpHzelucnC-QFBF1y_9MQ1yvh-vkT8vB1_uZVho0pv5dyoSbtDmqJ2iyNUQlde-Agk2DrCFfG4-092f8_5q-blHIQHKqWUiaI4LacDn1cvRn7MRbmgC1etFBUXeGsYAa816kiNWCLMf8tOXip-lBdn-b6_wTANzuhrdoLePJHJovUmWzGRl2fDQE3lygnlxMO447opcRVI9DQTP8yuw2omiFTcsCsV2UJKRU3E6K7WXWR5ZSV21QgG8XUXOTvp44yq_J6MoPb3dSYp2me2EYrEjKdfyv2mNqus7qKXQry0rgftnA1vrO8ZOOn5T0aA9qrkKUoC1uXokAJoyeNE5VUrTyO11=w709-h520-no "Poliquetos 2019")
 
 
