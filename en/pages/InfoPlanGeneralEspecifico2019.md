@@ -290,21 +290,6 @@ El numero de planes promovidos por entidad es un índice que nos informa sobre l
 [Volver a Indice de Informes](IndiceInformes.md)
 
 
-
- [PX html GL]: https://goo.gl/4TcN5u
- [PX Pdf GL]: https://goo.gl/T5uvCe
-
- [PE html GL]: https://goo.gl/b6bBvf
- [PE Pdf GL]: https://goo.gl/mkTDk1
-
- [PG html ES]: https://goo.gl/BJBdqe
- [PG Pdf ES]: https://goo.gl/kr55Lu
-
- [PE html ES]: https://goo.gl/SPqbUa
- [PE Pdf ES]: https://goo.gl/xw8c24
-
-
-
 -- Bivalvos --
 * __AKJ__: Berberecho bravo
 * __CLJ__: Ameixa xaponesa
@@ -429,4 +414,18 @@ El numero de planes promovidos por entidad es un índice que nos informa sobre l
 * __NER__: Miñoca
 * __UBI__: Gabián
 * __WOR__: Bicho
+
+
+
+ [PX html GL]: https://goo.gl/4TcN5u
+ [PX Pdf GL]: https://goo.gl/T5uvCe
+
+ [PE html GL]: https://goo.gl/b6bBvf
+ [PE Pdf GL]: https://goo.gl/mkTDk1
+
+ [PG html ES]: https://goo.gl/BJBdqe
+ [PG Pdf ES]: https://goo.gl/kr55Lu
+
+ [PE html ES]: https://goo.gl/SPqbUa
+ [PE Pdf ES]: https://goo.gl/xw8c24
 
