@@ -112,7 +112,7 @@ __Zonas de producción no SIGREMAR:__
 
 1. Zona de autorización do río Anllóns. AAUT. A pé; __A0002v2017__. A.M. Esteiro do río Anllóns.
 
-1. De punta Lago a punta Roda, de punta Sandía a punta Roda, de punta Sandía a punta Insuela, enseada da Vasa, AAUT Embarcación; __A0010v2017__. C.P. Camariñas
+1. De punta Lago a punta Roda, de punta Sandía a punta Roda, de punta Sandía a punta Insuela, enseada da Vasa, AAUT A pé; Embarcacion; __A0010v2017__. C.P. Camariñas
 
 
 ## Coruña - Ferrol (CF)
