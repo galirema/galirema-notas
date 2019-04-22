@@ -61,30 +61,18 @@ __Zonas de producción no SIGREMAR:__
 |Autorización de Rianxo sublitoral AAUT __A0028v2017__.| Embarcación;| C.P. Rianxo|||
 |Autorización de Ribeira AAUT __A0029v2017__.| Embarcación;| C.P. Ribeira|||
 |De punta Aguiúncho a Eiró Grande, de Eiró Grande a Carabancelo, de Carabancelo a Redonda Vella, de Redonda Vella a punta Castro AAUT __A0030v2017__.| Rastro de vieira ou voandeira;| C.P. Ribeira|||
-
-1. De punta Portomouro a punta Pedra Rubia, AAUT A pé; Embarcación; __A0032v2017__. Ría de Arousa S.C.G.
-
-1. Zonas de autorización: intermareal de illa de Arousa AAUT A pé; __A0033v2017__. C.P. A Illa de Arousa
-
-1. Zonas de autorización: submareal de Illa de Arousa AAUT Embarcación; __A0034v2017__. C.P. A Illa de Arousa
-
-1. Zona intermareal atorización de Cambados AAUT A pé; __A0038v2017__. C.P. Cambados
-
-1. De Rego do Alcalde a punta Tragove, de punta Borrón e peirao de Cambados a punta Borrelo, AAUT Embarcación; __A0039v2017__. C.P. Cambados
-
-1. A Fangueira, Sublitoral AAUT Embarcación; __A0040v2017__. C.P. Carril
-
-1. A Fangueira, Intermareal AAUT A pé; __A0041v2017__. C.P. Carril
-
-1. Zonas de autorización (Intermareal) C.P. O Grove, AAUT A pé; __A0042v2017__. C.P. O Grove
-
-1. Zonas de autorización C.P. O Grove, (Sublitoral) AAUT Embarcación; __A0043v2017__. C.P. O Grove
-
-1. De regato Aduana a Rego do Alcalde, (Intermareal) AAUT A pé; __A0044v2017__. C.P. Vilanova
-
-1. Autorización de C.P. Vilanova (Sublitoral) AAUT Embarcación; __A0045v2017__ C.P. Vilanova
-
-1. De punta Ferrazo a Regato Aduana, AAUT A pé; __A0046v2017__. C.P. Vilaxoán
+|De punta Portomouro a punta Pedra Rubia, AAUT __A0032v2017__.| A pé; Embarcación;| Ría de Arousa S.C.G.|||
+|Zonas de autorización: intermareal de illa de Arousa AAUT __A0033v2017__.| A pé;| C.P. A Illa de Arousa|||
+|Zonas de autorización: submareal de Illa de Arousa AAUT __A0034v2017__.| Embarcación;| C.P. A Illa de Arousa|||
+|Zona intermareal atorización de Cambados AAUT __A0038v2017__.| A pé;| C.P. Cambados|||
+|De Rego do Alcalde a punta Tragove, de punta Borrón e peirao de Cambados a punta Borrelo, AAUT __A0039v2017__.| Embarcación;| C.P. Cambados|||
+|A Fangueira, Sublitoral AAUT __A0040v2017__.| Embarcación;| C.P. Carril|||
+|A Fangueira, Intermareal AAUT __A0041v2017__.| A pé;| C.P. Carril|||
+|Zonas de autorización (Intermareal) C.P. O Grove, AAUT __A0042v2017__.| A pé;| C.P. O Grove|||
+|Zonas de autorización C.P. O Grove, (Sublitoral) AAUT __A0043v2017__.| Embarcación;| C.P. O Grove|||
+|De regato Aduana a Rego do Alcalde, (Intermareal) AAUT __A0044v2017__.| A pé;| C.P. Vilanova|||
+|Autorización de C.P. Vilanova (Sublitoral) AAUT __A0045v2017__.| Embarcación;| C.P. Vilanova|||
+|De punta Ferrazo a Regato Aduana, AAUT __A0046v2017__.| A pé;| C.P. Vilaxoán|||
 
 
 ## Ría de Muros - Noia (MN)
