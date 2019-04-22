@@ -37,9 +37,11 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Pontevedra (PO)
 
- _De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_
+ __De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)__ 1 Plan
 
-1. De punta Alada a punta Preguntoiro, cara ao interior da ría de Aldán AAUT A pé; __A0035v2017__. C.P. Aldán-O Hio
+|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+|De punta Alada a punta Preguntoiro, cara ao interior da ría de Aldán AAUT __A0035v2017__.| A pé;| C.P. Aldán-O Hio|||
 
 
 ## Ría de Arousa (AR)
