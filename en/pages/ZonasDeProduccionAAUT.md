@@ -37,7 +37,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Pontevedra (PO)
 
- __De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)__ 1 Plan
+ __De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)__ 1 plan
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
@@ -46,29 +46,21 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Arousa (AR)
 
- _De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_
+ __De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)__ 23 planes
 
-1. De punta Galduario a punta Peralto, AAUT A pé; __A0004v2017__. C.P. A Pobra do Caramiñal
-
-1. De punta Galduario a punta Peralto, AAUT Embarcación; __A0005v2017__. C.P. A Pobra do Caramiñal
-
-1. Zona de autorización C.P. Aguiño, AAUT Embarcación; __A0006v2017__. C.P. Aguiño
-
-1. Entre punta Peralto, punta Pedra Rubia, AAUT A pé; __A0008v2017__. C.P. Cabo de Cruz
-
-1. Entre punta Peralto, punta Pedra Rubia, AAUT Embarcación; __A0009v2017__. C.P. Cabo de Cruz
-
-1. Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT A pé; __A0023v2017__. C.P. Palmeira
-
-1. Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT Embarcación; __A0024v2017__. C.P. Palmeira
-
-1. Autorización de Rianxo AAUT A pé; __A0027v2017__. C.P. Rianxo
-
-1. Autorización de Rianxo sublitoral AAUT Embarcación; __A0028v2017__. C.P. Rianxo
-
-1. Autorización de Ribeira AAUT Embarcación; __A0029v2017__. C.P. Ribeira
-
-1. De punta Aguiúncho a Eiró Grande, de Eiró Grande a Carabancelo, de Carabancelo a Redonda Vella, de Redonda Vella a punta Castro AAUT Rastro de vieira ou voandeira; __A0030v2017__. C.P. Ribeira
+|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+|De punta Galduario a punta Peralto, AAUT __A0004v2017__.| A pé;| C.P. A Pobra do Caramiñal|||
+|De punta Galduario a punta Peralto, AAUT __A0005v2017__.| Embarcación;| C.P. A Pobra do Caramiñal|||
+|Zona de autorización C.P. Aguiño, AAUT __A0006v2017__.| Embarcación;| C.P. Aguiño|||
+|Entre punta Peralto, punta Pedra Rubia, AAUT __A0008v2017__.| A pé;| C.P. Cabo de Cruz|||
+|Entre punta Peralto, punta Pedra Rubia, AAUT __A0009v2017__.| Embarcación;| C.P. Cabo de Cruz|||
+|Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT __A0023v2017__.| A pé;| C.P. Palmeira|||
+|Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT __A0024v2017__.| Embarcación;| C.P. Palmeira|||
+|Autorización de Rianxo AAUT __A0027v2017__.| A pé;| C.P. Rianxo|||
+|Autorización de Rianxo sublitoral AAUT __A0028v2017__.| Embarcación;| C.P. Rianxo|||
+|Autorización de Ribeira AAUT __A0029v2017__.| Embarcación;| C.P. Ribeira|||
+|De punta Aguiúncho a Eiró Grande, de Eiró Grande a Carabancelo, de Carabancelo a Redonda Vella, de Redonda Vella a punta Castro AAUT __A0030v2017__.| Rastro de vieira ou voandeira;| C.P. Ribeira|||
 
 1. De punta Portomouro a punta Pedra Rubia, AAUT A pé; Embarcación; __A0032v2017__. Ría de Arousa S.C.G.
 
