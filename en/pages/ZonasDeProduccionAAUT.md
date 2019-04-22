@@ -29,7 +29,7 @@ __Zonas de producción no SIGREMAR:__
 
  __De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)__ 2 planes
 
-|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |Foz do río Miñor, praia Ladeira, praia do Burgo, praia de Santa Marta, paseo da Lonxa, praia Ribeira, praia Barbeira, AAUT  __A0036v2017__.|A pé;| C.P. Baiona|||
 |Autorización administrativa C.P. Baiona Sublitoral AAUT __A0037v2017__.| Embarcación;| C.P. Baiona|
@@ -39,7 +39,7 @@ __Zonas de producción no SIGREMAR:__
 
  __De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)__ 1 plan
 
-|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |De punta Alada a punta Preguntoiro, cara ao interior da ría de Aldán AAUT __A0035v2017__.| A pé;| C.P. Aldán-O Hio|||
 
@@ -48,7 +48,7 @@ __Zonas de producción no SIGREMAR:__
 
  __De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)__ 23 planes
 
-|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |De punta Galduario a punta Peralto, AAUT __A0004v2017__.| A pé;| C.P. A Pobra do Caramiñal|||
 |De punta Galduario a punta Peralto, AAUT __A0005v2017__.| Embarcación;| C.P. A Pobra do Caramiñal|||
@@ -79,7 +79,7 @@ __Zonas de producción no SIGREMAR:__
 
  __De praia de Catia (42.261 N, 9.0554 W) ata punta Ínsua (42.771 N, 9.1266 W)__ 4 planes
 
-|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |Zona de autorización: praia da Virxe e praia da Abelleira AAUT __A0018v2017__.| A pé;| C.P. Muros|||
 |Zona de autorización: praia da Virxe e praia da Abelleira AAUT __A0019v2017__.| Embarcación;| C.P. Muros|||
@@ -89,7 +89,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Costa da Morte (CM)
 
- _De punta Ínsua (42.771 N, 9.1266 W) ata praia de Baldaio (43.292 N, 8.7016 W)_
+ __De punta Ínsua (42.771 N, 9.1266 W) ata praia de Baldaio (43.292 N, 8.7016 W)__ 2 planes
 
 1. Zona de autorización do río Anllóns. AAUT. A pé; __A0002v2017__. A.M. Esteiro do río Anllóns.
 
