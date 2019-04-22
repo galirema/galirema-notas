@@ -27,12 +27,12 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Vigo (VI)
 
- _De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)_
+ __De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)__ 2 planes
 
-
-1. Foz do río Miñor, praia Ladeira, praia do Burgo, praia de Santa Marta, paseo da Lonxa, praia Ribeira, praia Barbeira, AAUT A pé; __A0036v2017__. C.P. Baiona
-
-1. Autorización administrativa C.P. Baiona Sublitoral AAUT Embarcación; __A0037v2017__. C.P. Baiona
+|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+|Foz do río Miñor, praia Ladeira, praia do Burgo, praia de Santa Marta, paseo da Lonxa, praia Ribeira, praia Barbeira, AAUT  __A0036v2017__.|A pé;| C.P. Baiona|||
+|Autorización administrativa C.P. Baiona Sublitoral AAUT __A0037v2017__.| Embarcación;| C.P. Baiona|
 
 
 ## Ría de Pontevedra (PO)
@@ -117,7 +117,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Coruña - Ferrol (CF)
 
- __De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)__
+ __De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)__ 10 planes
  
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
