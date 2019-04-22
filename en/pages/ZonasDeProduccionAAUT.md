@@ -77,15 +77,14 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Muros - Noia (MN)
 
- _De praia de Catia (42.261 N, 9.0554 W) ata punta Ínsua (42.771 N, 9.1266 W)_
+ __De praia de Catia (42.261 N, 9.0554 W) ata punta Ínsua (42.771 N, 9.1266 W)__ 4 planes
 
-1. Zona de autorización: praia da Virxe e praia da Abelleira AAUT A pé; __A0018v2017__. C.P. Muros
-
-1. Zona de autorización: praia da Virxe e praia da Abelleira AAUT Embarcación; __A0019v2017__. C.P. Muros
-
-1. Zona de autorización C.P. Noia, AAUT A pé; Embarcación; __A0020v2017__. C.P. Noia
-
-1. Bancos de ostra de Broña, punta Cabalo Baixo, AAUT Rastro de vieira ou voandeira; __A0021v2017__. C.P. Noia
+|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+|Zona de autorización: praia da Virxe e praia da Abelleira AAUT __A0018v2017__.| A pé;| C.P. Muros|||
+|Zona de autorización: praia da Virxe e praia da Abelleira AAUT __A0019v2017__.| Embarcación;| C.P. Muros|||
+|Zona de autorización C.P. Noia, AAUT __A0020v2017__.| A pé; Embarcación;| C.P. Noia|||
+|Bancos de ostra de Broña, punta Cabalo Baixo, AAUT __A0021v2017__.| Rastro de vieira ou voandeira;| C.P. Noia|
 
 
 ## Costa da Morte (CM)
