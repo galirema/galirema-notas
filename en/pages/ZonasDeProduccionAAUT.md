@@ -58,7 +58,7 @@ __Zonas de producción no SIGREMAR:__
 |Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT __A0023v2017__.| A pé;| C.P. Palmeira|2008022, 2014022, 2015023, 2016023, 2017023, 2018023, 2019024,|(AR-195), (AR-196), (AR-194),|
 |Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT __A0024v2017__.| Embarcación;| C.P. Palmeira|2008023, 2014023, 2015024, 2016024, 2017024, 2018024, 2019025,|(AR-062), (AR-064), (AR-063),|
 |Autorización de Rianxo AAUT __A0027v2017__.| A pé;| C.P. Rianxo|2008026, 2014026, 2015027, 2016027, 2017027, 2018027, 2019028,|(AR-180), (AR-178), (AR-176), (AR-165), (AR-179), (AR-350), (AR-173), (AR-175), (AR-177), (AR-171), (AR-172), (AR-170), (AR-164), (AR-166), (AR-181), (AR-174), (AR-351), (AR-182), (AR-169), (AR-167), (AR-353),|
-|Autorización de Rianxo sublitoral AAUT __A0028v2017__.| Embarcación;| C.P. Rianxo|||
+|Autorización de Rianxo sublitoral AAUT __A0028v2017__.| Embarcación;| C.P. Rianxo|2008027, 2014027, 2015028, 2016028, 2017028, 2018028, 2019029,|(AR-183), (AR-184), (AR-185), (AR-186), (AR-187), (AR-188), (AR-189), (AR-190), (AR-191), (AR-192), (AR-193), (AR-352), (AR-354),|
 |Autorización de Ribeira AAUT __A0029v2017__.| Embarcación;| C.P. Ribeira|||
 |De punta Aguiúncho a Eiró Grande, de Eiró Grande a Carabancelo, de Carabancelo a Redonda Vella, de Redonda Vella a punta Castro AAUT __A0030v2017__.| Rastro de vieira ou voandeira;| C.P. Ribeira|||
 |De punta Portomouro a punta Pedra Rubia, AAUT __A0032v2017__.| A pé; Embarcación;| Ría de Arousa S.C.G.|||
