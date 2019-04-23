@@ -50,11 +50,11 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Galduario a punta Peralto, AAUT __A0004v2017__.| A pé;| C.P. A Pobra do Caramiñal|2008005, 2014004, 2015004, 2016004, 2017004, 2018004, 2019005,||
-|De punta Galduario a punta Peralto, AAUT __A0005v2017__.| Embarcación;| C.P. A Pobra do Caramiñal|2008006, 2014005, 2015005, 2016005, 2017005, 2018005, 2019006,||
-|Zona de autorización C.P. Aguiño, AAUT __A0006v2017__.| Embarcación;| C.P. Aguiño|2008012, 2014006, 2015006, 2016006, 2017006, 2018006, 2019007,||
-|Entre punta Peralto, punta Pedra Rubia, AAUT __A0008v2017__.| A pé;| C.P. Cabo de Cruz|2008008, 2014008, 2015008, 2016008, 2017008, 2018008, 2019009,||
-|Entre punta Peralto, punta Pedra Rubia, AAUT __A0009v2017__.| Embarcación;| C.P. Cabo de Cruz|2008009, 2014009, 2015009, 2016009, 2017009, 2018009, 2019010,||
+|De punta Galduario a punta Peralto, AAUT __A0004v2017__.| A pé;| C.P. A Pobra do Caramiñal|2008005, 2014004, 2015004, 2016004, 2017004, 2018004, 2019005,|(AR-131), (AR-132), (AR-133),|
+|De punta Galduario a punta Peralto, AAUT __A0005v2017__.| Embarcación;| C.P. A Pobra do Caramiñal|2008006, 2014005, 2015005, 2016005, 2017005, 2018005, 2019006,|(AR-134), (AR-135), (AR-136),|
+|Zona de autorización C.P. Aguiño, AAUT __A0006v2017__.| Embarcación;| C.P. Aguiño|2008012, 2014006, 2015006, 2016006, 2017006, 2018006, 2019007,|(AR-211), (AR-212), (AR-213), (AR- 210), (AR-211),|
+|Entre punta Peralto, punta Pedra Rubia, AAUT __A0008v2017__.| A pé;| C.P. Cabo de Cruz|2008008, 2014008, 2015008, 2016008, 2017008, 2018008, 2019009,|(AR-141), (AR-143), (AR-144), (AR-145), (AR-146),|
+|Entre punta Peralto, punta Pedra Rubia, AAUT __A0009v2017__.| Embarcación;| C.P. Cabo de Cruz|2008009, 2014009, 2015009, 2016009, 2017009, 2018009, 2019010,|(AR-147), (AR-148), (AR-149), (AR-150), (AR-151), (AR-152),|
 |Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT __A0023v2017__.| A pé;| C.P. Palmeira|2008022, 2014022, 2015023, 2016023, 2017023, 2018023, 2019024,|(AR-195), (AR-196), (AR-194),|
 |Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT __A0024v2017__.| Embarcación;| C.P. Palmeira|2008023, 2014023, 2015024, 2016024, 2017024, 2018024, 2019025,|(AR-062), (AR-064), (AR-063),|
 |Autorización de Rianxo AAUT __A0027v2017__.| A pé;| C.P. Rianxo|2008026, 2014026, 2015027, 2016027, 2017027, 2018027, 2019028,|(AR-180), (AR-178), (AR-176), (AR-165), (AR-179), (AR-350), (AR-173), (AR-175), (AR-177), (AR-171), (AR-172), (AR-170), (AR-164), (AR-166), (AR-181), (AR-174), (AR-351), (AR-182), (AR-169), (AR-167), (AR-353),|
@@ -93,8 +93,8 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Zona de autorización do río Anllóns. AAUT. __A0002v2017__.| A pé;| A.M. Esteiro do río Anllóns.|2008003, 2014002, 2015002, 2016002, 2017002, 2018002, 2019002,||
-|De punta Lago a punta Roda, de punta Sandía a punta Roda, de punta Sandía a punta Insuela, enseada da Vasa, AAUT __A0010v2017__.| A pé; Embarcacion;| C.P. Camariñas|2008010, 2014010, 2015010, 2016010, 2017010, 2018010, 2019011,|-|
+|Zona de autorización do río Anllóns. AAUT. __A0002v2017__.| A pé;| A.M. Esteiro do río Anllóns.|2008003, 2014002, 2015002, 2016002, 2017002, 2018002, 2019002,|(CM-121), (CM-093),|
+|De punta Lago a punta Roda, de punta Sandía a punta Roda, de punta Sandía a punta Insuela, enseada da Vasa, AAUT __A0010v2017__.| A pé; Embarcacion;| C.P. Camariñas|2008010, 2014010, 2015010, 2016010, 2017010, 2018010, 2019011,|(CM-129), (CM-100), (CM-130), (CM-133), (CM-131), (CM-134), (CM-132), (CM-135),|
 
 
 ## Coruña - Ferrol (CF)
@@ -122,9 +122,9 @@ __Zonas de producción no SIGREMAR:__
  
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Autorizacións da confraría de Cariño AAUT __A0011v2017__.| A pé;| C.P. Cariño|2008011, 2014011, 2015011, 2016011, 2017011, 2018011, 2019012,||
-|Enseada de Esteiro, enseada de Pantín, AAUT __A0012v2017__.| A pé;| C.P. Cedeira|2019012, 2015012, 2016012, 2017012, 2018012, 2019013,||
-|Autorización de Espasante, AAUT __A0013v2017__.| A pé;| C.P. Espasante|2008014, 2014012, 2015013, 2016013, 2017013, 2018013, 2019014,||
+|Autorizacións da confraría de Cariño AAUT __A0011v2017__.| A pé;| C.P. Cariño|2008011, 2014011, 2015011, 2016011, 2017011, 2018011, 2019012,|(CL-080), (CL-064), (CL-061), (CL-062), (CL-060), (CL-079), (CL-077), (CL-078), (CL-216), (CL-074), (CL-073), (CL-075), (CL-076),|
+|Enseada de Esteiro, enseada de Pantín, AAUT __A0012v2017__.| A pé;| C.P. Cedeira|2019012, 2015012, 2016012, 2017012, 2018012, 2019013,|(CL-048), (CL-053), (CL-047), (CL-2014),|
+|Autorización de Espasante, AAUT __A0013v2017__.| A pé;| C.P. Espasante|2008014, 2014012, 2015013, 2016013, 2017013, 2018013, 2019014,|(CL-029), (CL-030), (CL-031), (CL-032), (CL-033), (CL-034), (CL-036), (CL-037), (LV) (CL-038), (CL-090), (CL-092),|
 |Zonas de autorización situadas na marxe esquerda da ría do Barqueiro AAUT __A0022v2017__.| A pé;| C.P. O Barqueiro-Bares|2008021, 2014021, 2015022, 2016022, 2017022, 2018022, 2019023,|(CL-100), (CL-101), (CL-021), (CL-102), (CL-103), (CL-104), (CL-106), (CL-118), CL-119), (CL-105), (CL-020),|
 |Praia de Arealonga e Lombo das Navallas AAUT __A0047v2008__.| A pé;| C.P. O Vicedo||-|
 
