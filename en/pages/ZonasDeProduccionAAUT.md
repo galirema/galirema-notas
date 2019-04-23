@@ -50,7 +50,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Galduario a punta Peralto, AAUT __A0004v2017__.| A pé;| C.P. A Pobra do Caramiñal|||
+|De punta Galduario a punta Peralto, AAUT __A0004v2017__.| A pé;| C.P. A Pobra do Caramiñal|2008005, 2014004, 2015004, 2016004, 2017004, 2018004, 2019005,||
 |De punta Galduario a punta Peralto, AAUT __A0005v2017__.| Embarcación;| C.P. A Pobra do Caramiñal|||
 |Zona de autorización C.P. Aguiño, AAUT __A0006v2017__.| Embarcación;| C.P. Aguiño|||
 |Entre punta Peralto, punta Pedra Rubia, AAUT __A0008v2017__.| A pé;| C.P. Cabo de Cruz|||
@@ -93,7 +93,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Zona de autorización do río Anllóns. AAUT. __A0002v2017__.| A pé;| A.M. Esteiro do río Anllóns.|||
+|Zona de autorización do río Anllóns. AAUT. __A0002v2017__.| A pé;| A.M. Esteiro do río Anllóns.|2008003, 2014002, 2015002, 2016002, 2017002, 2018002, 2019002,||
 |De punta Lago a punta Roda, de punta Sandía a punta Roda, de punta Sandía a punta Insuela, enseada da Vasa, AAUT __A0010v2017__.| A pé; Embarcacion;| C.P. Camariñas||-|
 
 
@@ -103,8 +103,8 @@ __Zonas de producción no SIGREMAR:__
  
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Lagoas de Baldaio. AAUT, [A0001v2017](http://u.osmfr.org/m/250411/)| A pé;|A.M. Fonte Santa Helena-Baldaio|2008002, 2014001, 2015001, 2016001, 2017001,|(CF-040), (CF-167), banco da lagoa interna,|
-|Ría do Burgo. AAUT, __A0003v2017__.| A pé; Embarcación;|C.P. A Coruña|2008004, 2014003, 2015003, 2016003, 2017003,|(CF-002), (CF-002), (CF-004), (CF-009), (CF-008), (CF-005), (CF-006), (CF-007), (CF-317), (CF-319), (CF-001),|
+|Lagoas de Baldaio. AAUT, [A0001v2017](http://u.osmfr.org/m/250411/)| A pé;|A.M. Fonte Santa Helena-Baldaio|2008002, 2014001, 2015001, 2016001, 2017001, 2018001, 2019001,|(CF-040), (CF-167), banco da lagoa interna,|
+|Ría do Burgo. AAUT, __A0003v2017__.| A pé; Embarcación;|C.P. A Coruña|2008004, 2014003, 2015003, 2016003, 2017003, 2018003, 2019003,|(CF-002), (CF-002), (CF-004), (CF-009), (CF-008), (CF-005), (CF-006), (CF-007), (CF-317), (CF-319), (CF-001),|
 |Praias de Barallobre, Maniños, AAUT, __A0007v2017__.| A pé;|C.P. Barallobre|2008007, 2014007, 2015007, 2016007, 2017007,|(CF-138), (CF-139),|
 |Autorización das Pías, Autorización enseada Cabana-A Malata, AAUT, __A0014v2017__.| A pé; Embarcación;|C.P. Ferrol, C.P. Barallobre, (plan conxunto)|2014013, 2015014, 2016014, 2017014|(CF-143), (CF-144), (CF-145), (CF-136),|
 |San Felipe, enseada de Cabana-A Malata, praia de Caranza-Montón, de punta Cornida á ponte do tren, AAUT, __A0015v2017__.| A pé;|C.P. Ferrol|2014014, 2015015, 2016015, 2017015,|(CF-112), (CF-113),|
