@@ -55,9 +55,9 @@ __Zonas de producción no SIGREMAR:__
 |Zona de autorización C.P. Aguiño, AAUT __A0006v2017__.| Embarcación;| C.P. Aguiño|2008012, 2014006, 2015006, 2016006, 2017006, 2018006, 2019007,||
 |Entre punta Peralto, punta Pedra Rubia, AAUT __A0008v2017__.| A pé;| C.P. Cabo de Cruz|2008008, 2014008, 2015008, 2016008, 2017008, 2018008, 2019009,||
 |Entre punta Peralto, punta Pedra Rubia, AAUT __A0009v2017__.| Embarcación;| C.P. Cabo de Cruz|2008009, 2014009, 2015009, 2016009, 2017009, 2018009, 2019010,||
-|Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT __A0023v2017__.| A pé;| C.P. Palmeira|||
-|Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT __A0024v2017__.| Embarcación;| C.P. Palmeira|||
-|Autorización de Rianxo AAUT __A0027v2017__.| A pé;| C.P. Rianxo|||
+|Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT __A0023v2017__.| A pé;| C.P. Palmeira|2008022, 2014022, 2015023, 2016023, 2017023, 2018023, 2019024,|(AR-195), (AR-196), (AR-194),|
+|Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT __A0024v2017__.| Embarcación;| C.P. Palmeira|2008023, 2014023, 2015024, 2016024, 2017024, 2018024, 2019025,|(AR-062), (AR-064), (AR-063),|
+|Autorización de Rianxo AAUT __A0027v2017__.| A pé;| C.P. Rianxo|2008026, 2014026, 2015027, 2016027, 2017027, 2018027, 2019028,|(AR-180), (AR-178), (AR-176), (AR-165), (AR-179), (AR-350), (AR-173), (AR-175), (AR-177), (AR-171), (AR-172), (AR-170), (AR-164), (AR-166), (AR-181), (AR-174), (AR-351), (AR-182), (AR-169), (AR-167), (AR-353),|
 |Autorización de Rianxo sublitoral AAUT __A0028v2017__.| Embarcación;| C.P. Rianxo|||
 |Autorización de Ribeira AAUT __A0029v2017__.| Embarcación;| C.P. Ribeira|||
 |De punta Aguiúncho a Eiró Grande, de Eiró Grande a Carabancelo, de Carabancelo a Redonda Vella, de Redonda Vella a punta Castro AAUT __A0030v2017__.| Rastro de vieira ou voandeira;| C.P. Ribeira|||
@@ -110,8 +110,8 @@ __Zonas de producción no SIGREMAR:__
 |San Felipe, enseada de Cabana-A Malata, praia de Caranza-Montón, de punta Cornida á ponte do tren, AAUT, __A0015v2017__.| A pé;|C.P. Ferrol|2014014, 2015015, 2016015, 2017015, 2018015, 2019016,|(CF-112), (CF-113),|
 |Entre final da praia grande de Miño a punta Allo; entre a canle de Hervás a punta Curbeiros, AAUT, __A0016v2017__.| A pé; Embarcación;|C.P. Miño|2008015, 2014015, 2015016, 2016016, 2017016, 2018016, 2019017,|(CF-086), (CF-087), (CF-088), (CF-089), (CF-090), (CF-091), (CF-092-I), (CF-092-II), (CF-092-III),|
 |Punta Promontoiro a rampla do Seixo, punta Redonda a punta Leiras, punta Leiras a punta Promontoiro, Punta Segaño a punta Redonda, AAUT, __A0017v2017__.| A pé;|C.P. Mugardos|2008016, 2014016, 2015017, 2016017, 2017017, 2018017, 2019018,|(CF-150), (CF-153), (CF-155), (CF-156), (CF-157), (CF-159), (CF-160), (CF-161), (CF-162), (CF-315), (CF-163), (CF-164), (CF-165),|
-|De praia Almieiras a punta Carboeira AAUT, __A0025v2017__.| A pé;|C.P. Pontedeume|2008024, 2014024, 2015025, 2016025, 2017025,|(CF-101), (CF-102), (CF-103), (CF-104-I), (CF-104-II), (CF-104-III), (CF-097-I), (CF-097-II), (CF-098), (CF-099), (CF-099), (CF-168),|
-|De praia Almieiras a punta Carboeira AAUT, __A0026v2017__.| Embarcación;|C.P. Pontedeume|2008025, 2014025, 2015026, 2016026, 2017026,|(CF-093), (CF-094), (CF-096), (CF-095), (CF-097-I), (CF-097-II), (CF-098), (CF-099), (CF-100), (CF-100-I),|
+|De praia Almieiras a punta Carboeira AAUT, __A0025v2017__.| A pé;|C.P. Pontedeume|2008024, 2014024, 2015025, 2016025, 2017025, 2018025, 2019026,|(CF-101), (CF-102), (CF-103), (CF-104-I), (CF-104-II), (CF-104-III), (CF-097-I), (CF-097-II), (CF-098), (CF-099), (CF-099), (CF-168),|
+|De praia Almieiras a punta Carboeira AAUT, __A0026v2017__.| Embarcación;|C.P. Pontedeume|2008025, 2014025, 2015026, 2016026, 2017026, 2018026, 2019027,|(CF-093), (CF-094), (CF-096), (CF-095), (CF-097-I), (CF-097-II), (CF-098), (CF-099), (CF-100), (CF-100-I),|
 |Praia de Sada AAUT, __A0031v2016__.| A pé;|C.P. Sada|2008029, 2014030, 2015031, 2016031,|(CF-080),|
 
 
@@ -125,7 +125,7 @@ __Zonas de producción no SIGREMAR:__
 |Autorizacións da confraría de Cariño AAUT __A0011v2017__.| A pé;| C.P. Cariño|2008011, 2014011, 2015011, 2016011, 2017011, 2018011, 2019012,||
 |Enseada de Esteiro, enseada de Pantín, AAUT __A0012v2017__.| A pé;| C.P. Cedeira|2019012, 2015012, 2016012, 2017012, 2018012, 2019013,||
 |Autorización de Espasante, AAUT __A0013v2017__.| A pé;| C.P. Espasante|2008014, 2014012, 2015013, 2016013, 2017013, 2018013, 2019014,||
-|Zonas de autorización situadas na marxe esquerda da ría do Barqueiro AAUT __A0022v2017__.| A pé;| C.P. O Barqueiro-Bares|||
+|Zonas de autorización situadas na marxe esquerda da ría do Barqueiro AAUT __A0022v2017__.| A pé;| C.P. O Barqueiro-Bares|2008021, 2014021, 2015022, 2016022, 2017022, 2018022, 2019023,|(CL-100), (CL-101), (CL-021), (CL-102), (CL-103), (CL-104), (CL-106), (CL-118), CL-119), (CL-105), (CL-020),|
 |Praia de Arealonga e Lombo das Navallas AAUT __A0047v2008__.| A pé;| C.P. O Vicedo||-|
 
 
