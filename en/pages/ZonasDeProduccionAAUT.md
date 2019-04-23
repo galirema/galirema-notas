@@ -82,9 +82,9 @@ __Zonas de producción no SIGREMAR:__
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |Zona de autorización: praia da Virxe e praia da Abelleira AAUT __A0018v2017__.| A pé;| C.P. Muros|2008017, 2014017, 2015018, 2016018, 2017018, 2018018, 2019019,|(MN-054), (MN-056), (MN-057), (MN-097), (MN-098),|
-|Zona de autorización: praia da Virxe e praia da Abelleira AAUT __A0019v2017__.| Embarcación;| C.P. Muros|||
-|Zona de autorización C.P. Noia, AAUT __A0020v2017__.| A pé; Embarcación;| C.P. Noia|2008018, 2014018, 2015019, 2016019, 2017019, 2018019, 2019020,|(MN-055), (MN-061),|
-|Bancos de ostra de Broña, punta Cabalo Baixo, AAUT __A0021v2017__.| Rastro de vieira ou voandeira;| C.P. Noia||-|
+|Zona de autorización: praia da Virxe e praia da Abelleira AAUT __A0019v2017__.| Embarcación;| C.P. Muros|2008018, 2014018, 2015019, 2016019, 2017019, 2018019, 2019020,|(MN-055), (MN-061),|
+|Zona de autorización C.P. Noia, AAUT __A0020v2017__.| A pé; Embarcación;| C.P. Noia|2008019, 2014019, 2015020, 2016020, 2017020, 2018020, 2019021,|(MN-031), (MN-032), (MN-033), (MN-034), (MN-035), (MN-036), (MN-037), (MN-038), (MN-039), (MN-041), (MN-042), (MN-043), (MN-045), (MN-046), (MN-047), (MN-084), (MN-085), (MN-029), (MN-030),|
+|Bancos de ostra de Broña, punta Cabalo Baixo, AAUT __A0021v2017__.| Rastro de vieira ou voandeira;| C.P. Noia|2008020, 2014020, 2015021, 2016021, 2017021, 2018021, 2019022,|(MN-044), (MN-040),|
 
 
 ## Costa da Morte (CM)
