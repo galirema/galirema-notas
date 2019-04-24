@@ -64,11 +64,11 @@ __Zonas de producción no SIGREMAR:__
 |De punta Portomouro a punta Pedra Rubia, AAUT __A0032v2017__.| A pé; Embarcación;| Ría de Arousa S.C.G.|2008030, 2014031, 2015032, 2016032, 2017031, 2018032, 2019033,|(AR-153), (AR-154), (AR-155), (AR-156), (AR-157), (AR-158), (AR-159), (AR-160), (AR-161), (AR-162), (AR-163),|
 |Zonas de autorización: intermareal de illa de Arousa AAUT __A0033v2017__.| A pé;| C.P. A Illa de Arousa|2008031, 2014032, 2015033, 2016033, 2017032, 2018033, 2019034,|(AR-041), (AR-046), (AR-048), (AR-047), (AR-055), (AR-347), (AR-325), (AR-326), (AR-327), (AR-345), (AR-053),|
 |Zonas de autorización: submareal de Illa de Arousa AAUT __A0034v2017__.| Embarcación;| C.P. A Illa de Arousa|2008032, 2014033, 2015034, 2016034, 2017033, 2018034, 2019035,|(AR-049), (AR-050), (AR-056), (AR-059), (AR-052), (AR-324-I), (AR-324-II), (AR-058), (AR-329),|
-|Zona intermareal atorización de Cambados AAUT __A0038v2017__.| A pé;| C.P. Cambados|||
-|De Rego do Alcalde a punta Tragove, de punta Borrón e peirao de Cambados a punta Borrelo, AAUT __A0039v2017__.| Embarcación;| C.P. Cambados|||
-|A Fangueira, Sublitoral AAUT __A0040v2017__.| Embarcación;| C.P. Carril|||
-|A Fangueira, Intermareal AAUT __A0041v2017__.| A pé;| C.P. Carril|||
-|Zonas de autorización (Intermareal) C.P. O Grove, AAUT __A0042v2017__.| A pé;| C.P. O Grove|||
+|Zona intermareal atorización de Cambados AAUT __A0038v2017__.| A pé;| C.P. Cambados|2008038, 2008037, 2014037, 2015038, 2016038, 2017037, 2018038, 2019039,|(AR-011), (AR-012), (AR-013), (AR-014), (AR-015), (AR-217),|
+|De Rego do Alcalde a punta Tragove, de punta Borrón e peirao de Cambados a punta Borrelo, AAUT __A0039v2017__.| Embarcación;| C.P. Cambados|2008039, 2014038, 2015039, 2016039, 2017038, 2018039, 2019040,|(AR-017), (AR-019), (AR-216),|
+|A Fangueira, Sublitoral AAUT __A0040v2017__.| Embarcación;| C.P. Carril|2008041, 2014039, 2015040, 2016040, 2017039, 2018040, 2019041,|(AR-037),|
+|A Fangueira, Intermareal AAUT __A0041v2017__.| A pé;| C.P. Carril|2008040, 2015041, 2016041, 2017040, 2018041, 2019042,|(AR-069),|
+|Zonas de autorización (Intermareal) C.P. O Grove, AAUT __A0042v2017__.| A pé;| C.P. O Grove|2008042, 2008043, 2014040, 2015042, 2016042, 2017041, 2018042, 2019043,|(AR-092), (AR-091), (AR-090), (AR-093), (AR-094), (AR-095), (AR-105), (AR-096), (AR-061), (AR-258), (AR-107), (AR-077), (AR-108), (AR-109), (AR-110), (AR-060), (AR-106), (AR-106-1), (AR-106-2), (AR-106-3), (AR-113), (AR-114), (AR-115), (AR-116), (AR-117), (AR-103), (AR-104), (AR-102), (AR-101), (AR-100), (AR-099), (AR-098), (AR-097),|
 |Zonas de autorización C.P. O Grove, (Sublitoral) AAUT __A0043v2017__.| Embarcación;| C.P. O Grove|||
 |De regato Aduana a Rego do Alcalde, (Intermareal) AAUT __A0044v2017__.| A pé;| C.P. Vilanova|||
 |Autorización de C.P. Vilanova (Sublitoral) AAUT __A0045v2017__.| Embarcación;| C.P. Vilanova|||
