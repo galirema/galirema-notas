@@ -126,7 +126,7 @@ __Zonas de producción no SIGREMAR:__
 |Enseada de Esteiro, enseada de Pantín, AAUT __A0012v2017__.| A pé;| C.P. Cedeira|2019012, 2015012, 2016012, 2017012, 2018012, 2019013,|(CL-048), (CL-053), (CL-047), (CL-2014),|
 |Autorización de Espasante, AAUT __A0013v2017__.| A pé;| C.P. Espasante|2008014, 2014012, 2015013, 2016013, 2017013, 2018013, 2019014,|(CL-029), (CL-030), (CL-031), (CL-032), (CL-033), (CL-034), (CL-036), (CL-037), (LV) (CL-038), (CL-090), (CL-092),|
 |Zonas de autorización situadas na marxe esquerda da ría do Barqueiro AAUT __A0022v2017__.| A pé;| C.P. O Barqueiro-Bares|2008021, 2014021, 2015022, 2016022, 2017022, 2018022, 2019023,|(CL-100), (CL-101), (CL-021), (CL-102), (CL-103), (CL-104), (CL-106), (CL-118), CL-119), (CL-105), (CL-020),|
-|Praia de Arealonga e Lombo das Navallas AAUT __A0047v2008__.| A pé;| C.P. O Vicedo||-|
+|Praia de Arealonga e Lombo das Navallas AAUT __A0047v2008__.| A pé;| C.P. O Vicedo|2008001,|(CL-117),|
 
 
 [Indice](indicesZonasProduccion.md)
