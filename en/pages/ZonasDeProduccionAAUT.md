@@ -59,9 +59,9 @@ __Zonas de producción no SIGREMAR:__
 |Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT __A0024v2017__.| Embarcación;| C.P. Palmeira|2008023, 2014023, 2015024, 2016024, 2017024, 2018024, 2019025,|(AR-062), (AR-064), (AR-063),|
 |Autorización de Rianxo AAUT __A0027v2017__.| A pé;| C.P. Rianxo|2008026, 2014026, 2015027, 2016027, 2017027, 2018027, 2019028,|(AR-180), (AR-178), (AR-176), (AR-165), (AR-179), (AR-350), (AR-173), (AR-175), (AR-177), (AR-171), (AR-172), (AR-170), (AR-164), (AR-166), (AR-181), (AR-174), (AR-351), (AR-182), (AR-169), (AR-167), (AR-353),|
 |Autorización de Rianxo sublitoral AAUT __A0028v2017__.| Embarcación;| C.P. Rianxo|2008027, 2014027, 2015028, 2016028, 2017028, 2018028, 2019029,|(AR-183), (AR-184), (AR-185), (AR-186), (AR-187), (AR-188), (AR-189), (AR-190), (AR-191), (AR-192), (AR-193), (AR-352), (AR-354),|
-|Autorización de Ribeira AAUT __A0029v2017__.| Embarcación;| C.P. Ribeira|||
-|De punta Aguiúncho a Eiró Grande, de Eiró Grande a Carabancelo, de Carabancelo a Redonda Vella, de Redonda Vella a punta Castro AAUT __A0030v2017__.| Rastro de vieira ou voandeira;| C.P. Ribeira|||
-|De punta Portomouro a punta Pedra Rubia, AAUT __A0032v2017__.| A pé; Embarcación;| Ría de Arousa S.C.G.|||
+|Autorización de Ribeira AAUT __A0029v2017__.| Embarcación;| C.P. Ribeira|2008028, 2014028, 2015029, 2016029, 2017029, 2018029, 2019030,|(AR-204), (AR-206), (AR-207), (AR-197), (AR-198), (AR-199), (AR-200), (AR-201-I), (AR-201-II), (AR-208), (AR-209),|
+|De punta Aguiúncho a Eiró Grande, de Eiró Grande a Carabancelo, de Carabancelo a Redonda Vella, de Redonda Vella a punta Castro AAUT __A0030v2017__.| Rastro de vieira ou voandeira;| C.P. Ribeira|2014029, 2015030, 2016030, 2017030, 2018030, 2019031,|(AR-203),|
+|De punta Portomouro a punta Pedra Rubia, AAUT __A0032v2017__.| A pé; Embarcación;| Ría de Arousa S.C.G.|2008030, 2014031, 2015032, 2016032, 2017031, 2018032, 2019033,|(AR-153), (AR-154), (AR-155), (AR-156), (AR-157), (AR-158), (AR-159), (AR-160), (AR-161), (AR-162), (AR-163),|
 |Zonas de autorización: intermareal de illa de Arousa AAUT __A0033v2017__.| A pé;| C.P. A Illa de Arousa|||
 |Zonas de autorización: submareal de Illa de Arousa AAUT __A0034v2017__.| Embarcación;| C.P. A Illa de Arousa|||
 |Zona intermareal atorización de Cambados AAUT __A0038v2017__.| A pé;| C.P. Cambados|||
@@ -112,7 +112,7 @@ __Zonas de producción no SIGREMAR:__
 |Punta Promontoiro a rampla do Seixo, punta Redonda a punta Leiras, punta Leiras a punta Promontoiro, Punta Segaño a punta Redonda, AAUT, __A0017v2017__.| A pé;|C.P. Mugardos|2008016, 2014016, 2015017, 2016017, 2017017, 2018017, 2019018,|(CF-150), (CF-153), (CF-155), (CF-156), (CF-157), (CF-159), (CF-160), (CF-161), (CF-162), (CF-315), (CF-163), (CF-164), (CF-165),|
 |De praia Almieiras a punta Carboeira AAUT, __A0025v2017__.| A pé;|C.P. Pontedeume|2008024, 2014024, 2015025, 2016025, 2017025, 2018025, 2019026,|(CF-101), (CF-102), (CF-103), (CF-104-I), (CF-104-II), (CF-104-III), (CF-097-I), (CF-097-II), (CF-098), (CF-099), (CF-099), (CF-168),|
 |De praia Almieiras a punta Carboeira AAUT, __A0026v2017__.| Embarcación;|C.P. Pontedeume|2008025, 2014025, 2015026, 2016026, 2017026, 2018026, 2019027,|(CF-093), (CF-094), (CF-096), (CF-095), (CF-097-I), (CF-097-II), (CF-098), (CF-099), (CF-100), (CF-100-I),|
-|Praia de Sada AAUT, __A0031v2016__.| A pé;|C.P. Sada|2008029, 2014030, 2015031, 2016031,|(CF-080),|
+|Praia de Sada AAUT, __A0031v2016__.| A pé;|C.P. Sada|2008029, 2014030, 2015031, 2016031, 2018031, 2019032,|(CF-080),|
 
 
 ## Costa Lucense (CL)
