@@ -31,8 +31,8 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Foz do río Miñor, praia Ladeira, praia do Burgo, praia de Santa Marta, paseo da Lonxa, praia Ribeira, praia Barbeira, AAUT  __A0036v2017__.|A pé;| C.P. Baiona|||
-|Autorización administrativa C.P. Baiona Sublitoral AAUT __A0037v2017__.| Embarcación;| C.P. Baiona||-|
+|Foz do río Miñor, praia Ladeira, praia do Burgo, praia de Santa Marta, paseo da Lonxa, praia Ribeira, praia Barbeira, AAUT  __A0036v2017__.|A pé;| C.P. Baiona|2008035, 2014035, 2015036, 2016036, 2017035, 2018036, 2019037,|(VI-105), (VI-104), (VI-103-I), (VI-103-II), (VI-103-III), (VI-102), (VI-101), (VI-100),|
+|Autorización administrativa C.P. Baiona Sublitoral AAUT __A0037v2017__.| Embarcación;| C.P. Baiona|2008036, 2014036, 2015037, 2016037, 2017036, 2018037, 2019038,|Autorización administrativa C.P. Baiona, (zonas marítimas),|
 
 
 ## Ría de Pontevedra (PO)
