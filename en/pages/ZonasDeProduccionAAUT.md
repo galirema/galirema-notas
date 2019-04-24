@@ -41,7 +41,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Alada a punta Preguntoiro, cara ao interior da ría de Aldán AAUT __A0035v2017__.| A pé;| C.P. Aldán-O Hio||-|
+|De punta Alada a punta Preguntoiro, cara ao interior da ría de Aldán AAUT __A0035v2017__.| A pé;| C.P. Aldán-O Hio|2008034, 2008033, 2014034, 2015035, 2016035, 2017034, 2018035, 2019036,|(PO-142), (PO-143), (PO-139), (PO-140), (PO-141), (PO-175), (PO-176), (PO-177),|
 
 
 ## Ría de Arousa (AR)
