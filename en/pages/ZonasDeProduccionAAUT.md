@@ -62,8 +62,8 @@ __Zonas de producción no SIGREMAR:__
 |Autorización de Ribeira AAUT __A0029v2017__.| Embarcación;| C.P. Ribeira|2008028, 2014028, 2015029, 2016029, 2017029, 2018029, 2019030,|(AR-204), (AR-206), (AR-207), (AR-197), (AR-198), (AR-199), (AR-200), (AR-201-I), (AR-201-II), (AR-208), (AR-209),|
 |De punta Aguiúncho a Eiró Grande, de Eiró Grande a Carabancelo, de Carabancelo a Redonda Vella, de Redonda Vella a punta Castro AAUT __A0030v2017__.| Rastro de vieira ou voandeira;| C.P. Ribeira|2014029, 2015030, 2016030, 2017030, 2018030, 2019031,|(AR-203),|
 |De punta Portomouro a punta Pedra Rubia, AAUT __A0032v2017__.| A pé; Embarcación;| Ría de Arousa S.C.G.|2008030, 2014031, 2015032, 2016032, 2017031, 2018032, 2019033,|(AR-153), (AR-154), (AR-155), (AR-156), (AR-157), (AR-158), (AR-159), (AR-160), (AR-161), (AR-162), (AR-163),|
-|Zonas de autorización: intermareal de illa de Arousa AAUT __A0033v2017__.| A pé;| C.P. A Illa de Arousa|||
-|Zonas de autorización: submareal de Illa de Arousa AAUT __A0034v2017__.| Embarcación;| C.P. A Illa de Arousa|||
+|Zonas de autorización: intermareal de illa de Arousa AAUT __A0033v2017__.| A pé;| C.P. A Illa de Arousa|2008031, 2014032, 2015033, 2016033, 2017032, 2018033, 2019034,|(AR-041), (AR-046), (AR-048), (AR-047), (AR-055), (AR-347), (AR-325), (AR-326), (AR-327), (AR-345), (AR-053),|
+|Zonas de autorización: submareal de Illa de Arousa AAUT __A0034v2017__.| Embarcación;| C.P. A Illa de Arousa|2008032, 2014033, 2015034, 2016034, 2017033, 2018034, 2019035,|(AR-049), (AR-050), (AR-056), (AR-059), (AR-052), (AR-324-I), (AR-324-II), (AR-058), (AR-329),|
 |Zona intermareal atorización de Cambados AAUT __A0038v2017__.| A pé;| C.P. Cambados|||
 |De Rego do Alcalde a punta Tragove, de punta Borrón e peirao de Cambados a punta Borrelo, AAUT __A0039v2017__.| Embarcación;| C.P. Cambados|||
 |A Fangueira, Sublitoral AAUT __A0040v2017__.| Embarcación;| C.P. Carril|||
