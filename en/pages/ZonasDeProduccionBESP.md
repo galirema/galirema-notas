@@ -96,15 +96,9 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-||||||
-||||||
-||||||
-
-1. Zonas de libre marisqueo entre Monte Louro e punta Uía, entre punta Ornanda e punta Aguieira e banco da Creba 2, BESP Embarcación; C.P. Noia, C.P. Muros, C.P. Porto do Son, C.P. Portosín, (plan conxunto)
-
-1. De punta Insua a punta Uhía BESP A pé; C.P. Muros
-
-1. De punta Rebordiño a punta Uía e de punta Cabalo a punta Aguieira BESP A pé; C.P. Noia, Muros, Porto do Son e Portosín (plan conxunto)
+|Zonas de libre marisqueo entre Monte Louro e punta Uía, entre punta Ornanda e punta Aguieira e banco da Creba 2, BESP|Embarcación;|C.P. Noia, C.P. Muros, C.P. Porto do Son, C.P. Portosín, (plan conxunto)|||
+|De punta Insua a punta Uhía BESP|A pé;|C.P. Muros|||
+|De punta Rebordiño a punta Uía e de punta Cabalo a punta Aguieira BESP|A pé;|C.P. Noia, Muros, Porto do Son e Portosín (plan conxunto)|||
 
 
 
