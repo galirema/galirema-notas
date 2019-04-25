@@ -30,7 +30,12 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Vigo (VI)
 
- _De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)_
+ __De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)__ 14 planes
+
+
+|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+||||||
 
 1. Bancos da ría de Vigo, excepto a autorización de Baiona, BESP Embarcación; Asociación de Marisqueo a Flote Ría de Vigo, C.P. de Baiona, (plan conxunto)
 
@@ -64,7 +69,12 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Pontevedra (PO)
 
- _De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_
+ __De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)__ 6 planes
+
+
+|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+||||||
 
 1. Entre punta Faxilda e punta Samieira (Raxó), entre punta de Debaixo dos Pinos (Marín), punta Preguntoiro, entre praia Alada e Punta Couso,; BESP Endeño remolcado; C.P. Bueu
 
@@ -82,7 +92,12 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Arousa (AR)
 
- _De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_
+ __De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)__ 10 planes
+
+
+|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+||||||
 
 1. Zona intermareal de punta Galduario a punta da Corna, BESP A pé; C.P. A Pobra do Caramiñal
 
@@ -108,7 +123,12 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Muros - Noia (MN)
 
- _De praia de Catia (42.261 N, 9.0554 W) ata punta Ínsua (42.771 N, 9.1266 W)_
+ __De praia de Catia (42.261 N, 9.0554 W) ata punta Ínsua (42.771 N, 9.1266 W)__ 3 planes
+
+
+|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+||||||
 
 1. Zonas de libre marisqueo entre Monte Louro e punta Uía, entre punta Ornanda e punta Aguieira e banco da Creba 2, BESP Embarcación; C.P. Noia, C.P. Muros, C.P. Porto do Son, C.P. Portosín, (plan conxunto)
 
@@ -120,7 +140,12 @@ __Zonas de producción no SIGREMAR:__
 
 ## Costa da Morte (CM)
 
- _De punta Ínsua (42.771 N, 9.1266 W) ata praia de Baldaio (43.292 N, 8.7016 W)_
+ __De punta Ínsua (42.771 N, 9.1266 W) ata praia de Baldaio (43.292 N, 8.7016 W)__ 8 planes
+
+
+|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+||||||
 
 1. Zonas de libre marisqueo do esteiro do río Anllóns, BESP A pé;
 
@@ -142,7 +167,12 @@ __Zonas de producción no SIGREMAR:__
 
 ## Coruña - Ferrol (CF)
 
- _De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)_
+ __De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)__ 10 planes
+
+
+|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+||||||
 
 1. Lagoas de Baldaio BESP A pé; A.M. Fonte Santa Helena-Baldaio
 
@@ -168,7 +198,12 @@ __Zonas de producción no SIGREMAR:__
 
 ## Costa Lucense (CL)
 
-  _De punta Frouxeira (43.62 N, 8.1893 W)  ata o rio EO (43.4721 N, 7.0566 W)_
+  __De punta Frouxeira (43.62 N, 8.1893 W)  ata o rio EO (43.4721 N, 7.0566 W)__ 14 planes
+
+
+|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+||||||
 
 1. Bancos de Fondás,Taro e Fontorto BESP A pé; A.M. San Cosme de Barreiros-Foz
 
