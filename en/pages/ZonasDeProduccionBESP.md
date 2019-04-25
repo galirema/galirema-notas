@@ -109,18 +109,14 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
+|Zonas de libre marisqueo do esteiro do río Anllóns, BESP|A pé;|A.M. Esteiro do río Anllóns|||
+|Desde punta Arnela ata a desembocadura do río Xallas (Ézaro), BESP|A pé;|C.P. Corcubión|||
 ||||||
 ||||||
 ||||||
 ||||||
 ||||||
 ||||||
-||||||
-||||||
-
-1. Zonas de libre marisqueo do esteiro do río Anllóns, BESP A pé;
-
-1. Desde punta Arnela ata a desembocadura do río Xallas (Ézaro), BESP A pé;
 
 1. Bancos infralitorais da praia de Langosteira, BESP Embarcación; C.P. Fisterra
 
