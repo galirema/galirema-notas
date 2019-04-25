@@ -76,36 +76,16 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-
-1. Zona intermareal de punta Galduario a punta da Corna, BESP A pé; C.P. A Pobra do Caramiñal
-
-1. De punta Quilme a Sapeiras de Terra (cara oeste e nordeste da illa), BESP A pé; C.P. A Illa de Arousa
-
-1. Liñas imaxinarias que unen punta Arruda con punta Laño, punta Carreirón con punta Cuña Alta (inclúe Roncadeiras, O Camallón,), de punta Quilme a Sapeiras de Terra (cara oeste e noroeste da illa), BESP Embarcación; C.P. A Illa de Arousa
-
-1. Do Rego do Alcalde (Lañeiras de Fóra) á baliza de Orido, Arnela-Galiñeiro, do peirao de Meloxo ata As Negreiriñas, BESP Embarcación C.P. Cambados
-
-1. Lombos do Ulla, praia Compostela-A Concha, BESP A pé; C.P. Carril
-
-1. As Malveiras, As Briñas, O Con e Corbeiro, BESP Embarcación; C.P. Carril
-
-1. Moreiras, Meloxo, Migalliñas, Rons, Cantodorxo, BESP Embarcación; C.P. O Grove
-
-1. Dique do Terrón, boia columna eléctrica, columna ponte, boia Lañeiras de Fóra, espicho rego do Alcalde, BESP Embarcación; "C.P. Vilanova
-
-1. Zona sublitoral entre a liña que une o regato Aduana ao illote Gorma e punta Borreiros,; de punta Borreiros ao peirao de Vilaxoán, de punta Castelete á punta Ferrazo, BESP Embarcación; C.P. Vilaxoán
-
-1. Banco marisqueiro de Cabío BESP Embarcación; C.P. A Pobra do Caramiñal  
+|Zona intermareal de punta Galduario a punta da Corna, BESP|A pé;|C.P. A Pobra do Caramiñal|||
+|De punta Quilme a Sapeiras de Terra (cara oeste e nordeste da illa), BESP|A pé;|C.P. A Illa de Arousa|||
+|Liñas imaxinarias que unen punta Arruda con punta Laño, punta Carreirón con punta Cuña Alta (inclúe Roncadeiras, O Camallón,), de punta Quilme a Sapeiras de Terra (cara oeste e noroeste da illa), BESP|Embarcación;|C.P. A Illa de Arousa|||
+|Do Rego do Alcalde (Lañeiras de Fóra) á baliza de Orido, Arnela-Galiñeiro, do peirao de Meloxo ata As Negreiriñas, BESP|Embarcación;|C.P. Cambados|||
+|Lombos do Ulla, praia Compostela-A Concha, BESP|A pé;|C.P. Carril|||
+|As Malveiras, As Briñas, O Con e Corbeiro, BESP|Embarcación;|C.P. Carril|||
+|Moreiras, Meloxo, Migalliñas, Rons, Cantodorxo, BESP|Embarcación;|C.P. O Grove|||
+|Dique do Terrón, boia columna eléctrica, columna ponte, boia Lañeiras de Fóra, espicho rego do Alcalde, BESP|Embarcación;|C.P. Vilanova|||
+|Zona sublitoral entre a liña que une o regato Aduana ao illote Gorma e punta Borreiros,; de punta Borreiros ao peirao de Vilaxoán, de punta Castelete á punta Ferrazo, BESP|Embarcación;|C.P. Vilaxoán|||
+|Banco marisqueiro de Cabío BESP|Embarcación;|C.P. A Pobra do Caramiñal|||
 
 
 
