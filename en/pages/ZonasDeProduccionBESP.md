@@ -59,24 +59,13 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
+|Entre punta Faxilda e punta Samieira (Raxó), entre punta de Debaixo dos Pinos (Marín), punta Preguntoiro, entre praia Alada e Punta Couso,; BESP|Endeño remolcado;|C.P. Bueu|||
+|Exterior do arquipélago das illas Ons: ao oeste das illas Ons e Onza, por fóra dos límites do Parque Nacional das Illas Atlánticas, BESP|Rastro de vieira ou voandeira; (para rabioso),|C.P. Bueu|||
+|De punta Cabicastro a punta Santa Mariña, da esquina noroeste do convento sito en punta Praceres ata punta Couso, illas Ons e Onza, BESP|Embarcación;|C.P. Bueu, C.P. Portonovo, C.P. Aldán-O Hio, (plan conxunto)|||
+|Zonas intermareais incluídas na parte interna da liña imaxinaria que une punta Santa Mariña, na beira norte da ría de Pontevedra, coa esquina noroeste do convento sito na punta Praceres, na zona sur da ría, e desde este punto ata o faro verde da escollera da canalización do río Lérez BESP|A pé;|C.P. Pontevedra, C.P. Lourizán, C.P. Raxó, (plan conxunto)|||
+|Parte interna da liña imaxinaria que une punta Santa Mariña, na beira norte da ría de Pontevedra, coa esquina noroeste do convento sito en punta Praceres, na zona sur da ría, desde punto ata o faro verde do dique da canalización do río Lérez, BESP|Embarcación;|C.P. Pontevedra, C.P. Lourizán, C.P. Raxó, C.P. Sanxenxo, C.P. Marín, (plan conxunto)|||
+|De punta Preguntoiro e punta Morcegos cara ao interior da ría de Aldán BESP|A pé;|C.P. Aldán-O Hío|||
 
-1. Entre punta Faxilda e punta Samieira (Raxó), entre punta de Debaixo dos Pinos (Marín), punta Preguntoiro, entre praia Alada e Punta Couso,; BESP Endeño remolcado; C.P. Bueu
-
-1. Exterior do arquipélago das illas Ons: ao oeste das illas Ons e Onza, por fóra dos límites do Parque Nacional das Illas Atlánticas, BESP Rastro de vieira ou voandeira; (para rabioso), C.P. Bueu
-
-1. De punta Cabicastro a punta Santa Mariña, da esquina noroeste do convento sito en punta Praceres ata punta Couso, illas Ons e Onza, BESP Embarcación; C.P. Bueu, C.P. Portonovo, C.P. Aldán-O Hio, (plan conxunto)
-
-1. Zonas intermareais incluídas na parte interna da liña imaxinaria que une punta Santa Mariña, na beira norte da ría de Pontevedra, coa esquina noroeste do convento sito na punta Praceres, na zona sur da ría, e desde este punto ata o faro verde da escollera da canalización do río Lérez BESP A pé; C.P. Pontevedra, C.P. Lourizán, C.P. Raxó, (plan conxunto)
-
-1. Parte interna da liña imaxinaria que une punta Santa Mariña, na beira norte da ría de Pontevedra, coa esquina noroeste do convento sito en punta Praceres, na zona sur da ría, desde punto ata o faro verde do dique da canalización do río Lérez, BESP Embarcación; C.P. Pontevedra, C.P. Lourizán, C.P. Raxó, C.P. Sanxenxo, C.P. Marín, (plan conxunto)
-
-1. De punta Preguntoiro e punta Morcegos cara ao interior da ría de Aldán BESP A pé; C.P. Aldán-Hío
 
 
 
