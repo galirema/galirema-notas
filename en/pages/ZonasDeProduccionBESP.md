@@ -76,7 +76,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Zona intermareal de punta Galduario a punta da Corna, BESP|A pé;|C.P. A Pobra do Caramiñal|||
+|Zona intermareal de punta Galduario a punta da Corna, BESP|A pé;|C.P. A Pobra do Caramiñal|2008067, 2014055, 2015056, 2016055, __2017054__, 2018055, 2019058,|(AR-138),|
 |De punta Quilme a Sapeiras de Terra (cara oeste e nordeste da illa), BESP|A pé;|C.P. A Illa de Arousa|||
 |Liñas imaxinarias que unen punta Arruda con punta Laño, punta Carreirón con punta Cuña Alta (inclúe Roncadeiras, O Camallón,), de punta Quilme a Sapeiras de Terra (cara oeste e noroeste da illa), BESP|Embarcación;|C.P. A Illa de Arousa|||
 |Do Rego do Alcalde (Lañeiras de Fóra) á baliza de Orido, Arnela-Galiñeiro, do peirao de Meloxo ata As Negreiriñas, BESP|Embarcación;|C.P. Cambados|||
@@ -132,8 +132,8 @@ __Zonas de producción no SIGREMAR:__
 |Lagoas de Baldaio BESP|A pé;|A.M. Fonte Santa Helena-Baldaio|2008064, 2014051, 2015052, 2016051, __2017050__, 2018051, 2019052,|(CF-046), (CF-043), (CF-041), (CF-045), (CF-044),|
 |Banco do Parrote, Valiña (barra da praia de Santa Cristina), praia de Oza, BESP|Embarcación;|C.P. A Coruña|2014053, 2015054, 2016053, __2017052__, 2018053, 2019055,|(CF-022), (CF-020), (CF-021),|
 |Zonas de libre marisqueo da ría do Burgo BESP|A pé; Embarcación;|C.P. A Coruña|2014054, 2015055, 2016054, __2017053__, 2018054, 2019057, 2019056,|-A Pé: (CF-011), (CF-012), (CF-015), (CF-017), (CF-013), (CF-014), (CF-019), (CF-016), (CF-018), (CF-318),; -Dende embarcación: (CF-010-1), (CF-010-II),;|
-|Zonas de libre marisqueo da ría do Burgo, A Pasaxe e O Parrote BESP|A pé; Embarcación;|C.P. A Coruña|||
-|Zona intermareal desde San Valentín ata a desembocadura do río Belelle, BESP|A pé;|C.P. Barallobre|||
+|Zonas de libre marisqueo da ría do Burgo, A Pasaxe e O Parrote BESP|A pé; Embarcación;|C.P. A Coruña|__2008066__,|Parte externa da Ría de O Burgo (dende a Praia de Oza ata a ponte do Pasaxe) e Banco de O Parrote|
+|Zona intermareal desde San Valentín ata a desembocadura do río Belelle, BESP|A pé;|C.P. Barallobre|2014056, 2015057, 2016056, __2017055__, 2018056, 2019059,|(CF-142),|
 |Praia de Vilarrube, (coquina) BESP|A pé;|C.P. Cedeira|||
 |Praia da Madalena e a enseada de Esteiro, (Berberecho) BESP|A pé;|C.P. Cedeira|||
 |Zona comprendida entre a liña imaxinaria de Monte Ventoso a punta Segaño ata a liña imaxinaria que une o peirao da praia de Caranza co peirao de Astano, BESP|A pé; Embarcación;|C.P. Ferrol, C.P. Barabllobre, (plan conxunto)|||
@@ -150,7 +150,7 @@ __Zonas de producción no SIGREMAR:__
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |Bancos de Fondás,Taro e Fontorto BESP,|A pé;|A.M. San Cosme de Barreiros-Foz|2008051, 2008049, 2008048, 2014045, 2015047, 2016047, __2017046__, 2018047, 2019048,|(CL-163), (CL-167), (CL-170),|
-|Praia do Altar, BESP,|A pé;|A.M. San Cosme de Barreiros-Foz|2008050, 2014046,|(CL-172),|
+|Praia do Altar, BESP,|A pé;|A.M. San Cosme de Barreiros-Foz|2008050, __2014046__,|(CL-172),|
 |Ría de Viveiro (Entre a ponte do tren ata a canle do porto de Celeiro; Entrepontes; ...), BESP,|A pé;|C.P. Celeiro|2008052, 2014047, 2015048, 2016048, __2017047__, 2018048, 2019049,|(CL-141), (CL-142), (CL-143), (CL-145), (CL-146), (CL-148), (CL-177),|
 |Desde debaixo das pontes ata o Rego Seco, illa San Martiño, praia de Villabril, praia de Moledos, praia de Fomento, Vicedo Vello, BESP,|A pé;|C.P. O Vicedo|2008056, 2014048, 2015049, 2016049, __2017048__, 2018049, 2019050,|(CL-108), (CL-109), (CL-110), (CL-111), (CL-112), (CL-113), (CL-114), (CL-115), (CL-116), (CL-174),|
 |Ría de Viveiro, BESP,|Embarcación;|C.P. Celeiro|__2008053__,|Ría de Viveiro|
