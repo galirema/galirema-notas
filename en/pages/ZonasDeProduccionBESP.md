@@ -129,36 +129,16 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-
-1. Lagoas de Baldaio BESP A pé; A.M. Fonte Santa Helena-Baldaio
-
-1. Banco do Parrote, Valiña (barra da praia de Santa Cristina), praia de Oza, BESP Embarcación; C.P. A Coruña
-
-1. Zonas de libre marisqueo da ría do Burgo BESP A pé; Embarcación; C.P. A Coruña
-
-1. Zonas de libre marisqueo da ría do Burgo, A Pasaxe e O Parrote BESP A pé; Embarcación; C.P. A Coruña
-
-1. Zona intermareal desde San Valentín ata a desembocadura do río Belelle, BESP A pé; C.P. Barallobre
-
-1. Praia de Vilarrube, BESP A pé; C.P. Cedeira (coquina)
-
-1. Praia da Madalena e a enseada de Esteiro BESP A pé; C.P. Cedeira (Berberecho)
-
-1. Zona comprendida entre a liña imaxinaria de Monte Ventoso a punta Segaño ata a liña imaxinaria que une o peirao da praia de Caranza co peirao de Astano, BESP A pé; Embarcación; C.P. Ferrol, C.P. Barabllobre, (plan conxunto)
-
-1. Zona media da ría comprendida entre a liña imaxinaria que une punta dos Castros e punta Caranza (agás as enseadas de Caranza, Cabana-A Malata,) a liña imaxinaria que une punta Redonda, e punta do Vispón, BESP, Rastro de vieira ou voandeira; C.P. Ferrol, C.P. Mugardos, C.P. Barallobre, (plan conxunto)
-
-1. Ponte do Porco, río Bañobre, punta Cabana e praia do Pedrido, e de punta Curbeiroa a punta Mauruxo BESP A pé; Embarcación; C.P. Miño
+|Lagoas de Baldaio BESP|A pé;|A.M. Fonte Santa Helena-Baldaio|||
+|Banco do Parrote, Valiña (barra da praia de Santa Cristina), praia de Oza, BESP|Embarcación;|C.P. A Coruña|||
+|Zonas de libre marisqueo da ría do Burgo BESP|A pé; Embarcación;|C.P. A Coruña|||
+|Zonas de libre marisqueo da ría do Burgo, A Pasaxe e O Parrote BESP|A pé; Embarcación;|C.P. A Coruña|||
+|Zona intermareal desde San Valentín ata a desembocadura do río Belelle, BESP|A pé;|C.P. Barallobre|||
+|Praia de Vilarrube, (coquina) BESP|A pé;|C.P. Cedeira|||
+|Praia da Madalena e a enseada de Esteiro, (Berberecho) BESP|A pé;|C.P. Cedeira|||
+|Zona comprendida entre a liña imaxinaria de Monte Ventoso a punta Segaño ata a liña imaxinaria que une o peirao da praia de Caranza co peirao de Astano, BESP|A pé; Embarcación;|C.P. Ferrol, C.P. Barabllobre, (plan conxunto)|||
+|Zona media da ría comprendida entre a liña imaxinaria que une punta dos Castros e punta Caranza (agás as enseadas de Caranza, Cabana-A Malata,) a liña imaxinaria que une punta Redonda, e punta do Vispón, BESP,|Rastro de vieira ou voandeira;|C.P. Ferrol, C.P. Mugardos, C.P. Barallobre, (plan conxunto)|||
+|Ponte do Porco, río Bañobre, punta Cabana e praia do Pedrido, e de punta Curbeiroa a punta Mauruxo, BESP|A pé; Embarcación;|C.P. Miño|||
 
 
 
