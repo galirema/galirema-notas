@@ -152,10 +152,10 @@ __Zonas de producción no SIGREMAR:__
 |Bancos de Fondás,Taro e Fontorto BESP,|A pé;|A.M. San Cosme de Barreiros-Foz|2008051, 2008049, 2008048, 2014045, 2015047, 2016047, 2017046, 2018047, 2019048,|(CL-163), (CL-167), (CL-170),|
 |Praia do Altar, BESP,|A pé;|A.M. San Cosme de Barreiros-Foz|2008050, 2014046,|(CL-172),|
 |Ría de Viveiro (Entre a ponte do tren ata a canle do porto de Celeiro; Entrepontes; ...), BESP,|A pé;|C.P. Celeiro|2008052, 2014047, 2015048, 2016048, 2017047, 2018048, 2019049,|(CL-141), (CL-142), (CL-143), (CL-145), (CL-146), (CL-148), (CL-177),|
-|Desde debaixo das pontes ata o Rego Seco, illa San Martiño, praia de Villabril, praia de Moledos, praia de Fomento, Vicedo Vello, BESP,|A pé;|C.P. O Vicedo|||
-|Ría de Viveiro, BESP,|Embarcación;|C.P. Celeiro|||
-|Praia da Abrela, BESP,|A pé;|C.P. Celeiro e O Vicedo (plan conxunto)|||
-|Vicedo, BESP,|A pé;|C.P. O Vicedo|||
+|Desde debaixo das pontes ata o Rego Seco, illa San Martiño, praia de Villabril, praia de Moledos, praia de Fomento, Vicedo Vello, BESP,|A pé;|C.P. O Vicedo|2008056, 2014048, 2015049, 2016049, 2017048, 2018049, 2019050,|(CL-108), (CL-109), (CL-110), (CL-111), (CL-112), (CL-113), (CL-114), (CL-115), (CL-116), (CL-174),|
+|Ría de Viveiro, BESP,|Embarcación;|C.P. Celeiro|2008053,|Ría de Viveiro|
+|Praia da Abrela, BESP,|A pé;|C.P. Celeiro, C.P. O Vicedo, (plan conxunto)|2008054,|(CL-120),|
+|Praia de Villabril, BESP,|A pé;|C.P. O Vicedo|2008055,|Praia de Villabril|
 |Lombo das Navallas, BESP,|A pé;|C.P. O Vicedo e O Barqueiro (plan conxunto)|||
 |Canle da desembocadura do río Sor, agás as zonas de autorización, BESP,|A pé;|C.P. O Vicedo e O Barqueiro (plan conxunto)|||
 |Ría de Ribadeo, BESP,|A pé;|C.P. Ribadeo|||
