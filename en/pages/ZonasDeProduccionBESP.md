@@ -109,7 +109,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Zonas de libre marisqueo do esteiro do río Anllóns, BESP|A pé;|A.M. Esteiro do río Anllóns|||
+|Zonas de libre marisqueo do esteiro do río Anllóns, BESP|A pé;|A.M. Esteiro do río Anllóns|2008065, 2014052, 2015053, 2016052, 2017051, 2018052, 2019053,|(CM-094), (CM-095), (CM-092), (CM-126), (CM-128),|
 |Desde punta Arnela ata a desembocadura do río Xallas (Ézaro), BESP|A pé;|C.P. Corcubión|||
 |Bancos infralitorais da praia de Langosteira, BESP|Embarcación;|C.P. Fisterra|||
 |De punta Insua a punta Larada, BESP|A pé;|C.P. Lira (gasterópdos)|||
@@ -129,7 +129,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Lagoas de Baldaio BESP|A pé;|A.M. Fonte Santa Helena-Baldaio|||
+|Lagoas de Baldaio BESP|A pé;|A.M. Fonte Santa Helena-Baldaio|2008064, 2014051, 2015052, 2016051, 2017050, 2018051, 2019052,|(CF-046), (CF-043), (CF-041), (CF-045), (CF-044),|
 |Banco do Parrote, Valiña (barra da praia de Santa Cristina), praia de Oza, BESP|Embarcación;|C.P. A Coruña|||
 |Zonas de libre marisqueo da ría do Burgo BESP|A pé; Embarcación;|C.P. A Coruña|||
 |Zonas de libre marisqueo da ría do Burgo, A Pasaxe e O Parrote BESP|A pé; Embarcación;|C.P. A Coruña|||
