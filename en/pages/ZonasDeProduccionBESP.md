@@ -149,48 +149,20 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-
-1. Bancos de Fondás,Taro e Fontorto BESP A pé; A.M. San Cosme de Barreiros-Foz
-
-1. Praia do Altar BESP A pé; A.M. San Cosme de Barreiros-Foz
-
-1. Ría de Viveiro (Entre a ponte do tren ata a canle do porto de Celeiro; Entrepontes; ...) BESP A pé; C.P. Celeiro
-
-1. Desde debaixo das pontes ata o Rego Seco, illa San Martiño, praia de Villabril, praia de Moledos, praia de Fomento, Vicedo Vello, BESP A pé; C.P. O Vicedo
-
-1. Ría de Viveiro BESP Embarcación; C.P. Celeiro
-
-1. Praia da Abrela BESP A pé; C.P. Celeiro e O Vicedo (plan conxunto)
-
-1. Vicedo BESP A pé; C.P. O Vicedo
-
-1. Lombo das Navallas BESP A pé; C.P. O Vicedo e O Barqueiro (plan conxunto)
-
-1. Canle da desembocadura do río Sor, agás as zonas de autorización BESP A pé; C.P. O Vicedo e O Barqueiro (plan conxunto)
-
-1. Ría de Ribadeo BESP 
-
-1. Da ermida de San Tirso a punta Rueta BESP A pé; C.P. San Cibrao
-
-1. Praias de Figueiras, dos Cabalos, de Cariño BESP A pé; C.P. Cariño
-
-1. Enseada de Ladrido (ría de Ortigueira), da punta do espigón do porto de Ortigueira ata a depuradora, BESP A pé; C.P. Espasante
-
-1. Praia de Vilela BESP A pé; C.P. O Barqueiro
+|Bancos de Fondás,Taro e Fontorto BESP,|A pé;|A.M. San Cosme de Barreiros-Foz|||
+|Praia do Altar, BESP,|A pé;|A.M. San Cosme de Barreiros-Foz|||
+|Ría de Viveiro (Entre a ponte do tren ata a canle do porto de Celeiro; Entrepontes; ...), BESP,|A pé;|C.P. Celeiro|||
+|Desde debaixo das pontes ata o Rego Seco, illa San Martiño, praia de Villabril, praia de Moledos, praia de Fomento, Vicedo Vello, BESP,|A pé;|C.P. O Vicedo|||
+|Ría de Viveiro, BESP,|Embarcación;|C.P. Celeiro|||
+|Praia da Abrela, BESP,|A pé;|C.P. Celeiro e O Vicedo (plan conxunto)|||
+|Vicedo, BESP,|A pé;|C.P. O Vicedo|||
+|Lombo das Navallas, BESP,|A pé;|C.P. O Vicedo e O Barqueiro (plan conxunto)|||
+|Canle da desembocadura do río Sor, agás as zonas de autorización, BESP,|A pé;|C.P. O Vicedo e O Barqueiro (plan conxunto)|||
+|Ría de Ribadeo, BESP,|A pé;|C.P. Ribadeo|||
+|Da ermida de San Tirso a punta Rueta, BESP,|A pé;|C.P. San Cibrao|||
+|Praias de Figueiras, dos Cabalos, de Cariño, BESP,|A pé;|C.P. Cariño|||
+|Enseada de Ladrido (ría de Ortigueira), da punta do espigón do porto de Ortigueira ata a depuradora, BESP,|A pé;|C.P. Espasante|||
+|Praia de Vilela, BESP,|A pé;|C.P. O Barqueiro|||
 
 
 [Indice](indicesZonasProduccion.md)
