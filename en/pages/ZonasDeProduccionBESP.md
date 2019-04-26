@@ -111,24 +111,14 @@ __Zonas de producción no SIGREMAR:__
 |---|---------|-------|----------|--------------|
 |Zonas de libre marisqueo do esteiro do río Anllóns, BESP|A pé;|A.M. Esteiro do río Anllóns|||
 |Desde punta Arnela ata a desembocadura do río Xallas (Ézaro), BESP|A pé;|C.P. Corcubión|||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
+|Bancos infralitorais da praia de Langosteira, BESP|Embarcación;|C.P. Fisterra|||
+|De punta Insua a punta Larada, BESP|A pé;|C.P. Lira (gasterópdos)|||
+|Praia da Berberecheira, Praia  da Lagoa, Praia de Portocubelo, BESP|A pé;|C.P. Lira, C.P. O Pindo, (plan conxunto)|||
+|Da desembocadura do río Xallas ata a desembocadura do río Larada, BESP|A pé;|C.P. O Pindo|||
+|Zona V, agás no ámbito da reserva mariña de interese pesqueiro Os Miñarzos BESP|Endeño remolcado;|C.P. Corcubión, C.P. Fisterra (plan conxunto)|||
+|Zona rochosa de punta Nariga á enseada do río Anllóns BESP|A pé;|C.P. Corme|||
 
-1. Bancos infralitorais da praia de Langosteira, BESP Embarcación; C.P. Fisterra
-
-1. De punta Insua a punta Larada, BESP A pé; C.P. Lira (gasterópdos)
-
-1. Praia da Berberecheira, Praia  da Lagoa, Praia de Portocubelo, BESP A pé;C.P. Lira, C.P. O Pindo, (plan conxunto)
-
-1. Da desembocadura do río Xallas ata a desembocadura do río Larada, BESP A pé; C.P. O Pindo
-
-1. Zona V, agás no ámbito da reserva mariña de interese pesqueiro Os Miñarzos BESP Endeño remolcado; C.P. Corcubión, C.P. Fisterra (plan conxunto)
-
-1. Zona rochosa de punta Nariga á enseada do río Anllóns BESP A pé; C.P. Corme
+  
 
 
 
