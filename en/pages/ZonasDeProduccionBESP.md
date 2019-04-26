@@ -109,7 +109,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Zonas de libre marisqueo do esteiro do río Anllóns, BESP|A pé;|A.M. Esteiro do río Anllóns|2008065, 2014052, 2015053, 2016052, 2017051, 2018052, 2019053,|(CM-094), (CM-095), (CM-092), (CM-126), (CM-128),|
+|Zonas de libre marisqueo do esteiro do río Anllóns, BESP|A pé;|A.M. Esteiro do río Anllóns|2008065, 2014052, 2015053, 2016052, __2017051__, 2018052, 2019053,|(CM-094), (CM-095), (CM-092), (CM-126), (CM-128),|
 |Desde punta Arnela ata a desembocadura do río Xallas (Ézaro), BESP|A pé;|C.P. Corcubión|||
 |Bancos infralitorais da praia de Langosteira, BESP|Embarcación;|C.P. Fisterra|||
 |De punta Insua a punta Larada, BESP|A pé;|C.P. Lira (gasterópdos)|||
@@ -129,9 +129,9 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Lagoas de Baldaio BESP|A pé;|A.M. Fonte Santa Helena-Baldaio|2008064, 2014051, 2015052, 2016051, 2017050, 2018051, 2019052,|(CF-046), (CF-043), (CF-041), (CF-045), (CF-044),|
-|Banco do Parrote, Valiña (barra da praia de Santa Cristina), praia de Oza, BESP|Embarcación;|C.P. A Coruña|||
-|Zonas de libre marisqueo da ría do Burgo BESP|A pé; Embarcación;|C.P. A Coruña|||
+|Lagoas de Baldaio BESP|A pé;|A.M. Fonte Santa Helena-Baldaio|2008064, 2014051, 2015052, 2016051, __2017050__, 2018051, 2019052,|(CF-046), (CF-043), (CF-041), (CF-045), (CF-044),|
+|Banco do Parrote, Valiña (barra da praia de Santa Cristina), praia de Oza, BESP|Embarcación;|C.P. A Coruña|2014053, 2015054, 2016053, __2017052__, 2018053, 2019055,|(CF-022), (CF-020), (CF-021),|
+|Zonas de libre marisqueo da ría do Burgo BESP|A pé; Embarcación;|C.P. A Coruña|2014054, 2015055, 2016054, __2017053__, 2018054, 2019057, 2019056,|-A Pé: (CF-011), (CF-012), (CF-015), (CF-017), (CF-013), (CF-014), (CF-019), (CF-016), (CF-018), (CF-318),; -Dende embarcación: (CF-010-1), (CF-010-II),;|
 |Zonas de libre marisqueo da ría do Burgo, A Pasaxe e O Parrote BESP|A pé; Embarcación;|C.P. A Coruña|||
 |Zona intermareal desde San Valentín ata a desembocadura do río Belelle, BESP|A pé;|C.P. Barallobre|||
 |Praia de Vilarrube, (coquina) BESP|A pé;|C.P. Cedeira|||
@@ -149,17 +149,17 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Bancos de Fondás,Taro e Fontorto BESP,|A pé;|A.M. San Cosme de Barreiros-Foz|2008051, 2008049, 2008048, 2014045, 2015047, 2016047, 2017046, 2018047, 2019048,|(CL-163), (CL-167), (CL-170),|
+|Bancos de Fondás,Taro e Fontorto BESP,|A pé;|A.M. San Cosme de Barreiros-Foz|2008051, 2008049, 2008048, 2014045, 2015047, 2016047, __2017046__, 2018047, 2019048,|(CL-163), (CL-167), (CL-170),|
 |Praia do Altar, BESP,|A pé;|A.M. San Cosme de Barreiros-Foz|2008050, 2014046,|(CL-172),|
-|Ría de Viveiro (Entre a ponte do tren ata a canle do porto de Celeiro; Entrepontes; ...), BESP,|A pé;|C.P. Celeiro|2008052, 2014047, 2015048, 2016048, 2017047, 2018048, 2019049,|(CL-141), (CL-142), (CL-143), (CL-145), (CL-146), (CL-148), (CL-177),|
-|Desde debaixo das pontes ata o Rego Seco, illa San Martiño, praia de Villabril, praia de Moledos, praia de Fomento, Vicedo Vello, BESP,|A pé;|C.P. O Vicedo|2008056, 2014048, 2015049, 2016049, 2017048, 2018049, 2019050,|(CL-108), (CL-109), (CL-110), (CL-111), (CL-112), (CL-113), (CL-114), (CL-115), (CL-116), (CL-174),|
-|Ría de Viveiro, BESP,|Embarcación;|C.P. Celeiro|2008053,|Ría de Viveiro|
-|Praia da Abrela, BESP,|A pé;|C.P. Celeiro, C.P. O Vicedo, (plan conxunto)|2008054,|(CL-120),|
-|Praia de Villabril, BESP,|A pé;|C.P. O Vicedo|2008055,|Praia de Villabril|
-|Lombo das Navallas, BESP,|A pé;|C.P. O Vicedo e O Barqueiro (plan conxunto)|2008057,|(CL-118),|
-|Canle da desembocadura do río Sor, agás as zonas de autorización, BESP,|A pé;|C.P. O Vicedo e O Barqueiro (plan conxunto)|2008058,|Dende abaixo das pontes ata o Rego Seco, Dende Souto da Ribeira a Punta da Barra,|
-|Ría de Ribadeo, BESP,|A pé;|C.P. Ribadeo|2008061, 2008060, 2008059, 2014049, 2015050, 2016050, 2017049, 2018050, 2019051,|(CL-157), (CL-155), (CL-161), (CL-154), (CL-158), (CL-153), (CL-122),|
-|Da ermida de San Tirso a punta Rueta, BESP,|A pé;|C.P. San Cibrao|2008063, 2008062, 2014050, 2015051,|Da ermida de San Tirso a punta Rueta,|
+|Ría de Viveiro (Entre a ponte do tren ata a canle do porto de Celeiro; Entrepontes; ...), BESP,|A pé;|C.P. Celeiro|2008052, 2014047, 2015048, 2016048, __2017047__, 2018048, 2019049,|(CL-141), (CL-142), (CL-143), (CL-145), (CL-146), (CL-148), (CL-177),|
+|Desde debaixo das pontes ata o Rego Seco, illa San Martiño, praia de Villabril, praia de Moledos, praia de Fomento, Vicedo Vello, BESP,|A pé;|C.P. O Vicedo|2008056, 2014048, 2015049, 2016049, __2017048__, 2018049, 2019050,|(CL-108), (CL-109), (CL-110), (CL-111), (CL-112), (CL-113), (CL-114), (CL-115), (CL-116), (CL-174),|
+|Ría de Viveiro, BESP,|Embarcación;|C.P. Celeiro|__2008053__,|Ría de Viveiro|
+|Praia da Abrela, BESP,|A pé;|C.P. Celeiro, C.P. O Vicedo, (plan conxunto)|__2008054__,|(CL-120),|
+|Praia de Villabril, BESP,|A pé;|C.P. O Vicedo|__2008055__,|Praia de Villabril|
+|Lombo das Navallas, BESP,|A pé;|C.P. O Vicedo e O Barqueiro (plan conxunto)|__2008057__,|(CL-118),|
+|Canle da desembocadura do río Sor, agás as zonas de autorización, BESP,|A pé;|C.P. O Vicedo e O Barqueiro (plan conxunto)|__2008058__,|Dende abaixo das pontes ata o Rego Seco, Dende Souto da Ribeira a Punta da Barra,|
+|Ría de Ribadeo, BESP,|A pé;|C.P. Ribadeo|2008061, 2008060, 2008059, 2014049, 2015050, 2016050, __2017049__, 2018050, 2019051,|(CL-157), (CL-155), (CL-161), (CL-154), (CL-158), (CL-153), (CL-122),|
+|Da ermida de San Tirso a punta Rueta, BESP,|A pé;|C.P. San Cibrao|2008063, 2008062, 2014050, __2015051__,|Da ermida de San Tirso a punta Rueta,|
 |Praias de Figueiras, dos Cabalos, de Cariño, BESP,|A pé;|C.P. Cariño|||
 |Enseada de Ladrido (ría de Ortigueira), da punta do espigón do porto de Ortigueira ata a depuradora, BESP,|A pé;|C.P. Espasante|||
 |Praia de Vilela, BESP,|A pé;|C.P. O Barqueiro|||
