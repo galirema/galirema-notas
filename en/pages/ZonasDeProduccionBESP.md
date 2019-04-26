@@ -156,10 +156,10 @@ __Zonas de producción no SIGREMAR:__
 |Ría de Viveiro, BESP,|Embarcación;|C.P. Celeiro|2008053,|Ría de Viveiro|
 |Praia da Abrela, BESP,|A pé;|C.P. Celeiro, C.P. O Vicedo, (plan conxunto)|2008054,|(CL-120),|
 |Praia de Villabril, BESP,|A pé;|C.P. O Vicedo|2008055,|Praia de Villabril|
-|Lombo das Navallas, BESP,|A pé;|C.P. O Vicedo e O Barqueiro (plan conxunto)|||
-|Canle da desembocadura do río Sor, agás as zonas de autorización, BESP,|A pé;|C.P. O Vicedo e O Barqueiro (plan conxunto)|||
-|Ría de Ribadeo, BESP,|A pé;|C.P. Ribadeo|||
-|Da ermida de San Tirso a punta Rueta, BESP,|A pé;|C.P. San Cibrao|||
+|Lombo das Navallas, BESP,|A pé;|C.P. O Vicedo e O Barqueiro (plan conxunto)|2008057,|(CL-118),|
+|Canle da desembocadura do río Sor, agás as zonas de autorización, BESP,|A pé;|C.P. O Vicedo e O Barqueiro (plan conxunto)|2008058,|Dende abaixo das pontes ata o Rego Seco, Dende Souto da Ribeira a Punta da Barra,|
+|Ría de Ribadeo, BESP,|A pé;|C.P. Ribadeo|2008061, 2008060, 2008059, 2014049, 2015050, 2016050, 2017049, 2018050, 2019051,|(CL-157), (CL-155), (CL-161), (CL-154), (CL-158), (CL-153), (CL-122),|
+|Da ermida de San Tirso a punta Rueta, BESP,|A pé;|C.P. San Cibrao|2008063, 2008062, 2014050, 2015051,|Da ermida de San Tirso a punta Rueta,|
 |Praias de Figueiras, dos Cabalos, de Cariño, BESP,|A pé;|C.P. Cariño|||
 |Enseada de Ladrido (ría de Ortigueira), da punta do espigón do porto de Ortigueira ata a depuradora, BESP,|A pé;|C.P. Espasante|||
 |Praia de Vilela, BESP,|A pé;|C.P. O Barqueiro|||
