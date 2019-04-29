@@ -134,8 +134,6 @@ __Zonas de producción no SIGREMAR:__
 |Zonas de libre marisqueo da ría do Burgo BESP|A pé; Embarcación;|C.P. A Coruña|2014054, 2015055, 2016054, __2017053__, 2018054, 2019057, 2019056,|-A Pé: (CF-011), (CF-012), (CF-015), (CF-017), (CF-013), (CF-014), (CF-019), (CF-016), (CF-018), (CF-318),; -Dende embarcación: (CF-010-1), (CF-010-II),;|
 |Zonas de libre marisqueo da ría do Burgo, A Pasaxe e O Parrote BESP|A pé; Embarcación;|C.P. A Coruña|__2008066__,|Parte externa da Ría de O Burgo (dende a Praia de Oza ata a ponte do Pasaxe) e Banco de O Parrote|
 |Zona intermareal desde San Valentín ata a desembocadura do río Belelle, BESP|A pé;|C.P. Barallobre|2014056, 2015057, 2016056, __2017055__, 2018056, 2019059,|(CF-142),|
-|Praia de Vilarrube, (coquina) BESP|A pé;|C.P. Cedeira|||
-|Praia da Madalena e a enseada de Esteiro, (Berberecho) BESP|A pé;|C.P. Cedeira|||
 |Zona comprendida entre a liña imaxinaria de Monte Ventoso a punta Segaño ata a liña imaxinaria que une o peirao da praia de Caranza co peirao de Astano, BESP|A pé; Embarcación;|C.P. Ferrol, C.P. Barabllobre, (plan conxunto)|||
 |Zona media da ría comprendida entre a liña imaxinaria que une punta dos Castros e punta Caranza (agás as enseadas de Caranza, Cabana-A Malata,) a liña imaxinaria que une punta Redonda, e punta do Vispón, BESP,|Rastro de vieira ou voandeira;|C.P. Ferrol, C.P. Mugardos, C.P. Barallobre, (plan conxunto)|||
 |Ponte do Porco, río Bañobre, punta Cabana e praia do Pedrido, e de punta Curbeiroa a punta Mauruxo, BESP|A pé; Embarcación;|C.P. Miño|||
@@ -160,6 +158,8 @@ __Zonas de producción no SIGREMAR:__
 |Canle da desembocadura do río Sor, agás as zonas de autorización, BESP,|A pé;|C.P. O Vicedo e O Barqueiro (plan conxunto)|__2008058__,|Dende abaixo das pontes ata o Rego Seco, Dende Souto da Ribeira a Punta da Barra,|
 |Ría de Ribadeo, BESP,|A pé;|C.P. Ribadeo|2008061, 2008060, 2008059, 2014049, 2015050, 2016050, __2017049__, 2018050, 2019051,|(CL-157), (CL-155), (CL-161), (CL-154), (CL-158), (CL-153), (CL-122),|
 |Da ermida de San Tirso a punta Rueta, BESP,|A pé;|C.P. San Cibrao|2008063, 2008062, 2014050, __2015051__,|Da ermida de San Tirso a punta Rueta,|
+|Praia de Vilarrube, (coquina) BESP|A pé;|C.P. Cedeira|2008070, 2015059, 2016058, __2017056__, 2018057, 2019060,|(CL-096),|
+|Praia da Madalena e a enseada de Esteiro, (Berberecho) BESP|A pé;|C.P. Cedeira|||
 |Praias de Figueiras, dos Cabalos, de Cariño, BESP,|A pé;|C.P. Cariño|||
 |Enseada de Ladrido (ría de Ortigueira), da punta do espigón do porto de Ortigueira ata a depuradora, BESP,|A pé;|C.P. Espasante|||
 |Praia de Vilela, BESP,|A pé;|C.P. O Barqueiro|||
