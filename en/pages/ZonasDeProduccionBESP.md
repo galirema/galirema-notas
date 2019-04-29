@@ -111,7 +111,7 @@ __Zonas de producción no SIGREMAR:__
 |---|---------|-------|----------|--------------|
 |Zonas de libre marisqueo do esteiro do río Anllóns, BESP|A pé;|A.M. Esteiro do río Anllóns|2008065, 2014052, 2015053, 2016052, __2017051__, 2018052, 2019053,|(CM-094), (CM-095), (CM-092), (CM-126), (CM-128),|
 |Desde punta Arnela ata a desembocadura do río Xallas (Ézaro), BESP|A pé;|C.P. Corcubión|2008073, 2008072, 2014058, 2015061, 2016060, __2017058__, 2018059, 2019062,|(CM-078), (CM-145), (CM-076), (CM-079), (CM-044), (CM-045), (CM-046), (CM-047), (CM-048),|
-|Bancos infralitorais da praia de Langosteira, BESP|Embarcación;|C.P. Fisterra|||
+|Bancos infralitorais da praia de Langosteira, BESP|Embarcación;|C.P. Fisterra|2014063, 2015065, 2016064, __2017062__, 2019063,|(CM-082),|
 |De punta Insua a punta Larada, BESP|A pé;|C.P. Lira (gasterópdos)|||
 |Praia da Berberecheira, Praia  da Lagoa, Praia de Portocubelo, BESP|A pé;|C.P. Lira, C.P. O Pindo, (plan conxunto)|||
 |Da desembocadura do río Xallas ata a desembocadura do río Larada, BESP|A pé;|C.P. O Pindo|||
