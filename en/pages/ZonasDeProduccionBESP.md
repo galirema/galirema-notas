@@ -159,8 +159,8 @@ __Zonas de producción no SIGREMAR:__
 |Ría de Ribadeo, BESP,|A pé;|C.P. Ribadeo|2008061, 2008060, 2008059, 2014049, 2015050, 2016050, __2017049__, 2018050, 2019051,|(CL-157), (CL-155), (CL-161), (CL-154), (CL-158), (CL-153), (CL-122),|
 |Da ermida de San Tirso a punta Rueta, BESP,|A pé;|C.P. San Cibrao|2008063, 2008062, 2014050, __2015051__,|Da ermida de San Tirso a punta Rueta,|
 |Praia de Vilarrube, (coquina) BESP|A pé;|C.P. Cedeira|2008070, 2015059, 2016058, __2017056__, 2018057, 2019060,|(CL-096),|
-|Praia da Madalena e a enseada de Esteiro, (Berberecho) BESP|A pé;|C.P. Cedeira|||
-|Praias de Figueiras, dos Cabalos, de Cariño, BESP,|A pé;|C.P. Cariño|||
+|Praia da Madalena e a enseada de Esteiro, (Berberecho) BESP|A pé;|C.P. Cedeira|2008071, 2015060, 2016059, __2017057__, 2018058, 2019061,|(CL-097),|
+|Praias de Figueiras, dos Cabalos, de Cariño, BESP,|A pé;|C.P. Cariño|2008069, 2014057, 2015058, __2016057__,|(CL-083), (CL-084), (CL-067),|
 |Enseada de Ladrido (ría de Ortigueira), da punta do espigón do porto de Ortigueira ata a depuradora, BESP,|A pé;|C.P. Espasante|||
 |Praia de Vilela, BESP,|A pé;|C.P. O Barqueiro|||
 
