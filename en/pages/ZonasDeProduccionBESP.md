@@ -110,7 +110,7 @@ __Zonas de producción no SIGREMAR:__
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |Zonas de libre marisqueo do esteiro do río Anllóns, BESP|A pé;|A.M. Esteiro do río Anllóns|2008065, 2014052, 2015053, 2016052, __2017051__, 2018052, 2019053,|(CM-094), (CM-095), (CM-092), (CM-126), (CM-128),|
-|Desde punta Arnela ata a desembocadura do río Xallas (Ézaro), BESP|A pé;|C.P. Corcubión|||
+|Desde punta Arnela ata a desembocadura do río Xallas (Ézaro), BESP|A pé;|C.P. Corcubión|2008073, 2008072, 2014058, 2015061, 2016060, __2017058__, 2018059, 2019062,|(CM-078), (CM-145), (CM-076), (CM-079), (CM-044), (CM-045), (CM-046), (CM-047), (CM-048),|
 |Bancos infralitorais da praia de Langosteira, BESP|Embarcación;|C.P. Fisterra|||
 |De punta Insua a punta Larada, BESP|A pé;|C.P. Lira (gasterópdos)|||
 |Praia da Berberecheira, Praia  da Lagoa, Praia de Portocubelo, BESP|A pé;|C.P. Lira, C.P. O Pindo, (plan conxunto)|||
@@ -161,7 +161,7 @@ __Zonas de producción no SIGREMAR:__
 |Praia de Vilarrube, (coquina) BESP|A pé;|C.P. Cedeira|2008070, 2015059, 2016058, __2017056__, 2018057, 2019060,|(CL-096),|
 |Praia da Madalena e a enseada de Esteiro, (Berberecho) BESP|A pé;|C.P. Cedeira|2008071, 2015060, 2016059, __2017057__, 2018058, 2019061,|(CL-097),|
 |Praias de Figueiras, dos Cabalos, de Cariño, BESP,|A pé;|C.P. Cariño|2008069, 2014057, 2015058, __2016057__,|(CL-083), (CL-084), (CL-067),|
-|Enseada de Ladrido (ría de Ortigueira), da punta do espigón do porto de Ortigueira ata a depuradora, BESP,|A pé;|C.P. Espasante|||
+|Enseada de Ladrido (ría de Ortigueira), da punta do espigón do porto de Ortigueira ata a depuradora, BESP,|A pé;|C.P. Espasante|2008075, 2014060, 2015062, 2016061, __2017059__, 2018060, 2019064,|(CL-221), (CL-095), (CL-222-I), (CL-093), (CL-094-I), (CL-094-II), (CL-222-II), (CL-222-III), (CL-028), (CL-220), (CL-225), (CL-027), (CL-025),|
 |Praia de Vilela, BESP,|A pé;|C.P. O Barqueiro|||
 
 
