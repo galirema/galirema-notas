@@ -136,7 +136,7 @@ __Zonas de producción no SIGREMAR:__
 |Zona intermareal desde San Valentín ata a desembocadura do río Belelle, BESP|A pé;|C.P. Barallobre|2014056, 2015057, 2016056, __2017055__, 2018056, 2019059,|(CF-142),|
 |Zona comprendida entre a liña imaxinaria de Monte Ventoso a punta Segaño ata a liña imaxinaria que une o peirao da praia de Caranza co peirao de Astano, BESP|A pé; Embarcación;|C.P. Ferrol, C.P. Barabllobre, (plan conxunto)|2014061, 2015063, 2016062, __2017060__, 2018061, 2019065,|(CF-127), (CF-126), (CF-128), (CF-125), (CF-311-II), (CF-129), (CF-311-I), (CF-130), (CF-131), (CF-140-II), (CF-140-I), (CF-134), (CF-133-II), (CF-132),|
 |Zona media da ría comprendida entre a liña imaxinaria que une punta dos Castros e punta Caranza (agás as enseadas de Caranza, Cabana-A Malata,) a liña imaxinaria que une punta Redonda, e punta do Vispón, BESP,|Rastro de vieira ou voandeira;|C.P. Ferrol, C.P. Mugardos, C.P. Barallobre, (plan conxunto)|2014062, 2015064, 2016063, __2017061__, 2018062, 2019066,|(CF-137), (CF-124), (CF-125), (CF-129), (CF-130),|
-|Ponte do Porco, río Bañobre, punta Cabana e praia do Pedrido, e de punta Curbeiroa a punta Mauruxo, BESP|A pé; Embarcación;|C.P. Miño|||
+|Ponte do Porco, río Bañobre, punta Cabana e praia do Pedrido, e de punta Curbeiroa a punta Mauruxo, BESP|A pé; Embarcación;|C.P. Miño|2008078, 2014066, 2015068, 2016066, 2017065, 2018065, 2019069,|(CF-083), (CF-082), (CF-081), Mauruxo, praia do Pedrido, parques de Punta Satareixa-Punta Allo, (Policarpo Manso Varela, María Monteiro Sabín,),|
 
 
 
