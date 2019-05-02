@@ -35,7 +35,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Bancos da ría de Vigo, excepto a autorización de Baiona, BESP|Embarcación;|Asociación de Marisqueo a Flote Ría de Vigo, C.P. de Baiona, (plan conxunto)|||
+|Bancos da ría de Vigo, excepto a autorización de Baiona, BESP|Embarcación;|Asociación de Marisqueo a Flote Ría de Vigo, C.P. de Baiona, (plan conxunto)|2014070, 2015093, 2016069, __2017068__, 2018069, 2019072,|(VI-128), (VI-129), (VI-191), (VI-190), (VI-053), (VI-054), (VI-055), (VI-187), (VI-581), (VI-056), (VI-071), (VI-057), (VI-189), (VI-058), (inv) (VI-060), Cabo de Mar (ver) (VI-146), (VI-059), (VI-061), (VI-062), (VI-009), (VI-175), (VI-174), (VI-181), (VI-050), (VI-188), (VI-051), (VI-048), (VI-049), (VI-130), (VI-045), (VI-046), (VI-047), (VI-041), (VI-432), (VI-043), (VI-042), (VI-044), (VI-182), (VI-566), (VI-052), (VI-148), (VI-176), (VI-177), (VI-002), (VI-003), (VI-151), (VI-180), (VI-560), (VI-559),|
 |Bancos sublitorais da ría de Vigo (Liña imaxinaria que une Cabo Home con faro dos Carallóns e de faro dos Carallóns a punta Lameda, cara ao interior da ría) BESP|Rastro de vieira ou voandeira;|Asociación de Marisqueo a Flote da Ría de Vigo, (plan conxunto)|||
 |De punta dos Picos a punta Orelludas, BESP|A pé;|C.P. A Guarda|||
 |Bancos intermareais desde a caseta do Ceboleiro ata Pedra dos Caralletes, BESP|A pé;|C.P. Arcade|||
