@@ -114,7 +114,7 @@ __Zonas de producción no SIGREMAR:__
 |Bancos infralitorais da praia de Langosteira, BESP|Embarcación;|C.P. Fisterra|2014063, 2015065, 2016064, __2017062__, 2019063,|(CM-082),|
 |De punta Insua a punta Larada, BESP|A pé;|C.P. Lira (gasterópdos)|2008076, 2014064, 2015066, __2017063__, 2018063, 2019067,|(CM-241), (CM-242), (CM-243), (CM-240),|
 |Praia da Berberecheira, Praia  da Lagoa, Praia de Portocubelo, BESP|A pé;|C.P. Lira, C.P. O Pindo, (plan conxunto)|2008077, 2014065, 2015067, 2016065, __2017064__, 2018064, 2019068,|(CM-073), (CM-074), (CM-072), (CM-171),|
-|Da desembocadura do río Xallas ata a desembocadura do río Larada, BESP|A pé;|C.P. O Pindo|||
+|Da desembocadura do río Xallas ata a desembocadura do río Larada, BESP|A pé;|C.P. O Pindo|2008084, 2008083, 2014069, 2015071, 2016068, __2017067__, 2018068,|(CM-043),|
 |Zona V, agás no ámbito da reserva mariña de interese pesqueiro Os Miñarzos BESP|Endeño remolcado;|C.P. Corcubión, C.P. Fisterra (plan conxunto)|||
 |Zona rochosa de punta Nariga á enseada do río Anllóns BESP|A pé;|C.P. Corme|||
 
