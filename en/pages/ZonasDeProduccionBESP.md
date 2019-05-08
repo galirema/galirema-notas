@@ -80,7 +80,7 @@ __Zonas de producción no SIGREMAR:__
 |De punta Quilme a Sapeiras de Terra (cara oeste e nordeste da illa), BESP|A pé;|C.P. A Illa de Arousa|2008087, 2008086, 2014072, 2015073, 2016072, __2017071__, 2018072, 2019075,|(AR-044), (AR-043), (AR-042), (AR-045), (AR-328), (AR-355), (AR-344), (AR-343), (AR-342), (AR-341), (AR-322-I), (AR-322-II), (AR-340), (AR-338), (AR-321), (AR-331),|
 |Liñas imaxinarias que unen punta Arruda con punta Laño, punta Carreirón con punta Cuña Alta (inclúe Roncadeiras, O Camallón,), de punta Quilme a Sapeiras de Terra (cara oeste e noroeste da illa), BESP|Embarcación;|C.P. A Illa de Arousa|2008088, 2014073, 2015074, 2016073, __2017072__, 2018073, 2019076,|(AR-215), (AR-346), (AR-057), (AR-333), (AR-332), (AR-334), (AR-335), (AR-336-I), (AR-336-II), (AR-337), (AR-054), (AR-051), (AR-054),|
 |Do Rego do Alcalde (Lañeiras de Fóra) á baliza de Orido, Arnela-Galiñeiro, do peirao de Meloxo ata As Negreiriñas, BESP|Embarcación;|C.P. Cambados|2008093, 2014079, 2015080, 2016079, __2017078__, 2018079, 2019082,|(AR-216), (AR-018), (AR-111),|
-|Lombos do Ulla, praia Compostela-A Concha, BESP|A pé;|C.P. Carril|||
+|Lombos do Ulla, praia Compostela-A Concha, BESP|A pé;|C.P. Carril|2008095, 2014083, 2015085, 2016083, __2017082__, 2018083, 2019086,|(AR-126), (AR-036),|
 |As Malveiras, As Briñas, O Con e Corbeiro, BESP|Embarcación;|C.P. Carril|||
 |Moreiras, Meloxo, Migalliñas, Rons, Cantodorxo, BESP|Embarcación;|C.P. O Grove|||
 |Dique do Terrón, boia columna eléctrica, columna ponte, boia Lañeiras de Fóra, espicho rego do Alcalde, BESP|Embarcación;|C.P. Vilanova|||
