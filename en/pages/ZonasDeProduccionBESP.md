@@ -42,7 +42,7 @@ __Zonas de producción no SIGREMAR:__
 |Bancos intermareais de punta Cabalo a pedra dos Caralletes (Cunchido e Larache), BESP|A pé;|C.P. Arcade, C.P. Vilaboa, (plan conxunto)|2014075, 2015076, 2016075, __2017074__, 2018075, 2019078,|(VI-004), (VI-005),|
 |Bancos intermareais desde punta Rodeira ata punta Couso, BESP|A pé;|C.P. Cangas|2014080, 2015081, 2016080, __2017079__, 2018080, 2019083,|(VI-192), (VI-047), (VI-193), (VI-194), (VI-195), (VI-196), (VI-197), (VI-198), (VI-199), (VI-202),|
 |De punta Rodeira á praia de Canabal, BESP|A pé;|C.P. Cangas|2014081, 2015082, 2016081, __2017080__, 2018081, 2019084,|(VI-086),|
-|Entre cabo Home e faro Borneira, as illas Cíes, BESP|Endeño remolcado;|C.P. Cangas|||
+|Entre cabo Home e faro Borneira, as illas Cíes, BESP|Endeño remolcado;|C.P. Cangas|2008094, 2014082, 2015083, 2016082, __2017081__, 2018082, 2019085,|(VI-007), (VI-008-I), (VI-008-II), (VI-091), (VI-006-1), (VI-006-2),|
 |Bancos intermareais entre a punta Travesada e a praia de Canabal, BESP|A pé;|C.P. Moaña|||
 |De punta Rodeira ata a praia de Canabal: illa dos Ratos, BESP|A pé;|C.P. Moaña, C.P. Cangas, (plan conxunto)|||
 |Bancos intermareais desde a Caseta do Ceboleiro ata a praia de Arealonga (incluída), BESP|A pé;|C.P. Redondela|||
