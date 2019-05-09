@@ -43,8 +43,8 @@ __Zonas de producción no SIGREMAR:__
 |Bancos intermareais desde punta Rodeira ata punta Couso, BESP|A pé;|C.P. Cangas|2014080, 2015081, 2016080, __2017079__, 2018080, 2019083,|(VI-192), (VI-047), (VI-193), (VI-194), (VI-195), (VI-196), (VI-197), (VI-198), (VI-199), (VI-202),|
 |De punta Rodeira á praia de Canabal, BESP|A pé;|C.P. Cangas|2014081, 2015082, 2016081, __2017080__, 2018081, 2019084,|(VI-086),|
 |Entre cabo Home e faro Borneira, as illas Cíes, BESP|Endeño remolcado;|C.P. Cangas|2008094, 2014082, 2015083, 2016082, __2017081__, 2018082, 2019085,|(VI-007), (VI-008-I), (VI-008-II), (VI-091), (VI-006-1), (VI-006-2),|
-|Bancos intermareais entre a punta Travesada e a praia de Canabal, BESP|A pé;|C.P. Moaña|||
-|De punta Rodeira ata a praia de Canabal: illa dos Ratos, BESP|A pé;|C.P. Moaña, C.P. Cangas, (plan conxunto)|||
+|Bancos intermareais entre a punta Travesada e a praia de Canabal, BESP|A pé;|C.P. Moaña|2014087, 2015088, 2016086, __2017085__, 2018086, 2019089,|(VI-145), (VI-116), (VI-115), (VI-072), (VI-084), (VI-087), (VI-114), (VI-076), (VI-077), (VI-078), (VI-074), (VI-113-I), (VI-113-II), (VI-082-I), (VI-082-II), (VI-075), (VI-085), (VI-079), (VI-083), (VI-081), (VI-080), (VI-073),|
+|De punta Rodeira ata a praia de Canabal: illa dos Ratos, BESP|A pé;|C.P. Moaña, C.P. Cangas, (plan conxunto)|2014088, 2015089, 2016087, __2017086__, 2018087, 2019090,|(VI-086),|
 |Bancos intermareais desde a Caseta do Ceboleiro ata a praia de Arealonga (incluída), BESP|A pé;|C.P. Redondela|||
 |Bancos intermareais entre o puntal da Serra e praia de Arealonga (excluída) BESP|A pé;|C.P. Vigo|||
 |Bancos intermareais desde punta Travesada ata Punta Cabalo, BESP|A pé;|C.P. Vilaboa|||
@@ -81,8 +81,8 @@ __Zonas de producción no SIGREMAR:__
 |Liñas imaxinarias que unen punta Arruda con punta Laño, punta Carreirón con punta Cuña Alta (inclúe Roncadeiras, O Camallón,), de punta Quilme a Sapeiras de Terra (cara oeste e noroeste da illa), BESP|Embarcación;|C.P. A Illa de Arousa|2008088, 2014073, 2015074, 2016073, __2017072__, 2018073, 2019076,|(AR-215), (AR-346), (AR-057), (AR-333), (AR-332), (AR-334), (AR-335), (AR-336-I), (AR-336-II), (AR-337), (AR-054), (AR-051), (AR-054),|
 |Do Rego do Alcalde (Lañeiras de Fóra) á baliza de Orido, Arnela-Galiñeiro, do peirao de Meloxo ata As Negreiriñas, BESP|Embarcación;|C.P. Cambados|2008093, 2014079, 2015080, 2016079, __2017078__, 2018079, 2019082,|(AR-216), (AR-018), (AR-111),|
 |Lombos do Ulla, praia Compostela-A Concha, BESP|A pé;|C.P. Carril|2008095, 2014083, 2015085, 2016083, __2017082__, 2018083, 2019086,|(AR-126), (AR-036),|
-|As Malveiras, As Briñas, O Con e Corbeiro, BESP|Embarcación;|C.P. Carril|||
-|Moreiras, Meloxo, Migalliñas, Rons, Cantodorxo, BESP|Embarcación;|C.P. O Grove|||
+|As Malveiras, As Briñas, O Con e Corbeiro, BESP|Embarcación;|C.P. Carril|2008096, 2014084, 2015086, 2016084, __2017083__, 2018084, 2019087,|(AR-038), (AR-068),|
+|Moreiras, Meloxo, Migalliñas, Rons, Cantodorxo, BESP|Embarcación;|C.P. O Grove|2008097, 2014085, 2015087, 2016085, __2017084__, 2018085, 2019088,|(AR-085-I), (AR-086), (AR-085-II), (AR-087), (AR-088), (AR-089-I), (AR-089-I),|
 |Dique do Terrón, boia columna eléctrica, columna ponte, boia Lañeiras de Fóra, espicho rego do Alcalde, BESP|Embarcación;|C.P. Vilanova|||
 |Zona sublitoral entre a liña que une o regato Aduana ao illote Gorma e punta Borreiros,; de punta Borreiros ao peirao de Vilaxoán, de punta Castelete á punta Ferrazo, BESP|Embarcación;|C.P. Vilaxoán|||
 |Banco marisqueiro de Cabío BESP|Embarcación;|C.P. A Pobra do Caramiñal|||
