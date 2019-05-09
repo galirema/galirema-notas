@@ -64,7 +64,7 @@ __Zonas de producción no SIGREMAR:__
 |De punta Cabicastro a punta Santa Mariña, da esquina noroeste do convento sito en punta Praceres ata punta Couso, illas Ons e Onza, BESP|Embarcación;|C.P. Bueu, C.P. Portonovo, C.P. Aldán-O Hio, (plan conxunto)|2008092, 2014078, 2015079, 2016078, __2017077__, 2018078, 2019081,|(PO-137), (PO-124), (PO-125), (PO-126), (PO-127), (PO-128), (PO-129), (PO-130), (PO-131), (PO-132-I), (PO-132-II), (PO-133), (PO-127), (PO-134), (PO-135), (PO-136), (PO-027), (PO-032), (PO-028), (PO-063), (PO-033), (PO-120), (PO-119), (PO-121), (PO-047), (PO-116), (PO-117), (PO-115), (PO-128), (PO-113-I), (PO-113-II), (PO-031), (PO-034), (PO-030),|
 |Zonas intermareais incluídas na parte interna da liña imaxinaria que une punta Santa Mariña, na beira norte da ría de Pontevedra, coa esquina noroeste do convento sito na punta Praceres, na zona sur da ría, e desde este punto ata o faro verde da escollera da canalización do río Lérez BESP|A pé;|C.P. Pontevedra, C.P. Lourizán, C.P. Raxó, (plan conxunto)|2008098, 2014089, 2015090, 2016088, __2017087__, 2018088, 2019091,|(PO-022-I), (PO-022-II), (PO-192), (PO-072), (PO-193), (PO-020), (PO-018), (PO-017), (PO-012), (PO-011-A), (PO-008), (PO-173), (PO-007), (PO-006), (PO-005), (PO-004), (PO-014), (PO-021), (PO-003), (PO-002),|
 |Parte interna da liña imaxinaria que une punta Santa Mariña, na beira norte da ría de Pontevedra, coa esquina noroeste do convento sito en punta Praceres, na zona sur da ría, desde punto ata o faro verde do dique da canalización do río Lérez, BESP|Embarcación;|C.P. Pontevedra, C.P. Lourizán, C.P. Raxó, C.P. Sanxenxo, C.P. Marín, (plan conxunto)|2008099, 2014090, 2015091, 2016089, __2017088__, 2018089, 2019092,|(PO-019-I), (PO-019-II), (PO-019), (PO-013-I), (PO-013-II), (PO-198), (PO-010), (PO-001), (PO-023), (PO-194), (PO-195), (PO-196), (PO-197),|
-|De punta Preguntoiro e punta Morcegos cara ao interior da ría de Aldán BESP|A pé;|C.P. Aldán-O Hío|||
+|De punta Preguntoiro e punta Morcegos cara ao interior da ría de Aldán BESP|A pé;|C.P. Aldán-O Hío|__2008090__,|(PO-175), (PO-176), (PO-176),|
 
 
 
@@ -85,7 +85,7 @@ __Zonas de producción no SIGREMAR:__
 |Moreiras, Meloxo, Migalliñas, Rons, Cantodorxo, BESP|Embarcación;|C.P. O Grove|2008097, 2014085, 2015087, 2016085, __2017084__, 2018085, 2019088,|(AR-085-I), (AR-086), (AR-085-II), (AR-087), (AR-088), (AR-089-I), (AR-089-I),|
 |Dique do Terrón, boia columna eléctrica, columna ponte, boia Lañeiras de Fóra, espicho rego do Alcalde, BESP|Embarcación;|C.P. Vilanova|2008100, 2014094, 2015096, 2016093, __2017092__, 2018093, 2019096,|(AR-001), (AR-008), (AR-289),|
 |Zona sublitoral entre a liña que une o regato Aduana ao illote Gorma e punta Borreiros,; de punta Borreiros ao peirao de Vilaxoán, de punta Castelete á punta Ferrazo, BESP|Embarcación;|C.P. Vilaxoán|2008101, 2014095, 2015097, 2016094, __2017093__, 2018094, 2019097,|(AR-029), (AR-028), (AR-030), (AR-031), (AR-032), (AR-033), (AR-034),|
-|Banco marisqueiro de Cabío BESP|Embarcación;|C.P. A Pobra do Caramiñal|2008068,|(AR-112),|
+|Banco marisqueiro de Cabío BESP|Embarcación;|C.P. A Pobra do Caramiñal|__2008068__,|(AR-112),|
 
 
 
@@ -98,7 +98,7 @@ __Zonas de producción no SIGREMAR:__
 |---|---------|-------|----------|------------------|
 |Zonas de libre marisqueo entre Monte Louro e punta Uía, entre punta Ornanda e punta Aguieira e banco da Creba 2, BESP|Embarcación;|C.P. Noia, C.P. Muros, C.P. Porto do Son, C.P. Portosín, (plan conxunto)|2008081, 2014068, 2015070, 2016067, __2017066__, 2018066, 2019070,|(MN-022), (MN-023-I), (MN-023-II), (MN-063), (MN-065), (MN-066), (MN-053), (MN-055), (MN-061), (MN-067), (MN-024), (MN-025), (MN-070), (MN-069), (MN-026), (MN-027-I), (MN-071), (MN-072), (MN-073), (MN-027-II),|
 |De punta Insua a punta Uhía BESP|A pé;|C.P. Muros|2008079, 2014067, __2015069__,|(MN-019),|
-|De punta Rebordiño a punta Uía e de punta Cabalo a punta Aguieira BESP|A pé;|C.P. Noia, Muros, Porto do Son e Portosín (plan conxunto)|||
+|De punta Rebordiño a punta Uía e de punta Cabalo a punta Aguieira BESP|A pé;|C.P. Noia, Muros, Porto do Son e Portosín (plan conxunto)|__2008080__,|-Banda Norte (Dende Punta Rebordiño a Punta Uhía): Praia de Esteiro e desembocadura do río Estero (Esteiro), Praia de Coído (Tal), Praia de Cabanas (Tal), Praia do Castillo (Muros), Baixo do Paseo Marítimo de Muros, Pta de San Antón,; -Banda Sur (Dende Punta Cabalo a punta Aguieira): Praia de Aguieira, Outros areais de Portosín,|
 
 
 
@@ -116,7 +116,7 @@ __Zonas de producción no SIGREMAR:__
 |Praia da Berberecheira, Praia  da Lagoa, Praia de Portocubelo, BESP|A pé;|C.P. Lira, C.P. O Pindo, (plan conxunto)|2008077, 2014065, 2015067, 2016065, __2017064__, 2018064, 2019068,|(CM-073), (CM-074), (CM-072), (CM-171),|
 |Da desembocadura do río Xallas ata a desembocadura do río Larada, BESP|A pé;|C.P. O Pindo|2008084, 2008083, 2014069, 2015071, 2016068, __2017067__, 2018068,|(CM-043),|
 |Zona V, agás no ámbito da reserva mariña de interese pesqueiro Os Miñarzos BESP|Endeño remolcado;|C.P. Corcubión, C.P. Fisterra (plan conxunto)|__2014059__,|(CM-144), (CM-054), (CM-053), (CM-050), (CM-051), (CM-052),|
-|Zona rochosa de punta Nariga á enseada do río Anllóns BESP|A pé;|C.P. Corme|||
+|Zona rochosa de punta Nariga á enseada do río Anllóns BESP|A pé;|C.P. Corme|__2008074__,|canteiro, roncudo, Gabriela, percebellosa, rosas,|
 
   
 
@@ -162,7 +162,7 @@ __Zonas de producción no SIGREMAR:__
 |Praia da Madalena e a enseada de Esteiro, (Berberecho) BESP|A pé;|C.P. Cedeira|2008071, 2015060, 2016059, __2017057__, 2018058, 2019061,|(CL-097),|
 |Praias de Figueiras, dos Cabalos, de Cariño, BESP,|A pé;|C.P. Cariño|2008069, 2014057, 2015058, __2016057__,|(CL-083), (CL-084), (CL-067),|
 |Enseada de Ladrido (ría de Ortigueira), da punta do espigón do porto de Ortigueira ata a depuradora, BESP,|A pé;|C.P. Espasante|2008075, 2014060, 2015062, 2016061, __2017059__, 2018060, 2019064,|(CL-221), (CL-095), (CL-222-I), (CL-093), (CL-094-I), (CL-094-II), (CL-222-II), (CL-222-III), (CL-028), (CL-220), (CL-225), (CL-027), (CL-025),|
-|Praia de Vilela, BESP,|A pé;|C.P. O Barqueiro|||
+|Praia de Vilela, BESP,|A pé;|C.P. O Barqueiro|__2008082__,|(CL-107),|
 
 
 [Indice](indicesZonasProduccion.md)
