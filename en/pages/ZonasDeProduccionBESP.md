@@ -34,7 +34,7 @@ __Zonas de producción no SIGREMAR:__
 
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
-|---|---------|-------|----------|--------------|
+|---|---------|-------|----------|------------------|
 |Bancos da ría de Vigo, excepto a autorización de Baiona, BESP|Embarcación;|Asociación de Marisqueo a Flote Ría de Vigo, C.P. de Baiona, (plan conxunto)|2014070, 2015093, 2016069, __2017068__, 2018069, 2019072,|(VI-128), (VI-129), (VI-191), (VI-190), (VI-053), (VI-054), (VI-055), (VI-187), (VI-581), (VI-056), (VI-071), (VI-057), (VI-189), (VI-058), (inv) (VI-060), Cabo de Mar (ver) (VI-146), (VI-059), (VI-061), (VI-062), (VI-009), (VI-175), (VI-174), (VI-181), (VI-050), (VI-188), (VI-051), (VI-048), (VI-049), (VI-130), (VI-045), (VI-046), (VI-047), (VI-041), (VI-432), (VI-043), (VI-042), (VI-044), (VI-182), (VI-566), (VI-052), (VI-148), (VI-176), (VI-177), (VI-002), (VI-003), (VI-151), (VI-180), (VI-560), (VI-559),|
 |Bancos sublitorais da ría de Vigo (Liña imaxinaria que une Cabo Home con faro dos Carallóns e de faro dos Carallóns a punta Lameda, cara ao interior da ría) BESP|Rastro de vieira ou voandeira;|Asociación de Marisqueo a Flote da Ría de Vigo, (plan conxunto)|2014086, 2015084, 2016070, __2017069__, 2018070, 2019073,| -Área 1: liña imaxinaria que une Cabo Home co faro dos Carallóns e de aquí a punta Lameda e a liña imaxinaria que une Punta Borneira no litoral norte con Cabo Estai no litoral sur,; -Área 2: liña imaxinaria que une Punta Borneira no litoral norte con Cabo Estai no litoral sur e a liña imaxinaria que une punta Besta no litoral norte coa punta de Rande no litoral sur,; -Área 3: da punta de Besta no litoral norte coa ponte de Rande no litoral sur cara ao fondo da ría de Vigo (enseada de San Simón),;|
 |De punta dos Picos a punta Orelludas, BESP|A pé;|C.P. A Guarda|2008089, 2014071, 2015072, 2016071, __2017070__, 2018071, 2019074,|(VI-207), (VI-440), (VI-441), (VI-442), (VI-443), (VI-444), (VI-445), (VI-446), (VI-447), (VI-448), (VI-449),|
@@ -58,7 +58,7 @@ __Zonas de producción no SIGREMAR:__
 
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
-|---|---------|-------|----------|--------------|
+|---|---------|-------|----------|------------------|
 |Entre punta Faxilda e punta Samieira (Raxó), entre punta de Debaixo dos Pinos (Marín), punta Preguntoiro, entre praia Alada e Punta Couso,; BESP|Endeño remolcado;|C.P. Bueu|2008091, 2014076, 2015077, 2016076, __2017075__, 2018076, 2019079,|Área 1 MOURISCA, Área 2 PESCADOIRA, Área 4 PORTONOVO, Área 5 CABICASTRO, Área 3 MARÍN,|
 |Exterior do arquipélago das illas Ons: ao oeste das illas Ons e Onza, por fóra dos límites do Parque Nacional das Illas Atlánticas, BESP|Rastro de vieira ou voandeira; (para rabioso),|C.P. Bueu|2014077, 2015078, 2016077, __2017076__, 2018077, 2019080,|Exterior do arquipélago das illas Ons: ao oeste das illas Ons e Onza, por fóra dos límites do Parque Nacional das Illas Atlánticas,|
 |De punta Cabicastro a punta Santa Mariña, da esquina noroeste do convento sito en punta Praceres ata punta Couso, illas Ons e Onza, BESP|Embarcación;|C.P. Bueu, C.P. Portonovo, C.P. Aldán-O Hio, (plan conxunto)|2008092, 2014078, 2015079, 2016078, __2017077__, 2018078, 2019081,|(PO-137), (PO-124), (PO-125), (PO-126), (PO-127), (PO-128), (PO-129), (PO-130), (PO-131), (PO-132-I), (PO-132-II), (PO-133), (PO-127), (PO-134), (PO-135), (PO-136), (PO-027), (PO-032), (PO-028), (PO-063), (PO-033), (PO-120), (PO-119), (PO-121), (PO-047), (PO-116), (PO-117), (PO-115), (PO-128), (PO-113-I), (PO-113-II), (PO-031), (PO-034), (PO-030),|
@@ -75,7 +75,7 @@ __Zonas de producción no SIGREMAR:__
 
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
-|---|---------|-------|----------|--------------|
+|---|---------|-------|----------|------------------|
 |Zona intermareal de punta Galduario a punta da Corna, BESP|A pé;|C.P. A Pobra do Caramiñal|2008067, 2014055, 2015056, 2016055, __2017054__, 2018055, 2019058,|(AR-138),|
 |De punta Quilme a Sapeiras de Terra (cara oeste e nordeste da illa), BESP|A pé;|C.P. A Illa de Arousa|2008087, 2008086, 2014072, 2015073, 2016072, __2017071__, 2018072, 2019075,|(AR-044), (AR-043), (AR-042), (AR-045), (AR-328), (AR-355), (AR-344), (AR-343), (AR-342), (AR-341), (AR-322-I), (AR-322-II), (AR-340), (AR-338), (AR-321), (AR-331),|
 |Liñas imaxinarias que unen punta Arruda con punta Laño, punta Carreirón con punta Cuña Alta (inclúe Roncadeiras, O Camallón,), de punta Quilme a Sapeiras de Terra (cara oeste e noroeste da illa), BESP|Embarcación;|C.P. A Illa de Arousa|2008088, 2014073, 2015074, 2016073, __2017072__, 2018073, 2019076,|(AR-215), (AR-346), (AR-057), (AR-333), (AR-332), (AR-334), (AR-335), (AR-336-I), (AR-336-II), (AR-337), (AR-054), (AR-051), (AR-054),|
@@ -85,7 +85,7 @@ __Zonas de producción no SIGREMAR:__
 |Moreiras, Meloxo, Migalliñas, Rons, Cantodorxo, BESP|Embarcación;|C.P. O Grove|2008097, 2014085, 2015087, 2016085, __2017084__, 2018085, 2019088,|(AR-085-I), (AR-086), (AR-085-II), (AR-087), (AR-088), (AR-089-I), (AR-089-I),|
 |Dique do Terrón, boia columna eléctrica, columna ponte, boia Lañeiras de Fóra, espicho rego do Alcalde, BESP|Embarcación;|C.P. Vilanova|2008100, 2014094, 2015096, 2016093, __2017092__, 2018093, 2019096,|(AR-001), (AR-008), (AR-289),|
 |Zona sublitoral entre a liña que une o regato Aduana ao illote Gorma e punta Borreiros,; de punta Borreiros ao peirao de Vilaxoán, de punta Castelete á punta Ferrazo, BESP|Embarcación;|C.P. Vilaxoán|2008101, 2014095, 2015097, 2016094, __2017093__, 2018094, 2019097,|(AR-029), (AR-028), (AR-030), (AR-031), (AR-032), (AR-033), (AR-034),|
-|Banco marisqueiro de Cabío BESP|Embarcación;|C.P. A Pobra do Caramiñal|||
+|Banco marisqueiro de Cabío BESP|Embarcación;|C.P. A Pobra do Caramiñal|2008068,|(AR-112),|
 
 
 
@@ -95,9 +95,9 @@ __Zonas de producción no SIGREMAR:__
 
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
-|---|---------|-------|----------|--------------|
+|---|---------|-------|----------|------------------|
 |Zonas de libre marisqueo entre Monte Louro e punta Uía, entre punta Ornanda e punta Aguieira e banco da Creba 2, BESP|Embarcación;|C.P. Noia, C.P. Muros, C.P. Porto do Son, C.P. Portosín, (plan conxunto)|2008081, 2014068, 2015070, 2016067, __2017066__, 2018066, 2019070,|(MN-022), (MN-023-I), (MN-023-II), (MN-063), (MN-065), (MN-066), (MN-053), (MN-055), (MN-061), (MN-067), (MN-024), (MN-025), (MN-070), (MN-069), (MN-026), (MN-027-I), (MN-071), (MN-072), (MN-073), (MN-027-II),|
-|De punta Insua a punta Uhía BESP|A pé;|C.P. Muros|||
+|De punta Insua a punta Uhía BESP|A pé;|C.P. Muros|2008079, 2014067, __2015069__,|(MN-019),|
 |De punta Rebordiño a punta Uía e de punta Cabalo a punta Aguieira BESP|A pé;|C.P. Noia, Muros, Porto do Son e Portosín (plan conxunto)|||
 
 
@@ -108,14 +108,14 @@ __Zonas de producción no SIGREMAR:__
 
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
-|---|---------|-------|----------|--------------|
+|---|---------|-------|----------|------------------|
 |Zonas de libre marisqueo do esteiro do río Anllóns, BESP|A pé;|A.M. Esteiro do río Anllóns|2008065, 2014052, 2015053, 2016052, __2017051__, 2018052, 2019053,|(CM-094), (CM-095), (CM-092), (CM-126), (CM-128),|
 |Desde punta Arnela ata a desembocadura do río Xallas (Ézaro), BESP|A pé;|C.P. Corcubión|2008073, 2008072, 2014058, 2015061, 2016060, __2017058__, 2018059, 2019062,|(CM-078), (CM-145), (CM-076), (CM-079), (CM-044), (CM-045), (CM-046), (CM-047), (CM-048),|
 |Bancos infralitorais da praia de Langosteira, BESP|Embarcación;|C.P. Fisterra|2014063, 2015065, 2016064, __2017062__, 2019063,|(CM-082),|
 |De punta Insua a punta Larada, BESP|A pé;|C.P. Lira (gasterópdos)|2008076, 2014064, 2015066, __2017063__, 2018063, 2019067,|(CM-241), (CM-242), (CM-243), (CM-240),|
 |Praia da Berberecheira, Praia  da Lagoa, Praia de Portocubelo, BESP|A pé;|C.P. Lira, C.P. O Pindo, (plan conxunto)|2008077, 2014065, 2015067, 2016065, __2017064__, 2018064, 2019068,|(CM-073), (CM-074), (CM-072), (CM-171),|
 |Da desembocadura do río Xallas ata a desembocadura do río Larada, BESP|A pé;|C.P. O Pindo|2008084, 2008083, 2014069, 2015071, 2016068, __2017067__, 2018068,|(CM-043),|
-|Zona V, agás no ámbito da reserva mariña de interese pesqueiro Os Miñarzos BESP|Endeño remolcado;|C.P. Corcubión, C.P. Fisterra (plan conxunto)|||
+|Zona V, agás no ámbito da reserva mariña de interese pesqueiro Os Miñarzos BESP|Endeño remolcado;|C.P. Corcubión, C.P. Fisterra (plan conxunto)|__2014059__,|(CM-144), (CM-054), (CM-053), (CM-050), (CM-051), (CM-052),|
 |Zona rochosa de punta Nariga á enseada do río Anllóns BESP|A pé;|C.P. Corme|||
 
   
