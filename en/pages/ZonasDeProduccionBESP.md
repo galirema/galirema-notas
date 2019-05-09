@@ -46,8 +46,8 @@ __Zonas de producción no SIGREMAR:__
 |Bancos intermareais entre a punta Travesada e a praia de Canabal, BESP|A pé;|C.P. Moaña|2014087, 2015088, 2016086, __2017085__, 2018086, 2019089,|(VI-145), (VI-116), (VI-115), (VI-072), (VI-084), (VI-087), (VI-114), (VI-076), (VI-077), (VI-078), (VI-074), (VI-113-I), (VI-113-II), (VI-082-I), (VI-082-II), (VI-075), (VI-085), (VI-079), (VI-083), (VI-081), (VI-080), (VI-073),|
 |De punta Rodeira ata a praia de Canabal: illa dos Ratos, BESP|A pé;|C.P. Moaña, C.P. Cangas, (plan conxunto)|2014088, 2015089, 2016087, __2017086__, 2018087, 2019090,|(VI-086),|
 |Bancos intermareais desde a Caseta do Ceboleiro ata a praia de Arealonga (incluída), BESP|A pé;|C.P. Redondela|2014091, 2015092, 2016090, __2017089__, 2018090, 2019093,|(VI-131), (VI-132), (VI-133), (VI-453), (VI-134), (VI-134-I), (VI-134-II), (VI-134-II), (VI-134-III), (VI-166), (VI-135), (VI-136), (VI-163), (VI-165), (VI-173), (VI-137), (VI-164), (VI-185), (VI-161), (VI-162),|
-|Bancos intermareais entre o puntal da Serra e praia de Arealonga (excluída) BESP|A pé;|C.P. Vigo|||
-|Bancos intermareais desde punta Travesada ata Punta Cabalo, BESP|A pé;|C.P. Vilaboa|||
+|Bancos intermareais entre o puntal da Serra e praia de Arealonga (excluída) BESP|A pé;|C.P. Vigo|2014092, 2015094, 2016091, __2017090__, 2018091, 2019094,|(VI-139), (VI-064), (VI-178), (VI-065), (VI-066), (VI-183), (VI-184), (VI-028), (VI-141), (VI-554), (VI-555-I), (VI-555-II),|
+|Bancos intermareais desde punta Travesada ata Punta Cabalo, BESP|A pé;|C.P. Vilaboa|2014093, 2015095, 2016092, __2017091__, 2018092, 2019095,|(VI-144), (VI-200), (VI-201), (VI-238), (VI-140), (VI-561), (VI-150),|
 |Bancos intermareais de moluscos bivalvos da ría de Vigo, excepto a zona de autorización de Baiona BESP|A pé;|Asociación de Confrarías da Ría de Vigo||-|
 
 
