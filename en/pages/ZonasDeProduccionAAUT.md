@@ -30,7 +30,7 @@ __Zonas de producción no SIGREMAR:__
  __De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)__ 2 planes
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
-|---|---------|-------|----------|--------------|
+|---|---------|-------|----------|------------------|
 |Foz do río Miñor, praia Ladeira, praia do Burgo, praia de Santa Marta, paseo da Lonxa, praia Ribeira, praia Barbeira, AAUT  __A0036v2017__.|A pé;| C.P. Baiona|2008035, 2014035, 2015036, 2016036, 2017035, 2018036, 2019037,|(VI-105), (VI-104), (VI-103-I), (VI-103-II), (VI-103-III), (VI-102), (VI-101), (VI-100),|
 |Autorización administrativa C.P. Baiona Sublitoral AAUT __A0037v2017__.| Embarcación;| C.P. Baiona|2008036, 2014036, 2015037, 2016037, 2017036, 2018037, 2019038,|Autorización administrativa C.P. Baiona, (zonas marítimas),|
 
@@ -40,7 +40,7 @@ __Zonas de producción no SIGREMAR:__
  __De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)__ 1 plan
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
-|---|---------|-------|----------|--------------|
+|---|---------|-------|----------|------------------|
 |De punta Alada a punta Preguntoiro, cara ao interior da ría de Aldán AAUT __A0035v2017__.| A pé;| C.P. Aldán-O Hio|2008034, 2008033, 2014034, 2015035, 2016035, 2017034, 2018035, 2019036,|(PO-142), (PO-143), (PO-139), (PO-140), (PO-141), (PO-175), (PO-176), (PO-177),|
 
 
@@ -49,7 +49,7 @@ __Zonas de producción no SIGREMAR:__
  __De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)__ 23 planes
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
-|---|---------|-------|----------|--------------|
+|---|---------|-------|----------|------------------|
 |De punta Galduario a punta Peralto, AAUT __A0004v2017__.| A pé;| C.P. A Pobra do Caramiñal|2008005, 2014004, 2015004, 2016004, 2017004, 2018004, 2019005,|(AR-131), (AR-132), (AR-133),|
 |De punta Galduario a punta Peralto, AAUT __A0005v2017__.| Embarcación;| C.P. A Pobra do Caramiñal|2008006, 2014005, 2015005, 2016005, 2017005, 2018005, 2019006,|(AR-134), (AR-135), (AR-136),|
 |Zona de autorización C.P. Aguiño, AAUT __A0006v2017__.| Embarcación;| C.P. Aguiño|2008012, 2014006, 2015006, 2016006, 2017006, 2018006, 2019007,|(AR-211), (AR-212), (AR-213), (AR- 210), (AR-211),|
@@ -80,7 +80,7 @@ __Zonas de producción no SIGREMAR:__
  __De praia de Catia (42.261 N, 9.0554 W) ata punta Ínsua (42.771 N, 9.1266 W)__ 4 planes
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
-|---|---------|-------|----------|--------------|
+|---|---------|-------|----------|------------------|
 |Zona de autorización: praia da Virxe e praia da Abelleira AAUT __A0018v2017__.| A pé;| C.P. Muros|2008017, 2014017, 2015018, 2016018, 2017018, 2018018, 2019019,|(MN-054), (MN-056), (MN-057), (MN-097), (MN-098),|
 |Zona de autorización: praia da Virxe e praia da Abelleira AAUT __A0019v2017__.| Embarcación;| C.P. Muros|2008018, 2014018, 2015019, 2016019, 2017019, 2018019, 2019020,|(MN-055), (MN-061),|
 |Zona de autorización C.P. Noia, AAUT __A0020v2017__.| A pé; Embarcación;| C.P. Noia|2008019, 2014019, 2015020, 2016020, 2017020, 2018020, 2019021,|(MN-031), (MN-032), (MN-033), (MN-034), (MN-035), (MN-036), (MN-037), (MN-038), (MN-039), (MN-041), (MN-042), (MN-043), (MN-045), (MN-046), (MN-047), (MN-084), (MN-085), (MN-029), (MN-030),|
@@ -92,7 +92,7 @@ __Zonas de producción no SIGREMAR:__
  __De punta Ínsua (42.771 N, 9.1266 W) ata praia de Baldaio (43.292 N, 8.7016 W)__ 2 planes
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
-|---|---------|-------|----------|--------------|
+|---|---------|-------|----------|------------------|
 |Zona de autorización do río Anllóns. AAUT. __A0002v2017__.| A pé;| A.M. Esteiro do río Anllóns.|2008003, 2014002, 2015002, 2016002, 2017002, 2018002, 2019002,|(CM-121), (CM-093),|
 |De punta Lago a punta Roda, de punta Sandía a punta Roda, de punta Sandía a punta Insuela, enseada da Vasa, AAUT __A0010v2017__.| A pé; Embarcacion;| C.P. Camariñas|2008010, 2014010, 2015010, 2016010, 2017010, 2018010, 2019011,|(CM-129), (CM-100), (CM-130), (CM-133), (CM-131), (CM-134), (CM-132), (CM-135),|
 
