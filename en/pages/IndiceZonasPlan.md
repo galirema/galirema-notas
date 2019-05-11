@@ -2,7 +2,9 @@
 
 # Zonas de producción por plan de explotación
 
-* Neste apartado recollemos as zonas de producción definidas no __Sigremar__ que están xestionadas un plan de explotación anual determinado.
+* En este apartado recojemos las zonas de producción definidas en el __Sigremar__ que están gestionadas por un plan de explotación anual determinado.  
+El proceso de identificación previo puedes seguirse en la página de [zonas de producción descritas en el Sigremar](indicesZonasProduccion.md).
+
 
 ## Costa de Galicicia
 
