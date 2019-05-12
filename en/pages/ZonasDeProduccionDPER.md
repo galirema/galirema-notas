@@ -45,11 +45,10 @@ __Zonas de producción no SIGREMAR__:
 
 ## Ría de Pontevedra PO
 
- _De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_ 3 planes
+ _De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_ 2 planes
  
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Desde punta Castro ata a desembocadura do río Sieira, illas e illotes adxacentes|A pé; Embarcación;|C.P. Aguiño|||
 |De punta Couso a punta Morcegos, cara ao interior da ría de Aldán,|A pé;|C.P. Aldán-O Hio|||
 |De punta Lapamán a punta Morcegos, Illa Ons, Onza;|Embarcación;|C.P. Bueu|||
 
@@ -57,10 +56,11 @@ __Zonas de producción no SIGREMAR__:
 
 ## Ría de Arousa AR
 
- _De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_ 2 planes
+ _De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_ 3 planes
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
+|Desde punta Castro ata a desembocadura do río Sieira, illas e illotes adxacentes|A pé; Embarcación;|C.P. Aguiño|2008112, 2014103, 2015105, 2016102, 2017101, 2018102, __2019105__,|(AR-237-II), (AR-239), (AR-241-I), (AR-241-II), (AR-252), (AR-243), (AR-242), (AR-237-I), (AR-238), (AR-244), (AR-245), (AR-246), (AR-247), (AR-248), (AR-249), (AR-225), (AR-250), (AR-251), (AR-228), (AR-229), (AR-227), (AR-226-I), (AR-226-II), (AR-234), (AR-236), (AR-224), (AR-301), (AR-219), (AR-223), (AR-222), (AR-299), (AR-220), (AR-221), (AR-300),|
 |Illas e illotes Laxas, Pías de Castiñeira, Airós, Rúa, Carabancelo, Xidoiro Pedregoso, Corbeiros, Lobeiras,|Embarcación;|C.P. Ribeira|||
 |De punta Area Grande a punta Faxilda,|A pé; Embarcación;|C.P. O Grove|||
 
@@ -83,8 +83,8 @@ __Zonas de producción no SIGREMAR__:
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Gallada a punta Villueira,|Embarcación;|C.P. Camariñas|||
-|De punta Morelo a punta Gallada, incluíndo illas e illotes fronte á costa|Embarcación;|C.P. Camelle|||
+|De punta Gallada a punta Villueira,|Embarcación;|C.P. Camariñas|2008109, 2014106, 2015107, 2016104, __2017103__, 2018104, 2019107,|(CM-096),|
+|De punta Morelo a punta Gallada, incluíndo illas e illotes fronte á costa|Embarcación;|C.P. Camelle|2008110, 2014107, 2015108, 2016105, 2017104, 2018105, 2019108,|(CM-117), (CM-118), (CM-119), (CM-120),|
 |Da enseada do río Anllóns á punta Nariga,|A pé; Embarcación;|C.P. Corme|||
 |Da praia de Nemiña a cabo Fisterra, illas Lobeiras, Carrumeiros,|A pé; Embarcación;|C.P. Fisterra|||
 |De punta Morelo a punta Padrón,|A pé; Embarcación;|C.P. Laxe|||
@@ -103,9 +103,9 @@ __Zonas de producción no SIGREMAR__:
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Ambito territorial das confrarías da Coruña, Mera, Lorbé, Sada, Ares,|A pé; Embarcación;|C.P. A Coruña, C.P. Mera, C.P. Lorbé, C.P. Sada, C.P. Ares, (plan conxunto)|||
-|De punta Alba a Pedra do Sal,|A pé; Embarcación;|C.P. Caión|||
-|De punta Segaño ata illas Mirandas,|Embarcación;|C.P. Ares|||
+|Ambito territorial das confrarías da Coruña, Mera, Lorbé, Sada, Ares,|A pé; Embarcación;|C.P. A Coruña, C.P. Mera, C.P. Lorbé, C.P. Sada, C.P. Ares, (plan conxunto)|2008107, 2014102, 2015104, 2016101, __2017100__, 2018101, 2019104,|(CF-023), (CF-024), (CF-025), (CF-026), (CF-027),|
+|De punta Alba a Pedra do Sal,|A pé; Embarcación;|C.P. Caión|2008108, 2014105, 2015106, 2016103, __2017102__, 2018103, 2019106,|(CF-036-I), (CF-036-II), (CF-037-I), (CF-037-II), (CF-039),|
+|De punta Segaño ata illas Mirandas,|Embarcación;|C.P. Ares|2014104,|(CF-027),|
 |De faro de punta Frouxeira a A Faísca,|A pé; Embarcación;|C.P. Ferrol|||
 
 
