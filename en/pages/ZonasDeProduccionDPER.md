@@ -90,7 +90,7 @@ __Zonas de producción no SIGREMAR__:
 |De punta Morelo a punta Padrón,|A pé; Embarcación;|C.P. Laxe|2008118, 2014114, 2015115, 2016112, __2017111__, 2018112, 2019115,|(CM-108), (CM-109),|
 |De punta Insua a desembocadura do río Larada,|A pé;|C.P. Lira|2014115, 2015116, 2016113, 2017112, 2018113, 2019116,|(CM-022), (CM-023), (CM-024), (CM-025),|
 |De punta Insua a desembocadura do río Larada,|Embarcación;|C.P. Lira|2014116, 2015117, 2016114, __2017113__, 2018114, 2019117,|(CM-007), (CM-009), (CM-008), (CM-010), (CM-013), (CM-250), (CM-251), (CM-252), (CM-253), (CM-254), (CM-018), (CM-014), (CM-015), (CM-016), (CM-019), (CM-017), (CM-020), (CM-021), (CM-004), (CM-005), (CM-006), (CM-011), (CM-012),|
-|De punta Insua a punta Larada e illotes de Miñarzos, Forcados, Seixo, Liboreiro, illa Corbeiro, punta Insua, Corniños, Coca, Petón de Cabalar, Pedra Pas e Pedra de Ardeleiro|A pé; Embarcación;|C.P. Lira|||
+|De punta Insua a punta Larada e illotes de Miñarzos, Forcados, Seixo, Liboreiro, illa Corbeiro, punta Insua, Corniños, Coca, Petón de Cabalar, Pedra Pas e Pedra de Ardeleiro|A pé; Embarcación;|C.P. Lira|__2008119__,|De punta Insua a punta Larada e illotes de Miñarzos, Forcados, Seixo, Liboreiro, illa Corbeiro, punta Insua, Corniños, Coca, Petón de Cabalar, Pedra Pas e Pedra de Ardeleiro|
 |De punta Nariga a Pedra do Sal, incluíndo Illas Sisargas, baixos de Baldaio, e demais illas e illotes fronte á costa en tres millas,|A pé; Embarcación;|C.P. Malpica|||
 |De punta Piaduiro (marxe esquerda da desembocadura do río Grande) a punta Nemiña, (marxe dereita da desembocadura do río Castro (incluíndo illas e illotes))|A pé; Embarcación;|C.P. Muxía|||
 |Da desembocadura do río Xallas á desembocadura do río Larada e pedras adxacentes|A pé;|C.P. O Pindo|||
