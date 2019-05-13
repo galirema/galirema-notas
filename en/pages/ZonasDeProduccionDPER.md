@@ -85,7 +85,7 @@ __Zonas de producción no SIGREMAR__:
 |---|---------|-------|----------|--------------|
 |De punta Gallada a punta Villueira,|Embarcación;|C.P. Camariñas|2008109, 2014106, 2015107, 2016104, __2017103__, 2018104, 2019107,|(CM-096),|
 |De punta Morelo a punta Gallada, incluíndo illas e illotes fronte á costa|Embarcación;|C.P. Camelle|2008110, 2014107, 2015108, 2016105, 2017104, 2018105, 2019108,|(CM-117), (CM-118), (CM-119), (CM-120),|
-|Da enseada do río Anllóns á punta Nariga,|A pé; Embarcación;|C.P. Corme|||
+|Da enseada do río Anllóns á punta Nariga,|A pé; Embarcación;|C.P. Corme|2008114, 2014110, 2015111, 2016108, __2017107__, 2018108, 2019111,|(CM-102), (CM-103), (CM-104), (CM-105), (CM-106),|
 |Da praia de Nemiña a cabo Fisterra, illas Lobeiras, Carrumeiros,|A pé; Embarcación;|C.P. Fisterra|||
 |De punta Morelo a punta Padrón,|A pé; Embarcación;|C.P. Laxe|||
 |De punta Insua a desembocadura do río Larada,|A pé;|C.P. Lira|||
@@ -123,8 +123,8 @@ __Zonas de producción no SIGREMAR__:
 |De punta Promontoiro ás Carallas; illotes: Martiñas, Mourón, Corbeira, Tabla, Insua, Pancha e O Can de Faro|A pé;|C.P. Ribadeo|2008105, 2014100, 2015102, 2016099, __2017098__, 2018099, 2019102,|(CL-137), (CL-138), (CL-139), (CL-140),|
 |Ermida de San Tirso a punta Rueta, illas de Cal, Sarón, Farallóns,|A pé; Embarcación;|C.P. San Cibrao|2008106, 2014101, 2015103, 2016100, 2017099, 2018100, 2019103,|(CL-130), (CL-131), (CL-134),|
 |De Pedra Barcelona a desembocadura do río Mera,|Embarcación;|C.P. Cariño|2008111, 2014108, 2015109, 2016106, __2017105__, 2018106, 2019109,|(CL-068), (CL-069), (CL-070), (CL-071), (CL-055), (CL-056), (CL-057), (CL-058), (CL-059),|
-|Do faro da punta da Frouxeira a Pedra Barcelona,|Embarcación;|C.P. Cedeira|||
-|De illa San Vicente a punta Billardeira,|Embarcación;|C.P. Espasante|||
+|Do faro da punta da Frouxeira a Pedra Barcelona,|Embarcación;|C.P. Cedeira|2008113, 2014109, 2015110, 2016107, __2017106__, 2018107, 2019110,|(CL-187), (CL-189), (CL-190), (CL-191), (CL-192), (CL-193), (CL-194), (CL-195), (CL-196), (CL-197), (CL-198), (CL-199), (CL-200), (CL-201), (CL-202), (CL-203), (CL-204), (CL-205), (CL-206), (CL-207), (CL-208), (CL-209), (CL-210),|
+|De illa San Vicente a punta Billardeira,|Embarcación;|C.P. Espasante|2008115, 2014111, 2015112, 2016109, __2017108__, 2018109, 2019112,|(CL-044),|
 |De punta Villardeira a punta da Barra,|Embarcación;|C.P. O Barqueiro-Bares|||
 
 
