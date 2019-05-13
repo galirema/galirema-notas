@@ -122,7 +122,7 @@ __Zonas de producción no SIGREMAR__:
 |Desde a marxe esquerda do río Escourido á marxe dereita do río Sor, illa Coelleira,|Embarcación;|C.P. O Vicedo|2008104, 2014099, 2015101, 2016098, __2017097__, 2018098, 2019101,|(CL-124), (CL-125),|
 |De punta Promontoiro ás Carallas; illotes: Martiñas, Mourón, Corbeira, Tabla, Insua, Pancha e O Can de Faro|A pé;|C.P. Ribadeo|2008105, 2014100, 2015102, 2016099, __2017098__, 2018099, 2019102,|(CL-137), (CL-138), (CL-139), (CL-140),|
 |Ermida de San Tirso a punta Rueta, illas de Cal, Sarón, Farallóns,|A pé; Embarcación;|C.P. San Cibrao|2008106, 2014101, 2015103, 2016100, 2017099, 2018100, 2019103,|(CL-130), (CL-131), (CL-134),|
-|De Pedra Barcelona a desembocadura do río Mera,|Embarcación;|C.P. Cariño|||
+|De Pedra Barcelona a desembocadura do río Mera,|Embarcación;|C.P. Cariño|2008111, 2014108, 2015109, 2016106, __2017105__, 2018106, 2019109,|(CL-068), (CL-069), (CL-070), (CL-071), (CL-055), (CL-056), (CL-057), (CL-058), (CL-059),|
 |Do faro da punta da Frouxeira a Pedra Barcelona,|Embarcación;|C.P. Cedeira|||
 |De illa San Vicente a punta Billardeira,|Embarcación;|C.P. Espasante|||
 |De punta Villardeira a punta da Barra,|Embarcación;|C.P. O Barqueiro-Bares|||
