@@ -86,8 +86,8 @@ __Zonas de producción no SIGREMAR__:
 |De punta Gallada a punta Villueira,|Embarcación;|C.P. Camariñas|2008109, 2014106, 2015107, 2016104, __2017103__, 2018104, 2019107,|(CM-096),|
 |De punta Morelo a punta Gallada, incluíndo illas e illotes fronte á costa|Embarcación;|C.P. Camelle|2008110, 2014107, 2015108, 2016105, 2017104, 2018105, 2019108,|(CM-117), (CM-118), (CM-119), (CM-120),|
 |Da enseada do río Anllóns á punta Nariga,|A pé; Embarcación;|C.P. Corme|2008114, 2014110, 2015111, 2016108, __2017107__, 2018108, 2019111,|(CM-102), (CM-103), (CM-104), (CM-105), (CM-106),|
-|Da praia de Nemiña a cabo Fisterra, illas Lobeiras, Carrumeiros,|A pé; Embarcación;|C.P. Fisterra|||
-|De punta Morelo a punta Padrón,|A pé; Embarcación;|C.P. Laxe|||
+|Da praia de Nemiña a cabo Fisterra, illas Lobeiras, Carrumeiros,|A pé; Embarcación;|C.P. Fisterra|2008117, 2014113, 2015114, 2016111, __2017110__, 2018111, 2019114,|(CM-084), (CM-085), (CM-086), (CM-087), (CM-088), (CM-089), (CM-090), (CM-091),|
+|De punta Morelo a punta Padrón,|A pé; Embarcación;|C.P. Laxe|2008118, 2014114, 2015115, 2016112, __2017111__, 2018112, 2019115,|(CM-108), (CM-109),|
 |De punta Insua a desembocadura do río Larada,|A pé;|C.P. Lira|||
 |De punta Insua a desembocadura do río Larada,|Embarcación;|C.P. Lira|||
 |De punta Insua a punta Larada e illotes de Miñarzos, Forcados, Seixo, Liboreiro, illa Corbeiro, punta Insua, Corniños, Coca, Petón de Cabalar, Pedra Pas e Pedra de Ardeleiro|A pé; Embarcación;|C.P. Lira|||
