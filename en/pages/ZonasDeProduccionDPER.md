@@ -106,7 +106,7 @@ __Zonas de producción no SIGREMAR__:
 |Ambito territorial das confrarías da Coruña, Mera, Lorbé, Sada, Ares,|A pé; Embarcación;|C.P. A Coruña, C.P. Mera, C.P. Lorbé, C.P. Sada, C.P. Ares, (plan conxunto)|2008107, 2014102, 2015104, 2016101, __2017100__, 2018101, 2019104,|(CF-023), (CF-024), (CF-025), (CF-026), (CF-027),|
 |De punta Alba a Pedra do Sal,|A pé; Embarcación;|C.P. Caión|2008108, 2014105, 2015106, 2016103, __2017102__, 2018103, 2019106,|(CF-036-I), (CF-036-II), (CF-037-I), (CF-037-II), (CF-039),|
 |De punta Segaño ata illas Mirandas,|Embarcación;|C.P. Ares|2014104,|(CF-027),|
-|De faro de punta Frouxeira a A Faísca,|A pé; Embarcación;|C.P. Ferrol|||
+|De faro de punta Frouxeira a A Faísca,|A pé; Embarcación;|C.P. Ferrol|2008116, 2014112, 2015113, 2016110, __2017109__, 2018110, 2019113,|(CF-115), (CF-116), (CF-117), (CF-119), (CF-120), (CF-121), (CF-123), (CF-312), (CF-313), (CF-314),|
 
 
 
