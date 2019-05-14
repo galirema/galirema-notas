@@ -93,7 +93,7 @@ __Zonas de producción no SIGREMAR__:
 |De punta Insua a punta Larada e illotes de Miñarzos, Forcados, Seixo, Liboreiro, illa Corbeiro, punta Insua, Corniños, Coca, Petón de Cabalar, Pedra Pas e Pedra de Ardeleiro|A pé; Embarcación;|C.P. Lira|__2008119__,|De punta Insua a punta Larada e illotes de Miñarzos, Forcados, Seixo, Liboreiro, illa Corbeiro, punta Insua, Corniños, Coca, Petón de Cabalar, Pedra Pas e Pedra de Ardeleiro|
 |De punta Nariga a Pedra do Sal, incluíndo Illas Sisargas, baixos de Baldaio, e demais illas e illotes fronte á costa en tres millas,|A pé; Embarcación;|C.P. Malpica|2008120, 2014117, 2015118, 2016115, _2017114_, 2018115, __2019118__,|(CM-245), (CM-246-I), (CM-246-II), (CM-247), (CM-248),|
 |De punta Piaduiro (marxe esquerda da desembocadura do río Grande) a punta Nemiña, (marxe dereita da desembocadura do río Castro (incluíndo illas e illotes))|A pé; Embarcación;|C.P. Muxía|2008122, 2014119, 2015120, 2016117, 2017116, 2018117, 2019120,|(CM-026), (CM-027), (CM-028), (CM-029), (CM-030), (CM-031),|
-|Da desembocadura do río Xallas á desembocadura do río Larada e pedras adxacentes|A pé;|C.P. O Pindo|||
+|Da desembocadura do río Xallas á desembocadura do río Larada e pedras adxacentes|A pé;|C.P. O Pindo|2008124, 2014121, 2015122, 2016119, __2017118__, 2018119, 2019122,|(CM-042), (CM-259), (CM-260), (CM-261), (CM-262), (CM-263), (CM-264), (CM-265), (CM-266), (CM-267), (CM-249),|
 
 
 
@@ -125,7 +125,7 @@ __Zonas de producción no SIGREMAR__:
 |De Pedra Barcelona a desembocadura do río Mera,|Embarcación;|C.P. Cariño|2008111, 2014108, 2015109, 2016106, __2017105__, 2018106, 2019109,|(CL-068), (CL-069), (CL-070), (CL-071), (CL-055), (CL-056), (CL-057), (CL-058), (CL-059),|
 |Do faro da punta da Frouxeira a Pedra Barcelona,|Embarcación;|C.P. Cedeira|2008113, 2014109, 2015110, 2016107, __2017106__, 2018107, 2019110,|(CL-187), (CL-189), (CL-190), (CL-191), (CL-192), (CL-193), (CL-194), (CL-195), (CL-196), (CL-197), (CL-198), (CL-199), (CL-200), (CL-201), (CL-202), (CL-203), (CL-204), (CL-205), (CL-206), (CL-207), (CL-208), (CL-209), (CL-210),|
 |De illa San Vicente a punta Billardeira,|Embarcación;|C.P. Espasante|2008115, 2014111, 2015112, 2016109, __2017108__, 2018109, 2019112,|(CL-044),|
-|De punta Villardeira a punta da Barra,|Embarcación;|C.P. O Barqueiro-Bares|2008123, 2014120, 2015121, 2016118, 2017117, 2018118, 2019121,|(CL-001), (CL-002), (CL-003), (CL-004), (CL-005), (CL-006), (CL-007), (CL-008), (CL-009), (CL-010), (CL-011),|
+|De punta Villardeira a punta da Barra,|Embarcación;|C.P. O Barqueiro-Bares|2008123, 2014120, 2015121, 2016118, __2017117__, 2018118, 2019121,|(CL-001), (CL-002), (CL-003), (CL-004), (CL-005), (CL-006), (CL-007), (CL-008), (CL-009), (CL-010), (CL-011),|
 
 
 [Indice](indicesZonasProduccion.md)
