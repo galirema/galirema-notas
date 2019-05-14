@@ -125,7 +125,7 @@ __Zonas de producción no SIGREMAR__:
 |De Pedra Barcelona a desembocadura do río Mera,|Embarcación;|C.P. Cariño|2008111, 2014108, 2015109, 2016106, __2017105__, 2018106, 2019109,|(CL-068), (CL-069), (CL-070), (CL-071), (CL-055), (CL-056), (CL-057), (CL-058), (CL-059),|
 |Do faro da punta da Frouxeira a Pedra Barcelona,|Embarcación;|C.P. Cedeira|2008113, 2014109, 2015110, 2016107, __2017106__, 2018107, 2019110,|(CL-187), (CL-189), (CL-190), (CL-191), (CL-192), (CL-193), (CL-194), (CL-195), (CL-196), (CL-197), (CL-198), (CL-199), (CL-200), (CL-201), (CL-202), (CL-203), (CL-204), (CL-205), (CL-206), (CL-207), (CL-208), (CL-209), (CL-210),|
 |De illa San Vicente a punta Billardeira,|Embarcación;|C.P. Espasante|2008115, 2014111, 2015112, 2016109, __2017108__, 2018109, 2019112,|(CL-044),|
-|De punta Villardeira a punta da Barra,|Embarcación;|C.P. O Barqueiro-Bares|||
+|De punta Villardeira a punta da Barra,|Embarcación;|C.P. O Barqueiro-Bares|2008123, 2014120, 2015121, 2016118, 2017117, 2018118, 2019121,|(CL-001), (CL-002), (CL-003), (CL-004), (CL-005), (CL-006), (CL-007), (CL-008), (CL-009), (CL-010), (CL-011),|
 
 
 [Indice](indicesZonasProduccion.md)
