@@ -37,7 +37,7 @@ __Zonas de producción no SIGREMAR__:
 |---|---------|-------|----------|--------------|
 |De punta Orelludas a punta dos Picos,|A pé;|C.P. A Guarda|2008127, 2014124, 2015125, 2016122, __2017121__, 2018122, 2019125,|(VI-125): ((VI-122), (VI-123), (VI-124), (VI-203),); (VI-126): ((VI-438), (VI-439),); (VI 127): ((VI-204), (VI-205), (VI-206),);|
 |De punta Orelludas a punta dos Picos,|Embarcación;|C.P. A Guarda|2008128, 2014125, 2015126, 2016123, __2017122__, 2018123, 2019126,|(VI-117), (VI-118), (VI-119),|
-|De punta Orelludas a monte Ferro (punta Lameda), incluíndo as illas Estelas, Farallóns, Lourido,|A pé; Embarcación;|C.P. Baiona|||
+|De punta Orelludas a monte Ferro (punta Lameda), incluíndo as illas Estelas, Farallóns, Lourido,|A pé; Embarcación;|C.P. Baiona|2008130, 2014127, 2015128, 2016125, __2017124__,|(VI-110-I), (VI-110-II), (VI-110-III),|
 |De punta Couso a punta Canaval, illas Cíes,|Embarcación;|C.P. Cangas|||
 |De punta Cubilló a punta de Serra,|A pé;|C.P. Vigo|||
 
