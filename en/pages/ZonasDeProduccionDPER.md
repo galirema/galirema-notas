@@ -50,7 +50,7 @@ __Zonas de producción no SIGREMAR__:
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |De punta Couso a punta Morcegos, cara ao interior da ría de Aldán,|A pé;|C.P. Aldán-O Hio|2008129, 2014126, 2015127, 2016124, __2017123__, 2018124, 2019127,|(PO-165), (PO-164),|
-|De punta Lapamán a punta Morcegos, Illa Ons, Onza;|Embarcación;|C.P. Bueu|||
+|De punta Lapamán a punta Morcegos, Illa Ons, Onza;|Embarcación;|C.P. Bueu|2008131, 2014128, 2015129, 2016126, 2017125, 2018127, 2019131,|(PO-179), (PO-178), (PO-168), (PO-181), (PO-180), (PO-182), (PO-183), (PO-184), (PO-188), (PO-189), (PO-190), (PO-1859), (PO-187), (PO-186),|
 
 
 
