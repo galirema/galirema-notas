@@ -35,7 +35,7 @@ __Zonas de producción no SIGREMAR__:
  
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Orelludas a punta dos Picos,|A pé;|C.P. A Guarda|||
+|De punta Orelludas a punta dos Picos,|A pé;|C.P. A Guarda|2008127, 2014124, 2015125, 2016122, 2017121, 2018122, 2019125,|(VI-125): ((VI-122), (VI-123), (VI-124), (VI-203),); (VI-126): ((VI-438), (VI-439),); (VI 127): ((VI-204), (VI-205), (VI-206),);|
 |De punta Orelludas a punta dos Picos,|Embarcación;|C.P. A Guarda|||
 |De punta Orelludas a monte Ferro (punta Lameda), incluíndo as illas Estelas, Farallóns, Lourido,|A pé; Embarcación;|C.P. Baiona|||
 |De punta Couso a punta Canaval, illas Cíes,|Embarcación;|C.P. Cangas|||
