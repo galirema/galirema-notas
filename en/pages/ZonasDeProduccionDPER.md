@@ -73,7 +73,7 @@ __Zonas de producción no SIGREMAR__:
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |De punta Insua a punta Uhía,|A pé;|C.P. Muros|2008121, 2014118, 2015119, 2016116, 2017115, 2018116, 2019119,|(MN-008), (MN-009), (MN-010), (MN-011),|
-|De río Sieira a punta Cabeiro, illotes Os Bruyos, Leixoes, Pedra do Con,|A pé; Embarcación;|C.P. Porto do Son|||
+|De río Sieira a punta Cabeiro, illotes Os Bruyos, Leixoes, Pedra do Con,|A pé; Embarcación;|C.P. Porto do Son|2008125, 2014122, 2015123, 2016120, __2017119__, 2018120, 2019123,|(MN-074), (MN-075), (MN-076), (MN-077), (MN-078), (MN-079),|
 
 
 
