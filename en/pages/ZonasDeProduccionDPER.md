@@ -35,8 +35,8 @@ __Zonas de producción no SIGREMAR__:
  
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Orelludas a punta dos Picos,|A pé;|C.P. A Guarda|2008127, 2014124, 2015125, 2016122, 2017121, 2018122, 2019125,|(VI-125): ((VI-122), (VI-123), (VI-124), (VI-203),); (VI-126): ((VI-438), (VI-439),); (VI 127): ((VI-204), (VI-205), (VI-206),);|
-|De punta Orelludas a punta dos Picos,|Embarcación;|C.P. A Guarda|||
+|De punta Orelludas a punta dos Picos,|A pé;|C.P. A Guarda|2008127, 2014124, 2015125, 2016122, __2017121__, 2018122, 2019125,|(VI-125): ((VI-122), (VI-123), (VI-124), (VI-203),); (VI-126): ((VI-438), (VI-439),); (VI 127): ((VI-204), (VI-205), (VI-206),);|
+|De punta Orelludas a punta dos Picos,|Embarcación;|C.P. A Guarda|2008128, 2014125, 2015126, 2016123, __2017122__, 2018123, 2019126,|(VI-117), (VI-118), (VI-119),|
 |De punta Orelludas a monte Ferro (punta Lameda), incluíndo as illas Estelas, Farallóns, Lourido,|A pé; Embarcación;|C.P. Baiona|||
 |De punta Couso a punta Canaval, illas Cíes,|Embarcación;|C.P. Cangas|||
 |De punta Cubilló a punta de Serra,|A pé;|C.P. Vigo|||
@@ -49,7 +49,7 @@ __Zonas de producción no SIGREMAR__:
  
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Couso a punta Morcegos, cara ao interior da ría de Aldán,|A pé;|C.P. Aldán-O Hio|||
+|De punta Couso a punta Morcegos, cara ao interior da ría de Aldán,|A pé;|C.P. Aldán-O Hio|2008129, 2014126, 2015127, 2016124, __2017123__, 2018124, 2019127,|(PO-165), (PO-164),|
 |De punta Lapamán a punta Morcegos, Illa Ons, Onza;|Embarcación;|C.P. Bueu|||
 
 
@@ -61,7 +61,7 @@ __Zonas de producción no SIGREMAR__:
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |Desde punta Castro ata a desembocadura do río Sieira, illas e illotes adxacentes|A pé; Embarcación;|C.P. Aguiño|2008112, 2014103, 2015105, 2016102, 2017101, 2018102, __2019105__,|(AR-237-II), (AR-239), (AR-241-I), (AR-241-II), (AR-252), (AR-243), (AR-242), (AR-237-I), (AR-238), (AR-244), (AR-245), (AR-246), (AR-247), (AR-248), (AR-249), (AR-225), (AR-250), (AR-251), (AR-228), (AR-229), (AR-227), (AR-226-I), (AR-226-II), (AR-234), (AR-236), (AR-224), (AR-301), (AR-219), (AR-223), (AR-222), (AR-299), (AR-220), (AR-221), (AR-300),|
-|Illas e illotes Laxas, Pías de Castiñeira, Airós, Rúa, Carabancelo, Xidoiro Pedregoso, Corbeiros, Lobeiras,|Embarcación;|C.P. Ribeira|2008126, 2014123, 2015124, 2016121, 2017120, 2018121, 2019124,|(AR-358), (AR-357), (AR-359), (AR-360), (AR-356), (AR-362), (AR-363), (AR 361-I), (AR-362-II),|
+|Illas e illotes Laxas, Pías de Castiñeira, Airós, Rúa, Carabancelo, Xidoiro Pedregoso, Corbeiros, Lobeiras,|Embarcación;|C.P. Ribeira|2008126, 2014123, 2015124, 2016121, __2017120__, 2018121, 2019124,|(AR-358), (AR-357), (AR-359), (AR-360), (AR-356), (AR-362), (AR-363), (AR 361-I), (AR-362-II),|
 |De punta Area Grande a punta Faxilda,|A pé; Embarcación;|C.P. O Grove|||
 
 
@@ -72,7 +72,7 @@ __Zonas de producción no SIGREMAR__:
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Insua a punta Uhía,|A pé;|C.P. Muros|2008121, 2014118, 2015119, 2016116, 2017115, 2018116, 2019119,|(MN-008), (MN-009), (MN-010), (MN-011),|
+|De punta Insua a punta Uhía,|A pé;|C.P. Muros|2008121, 2014118, 2015119, 2016116, __2017115__, 2018116, 2019119,|(MN-008), (MN-009), (MN-010), (MN-011),|
 |De río Sieira a punta Cabeiro, illotes Os Bruyos, Leixoes, Pedra do Con,|A pé; Embarcación;|C.P. Porto do Son|2008125, 2014122, 2015123, 2016120, __2017119__, 2018120, 2019123,|(MN-074), (MN-075), (MN-076), (MN-077), (MN-078), (MN-079),|
 
 
