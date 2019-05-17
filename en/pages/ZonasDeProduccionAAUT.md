@@ -31,8 +31,8 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|------------------|
-|Foz do río Miñor, praia Ladeira, praia do Burgo, praia de Santa Marta, paseo da Lonxa, praia Ribeira, praia Barbeira, AAUT  __A0036v2017__.|A pé;| C.P. Baiona|2008035, 2014035, 2015036, 2016036, 2017035, 2018036, 2019037,|(VI-105), (VI-104), (VI-103-I), (VI-103-II), (VI-103-III), (VI-102), (VI-101), (VI-100),|
-|Autorización administrativa C.P. Baiona Sublitoral AAUT __A0037v2017__.| Embarcación;| C.P. Baiona|2008036, 2014036, 2015037, 2016037, 2017036, 2018037, 2019038,|Autorización administrativa C.P. Baiona, (zonas marítimas),|
+|Foz do río Miñor, praia Ladeira, praia do Burgo, praia de Santa Marta, paseo da Lonxa, praia Ribeira, praia Barbeira, AAUT  __A0036v2017__.|A pé;| C.P. Baiona|2008035, 2014035, 2015036, 2016036, 2017035, 2018036, [2019037](https://galirema.wikia.org/es/wiki/Pexma2019AAUT037),|(VI-105), (VI-104), (VI-103-I), (VI-103-II), (VI-103-III), (VI-102), (VI-101), (VI-100),|
+|Autorización administrativa C.P. Baiona Sublitoral AAUT __A0037v2017__.| Embarcación;| C.P. Baiona|2008036, 2014036, 2015037, 2016037, 2017036, 2018037, [2019038](https://galirema.wikia.org/es/wiki/Pexma2019AAUT038),|Autorización administrativa C.P. Baiona, (zonas marítimas),|
 
 
 ## Ría de Pontevedra (PO)
@@ -41,7 +41,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|------------------|
-|De punta Alada a punta Preguntoiro, cara ao interior da ría de Aldán AAUT __A0035v2017__.| A pé;| C.P. Aldán-O Hio|2008034, 2008033, 2014034, 2015035, 2016035, 2017034, 2018035, 2019036,|(PO-142), (PO-143), (PO-139), (PO-140), (PO-141), (PO-175), (PO-176), (PO-177),|
+|De punta Alada a punta Preguntoiro, cara ao interior da ría de Aldán AAUT __A0035v2017__.| A pé;| C.P. Aldán-O Hio|2008034, 2008033, 2014034, 2015035, 2016035, 2017034, 2018035, [2019036](https://galirema.wikia.org/es/wiki/Pexma2019AAUT036),|(PO-142), (PO-143), (PO-139), (PO-140), (PO-141), (PO-175), (PO-176), (PO-177),|
 
 
 ## Ría de Arousa (AR)
@@ -50,22 +50,22 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|------------------|
-|De punta Galduario a punta Peralto, AAUT __A0004v2017__.| A pé;| C.P. A Pobra do Caramiñal|2008005, 2014004, 2015004, 2016004, 2017004, 2018004, 2019005,|(AR-131), (AR-132), (AR-133),|
-|De punta Galduario a punta Peralto, AAUT __A0005v2017__.| Embarcación;| C.P. A Pobra do Caramiñal|2008006, 2014005, 2015005, 2016005, 2017005, 2018005, 2019006,|(AR-134), (AR-135), (AR-136),|
-|Zona de autorización C.P. Aguiño, AAUT __A0006v2017__.| Embarcación;| C.P. Aguiño|2008012, 2014006, 2015006, 2016006, 2017006, 2018006, 2019007,|(AR-211), (AR-212), (AR-213), (AR- 210), (AR-211),|
-|Entre punta Peralto, punta Pedra Rubia, AAUT __A0008v2017__.| A pé;| C.P. Cabo de Cruz|2008008, 2014008, 2015008, 2016008, 2017008, 2018008, 2019009,|(AR-141), (AR-143), (AR-144), (AR-145), (AR-146),|
-|Entre punta Peralto, punta Pedra Rubia, AAUT __A0009v2017__.| Embarcación;| C.P. Cabo de Cruz|2008009, 2014009, 2015009, 2016009, 2017009, 2018009, 2019010,|(AR-147), (AR-148), (AR-149), (AR-150), (AR-151), (AR-152),|
-|Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT __A0023v2017__.| A pé;| C.P. Palmeira|2008022, 2014022, 2015023, 2016023, 2017023, 2018023, 2019024,|(AR-195), (AR-196), (AR-194),|
-|Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT __A0024v2017__.| Embarcación;| C.P. Palmeira|2008023, 2014023, 2015024, 2016024, 2017024, 2018024, 2019025,|(AR-062), (AR-064), (AR-063),|
-|Autorización de Rianxo AAUT __A0027v2017__.| A pé;| C.P. Rianxo|2008026, 2014026, 2015027, 2016027, 2017027, 2018027, 2019028,|(AR-180), (AR-178), (AR-176), (AR-165), (AR-179), (AR-350), (AR-173), (AR-175), (AR-177), (AR-171), (AR-172), (AR-170), (AR-164), (AR-166), (AR-181), (AR-174), (AR-351), (AR-182), (AR-169), (AR-167), (AR-353),|
-|Autorización de Rianxo sublitoral AAUT __A0028v2017__.| Embarcación;| C.P. Rianxo|2008027, 2014027, 2015028, 2016028, 2017028, 2018028, 2019029,|(AR-183), (AR-184), (AR-185), (AR-186), (AR-187), (AR-188), (AR-189), (AR-190), (AR-191), (AR-192), (AR-193), (AR-352), (AR-354),|
-|Autorización de Ribeira AAUT __A0029v2017__.| Embarcación;| C.P. Ribeira|2008028, 2014028, 2015029, 2016029, 2017029, 2018029, 2019030,|(AR-204), (AR-206), (AR-207), (AR-197), (AR-198), (AR-199), (AR-200), (AR-201-I), (AR-201-II), (AR-208), (AR-209),|
-|De punta Aguiúncho a Eiró Grande, de Eiró Grande a Carabancelo, de Carabancelo a Redonda Vella, de Redonda Vella a punta Castro AAUT __A0030v2017__.| Rastro de vieira ou voandeira;| C.P. Ribeira|2014029, 2015030, 2016030, 2017030, 2018030, 2019031,|(AR-203),|
-|De punta Portomouro a punta Pedra Rubia, AAUT __A0032v2017__.| A pé; Embarcación;| Ría de Arousa S.C.G.|2008030, 2014031, 2015032, 2016032, 2017031, 2018032, 2019033,|(AR-153), (AR-154), (AR-155), (AR-156), (AR-157), (AR-158), (AR-159), (AR-160), (AR-161), (AR-162), (AR-163),|
-|Zonas de autorización: intermareal de illa de Arousa AAUT __A0033v2017__.| A pé;| C.P. A Illa de Arousa|2008031, 2014032, 2015033, 2016033, 2017032, 2018033, 2019034,|(AR-041), (AR-046), (AR-048), (AR-047), (AR-055), (AR-347), (AR-325), (AR-326), (AR-327), (AR-345), (AR-053),|
-|Zonas de autorización: submareal de Illa de Arousa AAUT __A0034v2017__.| Embarcación;| C.P. A Illa de Arousa|2008032, 2014033, 2015034, 2016034, 2017033, 2018034, 2019035,|(AR-049), (AR-050), (AR-056), (AR-059), (AR-052), (AR-324-I), (AR-324-II), (AR-058), (AR-329),|
-|Zona intermareal atorización de Cambados AAUT __A0038v2017__.| A pé;| C.P. Cambados|2008038, 2008037, 2014037, 2015038, 2016038, 2017037, 2018038, 2019039,|(AR-011), (AR-012), (AR-013), (AR-014), (AR-015), (AR-217),|
-|De Rego do Alcalde a punta Tragove, de punta Borrón e peirao de Cambados a punta Borrelo, AAUT __A0039v2017__.| Embarcación;| C.P. Cambados|2008039, 2014038, 2015039, 2016039, 2017038, 2018039, 2019040,|(AR-017), (AR-019), (AR-216),|
+|De punta Galduario a punta Peralto, AAUT __A0004v2017__.| A pé;| C.P. A Pobra do Caramiñal|2008005, 2014004, 2015004, 2016004, 2017004, 2018004, [2019005](https://galirema.wikia.org/es/wiki/Pexma2019AAUT005),|(AR-131), (AR-132), (AR-133),|
+|De punta Galduario a punta Peralto, AAUT __A0005v2017__.| Embarcación;| C.P. A Pobra do Caramiñal|2008006, 2014005, 2015005, 2016005, 2017005, 2018005, [2019006](https://galirema.wikia.org/es/wiki/Pexma2019AAUT006),|(AR-134), (AR-135), (AR-136),|
+|Zona de autorización C.P. Aguiño, AAUT __A0006v2017__.| Embarcación;| C.P. Aguiño|2008012, 2014006, 2015006, 2016006, 2017006, 2018006, [2019007](https://galirema.wikia.org/es/wiki/Pexma2019AAUT007),|(AR-211), (AR-212), (AR-213), (AR- 210), (AR-211),|
+|Entre punta Peralto, punta Pedra Rubia, AAUT __A0008v2017__.| A pé;| C.P. Cabo de Cruz|2008008, 2014008, 2015008, 2016008, 2017008, 2018008, [2019009](https://galirema.wikia.org/es/wiki/Pexma2019AAUT009),|(AR-141), (AR-143), (AR-144), (AR-145), (AR-146),|
+|Entre punta Peralto, punta Pedra Rubia, AAUT __A0009v2017__.| Embarcación;| C.P. Cabo de Cruz|2008009, 2014009, 2015009, 2016009, 2017009, 2018009, [2019010](https://galirema.wikia.org/es/wiki/Pexma2019AAUT010),|(AR-147), (AR-148), (AR-149), (AR-150), (AR-151), (AR-152),|
+|Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT __A0023v2017__.| A pé;| C.P. Palmeira|2008022, 2014022, 2015023, 2016023, 2017023, 2018023, [2019024](https://galirema.wikia.org/es/wiki/Pexma2019AAUT024),|(AR-195), (AR-196), (AR-194),|
+|Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT __A0024v2017__.| Embarcación;| C.P. Palmeira|2008023, 2014023, 2015024, 2016024, 2017024, 2018024, [2019025](https://galirema.wikia.org/es/wiki/Pexma2019AAUT025),|(AR-062), (AR-064), (AR-063),|
+|Autorización de Rianxo AAUT __A0027v2017__.| A pé;| C.P. Rianxo|2008026, 2014026, 2015027, 2016027, 2017027, 2018027, [2019028](https://galirema.wikia.org/es/wiki/Pexma2019AAUT028),|(AR-180), (AR-178), (AR-176), (AR-165), (AR-179), (AR-350), (AR-173), (AR-175), (AR-177), (AR-171), (AR-172), (AR-170), (AR-164), (AR-166), (AR-181), (AR-174), (AR-351), (AR-182), (AR-169), (AR-167), (AR-353),|
+|Autorización de Rianxo sublitoral AAUT __A0028v2017__.| Embarcación;| C.P. Rianxo|2008027, 2014027, 2015028, 2016028, 2017028, 2018028, [2019029](https://galirema.wikia.org/es/wiki/Pexma2019AAUT029),|(AR-183), (AR-184), (AR-185), (AR-186), (AR-187), (AR-188), (AR-189), (AR-190), (AR-191), (AR-192), (AR-193), (AR-352), (AR-354),|
+|Autorización de Ribeira AAUT __A0029v2017__.| Embarcación;| C.P. Ribeira|2008028, 2014028, 2015029, 2016029, 2017029, 2018029, [2019030](https://galirema.wikia.org/es/wiki/Pexma2019AAUT030),|(AR-204), (AR-206), (AR-207), (AR-197), (AR-198), (AR-199), (AR-200), (AR-201-I), (AR-201-II), (AR-208), (AR-209),|
+|De punta Aguiúncho a Eiró Grande, de Eiró Grande a Carabancelo, de Carabancelo a Redonda Vella, de Redonda Vella a punta Castro AAUT __A0030v2017__.| Rastro de vieira ou voandeira;| C.P. Ribeira|2014029, 2015030, 2016030, 2017030, 2018030, [2019031](https://galirema.wikia.org/es/wiki/Pexma2019AAUT031),|(AR-203),|
+|De punta Portomouro a punta Pedra Rubia, AAUT __A0032v2017__.| A pé; Embarcación;| Ría de Arousa S.C.G.|2008030, 2014031, 2015032, 2016032, 2017031, 2018032, [2019033](https://galirema.wikia.org/es/wiki/Pexma2019AAUT033),|(AR-153), (AR-154), (AR-155), (AR-156), (AR-157), (AR-158), (AR-159), (AR-160), (AR-161), (AR-162), (AR-163),|
+|Zonas de autorización: intermareal de illa de Arousa AAUT __A0033v2017__.| A pé;| C.P. A Illa de Arousa|2008031, 2014032, 2015033, 2016033, 2017032, 2018033, [2019034](https://galirema.wikia.org/es/wiki/Pexma2019AAUT034),|(AR-041), (AR-046), (AR-048), (AR-047), (AR-055), (AR-347), (AR-325), (AR-326), (AR-327), (AR-345), (AR-053),|
+|Zonas de autorización: submareal de Illa de Arousa AAUT __A0034v2017__.| Embarcación;| C.P. A Illa de Arousa|2008032, 2014033, 2015034, 2016034, 2017033, 2018034, [2019035](https://galirema.wikia.org/es/wiki/Pexma2019AAUT035),|(AR-049), (AR-050), (AR-056), (AR-059), (AR-052), (AR-324-I), (AR-324-II), (AR-058), (AR-329),|
+|Zona intermareal atorización de Cambados AAUT __A0038v2017__.| A pé;| C.P. Cambados|2008038, 2008037, 2014037, 2015038, 2016038, 2017037, 2018038, [2019039](https://galirema.wikia.org/es/wiki/Pexma2019AAUT039),|(AR-011), (AR-012), (AR-013), (AR-014), (AR-015), (AR-217),|
+|De Rego do Alcalde a punta Tragove, de punta Borrón e peirao de Cambados a punta Borrelo, AAUT __A0039v2017__.| Embarcación;| C.P. Cambados|2008039, 2014038, 2015039, 2016039, 2017038, 2018039, [2019040](https://galirema.wikia.org/es/wiki/Pexma2019AAUT040),|(AR-017), (AR-019), (AR-216),|
 |A Fangueira, Sublitoral AAUT __A0040v2017__.| Embarcación;| C.P. Carril|2008041, 2014039, 2015040, 2016040, 2017039, 2018040, 2019041,|(AR-037),|
 |A Fangueira, Intermareal AAUT __A0041v2017__.| A pé;| C.P. Carril|2008040, 2015041, 2016041, 2017040, 2018041, 2019042,|(AR-069),|
 |Zonas de autorización (Intermareal) C.P. O Grove, AAUT __A0042v2017__.| A pé;| C.P. O Grove|2008042, 2008043, 2014040, 2015042, 2016042, 2017041, 2018042, 2019043,|(AR-092), (AR-091), (AR-090), (AR-093), (AR-094), (AR-095), (AR-105), (AR-096), (AR-061), (AR-258), (AR-107), (AR-077), (AR-108), (AR-109), (AR-110), (AR-060), (AR-106), (AR-106-1), (AR-106-2), (AR-106-3), (AR-113), (AR-114), (AR-115), (AR-116), (AR-117), (AR-103), (AR-104), (AR-102), (AR-101), (AR-100), (AR-099), (AR-098), (AR-097),|
@@ -93,7 +93,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|------------------|
-|Zona de autorización do río Anllóns. AAUT. __A0002v2017__.| A pé;| A.M. Esteiro do río Anllóns.|2008003, 2014002, 2015002, 2016002, 2017002, 2018002, 2019002,|(CM-121), (CM-093),|
+|Zona de autorización do río Anllóns. AAUT. __A0002v2017__.| A pé;| A.M. Esteiro do río Anllóns.|2008003, 2014002, 2015002, 2016002, 2017002, 2018002, [2019002](https://galirema.wikia.org/es/wiki/Pexma2019AAUT002),|(CM-121), (CM-093),|
 |De punta Lago a punta Roda, de punta Sandía a punta Roda, de punta Sandía a punta Insuela, enseada da Vasa, AAUT __A0010v2017__.| A pé; Embarcacion;| C.P. Camariñas|2008010, 2014010, 2015010, 2016010, 2017010, 2018010, 2019011,|(CM-129), (CM-100), (CM-130), (CM-133), (CM-131), (CM-134), (CM-132), (CM-135),|
 
 
@@ -125,7 +125,7 @@ __Zonas de producción no SIGREMAR:__
 |Autorizacións da confraría de Cariño AAUT __A0011v2017__.| A pé;| C.P. Cariño|2008011, 2014011, 2015011, 2016011, 2017011, 2018011, 2019012,|(CL-080), (CL-064), (CL-061), (CL-062), (CL-060), (CL-079), (CL-077), (CL-078), (CL-216), (CL-074), (CL-073), (CL-075), (CL-076),|
 |Enseada de Esteiro, enseada de Pantín, AAUT __A0012v2017__.| A pé;| C.P. Cedeira|2019012, 2015012, 2016012, 2017012, 2018012, 2019013,|(CL-048), (CL-053), (CL-047), (CL-2014),|
 |Autorización de Espasante, AAUT __A0013v2017__.| A pé;| C.P. Espasante|2008014, 2014012, 2015013, 2016013, 2017013, 2018013, 2019014,|(CL-029), (CL-030), (CL-031), (CL-032), (CL-033), (CL-034), (CL-036), (CL-037), (LV) (CL-038), (CL-090), (CL-092),|
-|Zonas de autorización situadas na marxe esquerda da ría do Barqueiro AAUT __A0022v2017__.| A pé;| C.P. O Barqueiro-Bares|2008021, 2014021, 2015022, 2016022, 2017022, 2018022, 2019023,|(CL-100), (CL-101), (CL-021), (CL-102), (CL-103), (CL-104), (CL-106), (CL-118), CL-119), (CL-105), (CL-020),|
+|Zonas de autorización situadas na marxe esquerda da ría do Barqueiro AAUT __A0022v2017__.| A pé;| C.P. O Barqueiro-Bares|2008021, 2014021, 2015022, 2016022, 2017022, 2018022, [2019023]https://galirema.wikia.org/es/wiki/Pexma2019AAUT023),|(CL-100), (CL-101), (CL-021), (CL-102), (CL-103), (CL-104), (CL-106), (CL-118), CL-119), (CL-105), (CL-020),|
 |Praia de Arealonga e Lombo das Navallas AAUT __A0047v2008__.| A pé;| C.P. O Vicedo|2008001,|(CL-117),|
 
 
