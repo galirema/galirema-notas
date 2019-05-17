@@ -103,7 +103,7 @@ __Zonas de producción no SIGREMAR:__
  
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Lagoas de Baldaio. AAUT, [A0001v2017](http://u.osmfr.org/m/250411/)| A pé;|A.M. Fonte Santa Helena-Baldaio|2008002, 2014001, 2015001, 2016001, 2017001, 2018001, 2019001,|(CF-040), (CF-167), banco da lagoa interna,|
+|Lagoas de Baldaio. AAUT, [A0001v2017](http://u.osmfr.org/m/250411/)| A pé;|A.M. Fonte Santa Helena-Baldaio|2008002, 2014001, 2015001, 2016001, 2017001, 2018001, [2019001](https://galirema.wikia.org/es/wiki/Pexma2019AAUT001),|(CF-040), (CF-167), banco da lagoa interna,|
 |Ría do Burgo. AAUT, __A0003v2017__.| A pé; Embarcación;|C.P. A Coruña|2008004, 2014003, 2015003, 2016003, 2017003, 2018003, 2019003,|(CF-002), (CF-002), (CF-004), (CF-009), (CF-008), (CF-005), (CF-006), (CF-007), (CF-317), (CF-319), (CF-001),|
 |Praias de Barallobre, Maniños, AAUT, __A0007v2017__.| A pé;|C.P. Barallobre|2008007, 2014007, 2015007, 2016007, 2017007, 2018007, 2019008,|(CF-138), (CF-139),|
 |Autorización das Pías, Autorización enseada Cabana-A Malata, AAUT, __A0014v2017__.| A pé; Embarcación;|C.P. Ferrol, C.P. Barallobre, (plan conxunto)|2014013, 2015014, 2016014, 2017014, 2018014, 2019015,|(CF-143), (CF-144), (CF-145), (CF-136),|
