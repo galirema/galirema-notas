@@ -66,13 +66,13 @@ __Zonas de producción no SIGREMAR:__
 |Zonas de autorización: submareal de Illa de Arousa AAUT __A0034v2017__.| Embarcación;| C.P. A Illa de Arousa|2008032, 2014033, 2015034, 2016034, 2017033, 2018034, [2019035](https://galirema.wikia.org/es/wiki/Pexma2019AAUT035),|(AR-049), (AR-050), (AR-056), (AR-059), (AR-052), (AR-324-I), (AR-324-II), (AR-058), (AR-329),|
 |Zona intermareal atorización de Cambados AAUT __A0038v2017__.| A pé;| C.P. Cambados|2008038, 2008037, 2014037, 2015038, 2016038, 2017037, 2018038, [2019039](https://galirema.wikia.org/es/wiki/Pexma2019AAUT039),|(AR-011), (AR-012), (AR-013), (AR-014), (AR-015), (AR-217),|
 |De Rego do Alcalde a punta Tragove, de punta Borrón e peirao de Cambados a punta Borrelo, AAUT __A0039v2017__.| Embarcación;| C.P. Cambados|2008039, 2014038, 2015039, 2016039, 2017038, 2018039, [2019040](https://galirema.wikia.org/es/wiki/Pexma2019AAUT040),|(AR-017), (AR-019), (AR-216),|
-|A Fangueira, Sublitoral AAUT __A0040v2017__.| Embarcación;| C.P. Carril|2008041, 2014039, 2015040, 2016040, 2017039, 2018040, 2019041,|(AR-037),|
-|A Fangueira, Intermareal AAUT __A0041v2017__.| A pé;| C.P. Carril|2008040, 2015041, 2016041, 2017040, 2018041, 2019042,|(AR-069),|
-|Zonas de autorización (Intermareal) C.P. O Grove, AAUT __A0042v2017__.| A pé;| C.P. O Grove|2008042, 2008043, 2014040, 2015042, 2016042, 2017041, 2018042, 2019043,|(AR-092), (AR-091), (AR-090), (AR-093), (AR-094), (AR-095), (AR-105), (AR-096), (AR-061), (AR-258), (AR-107), (AR-077), (AR-108), (AR-109), (AR-110), (AR-060), (AR-106), (AR-106-1), (AR-106-2), (AR-106-3), (AR-113), (AR-114), (AR-115), (AR-116), (AR-117), (AR-103), (AR-104), (AR-102), (AR-101), (AR-100), (AR-099), (AR-098), (AR-097),|
-|Zonas de autorización C.P. O Grove, (Sublitoral) AAUT __A0043v2017__.| Embarcación;| C.P. O Grove|2008044, 2014041, 2015043, 2016043, 2017042, 2018043, 2019044,|(AR-076), (AR-077), (AR-078), (AR-079), (AR-080), (AR-081), (AR-082), (AR-083), (AR-084), Canal de Tourís (zona marítima),|
-|De regato Aduana a Rego do Alcalde, (Intermareal) AAUT __A0044v2017__.| A pé;| C.P. Vilanova|2008045, 2014042, 2015044, 2016044, 2017043, 2018044, 2019045,|(AR-004-I), (AR-004-II), (AR-007), (AR-006), (AR-005-I), (AR-005-II),|
-|Autorización de C.P. Vilanova (Sublitoral) AAUT __A0045v2017__.| Embarcación;| C.P. Vilanova|2008046, 2014043, 2015045, 2016045, 2017044, 2018045, 2019046,|(AR-009-I), (AR-009-II), (AR-010), Ariño (AR-X11),|
-|De punta Ferrazo a Regato Aduana, AAUT __A0046v2017__.| A pé;| C.P. Vilaxoán|2008047, 2014044, 2015046, 2016046, 2017045, 2018046, 2019047,|(AR-020), (AR-021), (AR-022), (AR-023), (AR-024), (AR-025), (AR-026), (AR-027),|
+|A Fangueira, Sublitoral AAUT __A0040v2017__.| Embarcación;| C.P. Carril|2008041, 2014039, 2015040, 2016040, 2017039, 2018040, [2019041](https://galirema.wikia.org/es/wiki/Pexma2019AAUT041),|(AR-037),|
+|A Fangueira, Intermareal AAUT __A0041v2017__.| A pé;| C.P. Carril|2008040, 2015041, 2016041, 2017040, 2018041, [2019042](https://galirema.wikia.org/es/wiki/Pexma2019AAUT042),|(AR-069),|
+|Zonas de autorización (Intermareal) C.P. O Grove, AAUT __A0042v2017__.| A pé;| C.P. O Grove|2008042, 2008043, 2014040, 2015042, 2016042, 2017041, 2018042, [2019043](https://galirema.wikia.org/es/wiki/Pexma2019AAUT043),|(AR-092), (AR-091), (AR-090), (AR-093), (AR-094), (AR-095), (AR-105), (AR-096), (AR-061), (AR-258), (AR-107), (AR-077), (AR-108), (AR-109), (AR-110), (AR-060), (AR-106), (AR-106-1), (AR-106-2), (AR-106-3), (AR-113), (AR-114), (AR-115), (AR-116), (AR-117), (AR-103), (AR-104), (AR-102), (AR-101), (AR-100), (AR-099), (AR-098), (AR-097),|
+|Zonas de autorización C.P. O Grove, (Sublitoral) AAUT __A0043v2017__.| Embarcación;| C.P. O Grove|2008044, 2014041, 2015043, 2016043, 2017042, 2018043, [2019044](https://galirema.wikia.org/es/wiki/Pexma2019AAUT044),|(AR-076), (AR-077), (AR-078), (AR-079), (AR-080), (AR-081), (AR-082), (AR-083), (AR-084), Canal de Tourís (zona marítima),|
+|De regato Aduana a Rego do Alcalde, (Intermareal) AAUT __A0044v2017__.| A pé;| C.P. Vilanova|2008045, 2014042, 2015044, 2016044, 2017043, 2018044, [2019045](https://galirema.wikia.org/es/wiki/Pexma2019AAUT045),|(AR-004-I), (AR-004-II), (AR-007), (AR-006), (AR-005-I), (AR-005-II),|
+|Autorización de C.P. Vilanova (Sublitoral) AAUT __A0045v2017__.| Embarcación;| C.P. Vilanova|2008046, 2014043, 2015045, 2016045, 2017044, 2018045, [2019046](https://galirema.wikia.org/es/wiki/Pexma2019AAUT046),|(AR-009-I), (AR-009-II), (AR-010), Ariño (AR-X11),|
+|De punta Ferrazo a Regato Aduana, AAUT __A0046v2017__.| A pé;| C.P. Vilaxoán|2008047, 2014044, 2015046, 2016046, 2017045, 2018046, [2019047](https://galirema.wikia.org/es/wiki/Pexma2019AAUT047),|(AR-020), (AR-021), (AR-022), (AR-023), (AR-024), (AR-025), (AR-026), (AR-027),|
 
 
 ## Ría de Muros - Noia (MN)
@@ -81,10 +81,10 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|------------------|
-|Zona de autorización: praia da Virxe e praia da Abelleira AAUT __A0018v2017__.| A pé;| C.P. Muros|2008017, 2014017, 2015018, 2016018, 2017018, 2018018, 2019019,|(MN-054), (MN-056), (MN-057), (MN-097), (MN-098),|
-|Zona de autorización: praia da Virxe e praia da Abelleira AAUT __A0019v2017__.| Embarcación;| C.P. Muros|2008018, 2014018, 2015019, 2016019, 2017019, 2018019, 2019020,|(MN-055), (MN-061),|
-|Zona de autorización C.P. Noia, AAUT __A0020v2017__.| A pé; Embarcación;| C.P. Noia|2008019, 2014019, 2015020, 2016020, 2017020, 2018020, 2019021,|(MN-031), (MN-032), (MN-033), (MN-034), (MN-035), (MN-036), (MN-037), (MN-038), (MN-039), (MN-041), (MN-042), (MN-043), (MN-045), (MN-046), (MN-047), (MN-084), (MN-085), (MN-029), (MN-030),|
-|Bancos de ostra de Broña, punta Cabalo Baixo, AAUT __A0021v2017__.| Rastro de vieira ou voandeira;| C.P. Noia|2008020, 2014020, 2015021, 2016021, 2017021, 2018021, 2019022,|(MN-044), (MN-040),|
+|Zona de autorización: praia da Virxe e praia da Abelleira AAUT __A0018v2017__.| A pé;| C.P. Muros|2008017, 2014017, 2015018, 2016018, 2017018, 2018018, [2019019](https://galirema.wikia.org/es/wiki/Pexma2019AAUT019),|(MN-054), (MN-056), (MN-057), (MN-097), (MN-098),|
+|Zona de autorización: praia da Virxe e praia da Abelleira AAUT __A0019v2017__.| Embarcación;| C.P. Muros|2008018, 2014018, 2015019, 2016019, 2017019, 2018019, [2019020](https://galirema.wikia.org/es/wiki/Pexma2019AAUT020),|(MN-055), (MN-061),|
+|Zona de autorización C.P. Noia, AAUT __A0020v2017__.| A pé; Embarcación;| C.P. Noia|2008019, 2014019, 2015020, 2016020, 2017020, 2018020, [2019021](https://galirema.wikia.org/es/wiki/Pexma2019AAUT021),|(MN-031), (MN-032), (MN-033), (MN-034), (MN-035), (MN-036), (MN-037), (MN-038), (MN-039), (MN-041), (MN-042), (MN-043), (MN-045), (MN-046), (MN-047), (MN-084), (MN-085), (MN-029), (MN-030),|
+|Bancos de ostra de Broña, punta Cabalo Baixo, AAUT __A0021v2017__.| Rastro de vieira ou voandeira;| C.P. Noia|2008020, 2014020, 2015021, 2016021, 2017021, 2018021, [2019022](https://galirema.wikia.org/es/wiki/Pexma2019AAUT022),|(MN-044), (MN-040),|
 
 
 ## Costa da Morte (CM)
