@@ -149,21 +149,21 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Bancos de Fondás,Taro e Fontorto BESP,|A pé;|A.M. San Cosme de Barreiros-Foz|2008051, 2008049, 2008048, 2014045, 2015047, 2016047, __2017046__, 2018047, 2019048,|(CL-163), (CL-167), (CL-170),|
+|Bancos de Fondás,Taro e Fontorto BESP,|A pé;|A.M. San Cosme de Barreiros-Foz|2008051, 2008049, 2008048, 2014045, 2015047, 2016047, __2017046__, 2018047, [2019048](https://galirema.wikia.org/es/wiki/Pexma2019BES048),|(CL-163), (CL-167), (CL-170),|
 |Praia do Altar, BESP,|A pé;|A.M. San Cosme de Barreiros-Foz|2008050, __2014046__,|(CL-172),|
-|Ría de Viveiro (Entre a ponte do tren ata a canle do porto de Celeiro; Entrepontes; ...), BESP,|A pé;|C.P. Celeiro|2008052, 2014047, 2015048, 2016048, __2017047__, 2018048, 2019049,|(CL-141), (CL-142), (CL-143), (CL-145), (CL-146), (CL-148), (CL-177),|
-|Desde debaixo das pontes ata o Rego Seco, illa San Martiño, praia de Villabril, praia de Moledos, praia de Fomento, Vicedo Vello, BESP,|A pé;|C.P. O Vicedo|2008056, 2014048, 2015049, 2016049, __2017048__, 2018049, 2019050,|(CL-108), (CL-109), (CL-110), (CL-111), (CL-112), (CL-113), (CL-114), (CL-115), (CL-116), (CL-174),|
+|Ría de Viveiro (Entre a ponte do tren ata a canle do porto de Celeiro; Entrepontes; ...), BESP,|A pé;|C.P. Celeiro|2008052, 2014047, 2015048, 2016048, __2017047__, 2018048, [2019049](https://galirema.wikia.org/es/wiki/Pexma2019BES049),|(CL-141), (CL-142), (CL-143), (CL-145), (CL-146), (CL-148), (CL-177),|
+|Desde debaixo das pontes ata o Rego Seco, illa San Martiño, praia de Villabril, praia de Moledos, praia de Fomento, Vicedo Vello, BESP,|A pé;|C.P. O Vicedo|2008056, 2014048, 2015049, 2016049, __2017048__, 2018049, [2019050](https://galirema.wikia.org/es/wiki/Pexma2019BES050),|(CL-108), (CL-109), (CL-110), (CL-111), (CL-112), (CL-113), (CL-114), (CL-115), (CL-116), (CL-174),|
 |Ría de Viveiro, BESP,|Embarcación;|C.P. Celeiro|__2008053__,|Ría de Viveiro|
 |Praia da Abrela, BESP,|A pé;|C.P. Celeiro, C.P. O Vicedo, (plan conxunto)|__2008054__,|(CL-120),|
 |Praia de Villabril, BESP,|A pé;|C.P. O Vicedo|__2008055__,|Praia de Villabril|
 |Lombo das Navallas, BESP,|A pé;|C.P. O Vicedo e O Barqueiro (plan conxunto)|__2008057__,|(CL-118),|
 |Canle da desembocadura do río Sor, agás as zonas de autorización, BESP,|A pé;|C.P. O Vicedo e O Barqueiro (plan conxunto)|__2008058__,|Dende abaixo das pontes ata o Rego Seco, Dende Souto da Ribeira a Punta da Barra,|
-|Ría de Ribadeo, BESP,|A pé;|C.P. Ribadeo|2008061, 2008060, 2008059, 2014049, 2015050, 2016050, __2017049__, 2018050, 2019051,|(CL-157), (CL-155), (CL-161), (CL-154), (CL-158), (CL-153), (CL-122),|
+|Ría de Ribadeo, BESP,|A pé;|C.P. Ribadeo|2008061, 2008060, 2008059, 2014049, 2015050, 2016050, __2017049__, 2018050, [2019051](https://galirema.wikia.org/es/wiki/Pexma2019BES051),|(CL-157), (CL-155), (CL-161), (CL-154), (CL-158), (CL-153), (CL-122),|
 |Da ermida de San Tirso a punta Rueta, BESP,|A pé;|C.P. San Cibrao|2008063, 2008062, 2014050, __2015051__,|Da ermida de San Tirso a punta Rueta,|
-|Praia de Vilarrube, (coquina) BESP|A pé;|C.P. Cedeira|2008070, 2015059, 2016058, __2017056__, 2018057, 2019060,|(CL-096),|
-|Praia da Madalena e a enseada de Esteiro, (Berberecho) BESP|A pé;|C.P. Cedeira|2008071, 2015060, 2016059, __2017057__, 2018058, 2019061,|(CL-097),|
+|Praia de Vilarrube, (coquina) BESP|A pé;|C.P. Cedeira|2008070, 2015059, 2016058, __2017056__, 2018057, [2019060](https://galirema.wikia.org/es/wiki/Pexma2019BES060),|(CL-096),|
+|Praia da Madalena e a enseada de Esteiro, (Berberecho) BESP|A pé;|C.P. Cedeira|2008071, 2015060, 2016059, __2017057__, 2018058, [2019061](https://galirema.wikia.org/es/wiki/Pexma2019BES061),|(CL-097),|
 |Praias de Figueiras, dos Cabalos, de Cariño, BESP,|A pé;|C.P. Cariño|2008069, 2014057, 2015058, __2016057__,|(CL-083), (CL-084), (CL-067),|
-|Enseada de Ladrido (ría de Ortigueira), da punta do espigón do porto de Ortigueira ata a depuradora, BESP,|A pé;|C.P. Espasante|2008075, 2014060, 2015062, 2016061, __2017059__, 2018060, 2019064,|(CL-221), (CL-095), (CL-222-I), (CL-093), (CL-094-I), (CL-094-II), (CL-222-II), (CL-222-III), (CL-028), (CL-220), (CL-225), (CL-027), (CL-025),|
+|Enseada de Ladrido (ría de Ortigueira), da punta do espigón do porto de Ortigueira ata a depuradora, BESP,|A pé;|C.P. Espasante|2008075, 2014060, 2015062, 2016061, __2017059__, 2018060, [2019064](https://galirema.wikia.org/es/wiki/Pexma2019BES064],|(CL-221), (CL-095), (CL-222-I), (CL-093), (CL-094-I), (CL-094-II), (CL-222-II), (CL-222-III), (CL-028), (CL-220), (CL-225), (CL-027), (CL-025),|
 |Praia de Vilela, BESP,|A pé;|C.P. O Barqueiro|__2008082__,|(CL-107),|
 
 
