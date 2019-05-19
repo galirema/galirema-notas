@@ -163,7 +163,7 @@ __Zonas de producción no SIGREMAR:__
 |Praia de Vilarrube, (coquina) BESP|A pé;|C.P. Cedeira|2008070, 2015059, 2016058, __2017056__, 2018057, [2019060](https://galirema.wikia.org/es/wiki/Pexma2019BES060),|(CL-096),|
 |Praia da Madalena e a enseada de Esteiro, (Berberecho) BESP|A pé;|C.P. Cedeira|2008071, 2015060, 2016059, __2017057__, 2018058, [2019061](https://galirema.wikia.org/es/wiki/Pexma2019BES061),|(CL-097),|
 |Praias de Figueiras, dos Cabalos, de Cariño, BESP,|A pé;|C.P. Cariño|2008069, 2014057, 2015058, __2016057__,|(CL-083), (CL-084), (CL-067),|
-|Enseada de Ladrido (ría de Ortigueira), da punta do espigón do porto de Ortigueira ata a depuradora, BESP,|A pé;|C.P. Espasante|2008075, 2014060, 2015062, 2016061, __2017059__, 2018060, [2019064](https://galirema.wikia.org/es/wiki/Pexma2019BES064],|(CL-221), (CL-095), (CL-222-I), (CL-093), (CL-094-I), (CL-094-II), (CL-222-II), (CL-222-III), (CL-028), (CL-220), (CL-225), (CL-027), (CL-025),|
+|Enseada de Ladrido (ría de Ortigueira), da punta do espigón do porto de Ortigueira ata a depuradora, BESP,|A pé;|C.P. Espasante|2008075, 2014060, 2015062, 2016061, __2017059__, 2018060, [2019064](https://galirema.wikia.org/es/wiki/Pexma2019BES064),|(CL-221), (CL-095), (CL-222-I), (CL-093), (CL-094-I), (CL-094-II), (CL-222-II), (CL-222-III), (CL-028), (CL-220), (CL-225), (CL-027), (CL-025),|
 |Praia de Vilela, BESP,|A pé;|C.P. O Barqueiro|__2008082__,|(CL-107),|
 
 
