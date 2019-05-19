@@ -75,10 +75,8 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-
-1. De punta Insua a punta Uía FEQD A pé; C.P. Muros
-
-1. De punta Cabeiro a punta río Sieira e de punta Insua a punta Uía FEQD MSAS; C.P. Porto do Son, C.P. Portosín, C.P. Muros, (plan conxunto)
+|De punta Insua a punta Uhía|A pé;|C.P. Muros|||
+|De punta Cabeiro a punta río Sieira e de punta Insua a punta Uhía|MSAS;|C.P. Porto do Son, C.P. Portosín, C.P. Muros, (plan conxunto)|||
 
 
 
@@ -89,12 +87,9 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-
-1. De punta Insua á desembocadura do río Larada, FEQD A pé; C.P. Lira
-
-1. Zona V: de cabo Touriñán a punta Insua, FEQD MA; MSAS; C.P. Lira, C.P. Fisterra, C.P. Corcubión, (plan conxunto)
-
-1. Zona VI: de cabo Touriñán a punta Langosteira, FEQD MSAS; C.P. Malpica, C.P. Corme, C.P. Laxe, C.P. Camelle, C.P. Camariñas, (plan conxunto)
+|De punta Insua á desembocadura do río Larada,|A pé;|C.P. Lira|||
+|Zona V: de cabo Touriñán a punta Insua,|MA; MSAS;|C.P. Lira, C.P. Fisterra, C.P. Corcubión, (plan conxunto)|||
+|Zona VI: de cabo Touriñán a punta Langosteira,|MSAS;|C.P. Malpica, C.P. Corme, C.P. Laxe, C.P. Camelle, C.P. Camariñas, (plan conxunto)|||
 
 
 
@@ -105,10 +100,8 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-
-1. De punta Langosteira a punta Segaño, FEQD MSAS; C.P. A Coruña, C.P. Barallobre, (plan conxunto)
-
-1. De faro de punta Frouxeira a a ponte da Faísca, FEQD MSAS; C.P. Ferrol
+|De punta Langosteira a punta Segaño,|MSAS;|C.P. A Coruña, C.P. Barallobre, (plan conxunto)|||
+|De faro de punta Frouxeira a a ponte da Faísca,|MSAS;|C.P. Ferrol|||
 
 
 
@@ -119,22 +112,14 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-
-1. Zonas marítimas desde Punta Pena Furada a As Carrallas, agás: a zona interna entre a punta do dique norte do porto de Alcoa e o faro de San Cibrao, Os Muiñelos, Os Castelos da praia de San Román, a cetarea de San Cibrao, Calvella en Burela, Punta Promontoiro en San Cosme, Celeiros en Ribadeo FEQD MSAS; Asociación de recolectores submariños da Mariña
-
-1. Desde a ermida de San Tirso a punta do Cabalo FEQD A pé; C.P. Celeiro
-
-1. Desde punta Furada ata As Carallas, agás desde a ermida de San Tirso a punta do Cabalo FEQD A pé; C.P. San Cibrao, C.P. Ribadeo, C.P. Burela, A.M. San Cosme de Barreiros-Foz, (plan conxunto) C.P. O Vicedo, C.P. Celeiro,
-
-1. Zonas marítimas desde Punta Pena Furada ata As Carrallas, FEQD MSAS; (MA;) C.P. O Vicedo, C.P. San Cibrao, C.P. Celeiro (plan conxunto) C.P. Burela,
-
-1. De illa San Vicente a punta Vilardeira, FEQD A pé; C.P. Espasante
-
-1. Pedra Barcelona, pola parte oeste, ata punta Castro de Vilela FEQD MSAS;
-
-1. Desde o faro da punta da Frouxeira ata Pedra Barcelona, agás a reserva integral e as ZEP-I e ZEP-II FEQD MSAS; C.P. Cedeira
-
-1. "De faro de punta Frouxeira a punta Castro Vilela FEQD MSAS; C.P. Cedeira, C.P. Espasante, C.P. O Barqueiro-Bares, (plan conxunto)
+|Zonas marítimas desde Punta Pena Furada a As Carrallas, agás: a zona interna entre a punta do dique norte do porto de Alcoa e o faro de San Cibrao, Os Muiñelos, Os Castelos da praia de San Román, a cetarea de San Cibrao, Calvella en Burela, Punta Promontoiro en San Cosme, Celeiros en Ribadeo|MSAS;|Asociación de recolectores submariños da Mariña|||
+|Desde a ermida de San Tirso a punta do Cabalo|A pé;|C.P. Celeiro|||
+|Desde punta Furada ata As Carallas, agás desde a ermida de San Tirso a punta do Cabalo|A pé;|C.P. San Cibrao, C.P. Ribadeo, C.P. Burela, A.M. San Cosme de Barreiros-Foz, (plan conxunto) C.P. O Vicedo, C.P. Celeiro,|||
+|Zonas marítimas desde Punta Pena Furada ata As Carrallas,|MSAS; (MA;)|C.P. O Vicedo, C.P. San Cibrao, C.P. Celeiro (plan conxunto) C.P. Burela,|||
+|De illa San Vicente a punta Vilardeira,|A pé;|C.P. Espasante|||
+|Pedra Barcelona, pola parte oeste, ata punta Castro de Vilela|FEQD MSAS;|C.P. Cariño|||
+|Desde o faro da punta da Frouxeira ata Pedra Barcelona, agás a reserva integral e as ZEP-I e ZEP-II|MSAS;|C.P. Cedeira|||
+|"De faro de punta Frouxeira a punta Castro Vilela|MSAS;|C.P. Cedeira, C.P. Espasante, C.P. O Barqueiro-Bares, (plan conxunto)|||
 
 
 [Indice](indicesZonasProduccion.md)
