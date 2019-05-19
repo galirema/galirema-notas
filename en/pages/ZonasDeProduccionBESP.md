@@ -111,11 +111,11 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|------------------|
-|Zonas de libre marisqueo do esteiro do río Anllóns, BESP|A pé;|A.M. Esteiro do río Anllóns|2008065, 2014052, 2015053, 2016052, __2017051__, 2018052, 2019053,|(CM-094), (CM-095), (CM-092), (CM-126), (CM-128),|
-|Desde punta Arnela ata a desembocadura do río Xallas (Ézaro), BESP|A pé;|C.P. Corcubión|2008073, 2008072, 2014058, 2015061, 2016060, __2017058__, 2018059, 2019062,|(CM-078), (CM-145), (CM-076), (CM-079), (CM-044), (CM-045), (CM-046), (CM-047), (CM-048),|
-|Bancos infralitorais da praia de Langosteira, BESP|Embarcación;|C.P. Fisterra|2014063, 2015065, 2016064, __2017062__, 2019063,|(CM-082),|
-|De punta Insua a punta Larada, BESP|A pé;|C.P. Lira (gasterópdos)|2008076, 2014064, 2015066, __2017063__, 2018063, 2019067,|(CM-241), (CM-242), (CM-243), (CM-240),|
-|Praia da Berberecheira, Praia  da Lagoa, Praia de Portocubelo, BESP|A pé;|C.P. Lira, C.P. O Pindo, (plan conxunto)|2008077, 2014065, 2015067, 2016065, __2017064__, 2018064, 2019068,|(CM-073), (CM-074), (CM-072), (CM-171),|
+|Zonas de libre marisqueo do esteiro do río Anllóns, BESP|A pé;|A.M. Esteiro do río Anllóns|2008065, 2014052, 2015053, 2016052, __2017051__, 2018052, [2019053](https://galirema.wikia.org/es/wiki/Pexma2019BESP053),|(CM-094), (CM-095), (CM-092), (CM-126), (CM-128),|
+|Desde punta Arnela ata a desembocadura do río Xallas (Ézaro), BESP|A pé;|C.P. Corcubión|2008073, 2008072, 2014058, 2015061, 2016060, __2017058__, 2018059, [2019062](https://galirema.wikia.org/es/wiki/Pexma2019BESP062),|(CM-078), (CM-145), (CM-076), (CM-079), (CM-044), (CM-045), (CM-046), (CM-047), (CM-048),|
+|Bancos infralitorais da praia de Langosteira, BESP|Embarcación;|C.P. Fisterra|2014063, 2015065, 2016064, __2017062__, [2019063](https://galirema.wikia.org/es/wiki/Pexma2019BESP063),|(CM-082),|
+|De punta Insua a punta Larada, BESP|A pé;|C.P. Lira (gasterópdos)|2008076, 2014064, 2015066, __2017063__, 2018063, [2019067](https://galirema.wikia.org/es/wiki/Pexma2019BESP067),|(CM-241), (CM-242), (CM-243), (CM-240),|
+|Praia da Berberecheira, Praia  da Lagoa, Praia de Portocubelo, BESP|A pé;|C.P. Lira, C.P. O Pindo, (plan conxunto)|2008077, 2014065, 2015067, 2016065, __2017064__, 2018064, [2019068](https://galirema.wikia.org/es/wiki/Pexma2019BESP068),|(CM-073), (CM-074), (CM-072), (CM-171),|
 |Da desembocadura do río Xallas ata a desembocadura do río Larada, BESP|A pé;|C.P. O Pindo|2008084, 2008083, 2014069, 2015071, 2016068, __2017067__, 2018068,|(CM-043),|
 |Zona V, agás no ámbito da reserva mariña de interese pesqueiro Os Miñarzos BESP|Endeño remolcado;|C.P. Corcubión, C.P. Fisterra (plan conxunto)|__2014059__,|(CM-144), (CM-054), (CM-053), (CM-050), (CM-051), (CM-052),|
 |Zona rochosa de punta Nariga á enseada do río Anllóns BESP|A pé;|C.P. Corme|__2008074__,|canteiro, roncudo, Gabriela, percebellosa, rosas,|
