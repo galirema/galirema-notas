@@ -97,10 +97,10 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |---|---------|-------|----------|------------------|
-|Zonas de libre marisqueo entre Monte Louro e punta Uía, entre punta Ornanda e punta Aguieira e banco da Creba 2, BESP|Embarcación;|C.P. Noia, C.P. Muros, C.P. Porto do Son, C.P. Portosín, (plan conxunto)|2008081, 2014068, 2015070, 2016067, __2017066__, 2018066, 2019070,|(MN-022), (MN-023-I), (MN-023-II), (MN-063), (MN-065), (MN-066), (MN-053), (MN-055), (MN-061), (MN-067), (MN-024), (MN-025), (MN-070), (MN-069), (MN-026), (MN-027-I), (MN-071), (MN-072), (MN-073), (MN-027-II),|
+|Zonas de libre marisqueo entre Monte Louro e punta Uía, entre punta Ornanda e punta Aguieira e banco da Creba 2, BESP|Embarcación;|C.P. Noia, C.P. Muros, C.P. Porto do Son, C.P. Portosín, (plan conxunto)|2008081, 2014068, 2015070, 2016067, __2017066__, 2018066, [2019070](https://galirema.wikia.org/es/wiki/Pexma2019BESP070),|(MN-022), (MN-023-I), (MN-023-II), (MN-063), (MN-065), (MN-066), (MN-053), (MN-055), (MN-061), (MN-067), (MN-024), (MN-025), (MN-070), (MN-069), (MN-026), (MN-027-I), (MN-071), (MN-072), (MN-073), (MN-027-II),|
 |De punta Insua a punta Uhía BESP|A pé;|C.P. Muros|2008079, 2014067, __2015069__,|(MN-019),|
 |De punta Rebordiño a punta Uía e de punta Cabalo a punta Aguieira BESP|A pé;|C.P. Noia, Muros, Porto do Son e Portosín (plan conxunto)|__2008080__,|-Banda Norte (Dende Punta Rebordiño a Punta Uhía): Praia de Esteiro e desembocadura do río Estero (Esteiro), Praia de Coído (Tal), Praia de Cabanas (Tal), Praia do Castillo (Muros), Baixo do Paseo Marítimo de Muros, Pta de San Antón,; -Banda Sur (Dende Punta Cabalo a punta Aguieira): Praia de Aguieira, Outros areais de Portosín,|
-|Praia do Castillo, praia de Esteiro, desembocadura do rio Maior|A pé;|C.P. Noia, C.P. Muros, (plan conxunto)|2018067, __2019071__,|Banda Norte da ría: praia do Castillo, praia de Esteiro, desembocadura do río Maior,|
+|Praia do Castillo, praia de Esteiro, desembocadura do rio Maior|A pé;|C.P. Noia, C.P. Muros, (plan conxunto)|2018067, __[2019071](https://galirema.wikia.org/es/wiki/Pexma2019BESP071)__,|Banda Norte da ría: praia do Castillo, praia de Esteiro, desembocadura do río Maior,|
 
 
 
