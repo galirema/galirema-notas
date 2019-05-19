@@ -50,10 +50,8 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-
-1. De punta Couso a punta Morcegos, cara ao interior da ría de Aldán, FEQD MA; MSAS; C.P. Aldán-O Hio
-
-1. De punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Morcegos, illa Ons, illa Onza, FEQD MSAS; C.P. Bueu, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto)
+|De punta Couso a punta Morcegos, cara ao interior da ría de Aldán,|MA; MSAS;|C.P. Aldán-O Hio|||
+|De punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Morcegos, illa Ons, illa Onza,|MSAS;|C.P. Bueu, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto)|||
 
 
 
@@ -64,12 +62,9 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-
-1. Illa de Sálvora, costa e illotes adxacentes, agás determinadas zonas; De punta Falcoeiro a río Sieira, incluíndo illotes adxacentes FEQD MA; MSAS; Bicheiro; C.P. Aguiño, C.P. Ribeira, (plan conxunto)
-
-1. De punta Faxilda (agás A Lanzada) a punta Moreira, de praia de Con Roibo a peirao do Grove, Pedras Salvores, Baixos dos Mezos, dos Esqueiros, FEQD MSAS; C.P. O Grove
-
-1. De punta Salinas a punta Quilme, Areoso, Camallón, punta Testos, punta Niño do Corvo, Área Secada e punta Cabalo FEQD MA; C.P. A Illa de Arousa
+|Illa de Sálvora, costa e illotes adxacentes, agás determinadas zonas; De punta Falcoeiro a río Sieira, incluíndo illotes adxacentes|MA; MSAS; Bicheiro;|C.P. Aguiño, C.P. Ribeira, (plan conxunto)|||
+|De punta Faxilda (agás A Lanzada) a punta Moreira, de praia de Con Roibo a peirao do Grove, Pedras Salvores, Baixos dos Mezos, dos Esqueiros,|MSAS;|C.P. O Grove|||
+|De punta Salinas a punta Quilme, Areoso, Camallón, punta Testos, punta Niño do Corvo, Área Secada e punta Cabalo|MA;|C.P. A Illa de Arousa|||
 
 
 
