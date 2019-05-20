@@ -118,8 +118,8 @@ __Zonas de producción no SIGREMAR:__
 |Zonas marítimas desde Punta Pena Furada ata As Carrallas,|MSAS; (MA;)|C.P. O Vicedo, C.P. San Cibrao, C.P. Celeiro (plan conxunto) C.P. Burela,|2014133, __2015135__,|Punta Pena Furada ata As Carrallas,|
 |De illa San Vicente a punta Vilardeira,|A pé;|C.P. Espasante|2008139, 2014138, 2015139, 2016135, 2017134, 2018135, 2019143,|(CL-065), (CL-023), (CL-022), (CL-054), (CL-050), (CL-026), (CL-063), (CL-024),|
 |Pedra Barcelona, pola parte oeste, ata punta Castro de Vilela|FEQD MSAS;|C.P. Cariño|2014136, __2015138__,|(CL-012), (CL-013), (CL-014), (CL-015), (CL-016), (CL-017),|
-|Desde o faro da punta da Frouxeira ata Pedra Barcelona, agás a reserva integral e as ZEP-I e ZEP-II|MSAS;|C.P. Cedeira|||
-|"De faro de punta Frouxeira a punta Castro Vilela|MSAS;|C.P. Cedeira, C.P. Espasante, C.P. O Barqueiro-Bares, (plan conxunto)|||
+|Desde o faro da punta da Frouxeira ata Pedra Barcelona, agás a reserva integral e as ZEP-I e ZEP-II|MSAS;|C.P. Cedeira|__2014137__,|Desde o faro da punta da Frouxeira ata Pedra Barcelona,|
+|De faro de punta Frouxeira a punta Castro Vilela|MSAS;|C.P. Cedeira, C.P. Espasante, C.P. O Barqueiro-Bares, (plan conxunto)|__2008138__,|De faro de punta Frouxeira a punta Castro Vilela,|
 
 
 [Indice](indicesZonasProduccion.md)
