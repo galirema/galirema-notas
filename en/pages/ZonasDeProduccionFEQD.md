@@ -62,7 +62,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Illa de Sálvora, costa e illotes adxacentes, agás determinadas zonas; De punta Falcoeiro a río Sieira, incluíndo illotes adxacentes|MA; MSAS; Bicheiro;|C.P. Aguiño, C.P. Ribeira, (plan conxunto)|||
+|Illa de Sálvora, costa e illotes adxacentes, agás determinadas zonas; De punta Falcoeiro a río Sieira, incluíndo illotes adxacentes|MA; MSAS; Bicheiro;|C.P. Aguiño, C.P. Ribeira, (plan conxunto)|2008137, 2014135, 2015137, __2016134__, 2017133, 2018134, 2019141,|(AR-312), (AR-313), (AR-314), (AR-315), (AR-310), (AR-311), (AR-309), (AR-308), (AR-307), (AR-306), (AR-305), (AR-304), (AR-303),|
 |De punta Faxilda (agás A Lanzada) a punta Moreira, de praia de Con Roibo a peirao do Grove, Pedras Salvores, Baixos dos Mezos, dos Esqueiros,|MSAS;|C.P. O Grove|||
 |De punta Salinas a punta Quilme, Areoso, Camallón, punta Testos, punta Niño do Corvo, Área Secada e punta Cabalo|MA;|C.P. A Illa de Arousa|||
 
@@ -115,9 +115,9 @@ __Zonas de producción no SIGREMAR:__
 |Zonas marítimas desde Punta Pena Furada a As Carrallas, agás: a zona interna entre a punta do dique norte do porto de Alcoa e o faro de San Cibrao, Os Muiñelos, Os Castelos da praia de San Román, a cetarea de San Cibrao, Calvella en Burela, Punta Promontoiro en San Cosme, Celeiros en Ribadeo|MSAS;|Asociación de recolectores submariños da Mariña|2016130, __2017129__,|desde Punta Pena Furada (Espasante) a As Carrallas, (Ribadeo)|
 |Desde a ermida de San Tirso a punta do Cabalo|A pé;|C.P. Celeiro|2014131, 2015133, 2016131, __2017130__, 2018131, 2019136,|(CL-127), (CL-128), (CL-129),|
 |Desde punta Furada ata As Carallas, agás desde a ermida de San Tirso a punta do Cabalo|A pé;|C.P. San Cibrao, C.P. Ribadeo, C.P. Burela, A.M. San Cosme de Barreiros-Foz, (plan conxunto) C.P. O Vicedo, C.P. Celeiro,|2008134, 2014132, 2015134, 2016132, __2017131__, 2018132,|Dende a Ermita de San Tirso ata as Carallas, (agás as zonas seguintes: a cetaria de San Cibrao, a zona de Calvella en Burela, a punta Promontoiro de San Cosme de Barreiros, Celeiros en Ribadeo, a zona interna entre a punta do dique norte do porto de Alcoa, o faro de San Cibrao,);|
-|Zonas marítimas desde Punta Pena Furada ata As Carrallas,|MSAS; (MA;)|C.P. O Vicedo, C.P. San Cibrao, C.P. Celeiro (plan conxunto) C.P. Burela,|||
-|De illa San Vicente a punta Vilardeira,|A pé;|C.P. Espasante|||
-|Pedra Barcelona, pola parte oeste, ata punta Castro de Vilela|FEQD MSAS;|C.P. Cariño|||
+|Zonas marítimas desde Punta Pena Furada ata As Carrallas,|MSAS; (MA;)|C.P. O Vicedo, C.P. San Cibrao, C.P. Celeiro (plan conxunto) C.P. Burela,|2014133, __2015135__,|Punta Pena Furada ata As Carrallas,|
+|De illa San Vicente a punta Vilardeira,|A pé;|C.P. Espasante|2008139, 2014138, 2015139, 2016135, 2017134, 2018135, 2019143,|(CL-065), (CL-023), (CL-022), (CL-054), (CL-050), (CL-026), (CL-063), (CL-024),|
+|Pedra Barcelona, pola parte oeste, ata punta Castro de Vilela|FEQD MSAS;|C.P. Cariño|2014136, __2015138__,|(CL-012), (CL-013), (CL-014), (CL-015), (CL-016), (CL-017),|
 |Desde o faro da punta da Frouxeira ata Pedra Barcelona, agás a reserva integral e as ZEP-I e ZEP-II|MSAS;|C.P. Cedeira|||
 |"De faro de punta Frouxeira a punta Castro Vilela|MSAS;|C.P. Cedeira, C.P. Espasante, C.P. O Barqueiro-Bares, (plan conxunto)|||
 
