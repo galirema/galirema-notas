@@ -101,7 +101,7 @@ __Zonas de producción no SIGREMAR:__
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |De punta Langosteira a punta Segaño,|MSAS;|C.P. A Coruña, C.P. Barallobre, (plan conxunto)|2008136, 2014134, 2015136, 2016133, __2017132__, 2018133, 2019140,|(CF-028), (CF-029), (CF-030), (CF-031),|
-|De faro de punta Frouxeira a a ponte da Faísca,|MSAS;|C.P. Ferrol|||
+|De faro de punta Frouxeira a a ponte da Faísca,|MSAS;|C.P. Ferrol|2008140, 2014139, 2015140, 2016136, 2017135, __2018136__, 2019144,|(CF-108), (CF-110), (CF-111), (CF-137),|
 
 
 
