@@ -87,7 +87,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Insua á desembocadura do río Larada,|A pé;|C.P. Lira|||
+|De punta Insua á desembocadura do río Larada,|A pé;|C.P. Lira|2008141, 2014140, 2015141, 2016137, 2017136, 2019145,|(CM-255), (CM-256), (CM-257), (CM-258),|
 |Zona V: de cabo Touriñán a punta Insua,|MA; MSAS;|C.P. Lira, C.P. Fisterra, C.P. Corcubión, (plan conxunto)|||
 |Zona VI: de cabo Touriñán a punta Langosteira,|MSAS;|C.P. Malpica, C.P. Corme, C.P. Laxe, C.P. Camelle, C.P. Camariñas, (plan conxunto)|||
 
