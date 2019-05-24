@@ -50,7 +50,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Couso a punta Morcegos, cara ao interior da ría de Aldán,|MA; MSAS;|C.P. Aldán-O Hio|||
+|De punta Couso a punta Morcegos, cara ao interior da ría de Aldán,|MA; MSAS;|C.P. Aldán-O Hio|2014145, 2015146, 2016142, __2017141__, 2018143, 2019153,|(PO-157), (PO-158), (PO-159), (PO-160), (PO-161), (PO-169), (PO-170), (PO-162), (PO-163), (PO-171),|
 |De punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Morcegos, illa Ons, illa Onza,|MSAS;|C.P. Bueu, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto)|||
 
 
