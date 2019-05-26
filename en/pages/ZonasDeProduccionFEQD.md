@@ -37,7 +37,7 @@ __Zonas de producción no SIGREMAR:__
 |---|---------|-------|----------|--------------|
 |De punta Orelludas a punta dos Picos,|A pé;|C.P. A Guarda|2008146, 2014143, 2015144, 2016140, __2017139__, 2018141, 2019151,|(VI-407), (VI-411), (VI-412), (VI-413), (VI-414), (VI-416), (VI-418), (VI-421), (VI-423), (VI-424), (VI-426), (VI-427), (VI-428), (VI-429), (VI-430), (VI-433), (VI-434), (VI-435), (VI-436), (VI-437),|
 |De punta Orelludas a punta dos Picos (zona marítima),|MSAS;|C.P. A Guarda,|2008147, 2014144, 2015145, 2016141, __2017140__, 2018142, 2019152,|(VI-207),: (VI-250), (VI-243), (VI-244), (VI-245), (VI-246), (VI-247), (VI-248), (VI-249), (VI-208),|
-|De punta Orelluda a praia de Abra, (excluída), incluíndo as illas Estelas,|A pé; MSAS;|C.P. Baiona,|||
+|De punta Orelluda a praia de Abra, (excluída), incluíndo as illas Estelas,|A pé; MSAS;|C.P. Baiona,|2008148, 2014146, 2015147, 2016143, __2017142__, 2018144, 2019154,|(VI-507), (VI-508), (VI-509), (VI-510), (VI-511), (VI-512), (VI-513), (VI-514), (VI-515), (VI-516), (VI-517), (VI-518),|
 |De punta Canabal a punta Couso, illas Cíes,|MA; MSAS;|C.P. Cangas|||
 |De Rande á praia de Abra (esta última excluída),|MA; MSAS;|C.P. Vigo|||
 
@@ -51,7 +51,7 @@ __Zonas de producción no SIGREMAR:__
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |De punta Couso a punta Morcegos, cara ao interior da ría de Aldán,|MA; MSAS;|C.P. Aldán-O Hio|2014145, 2015146, 2016142, __2017141__, 2018143, 2019153,|(PO-157), (PO-158), (PO-159), (PO-160), (PO-161), (PO-169), (PO-170), (PO-162), (PO-163), (PO-171),|
-|De punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Morcegos, illa Ons, illa Onza,|MSAS;|C.P. Bueu, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto)|||
+|De punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Morcegos, illa Ons, illa Onza,|MSAS;|C.P. Bueu, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto)|2008149, 2014147, 2015148, 2016144, 2017143, 2018145, __2019155__,|(PO-203), (PO-204), (PO-205), (PO-206), (PO-208), (PO-209), (PO-210), (PO-211), (PO-214), (PO-212), (PO-213),(PO-214),|
 
 
 
