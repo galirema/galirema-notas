@@ -77,6 +77,7 @@ __Zonas de producción no SIGREMAR:__
 |---|---------|-------|----------|--------------|
 |De punta Insua a punta Uhía|A pé;|C.P. Muros|__2008144__,|De punta Insua a punta Uhía,|
 |De punta Cabeiro a punta río Sieira e de punta Insua a punta Uhía|MSAS;|C.P. Porto do Son, C.P. Portosín, C.P. Muros, (plan conxunto)|__2008145__,|De punta Cabeiro a punta río Sieira e de punta Insua a punta Uhía|
+|Desde punta Insua a punta Uhía,|MSAS;|C.P. Muros|__2018140__, 2019148,|(MN-001), (MN-002), (MN-003), (MN-004), (MN-005), (MN-006), (MN-007),|
 
 
 
