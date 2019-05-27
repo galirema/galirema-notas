@@ -78,6 +78,7 @@ __Zonas de producción no SIGREMAR:__
 |De punta Insua a punta Uhía|A pé;|C.P. Muros|__2008144__,|De punta Insua a punta Uhía,|
 |De punta Cabeiro a punta río Sieira e de punta Insua a punta Uhía|MSAS;|C.P. Porto do Son, C.P. Portosín, C.P. Muros, (plan conxunto)|__2008145__,|De punta Cabeiro a punta río Sieira e de punta Insua a punta Uhía|
 |Desde punta Insua a punta Uhía,|MSAS;|C.P. Muros|__2018140__, 2019148,|(MN-001), (MN-002), (MN-003), (MN-004), (MN-005), (MN-006), (MN-007),|
+|Desde Punta Cabeiro ata río Sieira,|MSAS;|C.P. Porto do Son|__2019149__,|Punta Cabeiro, Punta Sagrada, Praia de Arnela, Punta Magrio, Punta Lixeira, Punta Castro, Punta Castro de Queiruga, Punta Rio Sieira,|
 
 
 
@@ -91,6 +92,7 @@ __Zonas de producción no SIGREMAR:__
 |De punta Insua á desembocadura do río Larada,|A pé;|C.P. Lira|2008141, 2014140, 2015141, 2016137, __2017136__, 2018137, 2019145,|(CM-255), (CM-256), (CM-257), (CM-258),|
 |Zona V: de cabo Touriñán a punta Insua,|MA; MSAS;|C.P. Lira, C.P. Fisterra, C.P. Corcubión, (plan conxunto)|2008142, 2014141, 2015142, 2016138, __2017137__, 2018138, 2019146,|(CM-147), (CM-269), (CM-270), (CM-271), (CM-272), (CM-273),|
 |Zona VI: de cabo Touriñán a punta Langosteira,|MSAS;|C.P. Malpica, C.P. Corme, C.P. Laxe, C.P. Camelle, C.P. Camariñas, (plan conxunto)|2008143, 2014142, 2015143, 2016139, 2017138, 2018139, 2019147,|de Touriñán á Buitra, da Buitra á Barca, de Peneirón-Xaviña á praia Lago, de Corno a Punta Pedrosa, de Gallada-Baleas a Ríos, de Ríos a Camelle, de Ataín a Cabo de Laxe, de Cabo Laxe a Roncudo, Roncudo: de baixo Chan a Pichóns, de Pichóns ao Cabalo, do Cabalo a Malpica, Illas Sisargas, de Malpica a Razo, de Razo a Caión, de Caión a Langosteira,|
+|Desde o río Xallas ata o río Larada,|A pé;|C.P. O Pindo|__2019150__,|Porto de Quilmas, De Portiño a Area Branca, De Porto Negro a Carreiroa, De Rego da Braña a Insuela, De Insuela a Almacén de Caldebarcos,|
 
 
 
@@ -123,7 +125,9 @@ __Zonas de producción no SIGREMAR:__
 |De faro de punta Frouxeira a punta Castro Vilela|MSAS;|C.P. Cedeira, C.P. Espasante, C.P. O Barqueiro-Bares, (plan conxunto)|__2008138__,|De faro de punta Frouxeira a punta Castro Vilela,|
 |Punta Socastro, Illa Gabeira, Portonovo, Illotes Farallóns, Illa Anzuela, punta Castro, punta das cabras, punta Nois, punta Fazouro, Os Xuncos, illa Corbeiras, Os Placeos, punta Piñeira, punta Niño do Corvo, illa Pancha, O Mirador,|MSAS;|A.M. Aresmar|__2019135__,|Punta Socastro, Illa Gabeira, Portonovo, Illa Farallóns, Illa Anzuela, Punta Castro, Punta das Cabras, Punta Nois, Punta Fazouro, Os Xuncos, Illa Corbeiras, Os Placeos, Punta Piñeira, Punta Niño do Corvo, Illa Pancha, O Mirador,|
 |De punta Nois ata As Carrallas,|A pé;|C.P. Ribadeo, A.M. San Cosme de Barreiros-Foz, (plan conxunto)|__2019137__,|De punta Nois ata As Carrallas,|
-
+|De ermida de San Tirso a punta Rueta, agás a cetaria de San Cibrao,|A pé;|C.P. San Cibrao, C.P. Burela, (plan conxunto)|__2019138__,|De ermida de San Tirso a punta Rueta,|
+|De punta Rueta ata punta Nois, agas a zona de Calvella,|A pé;|C.P. San Cibrao, C.P. Burela, C.P. Ribadeo, A.M. San Cosme de Barreiros-Foz, (plan conxunto)|__2019139__,|De punta Rueta ata punta Nois,|
+|Cedeira, Cariño,|MSAS;|C.P. Cedeira|__2019142__,|(CL-082),|
 
 
 [Indice](indicesZonasProduccion.md)
