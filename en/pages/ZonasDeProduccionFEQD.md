@@ -121,6 +121,9 @@ __Zonas de producción no SIGREMAR:__
 |Pedra Barcelona, pola parte oeste, ata punta Castro de Vilela|FEQD MSAS;|C.P. Cariño|2014136, __2015138__,|(CL-012), (CL-013), (CL-014), (CL-015), (CL-016), (CL-017),|
 |Desde o faro da punta da Frouxeira ata Pedra Barcelona, agás a reserva integral e as ZEP-I e ZEP-II|MSAS;|C.P. Cedeira|__2014137__,|Desde o faro da punta da Frouxeira ata Pedra Barcelona,|
 |De faro de punta Frouxeira a punta Castro Vilela|MSAS;|C.P. Cedeira, C.P. Espasante, C.P. O Barqueiro-Bares, (plan conxunto)|__2008138__,|De faro de punta Frouxeira a punta Castro Vilela,|
+|Punta Socastro, Illa Gabeira, Portonovo, Illotes Farallóns, Illa Anzuela, punta Castro, punta das cabras, punta Nois, punta Fazouro, Os Xuncos, illa Corbeiras, Os Placeos, punta Piñeira, punta Niño do Corvo, illa Pancha, O Mirador,|MSAS;|A.M. Aresmar|__2019135__,|Punta Socastro, Illa Gabeira, Portonovo, Illa Farallóns, Illa Anzuela, Punta Castro, Punta das Cabras, Punta Nois, Punta Fazouro, Os Xuncos, Illa Corbeiras, Os Placeos, Punta Piñeira, Punta Niño do Corvo, Illa Pancha, O Mirador,|
+|De punta Nois ata As Carrallas,|A pé;|C.P. Ribadeo, A.M. San Cosme de Barreiros-Foz, (plan conxunto)|__2019137__,|De punta Nois ata As Carrallas,|
+
 
 
 [Indice](indicesZonasProduccion.md)
