@@ -65,8 +65,8 @@ __Zonas de producción no SIGREMAR:__
 |---|---------|-------|----------|--------------|
 |De punta Galduario a punta Corna, arrecife de Aroñe, de punta Galduario a punta Peralto,|MA; MSAS;|C.P. A Pobra do Caramiñal|2008156, 2014151, 2015152, 2016154, __2017147__, 2018149, 2019160,|(AR-137-I), (AR-137-II), (AR-268), (AR-287), (AR-288), (AR-139),|
 |Zonas de autorización C.P. Aguiño,|MA;|C.P. Aguiño|2008161, 2014152, 2015153, 2016155, __2017148__, 2018150, 2019161,|(AR-210), (AR-212), (AR-213), (AR-211),|
-|Praia da Ladeira, zonas de libre marisqueo adxacentes ao ámbito dos plans das autorizacións das C.P. Carreira-Aguiño, C.P. Ribeira,|MA; MSAS;|C.P. Carreira-Aguiño, C.P. Ribeira, (plan conxunto)|||
-|De punta Peralto a punta Pedra Rubia,|MA;|C.P. Cabo de Cruz|||
+|Praia da Ladeira, zonas de libre marisqueo adxacentes ao ámbito dos plans das autorizacións das C.P. Carreira-Aguiño, C.P. Ribeira,|MA; MSAS;|C.P. Carreira-Aguiño, C.P. Ribeira, (plan conxunto)|2008162, 2014153, 2015154, __2016156__, 2017149, 2018151, 2019162,|(zonas de libre marisqueo da zona interna da Ría de Arousa, limítrofes coas autorizacións de ambas confrarías), (AR-316), (AR-302), Erbosa e Noro, (AR-297),|
+|De punta Peralto a punta Pedra Rubia,|MA;|C.P. Cabo de Cruz|2008157, 2014154, 2015155, 2016157, __2017150__, 2018152, 2019163,|(AR-127), (AR-128), (AR-129), (AR-130),|
 |Punta Aguiúncho, illote de Grades, punta da Corna,|MA;|C.P. Palmeira|||
 |Zonas de autorización C.P. Ribeira: bancos de Coroso-Río, Grande-Río Azor, Insua-Airó, Castiñeiras,|MA;|C.P. Ribeira|||
 |Desde Sapeiras de Terra a punta Quilme, Areoso, Camallón, Roncadeiras, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo,|MA; MSAS;|C.P. A Illa de Arousa|||
