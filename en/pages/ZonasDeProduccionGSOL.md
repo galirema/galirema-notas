@@ -34,20 +34,13 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-
-1. De puntal da Serra a punta do Boi, GSOL MA; MSAS; C.P. Baiona
-
-1. De punta Canabal a punta Couso, illas Cíes, GSOL MA; MSAS; C.P. Cangas
-
-1. De Rande a Petóns de Canabal, (excluíndo a zona que vai desde Rande a punta Travesada,) GSOL MA; MSAS; C.P. Moaña, Cíes Artesanais, S.C.G., (plan conxunto)
-
-1. Desde Rande a punta Travesada, GSOL MA; MSAS; C.P. Moaña, Cíes Artesanais, S.C.G., C.P. Redondela, C.P. Vilaboa, (plan conxunto)
-
-1. De punta Travesada a o peirao de San Adrián de Cobres, desde a ponte de Rande ata punta Pías, GSOL MA; MSAS; C.P. Redondela, C.P. Vilaboa, (plan conxunto)
-
-1. De puntal da Serra á ponte de Rande, GSOL MA; MSAS; C.P. Vigo
-
-1. Ría de Vigo GSOL A pé; Asociación de Confrarías da Ría de Vigo
+|De puntal da Serra a punta do Boi,|MA; MSAS;|C.P. Baiona|||
+|De punta Canabal a punta Couso, illas Cíes,|MA; MSAS;|C.P. Cangas|||
+|De Rande a Petóns de Canabal, (excluíndo a zona que vai desde Rande a punta Travesada,)|MA; MSAS;|C.P. Moaña, Cíes Artesanais, S.C.G., (plan conxunto)|||
+|Desde Rande a punta Travesada,|MA; MSAS;|C.P. Moaña, Cíes Artesanais, S.C.G., C.P. Redondela, C.P. Vilaboa, (plan conxunto)|||
+|De punta Travesada a o peirao de San Adrián de Cobres, desde a ponte de Rande ata punta Pías,|MA; MSAS;|C.P. Redondela, C.P. Vilaboa, (plan conxunto)|||
+|De puntal da Serra á ponte de Rande,|MA; MSAS;|C.P. Vigo|||
+|Ría de Vigo|A pé;|Asociación de Confrarías da Ría de Vigo||-|
 
  
 
@@ -59,7 +52,7 @@ __Zonas de producción no SIGREMAR:__
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |De punta Alada a punta Morcegos, cara ao interior da ría,|MA; MSAS;|C.P. Aldán-O Hio|||
-|De punta Faxilda a punta Morcegos, illa de Ons, illa de Onza,|MA; MSAS;|C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Portonovo, C.P. Raxó, C.P. Sanxenxo, (plan conxunto)|
+|De punta Faxilda a punta Morcegos, illa de Ons, illa de Onza,|MA; MSAS;|C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Portonovo, C.P. Raxó, C.P. Sanxenxo, (plan conxunto)||-|
 
 
 
