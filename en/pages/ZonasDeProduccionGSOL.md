@@ -72,28 +72,17 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-
-1. De punta Galduario a punta Corna, arrecife de Aroñe, de punta Galduario a punta Peralto, GSOL MA; MSAS; C.P. A Pobra do Caramiñal
-
-1. Praia da Ladeira, zonas de libre marisqueo adxacentes ao ámbito dos plans das autorizacións das C.P. Carreira-Aguiño, C.P. Ribeira, GSOL MA; MSAS; C.P. Carreira-Aguiño, C.P. Ribeira, (plan conxunto)
-
-1. De punta Peralto a punta Pedra Rubia, GSOL MA; C.P. Cabo de Cruz
-
-1. Punta Aguiúncho, illote de Grades, punta da Corna, GSOL MA; C.P. Palmeira
-
-1. Zonas de autorización C.P. Ribeira: bancos de Coroso-Río, Grande-Río Azor, Insua-Airó, Castiñeiras, GSOL MA; C.P. Ribeira
-
-1. Desde Sapeiras de Terra a punta Quilme, Areoso, Camallón, Roncadeiras, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo, GSOL MA; MSAS; C.P. A Illa de Arousa
-
-1. Do Rego do Alcalde (Lañeiras de Fóra) á baliza de Orido, Arnela-Galiñeiro, Tragove, Tereixiñas, As Lobeiras, GSOL MA; MSAS; C.P. Cambados
-
-1. Enseada da Lanzada (praia da Lanzada, praia de Area da Cruz, Raeiros,), praia da Mexilloeira, praia Area Grande, Carreiro-Barcelas, praia Area das Pipas, praia Area de Reboredo, Lombo de Rons-Migalliñás, Lombo das Sinas, enseada do Grove, GSOL MA; MSAS; C.P. O Grove
-
-1. Entre o peirao de Corón e O Ariño, GSOL MA; C.P. Vilanova
-
-1. Praia da Corna GSOL A pé; C.P. Palmeira
-
-1. Intermareal entre punta Tragove e Rego do Alcalde, co saco de Fefiñáns. Entre Ponte Castrelo e punta Barrelo. Entre o peirao de Cambados e a desembocadura do río Umia GSOL A pé; C.P. Cambados
+|De punta Galduario a punta Corna, arrecife de Aroñe, de punta Galduario a punta Peralto,|MA; MSAS;|C.P. A Pobra do Caramiñal|||
+|Praia da Ladeira, zonas de libre marisqueo adxacentes ao ámbito dos plans das autorizacións das C.P. Carreira-Aguiño, C.P. Ribeira,|MA; MSAS;|C.P. Carreira-Aguiño, C.P. Ribeira, (plan conxunto)|||
+|De punta Peralto a punta Pedra Rubia,|MA;|C.P. Cabo de Cruz|||
+|Punta Aguiúncho, illote de Grades, punta da Corna,|MA;|C.P. Palmeira|||
+|Zonas de autorización C.P. Ribeira: bancos de Coroso-Río, Grande-Río Azor, Insua-Airó, Castiñeiras,|MA;|C.P. Ribeira|||
+|Desde Sapeiras de Terra a punta Quilme, Areoso, Camallón, Roncadeiras, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo,|MA; MSAS;|C.P. A Illa de Arousa|||
+|Do Rego do Alcalde (Lañeiras de Fóra) á baliza de Orido, Arnela-Galiñeiro, Tragove, Tereixiñas, As Lobeiras,|MA; MSAS;|C.P. Cambados|||
+|Enseada da Lanzada (praia da Lanzada, praia de Area da Cruz, Raeiros,), praia da Mexilloeira, praia Area Grande, Carreiro-Barcelas, praia Area das Pipas, praia Area de Reboredo, Lombo de Rons-Migalliñás, Lombo das Sinas, enseada do Grove,|MA; MSAS;|C.P. O Grove|||
+|Entre o peirao de Corón e O Ariño,|MA;|C.P. Vilanova|||
+|Praia da Corna|A pé;|C.P. Palmeira|||
+|Intermareal entre punta Tragove e Rego do Alcalde, co saco de Fefiñáns. Entre Ponte Castrelo e punta Barrelo. Entre o peirao de Cambados e a desembocadura do río Umia|A pé;|C.P. Cambados||-|
 
 
 
@@ -107,7 +96,7 @@ __Zonas de producción no SIGREMAR:__
 |De punta Insua a punta Uhía,|MA; MSAS;|C.P. Muros|||
 |Na costa norte, desde punta Uhía ata porto Siavo, incluíndo a cara interna da illa da Creba, exceptuando a zona portuaria, a zona dos asteleiros, a canle de navegación,; Na costa sur, desde punta Batuda ata punta Redondelo,;|MA; MSAS;|C.P. Noia|||
 |De punta Batuda a río Sieira,|MA; MSAS;|C.P. Porto do Son, C.P. Portosín, (plan conxunto)  C.P. Noia, C.P. Muros (plan conxunto)|||
-|Praia de Abelleira, praia da Virxe e praia de Ventín|A pé;|C.P. Muros|||
+|Praia de Abelleira, praia da Virxe e praia de Ventín|A pé;|C.P. Muros||-|
 
 
 
@@ -123,7 +112,7 @@ __Zonas de producción no SIGREMAR:__
 |Praia de Laxe, praia da Hermida, praia de Osmo, banco Riocobo, praia de Rebordelo. Do Alto da Facha a punta Cantero, do Alto da Facha a punta Menduiña,|MA; MSAS;|C.P. Laxe, C.P. Corme, (plan conxunto)|||
 |Praia de Sardiñeiro, praia de Langosteira,|A pé;|C.P. Fisterra|||
 |De punta Lago a punta da Roda, enseada da Vasa,|A pé;|C.P. Camariñas|||
-|Praias do Ézaro e Estorde|A pé;|C.P. Corcubión|||
+|Praias do Ézaro e Estorde|A pé;|C.P. Corcubión||-|
 
 
 
@@ -134,7 +123,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Ámbito territorial da C.P. Miño,|A pé;|C.P. Miño|||
+|Ámbito territorial da C.P. Miño,|A pé;|C.P. Miño||-|
 
 
 
@@ -148,7 +137,7 @@ __Zonas de producción no SIGREMAR:__
 |Bancos do Taro, Fondás, Fontorto,|A pé;|A.M. San Cosme de Barreiros-Foz|||
 |Taro dos Chonos, Taro das Aceñas, Tesón,|A pé;|C.P. Ribadeo|||
 |Zonas de autorización C.P. Cariño,|A pé;|C.P. Cariño|||
-|Zonas de autorización: enseada do Ladrido, Raias, Cano Cabalar e Mexilloal|A pé;|C.P. Espasante|||
+|Zonas de autorización: enseada do Ladrido, Raias, Cano Cabalar e Mexilloal|A pé;|C.P. Espasante||-|
 
 
 [Indice](indicesZonasProduccion.md)
