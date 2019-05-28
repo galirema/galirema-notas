@@ -63,7 +63,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Galduario a punta Corna, arrecife de Aroñe, de punta Galduario a punta Peralto,|MA; MSAS;|C.P. A Pobra do Caramiñal|||
+|De punta Galduario a punta Corna, arrecife de Aroñe, de punta Galduario a punta Peralto,|MA; MSAS;|C.P. A Pobra do Caramiñal|2008156, 2014151, 2015152, 2016154, __2017147__, 2018149, 2019160,|(AR-137-I), (AR-137-II), (AR-268), (AR-287), (AR-288), (AR-139),|
 |Praia da Ladeira, zonas de libre marisqueo adxacentes ao ámbito dos plans das autorizacións das C.P. Carreira-Aguiño, C.P. Ribeira,|MA; MSAS;|C.P. Carreira-Aguiño, C.P. Ribeira, (plan conxunto)|||
 |De punta Peralto a punta Pedra Rubia,|MA;|C.P. Cabo de Cruz|||
 |Punta Aguiúncho, illote de Grades, punta da Corna,|MA;|C.P. Palmeira|||
