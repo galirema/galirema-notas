@@ -31,6 +31,10 @@ __Zonas de producción no SIGREMAR:__
 
  _De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)_
 
+
+|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+
 1. De puntal da Serra a punta do Boi, GSOL MA; MSAS; C.P. Baiona
 
 1. De punta Canabal a punta Couso, illas Cíes, GSOL MA; MSAS; C.P. Cangas
@@ -51,6 +55,10 @@ __Zonas de producción no SIGREMAR:__
 
  _De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_
 
+
+|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+
 1. De punta Alada a punta Morcegos, cara ao interior da ría, GSOL MA; MSAS; C.P. Aldán-O Hio GSOL MA; MSAS; C.P. Aldán-O Hio
 
 1. De punta Faxilda a punta Morcegos, illa de Ons, illa de Onza, GSOL MA; MSAS; C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Portonovo, C.P. Raxó, C.P. Sanxenxo, (plan conxunto)
@@ -60,6 +68,10 @@ __Zonas de producción no SIGREMAR:__
 ## Ría de Arousa AR
 
  _De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_
+
+
+|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
 
 1. De punta Galduario a punta Corna, arrecife de Aroñe, de punta Galduario a punta Peralto, GSOL MA; MSAS; C.P. A Pobra do Caramiñal
 
@@ -89,6 +101,10 @@ __Zonas de producción no SIGREMAR:__
 
  _De praia de Catia (42.261 N, 9.0554 W) ata punta Ínsua (42.771 N, 9.1266 W)_
 
+
+|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+
 1. De punta Insua a punta Uhía, GSOL MA; MSAS; C.P. Muros
 
 1. Na costa norte, desde punta Uhía ata porto Siavo, incluíndo a cara interna da illa da Creba, exceptuando a zona portuaria, a zona dos asteleiros, a canle de navegación,; Na costa sur, desde punta Batuda ata punta Redondelo,; GSOL MA; MSAS; C.P. Noia
@@ -103,7 +119,10 @@ __Zonas de producción no SIGREMAR:__
 
  _De punta Ínsua (42.771 N, 9.1266 W) ata praia de Baldaio (43.292 N, 8.7016 W)_
 
-1. De punta Sandía a punta Lago, enseada de Merexo, praia da Cruz, por fóra da praia de Mozogondón GSOL MA; MSAS; C.P. Camariñas, C.P. Muxía, (plan conxunto)
+
+|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+|De punta Sandía a punta Lago, enseada de Merexo, praia da Cruz, por fóra da praia de Mozogondón|MA; MSAS;|C.P. Camariñas, C.P. Muxía, (plan conxunto)|||
 
 1. Zona V: de cabo Touriñán a punta Insua, GSOL MA; MSAS; C.P. Fisterra, C.P. Corcubión, C.P. Lira, (plan conxunto)
 
@@ -121,7 +140,10 @@ __Zonas de producción no SIGREMAR:__
 
  _De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)_
 
-1. Ámbito territorial da C.P. Miño, GSOL A pé; C.P. Miño
+
+|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+|Ámbito territorial da C.P. Miño,|A pé;|C.P. Miño|||
 
 
 
@@ -129,13 +151,13 @@ __Zonas de producción no SIGREMAR:__
 
   _De punta Frouxeira (43.62 N, 8.1893 W)  ata o rio EO (43.4721 N, 7.0566 W)_
 
-1. Bancos do Taro, Fondás, Fontorto, GSOL A pé; A.M. San Cosme de Barreiros-Foz
 
-1. Taro dos Chonos, Taro das Aceñas, Tesón, GSOL A pé; C.P. Ribadeo
-
-1. Zonas de autorización C.P. Cariño, GSOL A pé; C.P. Cariño
-
-1. Zonas de autorización: enseada do Ladrido, Raias, Cano Cabalar e Mexilloal GSOL A pé; C.P. Espasante
+|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+|Bancos do Taro, Fondás, Fontorto,|A pé;|A.M. San Cosme de Barreiros-Foz|||
+|Taro dos Chonos, Taro das Aceñas, Tesón,|A pé;|C.P. Ribadeo|||
+|Zonas de autorización C.P. Cariño,|A pé;|C.P. Cariño|||
+|Zonas de autorización: enseada do Ladrido, Raias, Cano Cabalar e Mexilloal|A pé;|C.P. Espasante|||
 
 
 [Indice](indicesZonasProduccion.md)
