@@ -104,14 +104,10 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-
-1. De punta Insua a punta Uhía, GSOL MA; MSAS; C.P. Muros
-
-1. Na costa norte, desde punta Uhía ata porto Siavo, incluíndo a cara interna da illa da Creba, exceptuando a zona portuaria, a zona dos asteleiros, a canle de navegación,; Na costa sur, desde punta Batuda ata punta Redondelo,; GSOL MA; MSAS; C.P. Noia
-
-1. De punta Batuda a río Sieira, GSOL MA; MSAS; C.P. Porto do Son, C.P. Portosín, (plan conxunto)  C.P. Noia, C.P. Muros (plan conxunto)
-
-1. "Praia de Abelleira, praia da Virxe e praia de Ventín GSOL A pé; C.P. Muros
+|De punta Insua a punta Uhía,|MA; MSAS;|C.P. Muros|||
+|Na costa norte, desde punta Uhía ata porto Siavo, incluíndo a cara interna da illa da Creba, exceptuando a zona portuaria, a zona dos asteleiros, a canle de navegación,; Na costa sur, desde punta Batuda ata punta Redondelo,;|MA; MSAS;|C.P. Noia|||
+|De punta Batuda a río Sieira,|MA; MSAS;|C.P. Porto do Son, C.P. Portosín, (plan conxunto)  C.P. Noia, C.P. Muros (plan conxunto)|||
+|Praia de Abelleira, praia da Virxe e praia de Ventín|A pé;|C.P. Muros|||
 
 
 
@@ -123,16 +119,11 @@ __Zonas de producción no SIGREMAR:__
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |De punta Sandía a punta Lago, enseada de Merexo, praia da Cruz, por fóra da praia de Mozogondón|MA; MSAS;|C.P. Camariñas, C.P. Muxía, (plan conxunto)|||
-
-1. Zona V: de cabo Touriñán a punta Insua, GSOL MA; MSAS; C.P. Fisterra, C.P. Corcubión, C.P. Lira, (plan conxunto)
-
-1. Praia de Laxe, praia da Hermida, praia de Osmo, banco Riocobo, praia de Rebordelo. Do Alto da Facha a punta Cantero, do Alto da Facha a punta Menduiña, GSOL MA; MSAS; C.P. Laxe, C.P. Corme, (plan conxunto)
-
-1. Praia de Sardiñeiro, praia de Langosteira, GSOL A pé; C.P. Fisterra
-
-1. De punta Lago a punta da Roda, enseada da Vasa, GSOL A pé; C.P. Camariñas
-
-1. Praias do Ézaro e Estorde GSOL A pé; C.P. Corcubión
+|Zona V: de cabo Touriñán a punta Insua,|MA; MSAS;|C.P. Fisterra, C.P. Corcubión, C.P. Lira, (plan conxunto)|||
+|Praia de Laxe, praia da Hermida, praia de Osmo, banco Riocobo, praia de Rebordelo. Do Alto da Facha a punta Cantero, do Alto da Facha a punta Menduiña,|MA; MSAS;|C.P. Laxe, C.P. Corme, (plan conxunto)|||
+|Praia de Sardiñeiro, praia de Langosteira,|A pé;|C.P. Fisterra|||
+|De punta Lago a punta da Roda, enseada da Vasa,|A pé;|C.P. Camariñas|||
+|Praias do Ézaro e Estorde|A pé;|C.P. Corcubión|||
 
 
 
