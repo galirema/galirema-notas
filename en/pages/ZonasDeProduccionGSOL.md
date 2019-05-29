@@ -67,8 +67,8 @@ __Zonas de producción no SIGREMAR:__
 |Zonas de autorización C.P. Aguiño,|MA;|C.P. Aguiño|2008161, 2014152, 2015153, 2016155, __2017148__, 2018150, 2019161,|(AR-210), (AR-212), (AR-213), (AR-211),|
 |Praia da Ladeira, zonas de libre marisqueo adxacentes ao ámbito dos plans das autorizacións das C.P. Carreira-Aguiño, C.P. Ribeira,|MA; MSAS;|C.P. Carreira-Aguiño, C.P. Ribeira, (plan conxunto)|2008162, 2014153, 2015154, __2016156__, 2017149, 2018151, 2019162,|(zonas de libre marisqueo da zona interna da Ría de Arousa, limítrofes coas autorizacións de ambas confrarías), (AR-316), (AR-302), Erbosa e Noro, (AR-297),|
 |De punta Peralto a punta Pedra Rubia,|MA;|C.P. Cabo de Cruz|2008157, 2014154, 2015155, 2016157, __2017150__, 2018152, 2019163,|(AR-127), (AR-128), (AR-129), (AR-130),|
-|Punta Aguiúncho, illote de Grades, punta da Corna,|MA;|C.P. Palmeira|||
-|Zonas de autorización C.P. Ribeira: bancos de Coroso-Río, Grande-Río Azor, Insua-Airó, Castiñeiras,|MA;|C.P. Ribeira|||
+|Punta Aguiúncho, illote de Grades, punta da Corna,|MA;|C.P. Palmeira|2008172, 2014162, 2015163, 2016164, __2017156__, 2018158, 2019170,|(AR-065), (AR-066), (AR-067),|
+|Zonas de autorización C.P. Ribeira: bancos de Coroso-Río, Grande-Río Azor, Insua-Airó, Castiñeiras,|MA;|C.P. Ribeira|2008174, 2014165, 2015165, 2016166, __2017158__, 2018160, 2019172,|(AR-205), (AR-201-I), (AR-201-II), (AR-209), (AR-198),|
 |Desde Sapeiras de Terra a punta Quilme, Areoso, Camallón, Roncadeiras, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo,|MA; MSAS;|C.P. A Illa de Arousa|||
 |Do Rego do Alcalde (Lañeiras de Fóra) á baliza de Orido, Arnela-Galiñeiro, Tragove, Tereixiñas, As Lobeiras,|MA; MSAS;|C.P. Cambados|||
 |Enseada da Lanzada (praia da Lanzada, praia de Area da Cruz, Raeiros,), praia da Mexilloeira, praia Area Grande, Carreiro-Barcelas, praia Area das Pipas, praia Area de Reboredo, Lombo de Rons-Migalliñás, Lombo das Sinas, enseada do Grove,|MA; MSAS;|C.P. O Grove|||
@@ -86,8 +86,8 @@ __Zonas de producción no SIGREMAR:__
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |De punta Insua a punta Uhía,|MA; MSAS;|C.P. Muros|2008170, 2014160, 2015161, 2016162, __2017154__, 2018156, 2019168,|(MN-012-I), (MN-012-II), (MN-013), (MN-014), (MN-015), (MN-016), (MN-017), (MN-060), (MN-080), (MN-081), (MN-082), (MN-083),|
-|Na costa norte, desde punta Uhía ata porto Siavo, incluíndo a cara interna da illa da Creba, exceptuando a zona portuaria, a zona dos asteleiros, a canle de navegación,; Na costa sur, desde punta Batuda ata punta Redondelo,;|MA; MSAS;|C.P. Noia|||
-|De punta Batuda a río Sieira,|MA; MSAS;|C.P. Porto do Son, C.P. Portosín, (plan conxunto)  C.P. Noia, C.P. Muros (plan conxunto)|||
+|Na costa norte, desde punta Uhía ata porto Siavo, incluíndo a cara interna da illa da Creba, exceptuando a zona portuaria, a zona dos asteleiros, a canle de navegación,; Na costa sur, desde punta Batuda ata punta Redondelo,;|MA; MSAS;|C.P. Noia|2014161, 2015162, 2016163, _2017155_, __2018157__, 2019169,|_(MN-048-I), (MN-048-II), (MN-048-III), (MN-018),_; (MN-048), (MN-102), (MN-103), (MN-018),|
+|De punta Batuda a río Sieira,|MA; MSAS;|C.P. Porto do Son, C.P. Portosín, (plan conxunto)  C.P. Noia, C.P. Muros (plan conxunto)|2008173, 2014164, 2015164, 2016165, __2017157__, 2018159, 2019171,|(MN-049), (MN-050), (MN-051), (MN-052), (MN-086), (MN-087),|
 |Praia de Abelleira, praia da Virxe e praia de Ventín|A pé;|C.P. Muros||-|
 
 
