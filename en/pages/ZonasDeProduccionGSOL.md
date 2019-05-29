@@ -85,7 +85,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Insua a punta Uhía,|MA; MSAS;|C.P. Muros|||
+|De punta Insua a punta Uhía,|MA; MSAS;|C.P. Muros|2008170, 2014160, 2015161, 2016162, __2017154__, 2018156, 2019168,|(MN-012-I), (MN-012-II), (MN-013), (MN-014), (MN-015), (MN-016), (MN-017), (MN-060), (MN-080), (MN-081), (MN-082), (MN-083),|
 |Na costa norte, desde punta Uhía ata porto Siavo, incluíndo a cara interna da illa da Creba, exceptuando a zona portuaria, a zona dos asteleiros, a canle de navegación,; Na costa sur, desde punta Batuda ata punta Redondelo,;|MA; MSAS;|C.P. Noia|||
 |De punta Batuda a río Sieira,|MA; MSAS;|C.P. Porto do Son, C.P. Portosín, (plan conxunto)  C.P. Noia, C.P. Muros (plan conxunto)|||
 |Praia de Abelleira, praia da Virxe e praia de Ventín|A pé;|C.P. Muros||-|
