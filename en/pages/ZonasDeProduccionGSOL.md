@@ -99,9 +99,9 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Sandía a punta Lago, enseada de Merexo, praia da Cruz, por fóra da praia de Mozogondón|MA; MSAS;|C.P. Camariñas, C.P. Muxía, (plan conxunto)|||
-|Zona V: de cabo Touriñán a punta Insua,|MA; MSAS;|C.P. Fisterra, C.P. Corcubión, C.P. Lira, (plan conxunto)|||
-|Praia de Laxe, praia da Hermida, praia de Osmo, banco Riocobo, praia de Rebordelo. Do Alto da Facha a punta Cantero, do Alto da Facha a punta Menduiña,|MA; MSAS;|C.P. Laxe, C.P. Corme, (plan conxunto)|||
+|De punta Sandía a punta Lago, enseada de Merexo, praia da Cruz, por fóra da praia de Mozogondón|MA; MSAS;|C.P. Camariñas, C.P. Muxía, (plan conxunto)|2008159, 2014155, 2015156, 2016158, __2017151__, 2018153, 2019164,|(CM-033), (CM-036), (CM-035), (CM-034), (CM-037), (CM-038), (CM-146),|
+|Zona V: de cabo Touriñán a punta Insua,|MA; MSAS;|C.P. Fisterra, C.P. Corcubión, C.P. Lira, (plan conxunto)|2008165, 2014156, 2015157, 2016159, __2017152__, 2018154, 2019166,|(CM-060), (CM-061), (CM-062), (CM-063), (CM-065), (CM-066), (CM-067), (CM-068-1), (CM-068-2), (CM-069), (CM-142), (CM-143), (CM-057), (CM-056), (CM-059),|
+|Praia de Laxe, praia da Hermida, praia de Osmo, banco Riocobo, praia de Rebordelo. Do Alto da Facha a punta Cantero, do Alto da Facha a punta Menduiña,|MA; MSAS;|C.P. Laxe, C.P. Corme, (plan conxunto)|2008167, 2014158, 2015159, 2016161, __2017153__, 2018155, 2019167,|(CM-110), (CM-111), (CM-139), (CM-268), (CM-112), (CM-113), (CM-115), (CM-136), (CM-137),|
 |Praia de Sardiñeiro, praia de Langosteira,|A pé;|C.P. Fisterra|||
 |De punta Lago a punta da Roda, enseada da Vasa,|A pé;|C.P. Camariñas|||
 |Praias do Ézaro e Estorde|A pé;|C.P. Corcubión||-|
