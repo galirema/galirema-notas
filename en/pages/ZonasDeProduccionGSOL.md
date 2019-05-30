@@ -34,7 +34,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De puntal da Serra a punta do Boi,|MA; MSAS;|C.P. Baiona|||
+|De puntal da Serra a punta do Boi,|MA; MSAS;|C.P. Baiona|2008178, 2014168, 2015168, 2016169, __2017161__, 2018163, 2019175,|(VI-106), (VI-107), (VI-108), (VI-109),|
 |De punta Canabal a punta Couso, illas Cíes,|MA; MSAS;|C.P. Cangas|||
 |De Rande a Petóns de Canabal, (excluíndo a zona que vai desde Rande a punta Travesada,)|MA; MSAS;|C.P. Moaña, Cíes Artesanais, S.C.G., (plan conxunto)|||
 |Desde Rande a punta Travesada,|MA; MSAS;|C.P. Moaña, Cíes Artesanais, S.C.G., C.P. Redondela, C.P. Vilaboa, (plan conxunto)|||
@@ -51,8 +51,8 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Alada a punta Morcegos, cara ao interior da ría,|MA; MSAS;|C.P. Aldán-O Hio|||
-|De punta Faxilda a punta Morcegos, illa de Ons, illa de Onza,|MA; MSAS;|C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Portonovo, C.P. Raxó, C.P. Sanxenxo, (plan conxunto)||-|
+|De punta Alada a punta Morcegos, cara ao interior da ría,|MA; MSAS;|C.P. Aldán-O Hio|2008177, 2014167, 2015167, 2016168, __2017160__, 2018162, 2019174,|(PO-156), (PO-155), (PO-154), (PO-153), (PO-152), (PO-191), (PO-151), (PO-150), (PO-149), (PO-148), (PO-147), (PO-146), (PO-145), (PO-144),|
+|De punta Faxilda a punta Morcegos, illa de Ons, illa de Onza,|MA; MSAS;|C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Portonovo, C.P. Raxó, C.P. Sanxenxo, (plan conxunto)|2008179, 2014169, 2015169, 2016170, __2017162__, 2018164, 2019176,|(EQK): (PO-040), (PO-045), (PO-046), (PO-048), (PO-050), (PO-051), (PO-053), (PO-054), (PO-055), (PO-056), (PO-057), (PO-058), (PO-062), (PO-016), (PO-059), (PO-065), (PO-061), (PO-015), (PO-067), (PO-069), (PO-070-I), (PO-070-II), (PO-070-III), (PO-077), (PO-078), (PO-079), (PO-080), (PO-081), (PO-082), (PO-083), (PO-087), (PO-088), (PO-089), (PO-090), (PO-108), (PO-091), (PO-094), (PO-095), (PO-097), (PO-098), (PO-099), (PO-100), (PO-101), (PO-102), (PO-103), (PO-104), (PO-105), (PO-106), (PO-107), (PO-110), (PO-111), (PO-112),; (EQI): (PO-035), (PO-036), (PO-037), (PO-038), (PO-039), (PO-041), (PO-042), (PO-043), (PO-044), (PO-049), (PO-068), (PO-066), (PO-071-I), (PO-071-II), (PO-071-III), (PO-084), (PO-085), (PO-092), (PO-093), (PO-096),;|
 
 
 
