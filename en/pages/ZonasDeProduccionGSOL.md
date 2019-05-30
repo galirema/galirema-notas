@@ -40,7 +40,7 @@ __Zonas de producción no SIGREMAR:__
 |Desde Rande a punta Travesada,|MA; MSAS;|C.P. Moaña, Cíes Artesanais, S.C.G., C.P. Redondela, C.P. Vilaboa, (plan conxunto)|2014173, 2015173, 2016174, __2017166__, 2018168, 2019180,|Desde Rande a punta Travesada,|
 |De punta Travesada a o peirao de San Adrián de Cobres, desde a ponte de Rande ata punta Pías,|MA; MSAS;|C.P. Redondela, C.P. Vilaboa, (plan conxunto)|2014175, 2015175, 2016176, __2017168__, 2018170,|(VI-240), (VI-242),|
 |De puntal da Serra á ponte de Rande,|MA; MSAS;|C.P. Vigo|2008185, 2014176, 2015176, 2016177, __2017169__, 2018171, 2019182,|(EQK): (VI-069), (VI-549), (VI-550), (VI-551), (VI-552), (VI-548), (VI-070), (VI-068), (VI-579), (EQI): (VI-067), (VI-547),|
-|Ría de Vigo|A pé;|Asociación de Confrarías da Ría de Vigo|2008175,|Cabo Estai, Toubiña, Toralla, Canido, Bouzas, Rochas, Area Longa, A Portela, Cesantes, punta do Cabo, Estralo, O Cunchido, Aradoiro, Maceira, Carballal, Covas, Cabalo, río Maior, Río do Porco, Malvinas, Río do Medio, Coelleira, Area Nova, Cabanas, Calera, Domaio, Borna, Meira, A Xunqueira, O Con, Tirán, Illa dos Ratos, Chapela, A Guía, Rande, Cedeira, A Barra, Sobreiro, Illa San Simón, Cobreiro, Estralo, Puntal, río Alvedosas, río Paredes, Deilán, Santo Adrán,|
+|Ría de Vigo|A pé;|Asociación de Confrarías da Ría de Vigo|__2008175__,|Cabo Estai, Toubiña, Toralla, Canido, Bouzas, Rochas, Area Longa, A Portela, Cesantes, punta do Cabo, Estralo, O Cunchido, Aradoiro, Maceira, Carballal, Covas, Cabalo, río Maior, Río do Porco, Malvinas, Río do Medio, Coelleira, Area Nova, Cabanas, Calera, Domaio, Borna, Meira, A Xunqueira, O Con, Tirán, Illa dos Ratos, Chapela, A Guía, Rande, Cedeira, A Barra, Sobreiro, Illa San Simón, Cobreiro, Estralo, Puntal, río Alvedosas, río Paredes, Deilán, Santo Adrán,|
 
  
 
@@ -74,7 +74,7 @@ __Zonas de producción no SIGREMAR:__
 |Enseada da Lanzada (praia da Lanzada, praia de Area da Cruz, Raeiros,), praia da Mexilloeira, praia Area Grande, Carreiro-Barcelas, praia Area das Pipas, praia Area de Reboredo, Lombo de Rons-Migalliñás, Lombo das Sinas, enseada do Grove,|MA; MSAS;|C.P. O Grove|2008184, 2014174, 2015174, 2016175, __2017167__, 2018169, 2019181,|(AR-118), (AR-119), (AR-120), (AR-121), (AR-071), (AR-072), Praia do Carreiro, praia das Barcelas-Barreiriño, (AR-073), (AR-075), (AR-284), (AR-074), (AR-079), (AR-077), (AR-259),|
 |Entre o peirao de Corón e O Ariño,|MA;|C.P. Vilanova|2014177, 2015177, 2016178, __2017170__, 2018172, 2019183,|(AR-294), (AR-290), (AR-291), (AR-292), (AR-293),|
 |Praia da Corna|A pé;|C.P. Palmeira|2008171, __2014163__,|Praia da Corna|
-|Intermareal entre punta Tragove e Rego do Alcalde, co saco de Fefiñáns. Entre Ponte Castrelo e punta Barrelo. Entre o peirao de Cambados e a desembocadura do río Umia|A pé;|C.P. Cambados|2008180,|"Intermareal entre punta Tragove e Rego do Alcalde, co saco de Fefiñáns, Entre Ponte Castrelo e punta Barrelo, Entre o peirao de Cambados e a desembocadura do río Umia,|
+|Intermareal entre punta Tragove e Rego do Alcalde, co saco de Fefiñáns. Entre Ponte Castrelo e punta Barrelo. Entre o peirao de Cambados e a desembocadura do río Umia|A pé;|C.P. Cambados|__2008180__,|"Intermareal entre punta Tragove e Rego do Alcalde, co saco de Fefiñáns, Entre Ponte Castrelo e punta Barrelo, Entre o peirao de Cambados e a desembocadura do río Umia,|
 
 
 
@@ -103,8 +103,8 @@ __Zonas de producción no SIGREMAR:__
 |Zona V: de cabo Touriñán a punta Insua,|MA; MSAS;|C.P. Fisterra, C.P. Corcubión, C.P. Lira, (plan conxunto)|2008165, 2014156, 2015157, 2016159, __2017152__, 2018154, 2019166,|(CM-060), (CM-061), (CM-062), (CM-063), (CM-065), (CM-066), (CM-067), (CM-068-1), (CM-068-2), (CM-069), (CM-142), (CM-143), (CM-057), (CM-056), (CM-059),|
 |Praia de Laxe, praia da Hermida, praia de Osmo, banco Riocobo, praia de Rebordelo. Do Alto da Facha a punta Cantero, do Alto da Facha a punta Menduiña,|MA; MSAS;|C.P. Laxe, C.P. Corme, (plan conxunto)|2008167, 2014158, 2015159, 2016161, __2017153__, 2018155, 2019167,|(CM-110), (CM-111), (CM-139), (CM-268), (CM-112), (CM-113), (CM-115), (CM-136), (CM-137),|
 |Praia de Sardiñeiro, praia de Langosteira,|A pé;|C.P. Fisterra|2008166, 2014157, 2015158, __2016160__,|(CM-083), (CM-081),|
-|De punta Lago a punta da Roda, enseada da Vasa,|A pé;|C.P. Camariñas|2008158,|De punta Lago a punta da Roda, enseada da Vasa,|
-|Praias do Ézaro e Estorde|A pé;|C.P. Corcubión|2008163,|Praias do Ézaro, praia de Estorde,|
+|De punta Lago a punta da Roda, enseada da Vasa,|A pé;|C.P. Camariñas|__2008158__,|De punta Lago a punta da Roda, enseada da Vasa,|
+|Praias do Ézaro e Estorde|A pé;|C.P. Corcubión|__2008163__,|Praias do Ézaro, praia de Estorde,|
 
 
 
@@ -115,7 +115,8 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Ámbito territorial da C.P. Miño,|A pé;|C.P. Miño|2008168,|Ámbito territorial da C.P. Miño,|
+|Ámbito territorial da C.P. Miño,|A pé;|C.P. Miño|__2008168__,|Ámbito territorial da C.P. Miño,|
+|Ría da Coruña,|MA; MSAS;|C.P. A Coruña|__2019159__,|desde o banco de O Parrote a punta Bufadoiro,|
 
 
 
@@ -126,10 +127,11 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Bancos do Taro, Fondás, Fontorto,|A pé;|A.M. San Cosme de Barreiros-Foz|2008154,|Bancos do Taro, Fondás, Fontorto,|
-|Taro dos Chonos, Taro das Aceñas, Tesón,|A pé;|C.P. Ribadeo|2008155,|Taro dos Chonos, Taro das Aceñas, Tesón,|
-|Zonas de autorización C.P. Cariño,|A pé;|C.P. Cariño|2008160,|Zonas de autorización C.P. Cariño,|
-|Zonas de autorización: enseada do Ladrido, Raias, Cano Cabalar e Mexilloal|A pé;|C.P. Espasante|2008164,|enseada do Ladrido, Raias, Cano Cabalar, Mexilloal,|
+|Bancos do Taro, Fondás, Fontorto,|A pé;|A.M. San Cosme de Barreiros-Foz|__2008154__,|Bancos do Taro, Fondás, Fontorto,|
+|Taro dos Chonos, Taro das Aceñas, Tesón,|A pé;|C.P. Ribadeo|__2008155__,|Taro dos Chonos, Taro das Aceñas, Tesón,|
+|Zonas de autorización C.P. Cariño,|A pé;|C.P. Cariño|__2008160__,|Zonas de autorización C.P. Cariño,|
+|Zonas de autorización: enseada do Ladrido, Raias, Cano Cabalar e Mexilloal|A pé;|C.P. Espasante|__2008164__,|enseada do Ladrido, Raias, Cano Cabalar, Mexilloal,|
+|Praia Magdalena, Area Miña Señora, punta Robaleira,|MSAS;|C.P. Cedeira|__2019165__,|Praia Magdalena, Area Miña Señora, punta Robaleira,|
 
 
 [Indice](indicesZonasProduccion.md)
