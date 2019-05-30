@@ -69,7 +69,7 @@ __Zonas de producción no SIGREMAR:__
 |De punta Peralto a punta Pedra Rubia,|MA;|C.P. Cabo de Cruz|2008157, 2014154, 2015155, 2016157, __2017150__, 2018152, 2019163,|(AR-127), (AR-128), (AR-129), (AR-130),|
 |Punta Aguiúncho, illote de Grades, punta da Corna,|MA;|C.P. Palmeira|2008172, 2014162, 2015163, 2016164, __2017156__, 2018158, 2019170,|(AR-065), (AR-066), (AR-067),|
 |Zonas de autorización C.P. Ribeira: bancos de Coroso-Río, Grande-Río Azor, Insua-Airó, Castiñeiras,|MA;|C.P. Ribeira|2008174, 2014165, 2015165, 2016166, __2017158__, 2018160, 2019172,|(AR-205), (AR-201-I), (AR-201-II), (AR-209), (AR-198),|
-|Desde Sapeiras de Terra a punta Quilme, Areoso, Camallón, Roncadeiras, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo,|MA; MSAS;|C.P. A Illa de Arousa|||
+|Desde Sapeiras de Terra a punta Quilme, Areoso, Camallón, Roncadeiras, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo,|MA; MSAS;|C.P. A Illa de Arousa|2008176, 2014166, 2015166, 2016167, __2017159__, 2018161, 2019173,|(AR-052), (AR-051), (AR-332), (AR-333), (AR-334), (AR-056-II) (AR-059), (AR-056-I), (AR-324-I), (AR-324-II), (AR-050), (AR-049), (AR-058),|
 |Do Rego do Alcalde (Lañeiras de Fóra) á baliza de Orido, Arnela-Galiñeiro, Tragove, Tereixiñas, As Lobeiras,|MA; MSAS;|C.P. Cambados|||
 |Enseada da Lanzada (praia da Lanzada, praia de Area da Cruz, Raeiros,), praia da Mexilloeira, praia Area Grande, Carreiro-Barcelas, praia Area das Pipas, praia Area de Reboredo, Lombo de Rons-Migalliñás, Lombo das Sinas, enseada do Grove,|MA; MSAS;|C.P. O Grove|||
 |Entre o peirao de Corón e O Ariño,|MA;|C.P. Vilanova|||
