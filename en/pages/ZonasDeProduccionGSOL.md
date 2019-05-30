@@ -38,8 +38,8 @@ __Zonas de producción no SIGREMAR:__
 |De punta Canabal a punta Couso, illas Cíes,|MA; MSAS;|C.P. Cangas|2008182, 2014171, 2015171, 2016172, __2017164__, 2018166, 2019178,|(EQK), (EQI),: (VI-089), (VI-091), (VI-094), (VI-088), (VI-095), (VI-093), (VI-178), (VI-079), (VI-092),; (EQK), (EQI),: (VI-090),;|
 |De Rande a Petóns de Canabal, (excluíndo a zona que vai desde Rande a punta Travesada,)|MA; MSAS;|C.P. Moaña, Cíes Artesanais, S.C.G., (plan conxunto)|2008183, 2014172, 2015172, 2016173, __2017165__, 2018167, 2019179,|(VI-152), (VI-153), (VI-160), (VI-154), (VI-155), (VI-156), (VI-157), (VI-158), (VI-159),|
 |Desde Rande a punta Travesada,|MA; MSAS;|C.P. Moaña, Cíes Artesanais, S.C.G., C.P. Redondela, C.P. Vilaboa, (plan conxunto)|2014173, 2015173, 2016174, __2017166__, 2018168, 2019180,|Desde Rande a punta Travesada,|
-|De punta Travesada a o peirao de San Adrián de Cobres, desde a ponte de Rande ata punta Pías,|MA; MSAS;|C.P. Redondela, C.P. Vilaboa, (plan conxunto)|||
-|De puntal da Serra á ponte de Rande,|MA; MSAS;|C.P. Vigo|||
+|De punta Travesada a o peirao de San Adrián de Cobres, desde a ponte de Rande ata punta Pías,|MA; MSAS;|C.P. Redondela, C.P. Vilaboa, (plan conxunto)|2014175, 2015175, 2016176, __2017168__, 2018170,|(VI-240), (VI-242),|
+|De puntal da Serra á ponte de Rande,|MA; MSAS;|C.P. Vigo|2008185, 2014176, 2015176, 2016177, __2017169__, 2018171, 2019182,|(EQK): (VI-069), (VI-549), (VI-550), (VI-551), (VI-552), (VI-548), (VI-070), (VI-068), (VI-579), (EQI): (VI-067), (VI-547),|
 |Ría de Vigo|A pé;|Asociación de Confrarías da Ría de Vigo||-|
 
  
@@ -71,8 +71,8 @@ __Zonas de producción no SIGREMAR:__
 |Zonas de autorización C.P. Ribeira: bancos de Coroso-Río, Grande-Río Azor, Insua-Airó, Castiñeiras,|MA;|C.P. Ribeira|2008174, 2014165, 2015165, 2016166, __2017158__, 2018160, 2019172,|(AR-205), (AR-201-I), (AR-201-II), (AR-209), (AR-198),|
 |Desde Sapeiras de Terra a punta Quilme, Areoso, Camallón, Roncadeiras, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo,|MA; MSAS;|C.P. A Illa de Arousa|2008176, 2014166, 2015166, 2016167, __2017159__, 2018161, 2019173,|(AR-052), (AR-051), (AR-332), (AR-333), (AR-334), (AR-056-II) (AR-059), (AR-056-I), (AR-324-I), (AR-324-II), (AR-050), (AR-049), (AR-058),|
 |Do Rego do Alcalde (Lañeiras de Fóra) á baliza de Orido, Arnela-Galiñeiro, Tragove, Tereixiñas, As Lobeiras,|MA; MSAS;|C.P. Cambados|2008181, 2014170, 2015170, 2016171, __2017163__, 2018165, 2019177,|(AR-253), (AR-254), (AR-255), (AR-016-1), (AR-016-2), (AR-256),|
-|Enseada da Lanzada (praia da Lanzada, praia de Area da Cruz, Raeiros,), praia da Mexilloeira, praia Area Grande, Carreiro-Barcelas, praia Area das Pipas, praia Area de Reboredo, Lombo de Rons-Migalliñás, Lombo das Sinas, enseada do Grove,|MA; MSAS;|C.P. O Grove|||
-|Entre o peirao de Corón e O Ariño,|MA;|C.P. Vilanova|||
+|Enseada da Lanzada (praia da Lanzada, praia de Area da Cruz, Raeiros,), praia da Mexilloeira, praia Area Grande, Carreiro-Barcelas, praia Area das Pipas, praia Area de Reboredo, Lombo de Rons-Migalliñás, Lombo das Sinas, enseada do Grove,|MA; MSAS;|C.P. O Grove|2008184, 2014174, 2015174, 2016175, __2017167__, 2018169, 2019181,|(AR-118), (AR-119), (AR-120), (AR-121), (AR-071), (AR-072), Praia do Carreiro, praia das Barcelas-Barreiriño, (AR-073), (AR-075), (AR-284), (AR-074), (AR-079), (AR-077), (AR-259),|
+|Entre o peirao de Corón e O Ariño,|MA;|C.P. Vilanova|2014177, 2015177, 2016178, __2017170__, 2018172, 2019183,|(AR-294), (AR-290), (AR-291), (AR-292), (AR-293),|
 |Praia da Corna|A pé;|C.P. Palmeira|||
 |Intermareal entre punta Tragove e Rego do Alcalde, co saco de Fefiñáns. Entre Ponte Castrelo e punta Barrelo. Entre o peirao de Cambados e a desembocadura do río Umia|A pé;|C.P. Cambados||-|
 
