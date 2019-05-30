@@ -35,9 +35,9 @@ __Zonas de producción no SIGREMAR:__
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |De puntal da Serra a punta do Boi,|MA; MSAS;|C.P. Baiona|2008178, 2014168, 2015168, 2016169, __2017161__, 2018163, 2019175,|(VI-106), (VI-107), (VI-108), (VI-109),|
-|De punta Canabal a punta Couso, illas Cíes,|MA; MSAS;|C.P. Cangas|||
-|De Rande a Petóns de Canabal, (excluíndo a zona que vai desde Rande a punta Travesada,)|MA; MSAS;|C.P. Moaña, Cíes Artesanais, S.C.G., (plan conxunto)|||
-|Desde Rande a punta Travesada,|MA; MSAS;|C.P. Moaña, Cíes Artesanais, S.C.G., C.P. Redondela, C.P. Vilaboa, (plan conxunto)|||
+|De punta Canabal a punta Couso, illas Cíes,|MA; MSAS;|C.P. Cangas|2008182, 2014171, 2015171, 2016172, __2017164__, 2018166, 2019178,|(EQK), (EQI),: (VI-089), (VI-091), (VI-094), (VI-088), (VI-095), (VI-093), (VI-178), (VI-079), (VI-092),; (EQK), (EQI),: (VI-090),;|
+|De Rande a Petóns de Canabal, (excluíndo a zona que vai desde Rande a punta Travesada,)|MA; MSAS;|C.P. Moaña, Cíes Artesanais, S.C.G., (plan conxunto)|2008183, 2014172, 2015172, 2016173, __2017165__, 2018167, 2019179,|(VI-152), (VI-153), (VI-160), (VI-154), (VI-155), (VI-156), (VI-157), (VI-158), (VI-159),|
+|Desde Rande a punta Travesada,|MA; MSAS;|C.P. Moaña, Cíes Artesanais, S.C.G., C.P. Redondela, C.P. Vilaboa, (plan conxunto)|2014173, 2015173, 2016174, __2017166__, 2018168, 2019180,|Desde Rande a punta Travesada,|
 |De punta Travesada a o peirao de San Adrián de Cobres, desde a ponte de Rande ata punta Pías,|MA; MSAS;|C.P. Redondela, C.P. Vilaboa, (plan conxunto)|||
 |De puntal da Serra á ponte de Rande,|MA; MSAS;|C.P. Vigo|||
 |Ría de Vigo|A pé;|Asociación de Confrarías da Ría de Vigo||-|
