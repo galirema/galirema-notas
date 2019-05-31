@@ -59,7 +59,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Salinas a punta Quilme, Areoso, Camallón, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo,|MA; MSAS;|C.P. A Illa de Arousa|||
+|De punta Salinas a punta Quilme, Areoso, Camallón, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo,|MA; MSAS;|C.P. A Illa de Arousa|2008186, 2014179, 2015179, 2016149, 2017172, 2018174,|(AR-052), (AR-051), (AR-332), (AR-333), (AR-334),(AR-059), (AR-056), (AR-324-I), (AR-324-II), (AR-054),|
 |De punta Moreira a peirao das Pedras Negras,|MSAS;|C.P. O Grove||-|
 
 
@@ -82,7 +82,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De cabo Touriñán a punta Insua, excepto a zona incluída na reserva mariña de interese pesqueiro Os Miñarzos,|MA; MSAS;|C.P. Fisterra, C.P. Corcubión, C.P. Lira, (plan conxunto)||-|
+|De cabo Touriñán a punta Insua, excepto a zona incluída na reserva mariña de interese pesqueiro Os Miñarzos,|MA; MSAS;|C.P. Fisterra, C.P. Corcubión, C.P. Lira, (plan conxunto)|2014178, 2015178, 2016148, __2017171__, 2018173, 2019184,|(CM-148), (CM-149), (CM-150), (CM-151), (CM-274), (CM-275), (CM-276), (CM-277), (CM-278),|
 
 
 
