@@ -35,8 +35,8 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Zona sublitoral rochosa entre punta Canabal e punta Couso, incluíndo illas Cíes, (agás de cabo Bicos a punta Cabaliños,)|MA; MSAS;|C.P. Cangas|||
-|De punta Cubilló ata praia de Abra (excluída)|MA; MSAS|C.P. Vigo||-|
+|Zona sublitoral rochosa entre punta Canabal e punta Couso, incluíndo illas Cíes, (agás de cabo Bicos a punta Cabaliños,)|MA; MSAS;|C.P. Cangas|2008189, 2014182, 2015182, 2016152, 2017175, 2018177, 2019186,|(VI-227), (VI-228), (VI-229), (VI-230), (VI-231), (VI-221-I), (VI-221-II), (VI-222), (VI-223), (VI-224), (VI-225-II), (VI-226), (VI-225-I),|
+|De punta Cubilló ata praia de Abra (excluída)|MA; MSAS|C.P. Vigo|2015184,|De punta Cubilló ata praia de Abra,|
 
 
 
@@ -47,8 +47,8 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Couso a punta Morcegos, cara ao interior da ría de Aldán,|MA; MSAS;|C.P. Aldán-O Hio|||
-|No norte da ría: de punta Faxilda a punta Aguillóns, illa de Tambo (con Corbeiro,), Illa Ons, Illa Onza,; No sur da ría: do faro sur da illa de Tambo á esquina oeste da Escola Naval de Marín, ata punta Morcegos,;|MA; MSAS;|C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Portonovo, C.P. Raxó, C.P. Sanxenxo, (plan conxunto)||-|
+|De punta Couso a punta Morcegos, cara ao interior da ría de Aldán,|MA; MSAS;|C.P. Aldán-O Hio|2008187, 2014180, 2015180, 2016150, 2017173, __2018175__, 2019185,|(PO-073), (PO-074), (PO-075), (PO-076), (PO-086-I), (PO-086-II),|
+|No norte da ría: de punta Faxilda a punta Aguillóns, illa de Tambo (con Corbeiro,), Illa Ons, Illa Onza,; No sur da ría: do faro sur da illa de Tambo á esquina oeste da Escola Naval de Marín, ata punta Morcegos,;|MA; MSAS;|C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Portonovo, C.P. Raxó, C.P. Sanxenxo, (plan conxunto)|2008188, 2014181, 2015181, 2016151, 2017174, 2018176,|de punta Faxilda a punta Festiñanzo, de punta Festiñanzo a punta Aguillóns. Límite con Tambo no Con Corbeiro, da Escola Naval de Marín a punta Lapamán. Límite coa liña imaxinaria entre a esquina oeste da Escola Naval de Marín e o faro sur da illa de Tambo, de punta Lapamán a punta Morcegos, Illas Ons e Onza,|
 
 
 
@@ -60,7 +60,7 @@ __Zonas de producción no SIGREMAR:__
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |De punta Salinas a punta Quilme, Areoso, Camallón, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo,|MA; MSAS;|C.P. A Illa de Arousa|2008186, 2014179, 2015179, 2016149, 2017172, 2018174,|(AR-052), (AR-051), (AR-332), (AR-333), (AR-334),(AR-059), (AR-056), (AR-324-I), (AR-324-II), (AR-054),|
-|De punta Moreira a peirao das Pedras Negras,|MSAS;|C.P. O Grove||-|
+|De punta Moreira a peirao das Pedras Negras,|MSAS;|C.P. O Grove|2014183, 2015183, 2016153,|De punta Moreira a peirao das Pedras Negras,|
 
 
 
