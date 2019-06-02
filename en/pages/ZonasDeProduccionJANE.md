@@ -36,7 +36,7 @@ __Zonas de producción no SIGREMAR:__
 |De punta Orelluda a Punta dos Picos,|A pé;|C.P. A Guarda|||
 |De punta Orelluda a punta Santa Marta, desde a desembocadura do río Miñor a praia de Portocelo,|A pé; MA; MSAS;|C.P. Baiona|||
 |De punta Balea ao extremo leste da praia de Liméns, (incluíndo o faro da Borneira, illote Corbeiro,) do extremo oeste da praia de Liméns ao extremo leste da praia de Barra, do extremo oeste da praia de Barra ata punta Robaleira, de punta Balea a punta Rodeira,|MA; MSAS;|C.P. Cangas|||
-|De punta Alcabre a praia de Abra, (excluída), De punta Lagoa a praia de Arealonga, (excluida),|MA; MSAS;|C.P. Vigo|||
+|De punta Alcabre a praia de Abra, (excluída), De punta Lagoa a praia de Arealonga, (excluida),|MA; MSAS;|C.P. Vigo||-|
 
 
 
