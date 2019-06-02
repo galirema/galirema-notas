@@ -37,7 +37,7 @@ __Zonas de producción no SIGREMAR:__
 |De punta Orelludas a punta dos Picos, (zona marítima)|MA; MSAS;|C.P. A Guarda|||
 |De punta Orelludas á praia de Abra, (excluída)|A pé; MSAS;|C.P. Baiona|||
 |De punta de Alcabre a praia de Abra, (excluída), de punta Lagoa a praia de Arealonga, (excluída),|MA; MSAS; A pé;|C.P. Vigo|||
-|De petóns de Canaval a Rande|MA; MSAS;|C.P. Moaña|||
+|De petóns de Canaval a Rande|MA; MSAS;|C.P. Moaña||-|
 
 
 ## Ría de Pontevedra PO
@@ -48,7 +48,7 @@ __Zonas de producción no SIGREMAR:__
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |De punta Couso a punta Preguntoiro, cara ao interior da ría,|MA; MSAS;|C.P. Aldán-O Hio|||
-|Interior das liñas imaxinarias de punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Preguntoiro, Cara oeste das illas Ons e Onza,|MSAS;|C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Raxó, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto)|||
+|Interior das liñas imaxinarias de punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Preguntoiro, Cara oeste das illas Ons e Onza,|MSAS;|C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Raxó, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto)||-|
 
 
 
@@ -61,7 +61,7 @@ __Zonas de producción no SIGREMAR:__
 |---|---------|-------|----------|--------------|
 |De punta Salinas a punta Quilma, Areoso, Camallón, de punta Testos a punta Campelo, de punta Aguiúncho a punta Furado,|MA; MSAS;|C.P. A Illa de Arousa|||
 |De Cantareira a punta Carreiro, de punta Carreiro a Barrosa, de Barrosa a Raeiros, de Capilla a punta Faxilda,|MSAS;|C.P. O Grove|||
-|Zonas de autorización C.P. Ribeira, as restantes zonas resolveranse nas resolucións de apertura,|MA; MSAS;|C.P. Ribeira|||
+|Zonas de autorización C.P. Ribeira, as restantes zonas resolveranse nas resolucións de apertura,|MA; MSAS;|C.P. Ribeira||-|
 
 
 
@@ -73,7 +73,7 @@ __Zonas de producción no SIGREMAR:__
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |Submareal rochoso entre punta Ínsua e punta Uhía,|MA; MSAS;|C.P. Muros|||
-|De punta Uhía a punta Insua|A pé;|C.P. Muros|||
+|De punta Uhía a punta Insua|A pé;|C.P. Muros||-|
 
 
 
@@ -92,7 +92,7 @@ __Zonas de producción no SIGREMAR:__
 |De punta Insua a punta Larada,|A pé;|C.P. Lira|||
 |Da desembocadura do río Xallas á desembocadura do río Larada, pedras da costa, intermareal rochoso entre punta Arnela e Cabo Fisterra,|A pé;|C.P. O Pindo|||
 |Litoral da provincia da Coruña,|A pé;|Mardelira, S. Coop. Galega|||
-|De punta Insua a cabo Fisterra|MA;|Merguladores de Fisterra, S. Coop. Galega|||
+|De punta Insua a cabo Fisterra|MA;|Merguladores de Fisterra, S. Coop. Galega||-|
 
 
 
@@ -103,7 +103,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Langosteira a Cabo Prioriño,|MSAS;|C.P. A Coruña, C.P. Sada, (plan conxunto)|||
+|De punta Langosteira a Cabo Prioriño,|MSAS;|C.P. A Coruña, C.P. Sada, (plan conxunto)||-|
 
 
 
@@ -114,7 +114,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Desde Ladrido ata a Praia de Esteiro|A pé;|C.P. Espasante|||
+|Desde Ladrido ata a Praia de Esteiro|A pé;|C.P. Espasante||-|
 
 
 
@@ -130,7 +130,7 @@ __Zonas de producción no SIGREMAR:__
 |De punta Penas Brancas (Ribadeo) a Cabo San Cibrao, de punta Roncadoira (Xove) a punta Camero (Vicedo), Ría de Ortigueira, de punta Ardillosa (Cedeira) a cabo Prioriño Grande (Ferrol), Ría de Ferrol, ría de Ares-Betanzos, Ría da Coruña, de punta San Pedro (A Coruña) a punta Insua (Caión), de punta Nariga (Malpica) a cabo San Adrián (Malpica), de punta Roncudo a punta Laxe, de punta Laxe (Laxe) a cabo Vilán, Ría de Camariñas, de punta da Barca (Muxía) a Cabo Touriñán, de Cabo Fisterra a punta Lens (Muros), de punta Lens a punta Uhía, de punta Sagrada (Porto do Son) a punta Couso (Aguiño), de punta Couso a punta Bodión, de punta Quintáns (Bamio) a punta das Sinas (Vilagarcia), Illa de Arousa, de Punta Abelleira (O Grove) a punta Pereiró (Vilalonga), de punta Río Seco (Domaio) a punta Moa (Marín), de punta do Boi (Baiona) a punta dos Picos (A Guarda),|A pé;|Porto-Muíños S.L.|||
 |Intermareal de punta Uhía a punta Remedios,|A pé;|Mª Carmen Sánchez Sánchez|||
 |De punta Chirlateira a punta Langosteira (agás ámbito Remip Ría de Cedeira). De Lires a Cabo Cee|A pé;|Central Galaica de Plantas Medicinais|||
-|Litoral de Galicia, agás ámbito das reservas mariñas de interese pesqueiro e o Parque Nacional das Illas Atlánticas|A pé;|Conservas e Ahumados LOU,S.L.|||
+|Litoral de Galicia, agás ámbito das reservas mariñas de interese pesqueiro e o Parque Nacional das Illas Atlánticas|A pé;|Conservas e Ahumados LOU,S.L.||-|
 
 
 
