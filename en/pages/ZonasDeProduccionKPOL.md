@@ -34,15 +34,10 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-
-1. De praia do Sinal a punta Vixía, KPOL MA; MSAS; C.P. Cangas
-
-1. A Portela: de Punta Monte Gordo a Punta do Socorro,; praia de Barra,; KPOL A pé; C.P. Redondela
-
-1. Bancos intermareais de o puntal da Serra a praia de Arealonga (excluída), KPOL A pé; C.P. Vigo
-
-1. Cabalo, Deilán, Río Maior, San Adrián (norte), KPOL A pé; C.P. Vilaboa
-
+|De praia do Sinal a punta Vixía,|MA; MSAS;|C.P. Cangas|||
+|A Portela: de Punta Monte Gordo a Punta do Socorro,; praia de Barra,;|A pé;|C.P. Redondela|||
+|Bancos intermareais de o puntal da Serra a praia de Arealonga (excluída),|A pé;|C.P. Vigo|||
+|Cabalo, Deilán, Río Maior, San Adrián (norte),|A pé;|C.P. Vilaboa||-|
 
 
 
@@ -53,11 +48,8 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-
-1. Praia Faxilda (ou Pociñas), praia de Prageira, praia de Bascuas, praia de Montalvo, praia Canelas, KPOL A pé; C.P. Portonovo
-
-1. Praias de Pampaido, Area da Adra, Praias das Areas, Praias de Nanín, Praias de Barreiro, Praias de Carabuxeira, Praias de Silgar, KPOL A pé; C.P. Sanxenxo
-
+|Praia Faxilda (ou Pociñas), praia de Prageira, praia de Bascuas, praia de Montalvo, praia Canelas,|A pé;|C.P. Portonovo|||
+|Praias de Pampaido, Area da Adra, Praias das Areas, Praias de Nanín, Praias de Barreiro, Praias de Carabuxeira, Praias de Silgar,|A pé;|C.P. Sanxenxo||-|
 
 
 
@@ -68,13 +60,9 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-
-1. Saco de Fefiñáns, Pantalán, Fefiñáns, O Varal, Bebedeiros, Medio do Sarrido, Illeira, de punta Tragrove a Rego do Alcalde, KPOL A pé; C.P. Cambados
-
-1. Meloxo: de peirao de Meloxo a praia Lavandeira, Ardía: de punta Antarde a as Morrasas, Vilalonga-Dena-Castrelo: de punta Fianteira a punta de Couto de Abaixo, de punta Faxilda a punta Colmado, de punta San Vicente ao porto deportivo de Pedras Negras, de Con do Cavernal a punta das Pozas, KPOL A pé; C.P. O Grove
-
-1. As Sinas, Con Grande, Carballas, Negrenlas, KPOL MA; C.P. Vilanova
-
+|Saco de Fefiñáns, Pantalán, Fefiñáns, O Varal, Bebedeiros, Medio do Sarrido, Illeira, de punta Tragrove a Rego do Alcalde,|A pé;|C.P. Cambados|||
+|Meloxo: de peirao de Meloxo a praia Lavandeira, Ardía: de punta Antarde a as Morrasas, Vilalonga-Dena-Castrelo: de punta Fianteira a punta de Couto de Abaixo, de punta Faxilda a punta Colmado, de punta San Vicente ao porto deportivo de Pedras Negras, de Con do Cavernal a punta das Pozas,|A pé;|C.P. O Grove|||
+|As Sinas, Con Grande, Carballas, Negrenlas,|MA;|C.P. Vilanova||-|
 
 
 
@@ -85,12 +73,9 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-
-1. De punta Insua a punta Uhía, KPOL MA; MSAS; C.P. Muros
-
-1. De punta Cabeiro a punta Magrío, de punta Castro a río Sieira, KPOL A pé; C.P. Porto do Son
-
-1. De punta Cabeiro a punta Magrío, de punta Castro a río Sieira, KPOL MA; MSAS; C.P. Porto do Son
+|De punta Insua a punta Uhía,|MA; MSAS;|C.P. Muros|||
+|De punta Cabeiro a punta Magrío, de punta Castro a río Sieira,|A pé;|C.P. Porto do Son|||
+|De punta Cabeiro a punta Magrío, de punta Castro a río Sieira,|MA; MSAS;|C.P. Porto do Son||-|
 
 
 
@@ -101,16 +86,11 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-
-1. De punta Gallada ás lagoas de Baldaio (excluídas); agás as praias de Laxe, as illas Sisargas, KPOL A pé; MA; MSAS; C.P. Camelle, C.P. Corme, C.P. Laxe, C.P. Malpica, (plan conxunto)
-
-1. De punta Arnela á desembocadura do río Xallas, KPOL A pé; C.P. Corcubión
-
-1. Da desembocadura do río Larada ata punta Insua, Excepto as praias de Cons, Larpa, Gavota, Ximprón Susiños, Surreseco, KPOL A pé; C.P. Lira
-
-1. Da desembocadura do río Larada a punta Insua, KPOL MSAS; C.P. Lira
-
-1. Praia de San Pedro, de punta do Portiño a praia de Cornabecerra; de as Pedras Mariñas a punta Caldebarcos, praias de Area Branca, Lires, O Rostro, Mar de Fóra, Arnela: (Praias de Cons, praia de Larpa, Gavota, Ximprón, Susiños, Surreseco, KPOL A pé; C.P. O Pindo
+|De punta Gallada ás lagoas de Baldaio (excluídas); agás as praias de Laxe, as illas Sisargas,|A pé; MA; MSAS;|C.P. Camelle, C.P. Corme, C.P. Laxe, C.P. Malpica, (plan conxunto)|||
+|De punta Arnela á desembocadura do río Xallas,|A pé;|C.P. Corcubión|||
+|Da desembocadura do río Larada ata punta Insua, Excepto as praias de Cons, Larpa, Gavota, Ximprón Susiños, Surreseco,|A pé;|C.P. Lira|||
+|Da desembocadura do río Larada a punta Insua,|MSAS;|C.P. Lira|||
+|Praia de San Pedro, de punta do Portiño a praia de Cornabecerra; de as Pedras Mariñas a punta Caldebarcos, praias de Area Branca, Lires, O Rostro, Mar de Fóra, Arnela: (Praias de Cons, praia de Larpa, Gavota, Ximprón, Susiños, Surreseco,|A pé;|C.P. O Pindo||-|
 
 
 
@@ -121,14 +101,10 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-
-1. Lagoa externa de Baldaio, KPOL A pé; A.M. Fonte Santa Helena-Baldaio
-
-1. Pedra do Sal, Leira campo de Futbol, Leira, de Leira a Caión, Caión praia da Salseira, Barrañán (o Relojero), Balcobo Pequeno: (de praia de Balcobo Pequeno a Pedra Herba,) Ripibello, Os Castelos, Praia de Sabón (A Térmica), Suevos: (de porto de Suevos a fábrica Artabra,) Bens: (praia da Refinería, illa Redonda,) O Portiño, Riazor-Orzan, San Amaro, Bastiagueiro Pequeno, KPOL A pé; MSAS; C.P. A Coruña
-
-1. Desde a ponte do tren a o faro de punta Frouxeira, KPOL MSAS; C.P. Ferrol
-
-1. Souto, Lombo de Castelo de Souto, río Láncara, Salinas, río Muerto, Lombo do Castelo do Pedrido, punta praia Xúrela, praia pequena de Miño (Cebado), praia pequena de Miño (Couce), Lombo de Espiñeira, Ponte do Porco, final de praia Grande, Seixas, río Bañobre, KPOL A pé; C.P. Miño
+|Lagoa externa de Baldaio,|A pé;|A.M. Fonte Santa Helena-Baldaio|||
+|Pedra do Sal, Leira campo de Futbol, Leira, de Leira a Caión, Caión praia da Salseira, Barrañán (o Relojero), Balcobo Pequeno: (de praia de Balcobo Pequeno a Pedra Herba,) Ripibello, Os Castelos, Praia de Sabón (A Térmica), Suevos: (de porto de Suevos a fábrica Artabra,) Bens: (praia da Refinería, illa Redonda,) O Portiño, Riazor-Orzan, San Amaro, Bastiagueiro Pequeno,|A pé; MSAS;|C.P. A Coruña|||
+|Desde a ponte do tren a o faro de punta Frouxeira,|MSAS;|C.P. Ferrol|||
+|Souto, Lombo de Castelo de Souto, río Láncara, Salinas, río Muerto, Lombo do Castelo do Pedrido, punta praia Xúrela, praia pequena de Miño (Cebado), praia pequena de Miño (Couce), Lombo de Espiñeira, Ponte do Porco, final de praia Grande, Seixas, río Bañobre,|A pé;|C.P. Miño||-|
 
 
 
