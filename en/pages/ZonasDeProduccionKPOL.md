@@ -31,6 +31,10 @@ __Zonas de producción no SIGREMAR:__
 
  _De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)_
 
+
+|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+
 1. De praia do Sinal a punta Vixía, KPOL MA; MSAS; C.P. Cangas
 
 1. A Portela: de Punta Monte Gordo a Punta do Socorro,; praia de Barra,; KPOL A pé; C.P. Redondela
@@ -46,6 +50,10 @@ __Zonas de producción no SIGREMAR:__
 
  _De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_
 
+
+|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+
 1. Praia Faxilda (ou Pociñas), praia de Prageira, praia de Bascuas, praia de Montalvo, praia Canelas, KPOL A pé; C.P. Portonovo
 
 1. Praias de Pampaido, Area da Adra, Praias das Areas, Praias de Nanín, Praias de Barreiro, Praias de Carabuxeira, Praias de Silgar, KPOL A pé; C.P. Sanxenxo
@@ -56,6 +64,10 @@ __Zonas de producción no SIGREMAR:__
 ## Ría de Arousa AR
 
  _De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_
+
+
+|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
 
 1. Saco de Fefiñáns, Pantalán, Fefiñáns, O Varal, Bebedeiros, Medio do Sarrido, Illeira, de punta Tragrove a Rego do Alcalde, KPOL A pé; C.P. Cambados
 
@@ -70,6 +82,10 @@ __Zonas de producción no SIGREMAR:__
 
  _De praia de Catia (42.261 N, 9.0554 W) ata punta Ínsua (42.771 N, 9.1266 W)_
 
+
+|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+
 1. De punta Insua a punta Uhía, KPOL MA; MSAS; C.P. Muros
 
 1. De punta Cabeiro a punta Magrío, de punta Castro a río Sieira, KPOL A pé; C.P. Porto do Son
@@ -81,6 +97,10 @@ __Zonas de producción no SIGREMAR:__
 ## Costa da Morte CM
 
  _De punta Ínsua (42.771 N, 9.1266 W) ata praia de Baldaio (43.292 N, 8.7016 W)_
+
+
+|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
 
 1. De punta Gallada ás lagoas de Baldaio (excluídas); agás as praias de Laxe, as illas Sisargas, KPOL A pé; MA; MSAS; C.P. Camelle, C.P. Corme, C.P. Laxe, C.P. Malpica, (plan conxunto)
 
@@ -98,6 +118,10 @@ __Zonas de producción no SIGREMAR:__
 
  _De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)_
 
+
+|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+
 1. Lagoa externa de Baldaio, KPOL A pé; A.M. Fonte Santa Helena-Baldaio
 
 1. Pedra do Sal, Leira campo de Futbol, Leira, de Leira a Caión, Caión praia da Salseira, Barrañán (o Relojero), Balcobo Pequeno: (de praia de Balcobo Pequeno a Pedra Herba,) Ripibello, Os Castelos, Praia de Sabón (A Térmica), Suevos: (de porto de Suevos a fábrica Artabra,) Bens: (praia da Refinería, illa Redonda,) O Portiño, Riazor-Orzan, San Amaro, Bastiagueiro Pequeno, KPOL A pé; MSAS; C.P. A Coruña
@@ -113,7 +137,10 @@ __Zonas de producción no SIGREMAR:__
 
   _De punta Frouxeira (43.62 N, 8.1893 W)  ata o rio EO (43.4721 N, 7.0566 W)_
 
-1. Bancos de Fondás, O Taro, KPOL A pé; A.M. San Cosme de Barreiros-Foz
+
+|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|---|---------|-------|----------|--------------|
+|Bancos de Fondás, O Taro,|A pé;|A.M. San Cosme de Barreiros-Foz||-|
 
 
 
