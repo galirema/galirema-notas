@@ -84,7 +84,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Morelo a punta Gallada,|MA; MSAS;|C.P. Camelle|||
+|De punta Morelo a punta Gallada,|MA; MSAS;|C.P. Camelle|2008198, 2014192, 2015193, 2016185, __2017182__, 2018184, 2019193,|(CM-117), (CM-118), (CM-119), (CM-120),|
 |Desde punta Arnela ata a desembocadura do río Xallas,|A pé;|C.P. Corcubión|||
 |De punta Xanleira ata punta Gallada|A pé;|C.P. Camariñas|||
 |De punta Chorente a punta Gallada|MA; MSAS;|C.P. Camariñas|||
@@ -103,7 +103,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Langosteira a Cabo Prioriño,|MSAS;|C.P. A Coruña, C.P. Sada, (plan conxunto)||-|
+|De punta Langosteira a Cabo Prioriño,|MSAS;|C.P. A Coruña, C.P. Sada, (plan conxunto)|2008195, 2015191, 2016184, __2017181__, 2018183, 2019192,|(CF-033), (CF-034), (CF-035-I), (CF-035-II), (CF-035-III),|
 
 
 
