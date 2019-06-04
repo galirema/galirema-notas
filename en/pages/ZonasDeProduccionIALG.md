@@ -33,8 +33,8 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Orelludas a punta dos Picos,|A pé;|C.P. A Guarda|||
-|De punta Orelludas a punta dos Picos, (zona marítima)|MA; MSAS;|C.P. A Guarda|||
+|De punta Orelludas a punta dos Picos,|A pé;|C.P. A Guarda|2008206, 2014197, 2015198, 2016191, __2017188__, 2018191, 2019201,|(VI-207),: (VI-408), (VI-409), (VI-410), (VI-415), (VI-417), (VI-419), (VI-420), (VI-422), (VI-425), (VI-431),|
+|De punta Orelludas a punta dos Picos, (zona marítima)|MA; MSAS;|C.P. A Guarda|2014196, 2015197, 2016190, __2017189__, 2018192, 2019202,|(VI-207),: (VI-454), (VI-455), (VI-456), (VI-457), (VI-458), (VI-459), (VI-460), (VI-461), (VI-462), (VI-463),|
 |De punta Orelludas á praia de Abra, (excluída)|A pé; MSAS;|C.P. Baiona|||
 |De punta de Alcabre a praia de Abra, (excluída), de punta Lagoa a praia de Arealonga, (excluída),|MA; MSAS; A pé;|C.P. Vigo|||
 |De petóns de Canaval a Rande|MA; MSAS;|C.P. Moaña||-|
