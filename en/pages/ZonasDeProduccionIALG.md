@@ -59,7 +59,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Salinas a punta Quilma, Areoso, Camallón, de punta Testos a punta Campelo, de punta Aguiúncho a punta Furado,|MA; MSAS;|C.P. A Illa de Arousa|||
+|De punta Salinas a punta Quilma, Areoso, Camallón, de punta Testos a punta Campelo, de punta Aguiúncho a punta Furado,|MA; MSAS;|C.P. A Illa de Arousa|2014195, 2015196, 2016189, __2017187__, 2018190, 2019200,|(AR-052), (AR-051), (AR-332), (AR-333), (AR-334), (AR-335), (AR-336-I), (AR-059), (AR-056-I), (AR-056-II), (AR-324-I), (AR-324-II), (AR-329),|
 |De Cantareira a punta Carreiro, de punta Carreiro a Barrosa, de Barrosa a Raeiros, de Capilla a punta Faxilda,|MSAS;|C.P. O Grove|||
 |Zonas de autorización C.P. Ribeira, as restantes zonas resolveranse nas resolucións de apertura,|MA; MSAS;|C.P. Ribeira||-|
 
@@ -89,8 +89,8 @@ __Zonas de producción no SIGREMAR:__
 |De punta Xanleira ata punta Gallada|A pé;|C.P. Camariñas|2008196, __2014191__, 2015192|De punta Xanleira ata punta Gallada|
 |De punta Chorente a punta Gallada|MA; MSAS;|C.P. Camariñas|2008197, __2014190__,|(CM-097), (CM-098),|
 |Desde a praia de Rostro a Punta Arnela,|MA; MSAS;|C.P. Fisterra|__2017184__, 2018186, 2019196,|(CM-147),|
-|De punta Insua a punta Larada,|A pé;|C.P. Lira|||
-|Da desembocadura do río Xallas á desembocadura do río Larada, pedras da costa, intermareal rochoso entre punta Arnela e Cabo Fisterra,|A pé;|C.P. O Pindo|||
+|De punta Insua a punta Larada,|A pé;|C.P. Lira|2008201,|De punta Insua a punta Larada,|
+|Da desembocadura do río Xallas á desembocadura do río Larada, pedras da costa, intermareal rochoso entre punta Arnela e Cabo Fisterra,|A pé;|C.P. O Pindo|__2017186__, 2018188, 2019198,|Da desembocadura do río Xallas á desembocadura do río Larada e pedras da costa,|
 |Litoral da provincia da Coruña,|A pé;|Mardelira, S. Coop. Galega|||
 |De punta Insua a cabo Fisterra|MA;|Merguladores de Fisterra, S. Coop. Galega||-|
 
@@ -114,7 +114,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Desde Ladrido ata a Praia de Esteiro|A pé;|C.P. Espasante||-|
+|Desde Ladrido ata a Praia de Esteiro|A pé;|C.P. Espasante|2008200, __2016187__,|Ladrido, Santa Eulalia, Céltigos, Loiba, Picón,|
 
 
 
