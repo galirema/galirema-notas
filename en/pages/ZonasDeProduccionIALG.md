@@ -72,8 +72,8 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Submareal rochoso entre punta Ínsua e punta Uhía,|MA; MSAS;|C.P. Muros|||
-|De punta Uhía a punta Insua|A pé;|C.P. Muros||-|
+|Submareal rochoso entre punta Ínsua e punta Uhía,|MA; MSAS;|C.P. Muros|2014194, 2015195, 2016188, __2017185__, 2018187, 2019197,|(MN-100-I), (MN-100-II), (MN-100-IIIa), (MN-100-IIIb), (MN-100-IV),|
+|De punta Uhía a punta Insua|A pé;|C.P. Muros|__2008202__,|De punta Uhía a punta Insua,|
 
 
 
@@ -87,8 +87,8 @@ __Zonas de producción no SIGREMAR:__
 |De punta Morelo a punta Gallada,|MA; MSAS;|C.P. Camelle|2008198, 2014192, 2015193, 2016185, __2017182__, 2018184, 2019193,|(CM-117), (CM-118), (CM-119), (CM-120),|
 |Desde punta Arnela ata a desembocadura do río Xallas,|A pé;|C.P. Corcubión|2008199, 2014193, 2015194, 2016186, _2017183_, __2018185__, 2019194,|_(CM-048), (CM-044),_; __(CM-049),__|
 |De punta Xanleira ata punta Gallada|A pé;|C.P. Camariñas|2008196, __2014191__, 2015192|De punta Xanleira ata punta Gallada|
-|De punta Chorente a punta Gallada|MA; MSAS;|C.P. Camariñas|||
-|Desde a praia de Rostro a Punta Arnela,|MA; MSAS;|C.P. Fisterra|||
+|De punta Chorente a punta Gallada|MA; MSAS;|C.P. Camariñas|2008197, __2014190__,|(CM-097), (CM-098),|
+|Desde a praia de Rostro a Punta Arnela,|MA; MSAS;|C.P. Fisterra|__2017184__, 2018186, 2019196,|(CM-147),|
 |De punta Insua a punta Larada,|A pé;|C.P. Lira|||
 |Da desembocadura do río Xallas á desembocadura do río Larada, pedras da costa, intermareal rochoso entre punta Arnela e Cabo Fisterra,|A pé;|C.P. O Pindo|||
 |Litoral da provincia da Coruña,|A pé;|Mardelira, S. Coop. Galega|||
