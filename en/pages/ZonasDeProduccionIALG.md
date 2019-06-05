@@ -93,7 +93,7 @@ __Zonas de producción no SIGREMAR:__
 |De punta Xanleira ata punta Gallada|A pé;|C.P. Camariñas|2008196, __2014191__, 2015192|De punta Xanleira ata punta Gallada|
 |De punta Chorente a punta Gallada|MA; MSAS;|C.P. Camariñas|2008197, __2014190__,|(CM-097), (CM-098),|
 |Desde a praia de Rostro a Punta Arnela,|MA; MSAS;|C.P. Fisterra|__2017184__, 2018186, 2019196,|(CM-147),|
-|De punta Insua a punta Larada,|A pé;|C.P. Lira|2008201,|De punta Insua a punta Larada,|
+|De punta Insua a punta Larada,|A pé;|C.P. Lira|__2008201__,|De punta Insua a punta Larada,|
 |Da desembocadura do río Xallas á desembocadura do río Larada, pedras da costa, intermareal rochoso entre punta Arnela e Cabo Fisterra,|A pé;|C.P. O Pindo|__2017186__, 2018188, 2019198,|Da desembocadura do río Xallas á desembocadura do río Larada e pedras da costa,|
 |Litoral da provincia da Coruña,|A pé;|Mardelira, S. Coop. Galega|__2008204__,|Litoral da provincia da Coruña,|
 |De punta Insua a cabo Fisterra|MA;|Merguladores de Fisterra, S. Coop. Galega|__2008205__,|De punta Insua a cabo Fisterra,|
