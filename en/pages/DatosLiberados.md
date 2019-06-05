@@ -14,7 +14,7 @@ En la Wiki asociada al proyecto [Galirema](https://github.com/galirema/galirema/
 
 Ir a la carpeta de los [datos](https://github.com/galirema/galirema/tree/master/Data)
 
-* 2017/10/18 Plan de explotación del año 2017
-* 2018/03/13 Plan de explotación y específicos del año 2018
-* 2019/04/15 Plan de explotación y específicos del año 2019
+* 2017/10/18 __Plan de explotación del año 2017__.
+* 2018/03/13 __Plan de explotación y específicos del año 2018__.
+* 2019/04/15 __Plan de explotación y específicos del año 2019__.
 
