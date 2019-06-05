@@ -36,8 +36,8 @@ __Zonas de producción no SIGREMAR:__
 |De punta Orelludas a punta dos Picos,|A pé;|C.P. A Guarda|2008206, 2014197, 2015198, 2016191, __2017188__, 2018191, 2019201,|(VI-207),: (VI-408), (VI-409), (VI-410), (VI-415), (VI-417), (VI-419), (VI-420), (VI-422), (VI-425), (VI-431),|
 |De punta Orelludas a punta dos Picos, (zona marítima)|MA; MSAS;|C.P. A Guarda|2014196, 2015197, 2016190, __2017189__, 2018192, 2019202,|(VI-207),: (VI-454), (VI-455), (VI-456), (VI-457), (VI-458), (VI-459), (VI-460), (VI-461), (VI-462), (VI-463),|
 |De punta Orelludas á praia de Abra, (excluída)|A pé; MSAS;|C.P. Baiona|2014199, 2015200, 2016193, 2017191, 2018194, __2019204__,|(VI-574),: de Praia da Abra (excluída) ata cabo Silleiro, (embarcadoiro de Carral): (VI-575), (VI-576), (VI-577), (VI-578), De embarcadoiro de Carral a punta Centinela, De punta Centinela a punta Orelludas,|
-|De punta de Alcabre a praia de Abra, (excluída), de punta Lagoa a praia de Arealonga, (excluída),|MA; MSAS; A pé;|C.P. Vigo|||
-|De petóns de Canaval a Rande|MA; MSAS;|C.P. Moaña||-|
+|De punta de Alcabre a praia de Abra, (excluída), de punta Lagoa a praia de Arealonga, (excluída),|MA; MSAS; A pé;|C.P. Vigo|2014203, 2015203, 2016196, __2017195__, 2018199, 2019209,|De punta Lagoa a praia de Area Longa (excluída), de pta alcabre a praia de Abra (excluida),|
+|De petóns de Canaval a Rande|MA; MSAS;|C.P. Moaña|__2014202__,|Rande, Tella, Costal Domaio, A Borna, Arroás, Tirán,|
 
 
 ## Ría de Pontevedra PO
@@ -48,7 +48,7 @@ __Zonas de producción no SIGREMAR:__
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |De punta Couso a punta Preguntoiro, cara ao interior da ría,|MA; MSAS;|C.P. Aldán-O Hio|2008207, 2014198, 2015199, 2016192, __2017190__, 2018193, 2019203,|de Punta Couso a Punta Corveira, de Punta Corveira a Punta Testada, de Punta Testada a ó Francón, do Francón a Punta Preguntoiro,|
-|Interior das liñas imaxinarias de punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Preguntoiro, Cara oeste das illas Ons e Onza,|MSAS;|C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Raxó, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto)||-|
+|Interior das liñas imaxinarias de punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Preguntoiro, Cara oeste das illas Ons e Onza,|MSAS;|C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Raxó, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto)|2008209, 2014200, 2015201, 2016194, __2017192__, 2018195,|de punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Preguntoiro, Cara oeste das illas Ons e Onza,|
 
 
 
@@ -60,8 +60,8 @@ __Zonas de producción no SIGREMAR:__
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |De punta Salinas a punta Quilma, Areoso, Camallón, de punta Testos a punta Campelo, de punta Aguiúncho a punta Furado,|MA; MSAS;|C.P. A Illa de Arousa|2014195, 2015196, 2016189, __2017187__, 2018190, 2019200,|(AR-052), (AR-051), (AR-332), (AR-333), (AR-334), (AR-335), (AR-336-I), (AR-059), (AR-056-I), (AR-056-II), (AR-324-I), (AR-324-II), (AR-329),|
-|De Cantareira a punta Carreiro, de punta Carreiro a Barrosa, de Barrosa a Raeiros, de Capilla a punta Faxilda,|MSAS;|C.P. O Grove|||
-|Zonas de autorización C.P. Ribeira, as restantes zonas resolveranse nas resolucións de apertura,|MA; MSAS;|C.P. Ribeira||-|
+|De Cantareira a punta Carreiro, de punta Carreiro a Barrosa, de Barrosa a Raeiros, de Capilla a punta Faxilda,|MSAS;|C.P. O Grove|2008208, __2017194__, 2018198, 2019208,|A cantareira, Rons, Carreiro, Castiñeira, Con Negro, A Bateria, As Redondas, Barrosa, Espiño, Paxareiros, Raeiros, Capilla, Foxos, Corbeiro,|
+|Zonas de autorización C.P. Ribeira, as restantes zonas resolveranse nas resolucións de apertura,|MA; MSAS;|C.P. Ribeira|__2008203__,|autorización C.P. Ribeira,|
 
 
 
@@ -91,8 +91,8 @@ __Zonas de producción no SIGREMAR:__
 |Desde a praia de Rostro a Punta Arnela,|MA; MSAS;|C.P. Fisterra|__2017184__, 2018186, 2019196,|(CM-147),|
 |De punta Insua a punta Larada,|A pé;|C.P. Lira|2008201,|De punta Insua a punta Larada,|
 |Da desembocadura do río Xallas á desembocadura do río Larada, pedras da costa, intermareal rochoso entre punta Arnela e Cabo Fisterra,|A pé;|C.P. O Pindo|__2017186__, 2018188, 2019198,|Da desembocadura do río Xallas á desembocadura do río Larada e pedras da costa,|
-|Litoral da provincia da Coruña,|A pé;|Mardelira, S. Coop. Galega|||
-|De punta Insua a cabo Fisterra|MA;|Merguladores de Fisterra, S. Coop. Galega||-|
+|Litoral da provincia da Coruña,|A pé;|Mardelira, S. Coop. Galega|__2008204__,|Litoral da provincia da Coruña,|
+|De punta Insua a cabo Fisterra|MA;|Merguladores de Fisterra, S. Coop. Galega|__2008205__,|De punta Insua a cabo Fisterra,|
 
 
 
@@ -104,6 +104,7 @@ __Zonas de producción no SIGREMAR:__
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |De punta Langosteira a Cabo Prioriño,|MSAS;|C.P. A Coruña, C.P. Sada, (plan conxunto)|2008195, 2015191, 2016184, __2017181__, 2018183, 2019192,|(CF-033), (CF-034), (CF-035-I), (CF-035-II), (CF-035-III),|
+|De punta San Carlos ata a praia de Cariño,|MA; MSAS;|C.P. Ferrol|__2019195__,|De punta San Carlos ata a praia de Cariño,|
 
 
 
