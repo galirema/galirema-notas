@@ -131,6 +131,7 @@ __Zonas de producción no SIGREMAR:__
 |Intermareal de punta Uhía a punta Remedios,|A pé;|Mª Carmen Sánchez Sánchez|__2017180__, 2018182, 2019191,|Intermareal de punta Uhía a punta Remedios,|
 |De punta Chirlateira a punta Langosteira (agás ámbito Remip Ría de Cedeira). De Lires a Cabo Cee|A pé;|Central Galaica de Plantas Medicinais|2008194, 2014185, 2015186, 2016183,|Litoral de punta Chirlateira a punta Langosteira, Zonas rochosas intermareais,|
 |Litoral de Galicia, agás ámbito das reservas mariñas de interese pesqueiro e o Parque Nacional das Illas Atlánticas|A pé;|Conservas e Ahumados LOU,S.L.|2008192, 2014187, 2015188,|Litoral de Galicia, agás o ámbito das reservas mariñas de interese pesqueiro e o Parque Nacional das Illas Atlánticas. Zonas rochosas intermareais;|
+|De punta de Moreira a punta Con da Aguieira, de praia da Concheira a punta Fornos,|A pé;|HQ Seaweed S.L.|2018189, __2019199__,|O GROVE (Zona III): De punta do Naval a punta do Campelo, De punta do Campelo a punta de Barbafeita, De punta de Barbafeita a punta Niño do Corvo, De punta Ouriceira a punta Quilma, De punta Cantodorxo ao Peirao de Meloxo,; RÍA DE VIGO (Zona I): De punta Robaleira a praia de Barra, De Praia de Nerga a Praia de Liméns, De Praia de Liméns a punta Borneira, De Praia de Rodeira a punta Cortés, De Praia da Borna a punta Domaio,;|
 
 
 
