@@ -38,6 +38,8 @@ __Zonas de producción no SIGREMAR:__
 |De punta Orelludas á praia de Abra, (excluída)|A pé; MSAS;|C.P. Baiona|2014199, 2015200, 2016193, 2017191, 2018194, __2019204__,|(VI-574),: de Praia da Abra (excluída) ata cabo Silleiro, (embarcadoiro de Carral): (VI-575), (VI-576), (VI-577), (VI-578), De embarcadoiro de Carral a punta Centinela, De punta Centinela a punta Orelludas,|
 |De punta de Alcabre a praia de Abra, (excluída), de punta Lagoa a praia de Arealonga, (excluída),|MA; MSAS; A pé;|C.P. Vigo|2014203, 2015203, 2016196, __2017195__, 2018199, 2019209,|De punta Lagoa a praia de Area Longa (excluída), de pta alcabre a praia de Abra (excluida),|
 |De petóns de Canaval a Rande|MA; MSAS;|C.P. Moaña|__2014202__,|Rande, Tella, Costal Domaio, A Borna, Arroás, Tirán,|
+|De praia Masso a praia Areamilla,|A pé;|C.P. Cangas|__2018196__, 2019206,|De praia Massó a praia Areamilla,|
+|De praia Canabal a punta Couso,|MSAS;|C.P. Cangas|__2018197__, 2019207,|(VI-521-I), (VI-521-II), (VI-522), (VI-541), (VI-542), (VI-526), (VI-527), (VI-528), (VI-529), (VI-530-I), (VI-530-II), (VI-532), (VI-545), (VI-544), (VI-533),|
 
 
 ## Ría de Pontevedra PO
@@ -62,6 +64,8 @@ __Zonas de producción no SIGREMAR:__
 |De punta Salinas a punta Quilma, Areoso, Camallón, de punta Testos a punta Campelo, de punta Aguiúncho a punta Furado,|MA; MSAS;|C.P. A Illa de Arousa|2014195, 2015196, 2016189, __2017187__, 2018190, 2019200,|(AR-052), (AR-051), (AR-332), (AR-333), (AR-334), (AR-335), (AR-336-I), (AR-059), (AR-056-I), (AR-056-II), (AR-324-I), (AR-324-II), (AR-329),|
 |De Cantareira a punta Carreiro, de punta Carreiro a Barrosa, de Barrosa a Raeiros, de Capilla a punta Faxilda,|MSAS;|C.P. O Grove|2008208, __2017194__, 2018198, 2019208,|A cantareira, Rons, Carreiro, Castiñeira, Con Negro, A Bateria, As Redondas, Barrosa, Espiño, Paxareiros, Raeiros, Capilla, Foxos, Corbeiro,|
 |Zonas de autorización C.P. Ribeira, as restantes zonas resolveranse nas resolucións de apertura,|MA; MSAS;|C.P. Ribeira|__2008203__,|autorización C.P. Ribeira,|
+|O Galiñeiro, Meloxo, San Miguel-Tragove,|MSAS;|C.P. Cambados|__2019205__,|As Negreiriñas, Casueiras, rochas na zona do banco de marisqueo a flote, dende San Miguel ata a punta de Tragove,|
+|Con de Portugal, Sinás de Fora, Con Pequeno, espigón do porto de Vilanova,|MA; MSAS;|C.P. Vilanova|2018200, 2019210,|Con de Portugal, Sinás de Fora, Con pequeño, Espigón do porto,|
 
 
 
