@@ -91,8 +91,8 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Langosteira a punta Miranda,|MSAS;|C.P. A Coruña, C.P. Barallobre, (plan conxunto)|||
-|De punta San Carlos a punta Frouxeira,|MSAS;|C.P. Ferrol||-|
+|De punta Langosteira a punta Miranda,|MSAS;|C.P. A Coruña, C.P. Barallobre, (plan conxunto)|2014206, 2015204, 2016197, 2017196, __2018202__, 2019215,|de punta Langosteira ás illas de San Pedro, (CF-321), (CF-322), (CF-323), (CF-324),|
+|De punta San Carlos a punta Frouxeira,|MSAS;|C.P. Ferrol|2015205, 2016198, 2017197, __2018203__, 2019217,|(CF-141), (CF-137),|
 
 
 
@@ -103,8 +103,8 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De ermida de San Tirso a punta Cabalo (intermareal)|A pé;|C.P. Celeiro|||
-|De punta Pena Furada, ermida de San Tirso ata punta Rueta,|MSAS;|C.P. O Vicedo, C.P. Celeiro, C.P. San Cibrao, (plan conxunto)||-|
+|De ermida de San Tirso a punta Cabalo (intermareal)|A pé;|C.P. Celeiro|__2014204__,|(CL-127), (CL-128), (CL-129),|
+|De punta Pena Furada, ermida de San Tirso ata punta Rueta,|MSAS;|C.P. O Vicedo, C.P. Celeiro, C.P. San Cibrao, (plan conxunto)|__2014205__,|De punta Pena Furada, ermida de San Tirso ata punta Rueta,|
 
 
 
