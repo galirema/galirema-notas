@@ -34,8 +34,8 @@ __Zonas de producción no SIGREMAR:__
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |De punta Orelluda a Punta dos Picos,|A pé;|C.P. A Guarda|2015206, 2016199, __2017198__, 2018204, 2019219,|(VI-207),: (VI-251), (VI-252), (VI-253), (VI-254), (VI-255),|
-|De punta Orelluda a punta Santa Marta, desde a desembocadura do río Miñor a praia de Portocelo,|A pé; MA; MSAS;|C.P. Baiona|||
-|De punta Balea ao extremo leste da praia de Liméns, (incluíndo o faro da Borneira, illote Corbeiro,) do extremo oeste da praia de Liméns ao extremo leste da praia de Barra, do extremo oeste da praia de Barra ata punta Robaleira, de punta Balea a punta Rodeira,|MA; MSAS;|C.P. Cangas|||
+|De punta Orelluda a punta Santa Marta, desde a desembocadura do río Miñor a praia de Portocelo,|A pé; MA; MSAS;|C.P. Baiona|2016202, 2017201, 2018207, 2019222,|De praia de Portocelo á desembocadura do río Miñor, de punta Santa Marta ata cabo Silleiro, De cabo Silleiro ata punta Centinela, De punta Centinela a punta Orelludas,|
+|De punta Balea ao extremo leste da praia de Liméns, (incluíndo o faro da Borneira, illote Corbeiro,) do extremo oeste da praia de Liméns ao extremo leste da praia de Barra, do extremo oeste da praia de Barra ata punta Robaleira, de punta Balea a punta Rodeira,|MA; MSAS;|C.P. Cangas|2014208, 2015209, 2016203, 2017202, 2018208, 2019223,|de punta Balea ao extremo leste da praia de Liméns (incluíndo o faro da Borneira e Illote Corbeiro,), do extremo oeste da praia de Liméns ao extremo leste da praia de Barra, do extremo oeste da praia de Barra ata punta Robaleira, de punta Balea a punta Rodeira,|
 |De punta Alcabre a praia de Abra, (excluída), De punta Lagoa a praia de Arealonga, (excluida),|MA; MSAS;|C.P. Vigo||-|
 
 
