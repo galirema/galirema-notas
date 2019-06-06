@@ -58,7 +58,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De Sapeiras de Terra ata punta Salinas, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo,|MA; MSAS;|C.P. A Illa de Arousa|||
+|De Sapeiras de Terra ata punta Salinas, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo,|MA; MSAS;|C.P. A Illa de Arousa|2014207, 2015208, 2016201, 2017200, 2018206, 2019221,|(AR-333), (AR-332), (AR-334), (AR-050), (AR-058), (AR-049), (AR-059), (AR-056-I), (AR-056-II), (AR-324-I), (AR-324-II), (AR-052), (AR-051),|
 |De punta Moreira ata punta Area das Pipas, de praia Barrosa a punta Raeiros,|MSAS;|C.P. O Grove||-|
 
 
