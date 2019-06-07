@@ -86,8 +86,8 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De punta Gallada ás lagoas de Baldaio (excluídas); agás as praias de Laxe, as illas Sisargas,|A pé; MA; MSAS;|C.P. Camelle, C.P. Corme, C.P. Laxe, C.P. Malpica, (plan conxunto)|||
-|De punta Arnela á desembocadura do río Xallas,|A pé;|C.P. Corcubión|||
+|De punta Gallada ás lagoas de Baldaio (excluídas); agás as praias de Laxe, as illas Sisargas,|A pé; MA; MSAS;|C.P. Camelle, C.P. Corme, C.P. Laxe, C.P. Malpica, (plan conxunto)|__2017208__, 2018214, 2019229|(CM-157), (CM-160), (CM-161), (CM-162), (CM-163), (CM-187), (CM-188), (CM-189), (CM-190), (CM-191), (CM-192), (CM-193), (CM-194), (CM-195), (CM-196), (CM-197), (CM-198), (CM-230), (CM-231), (CM-232, (CM-233), (CM-234),; (CM-154), (CM-199)), (CM-200), (CM-235),; (CM-153), (CM-155), (CM-156), (CM-158), (CM-159), (CM-178), (CM-179), (CM-180), (CM-181), (CM-182), (CM-183), (CM-184), (CM-185), (CM-186), (CM-223), (CM-224), (CM-225), (CM-226), (CM-227),; (CM-164), (CM-165), (CM-166), (CM-167), (CM-168), (CM-169), (CM-170), (CM-201), (CM-202), (CM-203), (CM-204), (CM-205), (CM-206), (CM-207), (CM-208), (CM-209), (CM-210), (CM-211), (CM-212), (CM-213), (CM-214), (CM-215), (CM-216), (CM-217), (CM-218), (CM-219), (CM-220), (CM-221), (CM-222), (CM-236), (CM-237), (CM-238), (CM-239),|
+|De punta Arnela á desembocadura do río Xallas,|A pé;|C.P. Corcubión|__2017209__, 2018215,|dende Punta Arnela ata a desembocadura do río Xallas,|
 |Da desembocadura do río Larada ata punta Insua, Excepto as praias de Cons, Larpa, Gavota, Ximprón Susiños, Surreseco,|A pé;|C.P. Lira|||
 |Da desembocadura do río Larada a punta Insua,|MSAS;|C.P. Lira|||
 |Praia de San Pedro, de punta do Portiño a praia de Cornabecerra; de as Pedras Mariñas a punta Caldebarcos, praias de Area Branca, Lires, O Rostro, Mar de Fóra, Arnela: (Praias de Cons, praia de Larpa, Gavota, Ximprón, Susiños, Surreseco,|A pé;|C.P. O Pindo||-|
@@ -101,8 +101,8 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Lagoa externa de Baldaio,|A pé;|A.M. Fonte Santa Helena-Baldaio|||
-|Pedra do Sal, Leira campo de Futbol, Leira, de Leira a Caión, Caión praia da Salseira, Barrañán (o Relojero), Balcobo Pequeno: (de praia de Balcobo Pequeno a Pedra Herba,) Ripibello, Os Castelos, Praia de Sabón (A Térmica), Suevos: (de porto de Suevos a fábrica Artabra,) Bens: (praia da Refinería, illa Redonda,) O Portiño, Riazor-Orzan, San Amaro, Bastiagueiro Pequeno,|A pé; MSAS;|C.P. A Coruña|||
+|Lagoa externa de Baldaio,|A pé;|A.M. Fonte Santa Helena-Baldaio|__2017206__, 2018212, 2019227,|(CF-047), (CF-048), (CF-049),|
+|Pedra do Sal, Leira campo de Futbol, Leira, de Leira a Caión, Caión praia da Salseira, Barrañán (o Relojero), Balcobo Pequeno: (de praia de Balcobo Pequeno a Pedra Herba,) Ripibello, Os Castelos, Praia de Sabón (A Térmica), Suevos: (de porto de Suevos a fábrica Artabra,) Bens: (praia da Refinería, illa Redonda,) O Portiño, Riazor-Orzan, San Amaro, Bastiagueiro Pequeno,|A pé; MSAS;|C.P. A Coruña|__2017207__, 2018213, 2019228,|(CF-053), (CF-054), (CF-055), (CF-057), (CF-056), (CF-058), (CF-059), (CF-060), (CF-061), (CF-062), (CF-066), (CF-066), (CF-067), (CF-069), (CF-070), (CF-071), (CF-072), (CF-073), (CF-XX0), (CF-XX1), (CF-075), (CF-076), (CF-077), (CF-078), (CF-063), (CF-064),|
 |Desde a ponte do tren a o faro de punta Frouxeira,|MSAS;|C.P. Ferrol|||
 |Souto, Lombo de Castelo de Souto, río Láncara, Salinas, río Muerto, Lombo do Castelo do Pedrido, punta praia Xúrela, praia pequena de Miño (Cebado), praia pequena de Miño (Couce), Lombo de Espiñeira, Ponte do Porco, final de praia Grande, Seixas, río Bañobre,|A pé;|C.P. Miño||-|
 
@@ -116,7 +116,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Bancos de Fondás, O Taro,|A pé;|A.M. San Cosme de Barreiros-Foz||-|
+|Bancos de Fondás, O Taro,|A pé;|A.M. San Cosme de Barreiros-Foz|__2017205__, 2018211, 2019226,|(CL-166), (CL-169),|
 
 
 
