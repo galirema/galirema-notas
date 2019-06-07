@@ -34,7 +34,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|De praia do Sinal a punta Vixía,|MA; MSAS;|C.P. Cangas|||
+|De praia do Sinal a punta Vixía,|MA; MSAS;|C.P. Cangas|__2017219__, 2018227, 2019239,|de punta Vixía ao río de Barra, de punta Creixiña á praia de Liméns (excluída), dende a praia de Liméns (excluída) á praia do Sinal,|
 |A Portela: de Punta Monte Gordo a Punta do Socorro,; praia de Barra,;|A pé;|C.P. Redondela|||
 |Bancos intermareais de o puntal da Serra a praia de Arealonga (excluída),|A pé;|C.P. Vigo|||
 |Cabalo, Deilán, Río Maior, San Adrián (norte),|A pé;|C.P. Vilaboa||-|
@@ -60,8 +60,8 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Saco de Fefiñáns, Pantalán, Fefiñáns, O Varal, Bebedeiros, Medio do Sarrido, Illeira, de punta Tragrove a Rego do Alcalde,|A pé;|C.P. Cambados|||
-|Meloxo: de peirao de Meloxo a praia Lavandeira, Ardía: de punta Antarde a as Morrasas, Vilalonga-Dena-Castrelo: de punta Fianteira a punta de Couto de Abaixo, de punta Faxilda a punta Colmado, de punta San Vicente ao porto deportivo de Pedras Negras, de Con do Cavernal a punta das Pozas,|A pé;|C.P. O Grove|||
+|Saco de Fefiñáns, Pantalán, Fefiñáns, O Varal, Bebedeiros, Medio do Sarrido, Illeira, de punta Tragrove a Rego do Alcalde,|A pé;|C.P. Cambados|__2017218__, 2018226, 2019238,|(AR-015), (AR-013), (AR-012), (AR-011), (AR-011), (AR-217),|
+|Meloxo: de peirao de Meloxo a praia Lavandeira, Ardía: de punta Antarde a as Morrasas, Vilalonga-Dena-Castrelo: de punta Fianteira a punta de Couto de Abaixo, de punta Faxilda a punta Colmado, de punta San Vicente ao porto deportivo de Pedras Negras, de Con do Cavernal a punta das Pozas,|A pé;|C.P. O Grove|__2017220__, 2018228, 2019240,|punta Antarde e as Morrasas, entre punta Fianteira e punta de Couto de Abaixo, de punta Faxilda e punta Colmado, entre punta San Vicente e o porto deportivo de Pedras Negras, entre Con do Cavernal e punta das Pozas,|
 |As Sinas, Con Grande, Carballas, Negrenlas,|MA;|C.P. Vilanova||-|
 
 
