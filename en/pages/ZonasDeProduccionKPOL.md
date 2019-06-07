@@ -48,7 +48,7 @@ __Zonas de producción no SIGREMAR:__
 
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
-|Praia Faxilda (ou Pociñas), praia de Prageira, praia de Bascuas, praia de Montalvo, praia Canelas,|A pé;|C.P. Portonovo|||
+|Praia Faxilda (ou Pociñas), praia de Prageira, praia de Bascuas, praia de Montalvo, praia Canelas,|A pé;|C.P. Portonovo|__2017221__, 2018229, 2019241,|praia Faxilda, praia de Pragueira, praia de Bascuas, praia de Montalvo, praia Canelas,|
 |Praias de Pampaido, Area da Adra, Praias das Areas, Praias de Nanín, Praias de Barreiro, Praias de Carabuxeira, Praias de Silgar,|A pé;|C.P. Sanxenxo||-|
 
 
