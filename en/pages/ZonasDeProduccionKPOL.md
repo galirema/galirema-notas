@@ -103,7 +103,7 @@ __Zonas de producción no SIGREMAR:__
 |---|---------|-------|----------|--------------|
 |Lagoa externa de Baldaio,|A pé;|A.M. Fonte Santa Helena-Baldaio|__2017206__, 2018212, 2019227,|(CF-047), (CF-048), (CF-049),|
 |Pedra do Sal, Leira campo de Futbol, Leira, de Leira a Caión, Caión praia da Salseira, Barrañán (o Relojero), Balcobo Pequeno: (de praia de Balcobo Pequeno a Pedra Herba,) Ripibello, Os Castelos, Praia de Sabón (A Térmica), Suevos: (de porto de Suevos a fábrica Artabra,) Bens: (praia da Refinería, illa Redonda,) O Portiño, Riazor-Orzan, San Amaro, Bastiagueiro Pequeno,|A pé; MSAS;|C.P. A Coruña|__2017207__, 2018213, 2019228,|(CF-053), (CF-054), (CF-055), (CF-057), (CF-056), (CF-058), (CF-059), (CF-060), (CF-061), (CF-062), (CF-066), (CF-066), (CF-067), (CF-069), (CF-070), (CF-071), (CF-072), (CF-073), (CF-XX0), (CF-XX1), (CF-075), (CF-076), (CF-077), (CF-078), (CF-063), (CF-064),|
-|Desde a ponte do tren a o faro de punta Frouxeira,|MSAS;|C.P. Ferrol|||
+|Desde a ponte do tren a o faro de punta Frouxeira,|MSAS;|C.P. Ferrol|__2017210__, 2018217,|dende a ponte do ferrocarril ata cabo Prioriño Grande,; dende Prioriño Grande ata cabo Prior: praia de San Xurxo,; dende cabo Prior ata o faro de punta Frouxeira: praias de Santa Comba, Sartaña e Covas,|
 |Souto, Lombo de Castelo de Souto, río Láncara, Salinas, río Muerto, Lombo do Castelo do Pedrido, punta praia Xúrela, praia pequena de Miño (Cebado), praia pequena de Miño (Couce), Lombo de Espiñeira, Ponte do Porco, final de praia Grande, Seixas, río Bañobre,|A pé;|C.P. Miño||-|
 
 
