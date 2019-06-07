@@ -74,8 +74,8 @@ __Zonas de producción no SIGREMAR:__
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |De punta Insua a punta Uhía,|MA; MSAS;|C.P. Muros|__2017214__, 2018221, 2019233,|(MN-101-I), (MN-101-II), (MN-101-IIIa), (MN-101-IIIb), (MN-101-IV),|
-|De punta Cabeiro a punta Magrío, de punta Castro a río Sieira,|A pé;|C.P. Porto do Son|||
-|De punta Cabeiro a punta Magrío, de punta Castro a río Sieira,|MA; MSAS;|C.P. Porto do Son||-|
+|De punta Cabeiro a punta Magrío, de punta Castro a río Sieira,|A pé;|C.P. Porto do Son|__2017216__, 2018223, 2019235,|(MN-088-I), (MN-088-II), (MN-090-I), (MN-091-I), (MN-092-I), (MN-093-I), (MN-094-I), (MN-095-I), (MN-096-I),|
+|De punta Cabeiro a punta Magrío, de punta Castro a río Sieira,|MA; MSAS;|C.P. Porto do Son|__2017217__, 2018224, 2019236,|(MN-089-II), (MN-089-II), (MN-091-II), (MN-092-II), (MN-093-II), (MN-094-II), (MN-095-II), (MN-096-II),|
 
 
 
