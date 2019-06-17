@@ -35,7 +35,7 @@ __Zonas de producción no SIGREMAR:__
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |De praia do Sinal a punta Vixía,|MA; MSAS;|C.P. Cangas|__2017219__, 2018227, 2019239,|de punta Vixía ao río de Barra, de punta Creixiña á praia de Liméns (excluída), dende a praia de Liméns (excluída) á praia do Sinal,|
-|A Portela: de Punta Monte Gordo a Punta do Socorro,; praia de Barra,;|A pé;|C.P. Redondela|||
+|A Portela: de Punta Monte Gordo a Punta do Socorro,; praia de Barra,;|A pé;|C.P. Redondela|2017222, 2018230, __2019242__,|(VI-132), (VI-133), (VI-134-I), (VI-134-II), (VI-256),|
 |Bancos intermareais de o puntal da Serra a praia de Arealonga (excluída),|A pé;|C.P. Vigo|||
 |Cabalo, Deilán, Río Maior, San Adrián (norte),|A pé;|C.P. Vilaboa||-|
 
@@ -49,7 +49,7 @@ __Zonas de producción no SIGREMAR:__
 |AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |---|---------|-------|----------|--------------|
 |Praia Faxilda (ou Pociñas), praia de Prageira, praia de Bascuas, praia de Montalvo, praia Canelas,|A pé;|C.P. Portonovo|__2017221__, 2018229, 2019241,|praia Faxilda, praia de Pragueira, praia de Bascuas, praia de Montalvo, praia Canelas,|
-|Praias de Pampaido, Area da Adra, Praias das Areas, Praias de Nanín, Praias de Barreiro, Praias de Carabuxeira, Praias de Silgar,|A pé;|C.P. Sanxenxo||-|
+|Praias de Pampaido, Area da Adra, Praias das Areas, Praias de Nanín, Praias de Barreiro, Praias de Carabuxeira, Praias de Silgar,|A pé;|C.P. Sanxenxo|2017223, 2018231, __2019243__,|(PO-220), (PO-221), (PO-222), (PO-223), (PO-224), (PO-225), (PO-226),|
 
 
 
