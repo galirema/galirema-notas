@@ -50,6 +50,7 @@ __Zonas de producción no SIGREMAR:__
 |---|---------|-------|----------|--------------|
 |Praia Faxilda (ou Pociñas), praia de Prageira, praia de Bascuas, praia de Montalvo, praia Canelas,|A pé;|C.P. Portonovo|__2017221__, 2018229, 2019241,|praia Faxilda, praia de Pragueira, praia de Bascuas, praia de Montalvo, praia Canelas,|
 |Praias de Pampaido, Area da Adra, Praias das Areas, Praias de Nanín, Praias de Barreiro, Praias de Carabuxeira, Praias de Silgar,|A pé;|C.P. Sanxenxo|2017223, 2018231, __2019243__,|(PO-220), (PO-221), (PO-222), (PO-223), (PO-224), (PO-225), (PO-226),|
+|De punta Couso a punta Morcegos cara ao interior da ría de Aldán,|A pé;|C.P. Aldán-O Hio|__2018225__, 2019237,|(PO-166), (PO-167),|
 
 
 
@@ -91,10 +92,11 @@ __Zonas de producción no SIGREMAR:__
 |Da desembocadura do río Larada ata punta Insua, Excepto as praias de Cons, Larpa, Gavota, Ximprón Susiños, Surreseco,|A pé;|C.P. Lira|__2017211__, 2018218, 2019230,|da boca do río a Maceiras, praia da lagoa e lagoa de Carrofeito,; de Maceiras (S da praia de Carnota) á esquina do campo de fútbol, incluíndo a praia de Portocubelo,; da esquina do campo de fútbol a O Curro,; de O Curro ata punta Raposeiros (Lombo da Campa), Dende Lombo da Campa ata punta Insua, Excepto praias de Cons, Larpa, Gavota, Ximprón Susiños e Surreseco,; Dentro da REMIP, praia da lagoa e lagoa de Carrofeito, praias de Caxido, Cancelo, Mar de Lira,praias de porto de Barca, porto Balea, praia de Ardeleiro,;|
 |Da desembocadura do río Larada a punta Insua,|MSAS;|C.P. Lira|2017212, __2018219__, 2019231,|da boca do río a Maceiras, praia da Lagoa, Lagoa de Carrofeito,; de Maceiras (S da praia de Carnota) á esquina do campo de fútbol, praia de Portocubelo, praias de Caxido, Cancelo,  Mar de Lira,; da esquina do campo de fútbol a O Curro, praias de porto da Barca, porto Balea,; de O Curro ata punta Raposeiros, Lombo da Campa, praia de Ardeleiro,; Fóra da REMIP: Dende Lombo da Campa ata punta Insua,;|
 |Praia de San Pedro, de punta do Portiño a praia de Cornabecerra; de as Pedras Mariñas a punta Caldebarcos, praias de Area Branca, Lires, O Rostro, Mar de Fóra, Arnela: (Praias de Cons, praia de Larpa, Gavota, Ximprón, Susiños, Surreseco,|A pé;|C.P. O Pindo|__2017215__, 2018222, 2019234,|(CM-101), (CM-107), (CM-039), (CM-040), (CM-041), entre as pedras Mariñas e Punta Caldebarcos,; -No ámbito de Fisterra: (CM-172), (CM-173), (CM-175), (CM-174),; No ámbito de Lira, Dentro da REMIP: zonas de Cons, Larpa, Gavota, Ximprón, praia de Susiños,; Fóra da REMIP:  praia de Surreseco,|
+|De punta Arnela á desembocadura do río Xallas,|MA; MSAS; C.P. Corcubión|__2018216__,|Fornelos, Brens-Quenxe, Castillos, Caneliñas, Gurés, Ézaro, Illas Lobeiras,|
 
 
 
-## Coruña-Ferrol CF
+## Coruña-Ferrol CF|
 
  _De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)_
 
