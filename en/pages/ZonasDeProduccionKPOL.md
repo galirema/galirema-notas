@@ -36,8 +36,8 @@ __Zonas de producción no SIGREMAR:__
 |---|---------|-------|----------|--------------|
 |De praia do Sinal a punta Vixía,|MA; MSAS;|C.P. Cangas|__2017219__, 2018227, 2019239,|de punta Vixía ao río de Barra, de punta Creixiña á praia de Liméns (excluída), dende a praia de Liméns (excluída) á praia do Sinal,|
 |A Portela: de Punta Monte Gordo a Punta do Socorro,; praia de Barra,;|A pé;|C.P. Redondela|2017222, 2018230, __2019242__,|(VI-132), (VI-133), (VI-134-I), (VI-134-II), (VI-256),|
-|Bancos intermareais de o puntal da Serra a praia de Arealonga (excluída),|A pé;|C.P. Vigo|||
-|Cabalo, Deilán, Río Maior, San Adrián (norte),|A pé;|C.P. Vilaboa||-|
+|Bancos intermareais de o puntal da Serra a praia de Arealonga (excluída),|A pé;|C.P. Vigo|__2017224__, 2018232, 2019244,|(VI-139), (VI-183), (VI-066), praia de Alcabre, (VI-178), (VI-064),|
+|Cabalo, Deilán, Río Maior, San Adrián (norte),|A pé;|C.P. Vilaboa|2017225, 2018233, 2019245,|(VI-147), (VI-236), (VI-237), (VI-238),|
 
 
 
