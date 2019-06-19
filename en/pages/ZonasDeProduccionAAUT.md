@@ -29,10 +29,10 @@ __Zonas de producción no SIGREMAR:__
 
  __De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)__ 2 planes
 
-|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
-|---|---------|-------|----------|------------------|
-|Foz do río Miñor, praia Ladeira, praia do Burgo, praia de Santa Marta, paseo da Lonxa, praia Ribeira, praia Barbeira, AAUT  __A0036v2017__.|A pé;| C.P. Baiona|2008035, 2014035, 2015036, 2016036, __2017035__, 2018036, [2019037](https://galirema.wikia.org/es/wiki/Pexma2019AAUT037),|(VI-105), (VI-104), (VI-103-I), (VI-103-II), (VI-103-III), (VI-102), (VI-101), (VI-100),|
-|Autorización administrativa C.P. Baiona Sublitoral AAUT __A0037v2017__.| Embarcación;| C.P. Baiona|2008036, 2014036, 2015037, 2016037, __2017036__, 2018037, [2019038](https://galirema.wikia.org/es/wiki/Pexma2019AAUT038),|Autorización administrativa C.P. Baiona, (zonas marítimas),|
+|codaxu|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
+|------|---|---------|-------|----------|------------------|
+|__A0036v2017__|Foz do río Miñor, praia Ladeira, praia do Burgo, praia de Santa Marta, paseo da Lonxa, praia Ribeira, praia Barbeira, AAUT |A pé;| C.P. Baiona|2008035, 2014035, 2015036, 2016036, __2017035__, 2018036, [2019037](https://galirema.wikia.org/es/wiki/Pexma2019AAUT037),|(VI-105), (VI-104), (VI-103-I), (VI-103-II), (VI-103-III), (VI-102), (VI-101), (VI-100),|
+|__A0037v2017__|Autorización administrativa C.P. Baiona Sublitoral AAUT| Embarcación;| C.P. Baiona|2008036, 2014036, 2015037, 2016037, __2017036__, 2018037, [2019038](https://galirema.wikia.org/es/wiki/Pexma2019AAUT038),|Autorización administrativa C.P. Baiona, (zonas marítimas),|
 
 
 ## Ría de Pontevedra (PO)
