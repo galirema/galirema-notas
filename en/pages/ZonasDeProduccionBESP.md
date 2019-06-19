@@ -151,9 +151,9 @@ __Zonas de producción no SIGREMAR:__
 |------|---|---------|-------|----------|--------------|
 |__B0048v2017__|Bancos de Fondás,Taro e Fontorto BESP,|A pé;|A.M. San Cosme de Barreiros-Foz|2008051, 2008049, 2008048, 2014045, 2015047, 2016047, __2017046__, 2018047, [2019048](https://galirema.wikia.org/es/wiki/Pexma2019BES048),|(CL-163), (CL-167), (CL-170),|
 |__B0049v2014__|Praia do Altar, BESP,|A pé;|A.M. San Cosme de Barreiros-Foz|2008050, __2014046__,|(CL-172),|
-||Ría de Viveiro (Entre a ponte do tren ata a canle do porto de Celeiro; Entrepontes; ...), BESP,|A pé;|C.P. Celeiro|2008052, 2014047, 2015048, 2016048, __2017047__, 2018048, [2019049](https://galirema.wikia.org/es/wiki/Pexma2019BES049),|(CL-141), (CL-142), (CL-143), (CL-145), (CL-146), (CL-148), (CL-177),|
-||Desde debaixo das pontes ata o Rego Seco, illa San Martiño, praia de Villabril, praia de Moledos, praia de Fomento, Vicedo Vello, BESP,|A pé;|C.P. O Vicedo|2008056, 2014048, 2015049, 2016049, __2017048__, 2018049, [2019050](https://galirema.wikia.org/es/wiki/Pexma2019BES050),|(CL-108), (CL-109), (CL-110), (CL-111), (CL-112), (CL-113), (CL-114), (CL-115), (CL-116), (CL-174),|
-||Ría de Viveiro, BESP,|Embarcación;|C.P. Celeiro|__2008053__,|Ría de Viveiro|
+|__B0050v2014__|Ría de Viveiro (Entre a ponte do tren ata a canle do porto de Celeiro; Entrepontes; ...), BESP,|A pé;|C.P. Celeiro|2008052, 2014047, 2015048, 2016048, __2017047__, 2018048, [2019049](https://galirema.wikia.org/es/wiki/Pexma2019BES049),|(CL-141), (CL-142), (CL-143), (CL-145), (CL-146), (CL-148), (CL-177),|
+|__B0051v2017__|Desde debaixo das pontes ata o Rego Seco, illa San Martiño, praia de Villabril, praia de Moledos, praia de Fomento, Vicedo Vello, BESP,|A pé;|C.P. O Vicedo|2008056, 2014048, 2015049, 2016049, __2017048__, 2018049, [2019050](https://galirema.wikia.org/es/wiki/Pexma2019BES050),|(CL-108), (CL-109), (CL-110), (CL-111), (CL-112), (CL-113), (CL-114), (CL-115), (CL-116), (CL-174),|
+|__B0052v2008__|Ría de Viveiro, BESP,|Embarcación;|C.P. Celeiro|__2008053__,|Ría de Viveiro|
 ||Praia da Abrela, BESP,|A pé;|C.P. Celeiro, C.P. O Vicedo, (plan conxunto)|__2008054__,|(CL-120),|
 ||Praia de Villabril, BESP,|A pé;|C.P. O Vicedo|__2008055__,|Praia de Villabril|
 ||Lombo das Navallas, BESP,|A pé;|C.P. O Vicedo e O Barqueiro (plan conxunto)|__2008057__,|(CL-118),|
