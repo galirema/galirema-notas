@@ -91,28 +91,28 @@ __Zonas de producción no SIGREMAR:__
 
  __De punta Ínsua (42.771 N, 9.1266 W) ata praia de Baldaio (43.292 N, 8.7016 W)__ 2 planes
 
-|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
-|---|---------|-------|----------|------------------|
-|Zona de autorización do río Anllóns. AAUT. __A0002v2017__.| A pé;| A.M. Esteiro do río Anllóns.|2008003, 2014002, 2015002, 2016002, __2017002__, 2018002, [2019002](https://galirema.wikia.org/es/wiki/Pexma2019AAUT002),|(CM-121), (CM-093),|
-|De punta Lago a punta Roda, de punta Sandía a punta Roda, de punta Sandía a punta Insuela, enseada da Vasa, AAUT __A0010v2017__.| A pé; Embarcacion;| C.P. Camariñas|2008010, 2014010, 2015010, 2016010, __2017010__, 2018010, [2019011](https://galirema.wikia.org/es/wiki/Pexma2019AAUT011),|(CM-129), (CM-100), (CM-130), (CM-133), (CM-131), (CM-134), (CM-132), (CM-135),|
+|codaxu|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
+|------|---|---------|-------|----------|------------------|
+|__A0002v2017__|Zona de autorización do río Anllóns. AAUT| A pé;| A.M. Esteiro do río Anllóns.|2008003, 2014002, 2015002, 2016002, __2017002__, 2018002, [2019002](https://galirema.wikia.org/es/wiki/Pexma2019AAUT002),|(CM-121), (CM-093),|
+|__A0010v2017__|De punta Lago a punta Roda, de punta Sandía a punta Roda, de punta Sandía a punta Insuela, enseada da Vasa, AAUT| A pé; Embarcacion;| C.P. Camariñas|2008010, 2014010, 2015010, 2016010, __2017010__, 2018010, [2019011](https://galirema.wikia.org/es/wiki/Pexma2019AAUT011),|(CM-129), (CM-100), (CM-130), (CM-133), (CM-131), (CM-134), (CM-132), (CM-135),|
 
 
 ## Coruña - Ferrol (CF)
 
  __De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)__ 10 planes
  
-|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
-|---|---------|-------|----------|--------------|
-|Lagoas de Baldaio. AAUT, [A0001v2017](http://u.osmfr.org/m/250411/)| A pé;|A.M. Fonte Santa Helena-Baldaio|2008002, 2014001, 2015001, 2016001, __2017001__, 2018001, [2019001](https://galirema.wikia.org/es/wiki/Pexma2019AAUT001),|(CF-040), (CF-167), banco da lagoa interna,|
-|Ría do Burgo. AAUT, __A0003v2017__.| A pé; Embarcación;|C.P. A Coruña|2008004, 2014003, 2015003, 2016003, __2017003__, 2018003, [2019003](https://galirema.wikia.org/es/wiki/Pexma2019AAUT003),|(CF-002), (CF-002), (CF-004), (CF-009), (CF-008), (CF-005), (CF-006), (CF-007), (CF-317), (CF-319), (CF-001),|
-|Praias de Barallobre, Maniños, AAUT, __A0007v2017__.| A pé;|C.P. Barallobre|2008007, 2014007, 2015007, 2016007, __2017007__, 2018007, [2019008](https://galirema.wikia.org/es/wiki/Pexma2019AAUT008),|(CF-138), (CF-139),|
-|Autorización das Pías, Autorización enseada Cabana-A Malata, AAUT, __A0014v2017__.| A pé; Embarcación;|C.P. Ferrol, C.P. Barallobre, (plan conxunto)|2014013, 2015014, 2016014, __2017014__, 2018014, [2019015](https://galirema.wikia.org/es/wiki/Pexma2019AAUT015),|(CF-143), (CF-144), (CF-145), (CF-136),|
-|San Felipe, enseada de Cabana-A Malata, praia de Caranza-Montón, de punta Cornida á ponte do tren, AAUT, __A0015v2017__.| A pé;|C.P. Ferrol|2014014, 2015015, 2016015, __2017015__, 2018015, [2019016](https://galirema.wikia.org/es/wiki/Pexma2019AAUT016),|(CF-112), (CF-113),|
-|Entre final da praia grande de Miño a punta Allo; entre a canle de Hervás a punta Curbeiros, AAUT, __A0016v2017__.| A pé; Embarcación;|C.P. Miño|2008015, 2014015, 2015016, 2016016, __2017016__, 2018016, [2019017](https://galirema.wikia.org/es/wiki/Pexma2019AAUT017),|(CF-086), (CF-087), (CF-088), (CF-089), (CF-090), (CF-091), (CF-092-I), (CF-092-II), (CF-092-III),|
-|Punta Promontoiro a rampla do Seixo, punta Redonda a punta Leiras, punta Leiras a punta Promontoiro, Punta Segaño a punta Redonda, AAUT, __A0017v2017__.| A pé;|C.P. Mugardos|2008016, 2014016, 2015017, 2016017, __2017017__, 2018017, [2019018](https://galirema.wikia.org/es/wiki/Pexma2019AAUT018),|(CF-150), (CF-153), (CF-155), (CF-156), (CF-157), (CF-159), (CF-160), (CF-161), (CF-162), (CF-315), (CF-163), (CF-164), (CF-165),|
-|De praia Almieiras a punta Carboeira AAUT, __A0025v2017__.| A pé;|C.P. Pontedeume|2008024, 2014024, 2015025, 2016025, __2017025__, 2018025, [2019026](https://galirema.wikia.org/es/wiki/Pexma2019AAUT026),|(CF-101), (CF-102), (CF-103), (CF-104-I), (CF-104-II), (CF-104-III), (CF-097-I), (CF-097-II), (CF-098), (CF-099), (CF-099), (CF-168),|
-|De praia Almieiras a punta Carboeira AAUT, __A0026v2017__.| Embarcación;|C.P. Pontedeume|2008025, 2014025, 2015026, 2016026, __2017026__, 2018026, [2019027](https://galirema.wikia.org/es/wiki/Pexma2019AAUT027),|(CF-093), (CF-094), (CF-096), (CF-095), (CF-097-I), (CF-097-II), (CF-098), (CF-099), (CF-100), (CF-100-I),|
-|Praia de Sada AAUT, __A0031v2016__.| A pé;|C.P. Sada|2008029, 2014030, 2015031, __2016031__, 2018031, [2019032](https://galirema.wikia.org/es/wiki/Pexma2019AAUT032),|(CF-080),|
+|codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|------|---|---------|-------|----------|--------------|
+|[A0001v2017](http://u.osmfr.org/m/250411/)|Lagoas de Baldaio. AAUT| A pé;|A.M. Fonte Santa Helena-Baldaio|2008002, 2014001, 2015001, 2016001, __2017001__, 2018001, [2019001](https://galirema.wikia.org/es/wiki/Pexma2019AAUT001),|(CF-040), (CF-167), banco da lagoa interna,|
+|__A0003v2017__|Ría do Burgo. AAUT| A pé; Embarcación;|C.P. A Coruña|2008004, 2014003, 2015003, 2016003, __2017003__, 2018003, [2019003](https://galirema.wikia.org/es/wiki/Pexma2019AAUT003),|(CF-002), (CF-002), (CF-004), (CF-009), (CF-008), (CF-005), (CF-006), (CF-007), (CF-317), (CF-319), (CF-001),|
+|__A0007v2017__|Praias de Barallobre, Maniños, AAUT| A pé;|C.P. Barallobre|2008007, 2014007, 2015007, 2016007, __2017007__, 2018007, [2019008](https://galirema.wikia.org/es/wiki/Pexma2019AAUT008),|(CF-138), (CF-139),|
+|__A0014v2017__|Autorización das Pías, Autorización enseada Cabana-A Malata, AAUT| A pé; Embarcación;|C.P. Ferrol, C.P. Barallobre, (plan conxunto)|2014013, 2015014, 2016014, __2017014__, 2018014, [2019015](https://galirema.wikia.org/es/wiki/Pexma2019AAUT015),|(CF-143), (CF-144), (CF-145), (CF-136),|
+|__A0015v2017__|San Felipe, enseada de Cabana-A Malata, praia de Caranza-Montón, de punta Cornida á ponte do tren, AAUT| A pé;|C.P. Ferrol|2014014, 2015015, 2016015, __2017015__, 2018015, [2019016](https://galirema.wikia.org/es/wiki/Pexma2019AAUT016),|(CF-112), (CF-113),|
+|__A0016v2017__|Entre final da praia grande de Miño a punta Allo; entre a canle de Hervás a punta Curbeiros, AAUT| A pé; Embarcación;|C.P. Miño|2008015, 2014015, 2015016, 2016016, __2017016__, 2018016, [2019017](https://galirema.wikia.org/es/wiki/Pexma2019AAUT017),|(CF-086), (CF-087), (CF-088), (CF-089), (CF-090), (CF-091), (CF-092-I), (CF-092-II), (CF-092-III),|
+|__A0017v2017__|Punta Promontoiro a rampla do Seixo, punta Redonda a punta Leiras, punta Leiras a punta Promontoiro, Punta Segaño a punta Redonda, AAUT| A pé;|C.P. Mugardos|2008016, 2014016, 2015017, 2016017, __2017017__, 2018017, [2019018](https://galirema.wikia.org/es/wiki/Pexma2019AAUT018),|(CF-150), (CF-153), (CF-155), (CF-156), (CF-157), (CF-159), (CF-160), (CF-161), (CF-162), (CF-315), (CF-163), (CF-164), (CF-165),|
+|__A0025v2017__|De praia Almieiras a punta Carboeira AAUT| A pé;|C.P. Pontedeume|2008024, 2014024, 2015025, 2016025, __2017025__, 2018025, [2019026](https://galirema.wikia.org/es/wiki/Pexma2019AAUT026),|(CF-101), (CF-102), (CF-103), (CF-104-I), (CF-104-II), (CF-104-III), (CF-097-I), (CF-097-II), (CF-098), (CF-099), (CF-099), (CF-168),|
+|__A0026v2017__|De praia Almieiras a punta Carboeira AAUT| Embarcación;|C.P. Pontedeume|2008025, 2014025, 2015026, 2016026, __2017026__, 2018026, [2019027](https://galirema.wikia.org/es/wiki/Pexma2019AAUT027),|(CF-093), (CF-094), (CF-096), (CF-095), (CF-097-I), (CF-097-II), (CF-098), (CF-099), (CF-100), (CF-100-I),|
+|__A0031v2016__|Praia de Sada AAUT| A pé;|C.P. Sada|2008029, 2014030, 2015031, __2016031__, 2018031, [2019032](https://galirema.wikia.org/es/wiki/Pexma2019AAUT032),|(CF-080),|
 
 
 ## Costa Lucense (CL)
@@ -120,13 +120,13 @@ __Zonas de producción no SIGREMAR:__
   __De punta Frouxeira (43.62 N, 8.1893 W)  ata o rio EO (43.4721 N, 7.0566 W)__ 5 planes
 
  
-|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
-|---|---------|-------|----------|--------------|
-|Autorizacións da confraría de Cariño AAUT __A0011v2017__.| A pé;| C.P. Cariño|2008011, 2014011, 2015011, 2016011, __2017011__, 2018011, [2019012](https://galirema.wikia.org/es/wiki/Pexma2019AAUT012),|(CL-080), (CL-064), (CL-061), (CL-062), (CL-060), (CL-079), (CL-077), (CL-078), (CL-216), (CL-074), (CL-073), (CL-075), (CL-076),|
-|Enseada de Esteiro, enseada de Pantín, AAUT __A0012v2017__.| A pé;| C.P. Cedeira|2008013, 2015012, 2016012, __2017012__, 2018012, [2019013](https://galirema.wikia.org/es/wiki/Pexma2019AAUT013),|(CL-048), (CL-053), (CL-047), (CL-2014),|
-|Autorización de Espasante, AAUT __A0013v2017__.| A pé;| C.P. Espasante|2008014, 2014012, 2015013, 2016013, __2017013__, 2018013, [2019014](https://galirema.wikia.org/es/wiki/Pexma2019AAUT014),|(CL-029), (CL-030), (CL-031), (CL-032), (CL-033), (CL-034), (CL-036), (CL-037), (LV) (CL-038), (CL-090), (CL-092),|
-|Zonas de autorización situadas na marxe esquerda da ría do Barqueiro AAUT __A0022v2017__.| A pé;| C.P. O Barqueiro-Bares|2008021, 2014021, 2015022, 2016022, __2017022__, 2018022, [2019023](https://galirema.wikia.org/es/wiki/Pexma2019AAUT023),|(CL-100), (CL-101), (CL-021), (CL-102), (CL-103), (CL-104), (CL-106), (CL-118), CL-119), (CL-105), (CL-020),|
-|Praia de Arealonga e Lombo das Navallas AAUT __A0047v2008__.| A pé;| C.P. O Vicedo|__2008001__,|(CL-117),|
+|codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
+|------|---|---------|-------|----------|--------------|
+|__A0011v2017__|Autorizacións da confraría de Cariño AAUT| A pé;| C.P. Cariño|2008011, 2014011, 2015011, 2016011, __2017011__, 2018011, [2019012](https://galirema.wikia.org/es/wiki/Pexma2019AAUT012),|(CL-080), (CL-064), (CL-061), (CL-062), (CL-060), (CL-079), (CL-077), (CL-078), (CL-216), (CL-074), (CL-073), (CL-075), (CL-076),|
+|__A0012v2017__|Enseada de Esteiro, enseada de Pantín, AAUT| A pé;| C.P. Cedeira|2008013, 2015012, 2016012, __2017012__, 2018012, [2019013](https://galirema.wikia.org/es/wiki/Pexma2019AAUT013),|(CL-048), (CL-053), (CL-047), (CL-2014),|
+|__A0013v2017__|Autorización de Espasante, AAUT| A pé;| C.P. Espasante|2008014, 2014012, 2015013, 2016013, __2017013__, 2018013, [2019014](https://galirema.wikia.org/es/wiki/Pexma2019AAUT014),|(CL-029), (CL-030), (CL-031), (CL-032), (CL-033), (CL-034), (CL-036), (CL-037), (LV) (CL-038), (CL-090), (CL-092),|
+|__A0022v2017__|Zonas de autorización situadas na marxe esquerda da ría do Barqueiro AAUT| A pé;| C.P. O Barqueiro-Bares|2008021, 2014021, 2015022, 2016022, __2017022__, 2018022, [2019023](https://galirema.wikia.org/es/wiki/Pexma2019AAUT023),|(CL-100), (CL-101), (CL-021), (CL-102), (CL-103), (CL-104), (CL-106), (CL-118), CL-119), (CL-105), (CL-020),|
+|__A0047v2008__|Praia de Arealonga e Lombo das Navallas AAUT| A pé;| C.P. O Vicedo|__2008001__,|(CL-117),|
 
 
 [Indice](indicesZonasProduccion.md)
