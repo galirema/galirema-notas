@@ -31,7 +31,7 @@ __Zonas de producción no SIGREMAR__:
 
 ## Ría de Vigo VI
 
- _De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)_ 5 planes
+ _De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)_ 8 planes
  
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
