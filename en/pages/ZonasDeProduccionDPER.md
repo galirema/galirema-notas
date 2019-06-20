@@ -63,7 +63,7 @@ __Zonas de producción no SIGREMAR__:
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-||Desde punta Castro ata a desembocadura do río Sieira, illas e illotes adxacentes, DPER|A pé; Embarcación;|C.P. Aguiño|2008112, 2014103, 2015105, 2016102, 2017101, 2018102, __2019105__,|(AR-237-II), (AR-239), (AR-241-I), (AR-241-II), (AR-252), (AR-243), (AR-242), (AR-237-I), (AR-238), (AR-244), (AR-245), (AR-246), (AR-247), (AR-248), (AR-249), (AR-225), (AR-250), (AR-251), (AR-228), (AR-229), (AR-227), (AR-226-I), (AR-226-II), (AR-234), (AR-236), (AR-224), (AR-301), (AR-219), (AR-223), (AR-222), (AR-299), (AR-220), (AR-221), (AR-300),|
+|__D0122v2017__|Desde punta Castro ata a desembocadura do río Sieira, illas e illotes adxacentes, DPER|A pé; Embarcación;|C.P. Aguiño|2008112, 2014103, 2015105, 2016102, 2017101, 2018102, __2019105__,|(AR-237-II), (AR-239), (AR-241-I), (AR-241-II), (AR-252), (AR-243), (AR-242), (AR-237-I), (AR-238), (AR-244), (AR-245), (AR-246), (AR-247), (AR-248), (AR-249), (AR-225), (AR-250), (AR-251), (AR-228), (AR-229), (AR-227), (AR-226-I), (AR-226-II), (AR-234), (AR-236), (AR-224), (AR-301), (AR-219), (AR-223), (AR-222), (AR-299), (AR-220), (AR-221), (AR-300),|
 ||Illas e illotes Laxas, Pías de Castiñeira, Airós, Rúa, Carabancelo, Xidoiro Pedregoso, Corbeiros, Lobeiras, DPER|Embarcación;|C.P. Ribeira|2008126, 2014123, 2015124, 2016121, __2017120__, 2018121, 2019124,|(AR-358), (AR-357), (AR-359), (AR-360), (AR-356), (AR-362), (AR-363), (AR 361-I), (AR-362-II),|
 ||De punta Area Grande a punta Faxilda, DPER|A pé; Embarcación;|C.P. O Grove|2008133, 2014130, 2015131, 2016128, __2017127__, 2018129, 2019133,|(AR-265), (AR-266), (AR-267), (AR-263), (AR-264), (AR-260), (AR-261), (AR-262),|
 
@@ -106,9 +106,9 @@ __Zonas de producción no SIGREMAR__:
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-||Ambito territorial das confrarías da Coruña, Mera, Lorbé, Sada, Ares, DPER|A pé; Embarcación;|C.P. A Coruña, C.P. Mera, C.P. Lorbé, C.P. Sada, C.P. Ares, (plan conxunto)|2008107, 2014102, 2015104, 2016101, __2017100__, 2018101, 2019104,|(CF-023), (CF-024), (CF-025), (CF-026), (CF-027),|
-||De punta Alba a Pedra do Sal, DPER|A pé; Embarcación;|C.P. Caión|2008108, 2014105, 2015106, 2016103, __2017102__, 2018103, 2019106,|(CF-036-I), (CF-036-II), (CF-037-I), (CF-037-II), (CF-039),|
-||De punta Segaño ata illas Mirandas, DPER|Embarcación;|C.P. Ares|2014104,|(CF-027),|
+|__D0121v2017__|Ambito territorial das confrarías da Coruña, Mera, Lorbé, Sada, Ares, DPER|A pé; Embarcación;|C.P. A Coruña, C.P. Mera, C.P. Lorbé, C.P. Sada, C.P. Ares, (plan conxunto)|2008107, 2014102, 2015104, 2016101, __2017100__, 2018101, 2019104,|(CF-023), (CF-024), (CF-025), (CF-026), (CF-027),|
+|__D0123v2017__|De punta Alba a Pedra do Sal, DPER|A pé; Embarcación;|C.P. Caión|2008108, 2014105, 2015106, 2016103, __2017102__, 2018103, 2019106,|(CF-036-I), (CF-036-II), (CF-037-I), (CF-037-II), (CF-039),|
+|__D0124v2014__|De punta Segaño ata illas Mirandas, DPER|Embarcación;|C.P. Ares|__2014104__,|(CF-027),|
 ||De faro de punta Frouxeira a A Faísca, DPER|A pé; Embarcación;|C.P. Ferrol|2008116, 2014112, 2015113, 2016110, __2017109__, 2018110, 2019113,|(CF-115), (CF-116), (CF-117), (CF-119), (CF-120), (CF-121), (CF-123), (CF-312), (CF-313), (CF-314),|
 
 
@@ -119,12 +119,12 @@ __Zonas de producción no SIGREMAR__:
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-||De punta Promontorio a punta Nois, DPER|A pé;|A.M. San Cosme de Barreiros-Foz|2014096, 2015098, 2016095, __2017094__, 2018095, 2019098,|(CL-136),|
-||Ámbito territorial da confraría de Burela, DPER|Embarcación; A pé;|C.P. Burela|2008102, 2014097, 2015099, 2016096, __2017095__, 2018096, 2019099,|(CL-131),(CL-135),|
-||Da ermida de San Tirso a punta Cabalo e illa Gabeira, DPER|A pé; Embarcación;|C.P. Celeiro|2008103, 2014098, 2015100, 2016097, __2017096__, 2018097, 2019100,|(CL-127), (CL-128), (CL-129),|
-||Desde a marxe esquerda do río Escourido á marxe dereita do río Sor, illa Coelleira, DPER|Embarcación;|C.P. O Vicedo|2008104, 2014099, 2015101, 2016098, __2017097__, 2018098, 2019101,|(CL-124), (CL-125),|
-||De punta Promontoiro ás Carallas; illotes: Martiñas, Mourón, Corbeira, Tabla, Insua, Pancha e O Can de Faro, DPER|A pé;|C.P. Ribadeo|2008105, 2014100, 2015102, 2016099, __2017098__, 2018099, 2019102,|(CL-137), (CL-138), (CL-139), (CL-140),|
-||Ermida de San Tirso a punta Rueta, illas de Cal, Sarón, Farallóns, DPER|A pé; Embarcación;|C.P. San Cibrao|2008106, 2014101, 2015103, 2016100, 2017099, 2018100, 2019103,|(CL-130), (CL-131), (CL-134),|
+|__D0115v2017__|De punta Promontorio a punta Nois, DPER|A pé;|A.M. San Cosme de Barreiros-Foz|2014096, 2015098, 2016095, __2017094__, 2018095, 2019098,|(CL-136),|
+|__D0116v2017__|Ámbito territorial da confraría de Burela, DPER|Embarcación; A pé;|C.P. Burela|2008102, 2014097, 2015099, 2016096, __2017095__, 2018096, 2019099,|(CL-131),(CL-135),|
+|__D0117v2017__|Da ermida de San Tirso a punta Cabalo e illa Gabeira, DPER|A pé; Embarcación;|C.P. Celeiro|2008103, 2014098, 2015100, 2016097, __2017096__, 2018097, 2019100,|(CL-127), (CL-128), (CL-129),|
+|__D0118v2017__|Desde a marxe esquerda do río Escourido á marxe dereita do río Sor, illa Coelleira, DPER|Embarcación;|C.P. O Vicedo|2008104, 2014099, 2015101, 2016098, __2017097__, 2018098, 2019101,|(CL-124), (CL-125),|
+|__D0119v2017__|De punta Promontoiro ás Carallas; illotes: Martiñas, Mourón, Corbeira, Tabla, Insua, Pancha e O Can de Faro, DPER|A pé;|C.P. Ribadeo|2008105, 2014100, 2015102, 2016099, __2017098__, 2018099, 2019102,|(CL-137), (CL-138), (CL-139), (CL-140),|
+|__D0120v2017__|Ermida de San Tirso a punta Rueta, illas de Cal, Sarón, Farallóns, DPER|A pé; Embarcación;|C.P. San Cibrao|2008106, 2014101, 2015103, 2016100, __2017099__, 2018100, 2019103,|(CL-130), (CL-131), (CL-134),|
 ||De Pedra Barcelona a desembocadura do río Mera, DPER|Embarcación;|C.P. Cariño|2008111, 2014108, 2015109, 2016106, __2017105__, 2018106, 2019109,|(CL-068), (CL-069), (CL-070), (CL-071), (CL-055), (CL-056), (CL-057), (CL-058), (CL-059),|
 ||Do faro da punta da Frouxeira a Pedra Barcelona, DPER|Embarcación;|C.P. Cedeira|2008113, 2014109, 2015110, 2016107, __2017106__, 2018107, 2019110,|(CL-187), (CL-189), (CL-190), (CL-191), (CL-192), (CL-193), (CL-194), (CL-195), (CL-196), (CL-197), (CL-198), (CL-199), (CL-200), (CL-201), (CL-202), (CL-203), (CL-204), (CL-205), (CL-206), (CL-207), (CL-208), (CL-209), (CL-210),|
 ||De illa San Vicente a punta Billardeira, DPER|Embarcación;|C.P. Espasante|2008115, 2014111, 2015112, 2016109, __2017108__, 2018109, 2019112,|(CL-044),|
