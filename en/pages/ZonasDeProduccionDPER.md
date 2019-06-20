@@ -35,9 +35,9 @@ __Zonas de producción no SIGREMAR__:
  
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-||De punta Orelludas a punta dos Picos, DPER|A pé;|C.P. A Guarda|2008127, 2014124, 2015125, 2016122, __2017121__, 2018122, 2019125,|(VI-125): ((VI-122), (VI-123), (VI-124), (VI-203),); (VI-126): ((VI-438), (VI-439),); (VI 127): ((VI-204), (VI-205), (VI-206),);|
-||De punta Orelludas a punta dos Picos, DPER|Embarcación;|C.P. A Guarda|2008128, 2014125, 2015126, 2016123, __2017122__, 2018123, 2019126,|(VI-117), (VI-118), (VI-119),|
-||De punta Orelludas a monte Ferro (punta Lameda), incluíndo as illas Estelas, Farallóns, Lourido, DPER|A pé; Embarcación;|C.P. Baiona|2008130, 2014127, 2015128, 2016125, __2017124__,|(VI-110-I), (VI-110-II), (VI-110-III),|
+|__D0144v2017__|De punta Orelludas a punta dos Picos, DPER|A pé;|C.P. A Guarda|2008127, 2014124, 2015125, 2016122, __2017121__, 2018122, 2019125,|(VI-125): ((VI-122), (VI-123), (VI-124), (VI-203),); (VI-126): ((VI-438), (VI-439),); (VI 127): ((VI-204), (VI-205), (VI-206),);|
+|__D0145v2017__|De punta Orelludas a punta dos Picos, DPER|Embarcación;|C.P. A Guarda|2008128, 2014125, 2015126, 2016123, __2017122__, 2018123, 2019126,|(VI-117), (VI-118), (VI-119),|
+|__D0147v2017__|De punta Orelludas a monte Ferro (punta Lameda), incluíndo as illas Estelas, Farallóns, Lourido, DPER|A pé; Embarcación;|C.P. Baiona|2008130, 2014127, 2015128, 2016125, __2017124__,|(VI-110-I), (VI-110-II), (VI-110-III),|
 ||Zonas a pé de punta Orelludas a Punta do Boi,|A pé;|C.P. Baiona|__2018125__, 2019128,|(VI-110-I), (VI-110-II), (VI-110-III),|
 ||Zonas a flote de punta Orelludas a monte Ferro (punta Lameda) incluído Lourido, DPER|Embarcación;|C.P. Baiona|__2018126__, 2019129,|Zona I: Monteferro, Lourido, Illas Estelas, Illas Serralleiras, incluídos Longueirón, Carallóns as pedras que lindan con estas illas, (Zonas non accesibles a pé na máxima baixamar escorada dende punta do Boi ata o embarcadoiro da Carral,: Rapacarallos, A Bombardeira, O Redondo, O Monete, Os Mouróns-Os Petóns de Fornos, O Lobo, O Lobiño, A do Reloj, A Cagada, A Hucha, A Polbeira, Atravesada, O Cunichán, A Parexa do Norte,),; Zona II: Dende Talló ata punta Cajareta, (Zonas non accesibles a pé na máxima baixamar escorada dende embarcadoiro de A Carral ata A Talló: Parexa do Sur, A do Rego, As Pulgas, As Negras, As Maulas, Os Cunchales do Norte,), (Zonas non accesibles a pé na máxima baixamar escorada dende punta Cajareta ata o porto da Candea: As Nais de Fóra, As Nais do Medio, O Baixo da Laxe do Pan, Laxón do Canairo, Os Manusoados,),; Zona III: Dende o porto da Candea ata as escaleiras da praia de Barcelos, (Zonas non accesibles a pé na máxima baixamar escorada dende as escaleiras da praia de Barcelos ata punta Orelludas: Can Cagado, Baixos de Can Cagado, Laxón de Can Cagado, Laxe da Burra no Norte, Laxe da Burra do Medio, Canaliña da Parrumeira, Outeiro dos Areais, Os Vidros, Outeiros do Rosaleiro, Petóns das Orelludas, Orelluda do Norte,),;|
 ||Entre Monteferro e escaleiras da praia de Barcelos, DPER|A pé; Embarcación;|C.P. Baiona|__2019130__,|-Zona I. (Monteferro e Lourido) (VI-110-I),; -Zona II. (Dende porto do Castro ata punta Cajareta) (VI-110-II),; -Zona III. (Dende porto da Candea ata as escaleiras da praia de Barcelos) (VI-110-III),;|
@@ -52,8 +52,8 @@ __Zonas de producción no SIGREMAR__:
  
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-||De punta Couso a punta Morcegos, cara ao interior da ría de Aldán, DPER|A pé;|C.P. Aldán-O Hio|2008129, 2014126, 2015127, 2016124, __2017123__, 2018124, 2019127,|(PO-165), (PO-164),|
-||De punta Lapamán a punta Morcegos, Illa Ons, Onza; DPER|Embarcación;|C.P. Bueu|2008131, 2014128, 2015129, 2016126, __2017125__, 2018127, 2019131,|(PO-179), (PO-178), (PO-168), (PO-181), (PO-180), (PO-182), (PO-183), (PO-184), (PO-188), (PO-189), (PO-190), (PO-1859), (PO-187), (PO-186),|
+|__D0146v2017__|De punta Couso a punta Morcegos, cara ao interior da ría de Aldán, DPER|A pé;|C.P. Aldán-O Hio|2008129, 2014126, 2015127, 2016124, __2017123__, 2018124, 2019127,|(PO-165), (PO-164),|
+|__D0148v2017__|De punta Lapamán a punta Morcegos, Illa Ons, Onza; DPER|Embarcación;|C.P. Bueu|2008131, 2014128, 2015129, 2016126, __2017125__, 2018127, 2019131,|(PO-179), (PO-178), (PO-168), (PO-181), (PO-180), (PO-182), (PO-183), (PO-184), (PO-188), (PO-189), (PO-190), (PO-1859), (PO-187), (PO-186),|
 
 
 
@@ -64,7 +64,7 @@ __Zonas de producción no SIGREMAR__:
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
 |__D0122v2017__|Desde punta Castro ata a desembocadura do río Sieira, illas e illotes adxacentes, DPER|A pé; Embarcación;|C.P. Aguiño|2008112, 2014103, 2015105, 2016102, 2017101, 2018102, __2019105__,|(AR-237-II), (AR-239), (AR-241-I), (AR-241-II), (AR-252), (AR-243), (AR-242), (AR-237-I), (AR-238), (AR-244), (AR-245), (AR-246), (AR-247), (AR-248), (AR-249), (AR-225), (AR-250), (AR-251), (AR-228), (AR-229), (AR-227), (AR-226-I), (AR-226-II), (AR-234), (AR-236), (AR-224), (AR-301), (AR-219), (AR-223), (AR-222), (AR-299), (AR-220), (AR-221), (AR-300),|
-||Illas e illotes Laxas, Pías de Castiñeira, Airós, Rúa, Carabancelo, Xidoiro Pedregoso, Corbeiros, Lobeiras, DPER|Embarcación;|C.P. Ribeira|2008126, 2014123, 2015124, 2016121, __2017120__, 2018121, 2019124,|(AR-358), (AR-357), (AR-359), (AR-360), (AR-356), (AR-362), (AR-363), (AR 361-I), (AR-362-II),|
+|__D0143v2017__|Illas e illotes Laxas, Pías de Castiñeira, Airós, Rúa, Carabancelo, Xidoiro Pedregoso, Corbeiros, Lobeiras, DPER|Embarcación;|C.P. Ribeira|2008126, 2014123, 2015124, 2016121, __2017120__, 2018121, 2019124,|(AR-358), (AR-357), (AR-359), (AR-360), (AR-356), (AR-362), (AR-363), (AR 361-I), (AR-362-II),|
 ||De punta Area Grande a punta Faxilda, DPER|A pé; Embarcación;|C.P. O Grove|2008133, 2014130, 2015131, 2016128, __2017127__, 2018129, 2019133,|(AR-265), (AR-266), (AR-267), (AR-263), (AR-264), (AR-260), (AR-261), (AR-262),|
 
 
@@ -76,7 +76,7 @@ __Zonas de producción no SIGREMAR__:
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
 |__D0138v2017__|De punta Insua a punta Uhía,|A pé;|C.P. Muros, DPER|2008121, 2014118, 2015119, 2016116, __2017115__, 2018116, 2019119,|(MN-008), (MN-009), (MN-010), (MN-011),|
-||De río Sieira a punta Cabeiro, illotes Os Bruyos, Leixoes, Pedra do Con, DPER|A pé; Embarcación;|C.P. Porto do Son|2008125, 2014122, 2015123, 2016120, __2017119__, 2018120, 2019123,|(MN-074), (MN-075), (MN-076), (MN-077), (MN-078), (MN-079),|
+|__D0142v2017__|De río Sieira a punta Cabeiro, illotes Os Bruyos, Leixoes, Pedra do Con, DPER|A pé; Embarcación;|C.P. Porto do Son|2008125, 2014122, 2015123, 2016120, __2017119__, 2018120, 2019123,|(MN-074), (MN-075), (MN-076), (MN-077), (MN-078), (MN-079),|
 
 
 
@@ -96,7 +96,7 @@ __Zonas de producción no SIGREMAR__:
 |__D0136v2008__|De punta Insua a punta Larada e illotes de Miñarzos, Forcados, Seixo, Liboreiro, illa Corbeiro, punta Insua, Corniños, Coca, Petón de Cabalar, Pedra Pas e Pedra de Ardeleiro, DPER|A pé; Embarcación;|C.P. Lira|__2008119__,|De punta Insua a punta Larada e illotes de Miñarzos, Forcados, Seixo, Liboreiro, illa Corbeiro, punta Insua, Corniños, Coca, Petón de Cabalar, Pedra Pas e Pedra de Ardeleiro|
 |__D0137v2019__|De punta Nariga a Pedra do Sal, incluíndo Illas Sisargas, baixos de Baldaio, e demais illas e illotes fronte á costa en tres millas, DPER|A pé; Embarcación;|C.P. Malpica|2008120, 2014117, 2015118, 2016115, _2017114_, 2018115, __2019118__,|(CM-245), (CM-246-I), (CM-246-II), (CM-247), (CM-248),|
 |__D0139v2017__|De punta Piaduiro (marxe esquerda da desembocadura do río Grande) a punta Nemiña, (marxe dereita da desembocadura do río Castro (incluíndo illas e illotes)), DPER|A pé; Embarcación;|C.P. Muxía|2008122, 2014119, 2015120, 2016117, __2017116__, 2018117, 2019120,|(CM-026), (CM-027), (CM-028), (CM-029), (CM-030), (CM-031),|
-||Da desembocadura do río Xallas á desembocadura do río Larada e pedras adxacentes, DPER|A pé;|C.P. O Pindo|2008124, 2014121, 2015122, 2016119, __2017118__, 2018119, 2019122,|(CM-042), (CM-259), (CM-260), (CM-261), (CM-262), (CM-263), (CM-264), (CM-265), (CM-266), (CM-267), (CM-249),|
+|__D0141v2017__|Da desembocadura do río Xallas á desembocadura do río Larada e pedras adxacentes, DPER|A pé;|C.P. O Pindo|2008124, 2014121, 2015122, 2016119, __2017118__, 2018119, 2019122,|(CM-042), (CM-259), (CM-260), (CM-261), (CM-262), (CM-263), (CM-264), (CM-265), (CM-266), (CM-267), (CM-249),|
 
 
 
