@@ -35,18 +35,18 @@ __Zonas de producción no SIGREMAR:__
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
 |__G0202v2017__|De puntal da Serra a punta do Boi, GSOL|MA; MSAS;|C.P. Baiona|2008178, 2014168, 2015168, 2016169, __2017161__, 2018163, 2019175,|(VI-106), (VI-107), (VI-108), (VI-109),|
-||De punta Canabal a punta Couso, illas Cíes, GSOL|MA; MSAS;|C.P. Cangas|2008182, 2014171, 2015171, 2016172, __2017164__, 2018166, 2019178,|(EQK), (EQI),: (VI-089), (VI-091), (VI-094), (VI-088), (VI-095), (VI-093), (VI-178), (VI-079), (VI-092),; (EQK), (EQI),: (VI-090),;|
-||De Rande a Petóns de Canabal, (excluíndo a zona que vai desde Rande a punta Travesada,), GSOL|MA; MSAS;|C.P. Moaña, Cíes Artesanais, S.C.G., (plan conxunto)|2008183, 2014172, 2015172, 2016173, __2017165__, 2018167, 2019179,|(VI-152), (VI-153), (VI-160), (VI-154), (VI-155), (VI-156), (VI-157), (VI-158), (VI-159),|
-||Desde Rande a punta Travesada, GSOL|MA; MSAS;|C.P. Moaña, Cíes Artesanais, S.C.G., C.P. Redondela, C.P. Vilaboa, (plan conxunto)|2014173, 2015173, 2016174, __2017166__, 2018168, 2019180,|Desde Rande a punta Travesada,|
-||De punta Travesada a o peirao de San Adrián de Cobres, desde a ponte de Rande ata punta Pías, GSOL|MA; MSAS;|C.P. Redondela, C.P. Vilaboa, (plan conxunto)|2014175, 2015175, 2016176, __2017168__, 2018170,|(VI-240), (VI-242),|
-||De puntal da Serra á ponte de Rande, GSOL|MA; MSAS;|C.P. Vigo|2008185, 2014176, 2015176, 2016177, __2017169__, 2018171, 2019182,|(EQK): (VI-069), (VI-549), (VI-550), (VI-551), (VI-552), (VI-548), (VI-070), (VI-068), (VI-579), (EQI): (VI-067), (VI-547),|
+|__G0205v2017__|De punta Canabal a punta Couso, illas Cíes, GSOL|MA; MSAS;|C.P. Cangas|2008182, 2014171, 2015171, 2016172, __2017164__, 2018166, 2019178,|(EQK), (EQI),: (VI-089), (VI-091), (VI-094), (VI-088), (VI-095), (VI-093), (VI-178), (VI-079), (VI-092),; (EQK), (EQI),: (VI-090),;|
+|__G0206v2017__|De Rande a Petóns de Canabal, (excluíndo a zona que vai desde Rande a punta Travesada,), GSOL|MA; MSAS;|C.P. Moaña, Cíes Artesanais, S.C.G., (plan conxunto)|2008183, 2014172, 2015172, 2016173, __2017165__, 2018167, 2019179,|(VI-152), (VI-153), (VI-160), (VI-154), (VI-155), (VI-156), (VI-157), (VI-158), (VI-159),|
+|__G0207v2017__|Desde Rande a punta Travesada, GSOL|MA; MSAS;|C.P. Moaña, Cíes Artesanais, S.C.G., C.P. Redondela, C.P. Vilaboa, (plan conxunto)|2014173, 2015173, 2016174, __2017166__, 2018168, 2019180,|Desde Rande a punta Travesada,|
+|__G0209v2017__|De punta Travesada a o peirao de San Adrián de Cobres, desde a ponte de Rande ata punta Pías, GSOL|MA; MSAS;|C.P. Redondela, C.P. Vilaboa, (plan conxunto)|2014175, 2015175, 2016176, __2017168__, 2018170,|(VI-240), (VI-242),|
+|__G0210v2017__|De puntal da Serra á ponte de Rande, GSOL|MA; MSAS;|C.P. Vigo|2008185, 2014176, 2015176, 2016177, __2017169__, 2018171, 2019182,|(EQK): (VI-069), (VI-549), (VI-550), (VI-551), (VI-552), (VI-548), (VI-070), (VI-068), (VI-579), (EQI): (VI-067), (VI-547),|
 ||Ría de Vigo|A pé;|Asociación de Confrarías da Ría de Vigo, GSOL|__2008175__,|Cabo Estai, Toubiña, Toralla, Canido, Bouzas, Rochas, Area Longa, A Portela, Cesantes, punta do Cabo, Estralo, O Cunchido, Aradoiro, Maceira, Carballal, Covas, Cabalo, río Maior, Río do Porco, Malvinas, Río do Medio, Coelleira, Area Nova, Cabanas, Calera, Domaio, Borna, Meira, A Xunqueira, O Con, Tirán, Illa dos Ratos, Chapela, A Guía, Rande, Cedeira, A Barra, Sobreiro, Illa San Simón, Cobreiro, Estralo, Puntal, río Alvedosas, río Paredes, Deilán, Santo Adrán,|
 
  
 
 ## Ría de Pontevedra PO
 
- _De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_
+ _De punta Couso (42.3097 N, 8.8556 W) ata punta Faxilda (42.4152 N, 8.8807 W)_ Num. AXU: 2
 
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
@@ -70,10 +70,10 @@ __Zonas de producción no SIGREMAR:__
 |__G0197v2017__|Punta Aguiúncho, illote de Grades, punta da Corna, GSOL|MA;|C.P. Palmeira|2008172, 2014162, 2015163, 2016164, __2017156__, 2018158, 2019170,|(AR-065), (AR-066), (AR-067),|
 |__G0199v2017__|Zonas de autorización C.P. Ribeira: bancos de Coroso-Río, Grande-Río Azor, Insua-Airó, Castiñeiras, GSOL|MA;|C.P. Ribeira|2008174, 2014165, 2015165, 2016166, __2017158__, 2018160, 2019172,|(AR-205), (AR-201-I), (AR-201-II), (AR-209), (AR-198),|
 |__G0200v2017__|Desde Sapeiras de Terra a punta Quilme, Areoso, Camallón, Roncadeiras, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo, GSOL|MA; MSAS;|C.P. A Illa de Arousa|2008176, 2014166, 2015166, 2016167, __2017159__, 2018161, 2019173,|(AR-052), (AR-051), (AR-332), (AR-333), (AR-334), (AR-056-II) (AR-059), (AR-056-I), (AR-324-I), (AR-324-II), (AR-050), (AR-049), (AR-058),|
-||Do Rego do Alcalde (Lañeiras de Fóra) á baliza de Orido, Arnela-Galiñeiro, Tragove, Tereixiñas, As Lobeiras, GSOL|MA; MSAS;|C.P. Cambados|2008181, 2014170, 2015170, 2016171, __2017163__, 2018165, 2019177,|(AR-253), (AR-254), (AR-255), (AR-016-1), (AR-016-2), (AR-256),|
-||Enseada da Lanzada (praia da Lanzada, praia de Area da Cruz, Raeiros,), praia da Mexilloeira, praia Area Grande, Carreiro-Barcelas, praia Area das Pipas, praia Area de Reboredo, Lombo de Rons-Migalliñás, Lombo das Sinas, enseada do Grove, GSOL|MA; MSAS;|C.P. O Grove|2008184, 2014174, 2015174, 2016175, __2017167__, 2018169, 2019181,|(AR-118), (AR-119), (AR-120), (AR-121), (AR-071), (AR-072), Praia do Carreiro, praia das Barcelas-Barreiriño, (AR-073), (AR-075), (AR-284), (AR-074), (AR-079), (AR-077), (AR-259),|
-||Entre o peirao de Corón e O Ariño, GSOL|MA;|C.P. Vilanova|2014177, 2015177, 2016178, __2017170__, 2018172, 2019183,|(AR-294), (AR-290), (AR-291), (AR-292), (AR-293),|
-||Praia da Corna|A pé;|C.P. Palmeira|2008171, __2014163__,|Praia da Corna|
+|__G0204v2017__|Do Rego do Alcalde (Lañeiras de Fóra) á baliza de Orido, Arnela-Galiñeiro, Tragove, Tereixiñas, As Lobeiras, GSOL|MA; MSAS;|C.P. Cambados|2008181, 2014170, 2015170, 2016171, __2017163__, 2018165, 2019177,|(AR-253), (AR-254), (AR-255), (AR-016-1), (AR-016-2), (AR-256),|
+|__G0208v2017__|Enseada da Lanzada (praia da Lanzada, praia de Area da Cruz, Raeiros,), praia da Mexilloeira, praia Area Grande, Carreiro-Barcelas, praia Area das Pipas, praia Area de Reboredo, Lombo de Rons-Migalliñás, Lombo das Sinas, enseada do Grove, GSOL|MA; MSAS;|C.P. O Grove|2008184, 2014174, 2015174, 2016175, __2017167__, 2018169, 2019181,|(AR-118), (AR-119), (AR-120), (AR-121), (AR-071), (AR-072), Praia do Carreiro, praia das Barcelas-Barreiriño, (AR-073), (AR-075), (AR-284), (AR-074), (AR-079), (AR-077), (AR-259),|
+|__G0211v2017__|Entre o peirao de Corón e O Ariño, GSOL|MA;|C.P. Vilanova|2014177, 2015177, 2016178, __2017170__, 2018172, 2019183,|(AR-294), (AR-290), (AR-291), (AR-292), (AR-293),|
+|__G0214v2014__|Praia da Corna|A pé;|C.P. Palmeira|2008171, __2014163__,|Praia da Corna|
 ||Intermareal entre punta Tragove e Rego do Alcalde, co saco de Fefiñáns. Entre Ponte Castrelo e punta Barrelo. Entre o peirao de Cambados e a desembocadura do río Umia, GSOL|A pé;|C.P. Cambados|__2008180__,|"Intermareal entre punta Tragove e Rego do Alcalde, co saco de Fefiñáns, Entre Ponte Castrelo e punta Barrelo, Entre o peirao de Cambados e a desembocadura do río Umia,|
 
 
@@ -88,7 +88,7 @@ __Zonas de producción no SIGREMAR:__
 |__G0195v2017__|De punta Insua a punta Uhía, GSOL|MA; MSAS;|C.P. Muros|2008170, 2014160, 2015161, 2016162, __2017154__, 2018156, 2019168,|(MN-012-I), (MN-012-II), (MN-013), (MN-014), (MN-015), (MN-016), (MN-017), (MN-060), (MN-080), (MN-081), (MN-082), (MN-083),|
 |__G0196v2017__|Na costa norte, desde punta Uhía ata porto Siavo, incluíndo a cara interna da illa da Creba, exceptuando a zona portuaria, a zona dos asteleiros, a canle de navegación,; Na costa sur, desde punta Batuda ata punta Redondelo,; GSOL|MA; MSAS;|C.P. Noia|2014161, 2015162, 2016163, _2017155_, __2018157__, 2019169,|_(MN-048-I), (MN-048-II), (MN-048-III), (MN-018),_; (MN-048), (MN-102), (MN-103), (MN-018),|
 |__G0198v2017__|De punta Batuda a río Sieira, GSOL|MA; MSAS;|C.P. Porto do Son, C.P. Portosín, (plan conxunto)  C.P. Noia, C.P. Muros (plan conxunto)|2008173, 2014164, 2015164, 2016165, __2017157__, 2018159, 2019171,|(MN-049), (MN-050), (MN-051), (MN-052), (MN-086), (MN-087),|
-||Praia de Abelleira, praia da Virxe e praia de Ventín, GSOL|A pé;|C.P. Muros|2008169, 2014159, __2015160__,|(MN-058), (MN-054), (MN-059),|
+|__G0213v2015__|Praia de Abelleira, praia da Virxe e praia de Ventín, GSOL|A pé;|C.P. Muros|2008169, 2014159, __2015160__,|(MN-058), (MN-054), (MN-059),|
 
 
 
@@ -102,9 +102,9 @@ __Zonas de producción no SIGREMAR:__
 |__G0192v2017__|De punta Sandía a punta Lago, enseada de Merexo, praia da Cruz, por fóra da praia de Mozogondón, GSOL|MA; MSAS;|C.P. Camariñas, C.P. Muxía, (plan conxunto)|2008159, 2014155, 2015156, 2016158, __2017151__, 2018153, 2019164,|(CM-033), (CM-036), (CM-035), (CM-034), (CM-037), (CM-038), (CM-146),|
 |__G0193v2017__|Zona V: de cabo Touriñán a punta Insua, GSOL|MA; MSAS;|C.P. Fisterra, C.P. Corcubión, C.P. Lira, (plan conxunto)|2008165, 2014156, 2015157, 2016159, __2017152__, 2018154, 2019166,|(CM-060), (CM-061), (CM-062), (CM-063), (CM-065), (CM-066), (CM-067), (CM-068-1), (CM-068-2), (CM-069), (CM-142), (CM-143), (CM-057), (CM-056), (CM-059),|
 |__G0194v2017__|Praia de Laxe, praia da Hermida, praia de Osmo, banco Riocobo, praia de Rebordelo. Do Alto da Facha a punta Cantero, do Alto da Facha a punta Menduiña, GSOL|MA; MSAS;|C.P. Laxe, C.P. Corme, (plan conxunto)|2008167, 2014158, 2015159, 2016161, __2017153__, 2018155, 2019167,|(CM-110), (CM-111), (CM-139), (CM-268), (CM-112), (CM-113), (CM-115), (CM-136), (CM-137),|
-||Praia de Sardiñeiro, praia de Langosteira, GSOL|A pé;|C.P. Fisterra|2008166, 2014157, 2015158, __2016160__,|(CM-083), (CM-081),|
-||De punta Lago a punta da Roda, enseada da Vasa,  GSOL|A pé;|C.P. Camariñas|__2008158__,|De punta Lago a punta da Roda, enseada da Vasa,|
-||Praias do Ézaro e Estorde, GSOL|A pé;|C.P. Corcubión|__2008163__,|Praias do Ézaro, praia de Estorde,|
+|__G0212v2016__|Praia de Sardiñeiro, praia de Langosteira, GSOL|A pé;|C.P. Fisterra|2008166, 2014157, 2015158, __2016160__,|(CM-083), (CM-081),|
+|__G0217v2008__|De punta Lago a punta da Roda, enseada da Vasa,  GSOL|A pé;|C.P. Camariñas|__2008158__,|De punta Lago a punta da Roda, enseada da Vasa,|
+|__G0219v2008__|Praias do Ézaro e Estorde, GSOL|A pé;|C.P. Corcubión|__2008163__,|Praias do Ézaro, praia de Estorde,|
 
 
 
@@ -127,9 +127,9 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-||Bancos do Taro, Fondás, Fontorto, GSOL|A pé;|A.M. San Cosme de Barreiros-Foz|__2008154__,|Bancos do Taro, Fondás, Fontorto,|
-||Taro dos Chonos, Taro das Aceñas, Tesón, GSOL|A pé;|C.P. Ribadeo|__2008155__,|Taro dos Chonos, Taro das Aceñas, Tesón,|
-||Zonas de autorización C.P. Cariño,|A pé;|C.P. Cariño, GSOL|__2008160__,|Zonas de autorización C.P. Cariño,|
+|__G0215v2008__|Bancos do Taro, Fondás, Fontorto, GSOL|A pé;|A.M. San Cosme de Barreiros-Foz|__2008154__,|Bancos do Taro, Fondás, Fontorto,|
+|__G0216v2008__|Taro dos Chonos, Taro das Aceñas, Tesón, GSOL|A pé;|C.P. Ribadeo|__2008155__,|Taro dos Chonos, Taro das Aceñas, Tesón,|
+|__G0218v2008__|Zonas de autorización C.P. Cariño,|A pé;|C.P. Cariño, GSOL|__2008160__,|Zonas de autorización C.P. Cariño,|
 ||Zonas de autorización: enseada do Ladrido, Raias, Cano Cabalar e Mexilloal, GSOL|A pé;|C.P. Espasante|__2008164__,|enseada do Ladrido, Raias, Cano Cabalar, Mexilloal,|
 ||Praia Magdalena, Area Miña Señora, punta Robaleira, GSOL|MSAS;|C.P. Cedeira|__2019165__,|Praia Magdalena, Area Miña Señora, punta Robaleira,|
 
