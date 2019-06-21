@@ -29,7 +29,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Vigo VI
 
- _De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)_
+ _De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)_ Num.
 
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
@@ -40,7 +40,7 @@ __Zonas de producción no SIGREMAR:__
 |__G0207v2017__|Desde Rande a punta Travesada, GSOL|MA; MSAS;|C.P. Moaña, Cíes Artesanais, S.C.G., C.P. Redondela, C.P. Vilaboa, (plan conxunto)|2014173, 2015173, 2016174, __2017166__, 2018168, 2019180,|Desde Rande a punta Travesada,|
 |__G0209v2017__|De punta Travesada a o peirao de San Adrián de Cobres, desde a ponte de Rande ata punta Pías, GSOL|MA; MSAS;|C.P. Redondela, C.P. Vilaboa, (plan conxunto)|2014175, 2015175, 2016176, __2017168__, 2018170,|(VI-240), (VI-242),|
 |__G0210v2017__|De puntal da Serra á ponte de Rande, GSOL|MA; MSAS;|C.P. Vigo|2008185, 2014176, 2015176, 2016177, __2017169__, 2018171, 2019182,|(EQK): (VI-069), (VI-549), (VI-550), (VI-551), (VI-552), (VI-548), (VI-070), (VI-068), (VI-579), (EQI): (VI-067), (VI-547),|
-||Ría de Vigo|A pé;|Asociación de Confrarías da Ría de Vigo, GSOL|__2008175__,|Cabo Estai, Toubiña, Toralla, Canido, Bouzas, Rochas, Area Longa, A Portela, Cesantes, punta do Cabo, Estralo, O Cunchido, Aradoiro, Maceira, Carballal, Covas, Cabalo, río Maior, Río do Porco, Malvinas, Río do Medio, Coelleira, Area Nova, Cabanas, Calera, Domaio, Borna, Meira, A Xunqueira, O Con, Tirán, Illa dos Ratos, Chapela, A Guía, Rande, Cedeira, A Barra, Sobreiro, Illa San Simón, Cobreiro, Estralo, Puntal, río Alvedosas, río Paredes, Deilán, Santo Adrán,|
+|__G0222v2008__|Ría de Vigo|A pé;|Asociación de Confrarías da Ría de Vigo, GSOL|__2008175__,|Cabo Estai, Toubiña, Toralla, Canido, Bouzas, Rochas, Area Longa, A Portela, Cesantes, punta do Cabo, Estralo, O Cunchido, Aradoiro, Maceira, Carballal, Covas, Cabalo, río Maior, Río do Porco, Malvinas, Río do Medio, Coelleira, Area Nova, Cabanas, Calera, Domaio, Borna, Meira, A Xunqueira, O Con, Tirán, Illa dos Ratos, Chapela, A Guía, Rande, Cedeira, A Barra, Sobreiro, Illa San Simón, Cobreiro, Estralo, Puntal, río Alvedosas, río Paredes, Deilán, Santo Adrán,|
 
  
 
@@ -74,7 +74,7 @@ __Zonas de producción no SIGREMAR:__
 |__G0208v2017__|Enseada da Lanzada (praia da Lanzada, praia de Area da Cruz, Raeiros,), praia da Mexilloeira, praia Area Grande, Carreiro-Barcelas, praia Area das Pipas, praia Area de Reboredo, Lombo de Rons-Migalliñás, Lombo das Sinas, enseada do Grove, GSOL|MA; MSAS;|C.P. O Grove|2008184, 2014174, 2015174, 2016175, __2017167__, 2018169, 2019181,|(AR-118), (AR-119), (AR-120), (AR-121), (AR-071), (AR-072), Praia do Carreiro, praia das Barcelas-Barreiriño, (AR-073), (AR-075), (AR-284), (AR-074), (AR-079), (AR-077), (AR-259),|
 |__G0211v2017__|Entre o peirao de Corón e O Ariño, GSOL|MA;|C.P. Vilanova|2014177, 2015177, 2016178, __2017170__, 2018172, 2019183,|(AR-294), (AR-290), (AR-291), (AR-292), (AR-293),|
 |__G0214v2014__|Praia da Corna|A pé;|C.P. Palmeira|2008171, __2014163__,|Praia da Corna|
-||Intermareal entre punta Tragove e Rego do Alcalde, co saco de Fefiñáns. Entre Ponte Castrelo e punta Barrelo. Entre o peirao de Cambados e a desembocadura do río Umia, GSOL|A pé;|C.P. Cambados|__2008180__,|"Intermareal entre punta Tragove e Rego do Alcalde, co saco de Fefiñáns, Entre Ponte Castrelo e punta Barrelo, Entre o peirao de Cambados e a desembocadura do río Umia,|
+|__G0223v2008__|Intermareal entre punta Tragove e Rego do Alcalde, co saco de Fefiñáns. Entre Ponte Castrelo e punta Barrelo. Entre o peirao de Cambados e a desembocadura do río Umia, GSOL|A pé;|C.P. Cambados|__2008180__,|"Intermareal entre punta Tragove e Rego do Alcalde, co saco de Fefiñáns, Entre Ponte Castrelo e punta Barrelo, Entre o peirao de Cambados e a desembocadura do río Umia,|
 
 
 
@@ -115,8 +115,8 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-||Ámbito territorial da C.P. Miño, GSOL|A pé;|C.P. Miño|__2008168__,|Ámbito territorial da C.P. Miño,|
-||Ría da Coruña, GSOL|MA; MSAS;|C.P. A Coruña|__2019159__,|desde o banco de O Parrote a punta Bufadoiro,|
+|__G0221v2008__|Ámbito territorial da C.P. Miño, GSOL|A pé;|C.P. Miño|__2008168__,|Ámbito territorial da C.P. Miño,|
+|__G0224v2019__|Ría da Coruña, GSOL|MA; MSAS;|C.P. A Coruña|__2019159__,|desde o banco de O Parrote a punta Bufadoiro,|
 
 
 
@@ -130,8 +130,8 @@ __Zonas de producción no SIGREMAR:__
 |__G0215v2008__|Bancos do Taro, Fondás, Fontorto, GSOL|A pé;|A.M. San Cosme de Barreiros-Foz|__2008154__,|Bancos do Taro, Fondás, Fontorto,|
 |__G0216v2008__|Taro dos Chonos, Taro das Aceñas, Tesón, GSOL|A pé;|C.P. Ribadeo|__2008155__,|Taro dos Chonos, Taro das Aceñas, Tesón,|
 |__G0218v2008__|Zonas de autorización C.P. Cariño,|A pé;|C.P. Cariño, GSOL|__2008160__,|Zonas de autorización C.P. Cariño,|
-||Zonas de autorización: enseada do Ladrido, Raias, Cano Cabalar e Mexilloal, GSOL|A pé;|C.P. Espasante|__2008164__,|enseada do Ladrido, Raias, Cano Cabalar, Mexilloal,|
-||Praia Magdalena, Area Miña Señora, punta Robaleira, GSOL|MSAS;|C.P. Cedeira|__2019165__,|Praia Magdalena, Area Miña Señora, punta Robaleira,|
+|__G0220v2008__|Zonas de autorización: enseada do Ladrido, Raias, Cano Cabalar e Mexilloal, GSOL|A pé;|C.P. Espasante|__2008164__,|enseada do Ladrido, Raias, Cano Cabalar, Mexilloal,|
+|__G0225v2019__|Praia Magdalena, Area Miña Señora, punta Robaleira, GSOL|MSAS;|C.P. Cedeira|__2019165__,|Praia Magdalena, Area Miña Señora, punta Robaleira,|
 
 
 [Indice](indicesZonasProduccion.md)
