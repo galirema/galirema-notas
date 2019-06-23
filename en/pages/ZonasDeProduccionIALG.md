@@ -91,8 +91,8 @@ __Zonas de producción no SIGREMAR:__
 |__I0241v2017__|De punta Morelo a punta Gallada,|MA; MSAS;|C.P. Camelle|2008198, 2014192, 2015193, 2016185, __2017182__, 2018184, 2019193,|(CM-117), (CM-118), (CM-119), (CM-120),|
 |__I0242v2018__|Desde punta Arnela ata a desembocadura do río Xallas,|A pé;|C.P. Corcubión|2008199, 2014193, 2015194, 2016186, _2017183_, __2018185__, 2019194,|_(CM-048), (CM-044),_; __(CM-049),__|
 |__I0243v2014__|De punta Xanleira ata punta Gallada|A pé;|C.P. Camariñas|2008196, __2014191__, 2015192|De punta Xanleira ata punta Gallada|
-||De punta Chorente a punta Gallada|MA; MSAS;|C.P. Camariñas|2008197, __2014190__,|(CM-097), (CM-098),|
-||Desde a praia de Rostro a Punta Arnela,|MA; MSAS;|C.P. Fisterra|__2017184__, 2018186, 2019196,|(CM-147),|
+|__I0244v2014__|De punta Chorente a punta Gallada|MA; MSAS;|C.P. Camariñas|2008197, __2014190__,|(CM-097), (CM-098),|
+|__I0245v2017__|Desde a praia de Rostro a Punta Arnela,|MA; MSAS;|C.P. Fisterra|__2017184__, 2018186, 2019196,|(CM-147),|
 ||De punta Insua a punta Larada,|A pé;|C.P. Lira|__2008201__,|De punta Insua a punta Larada,|
 ||Da desembocadura do río Xallas á desembocadura do río Larada, pedras da costa, intermareal rochoso entre punta Arnela e Cabo Fisterra,|A pé;|C.P. O Pindo|__2017186__, 2018188, 2019198,|Da desembocadura do río Xallas á desembocadura do río Larada e pedras da costa,|
 ||Litoral da provincia da Coruña,|A pé;|Mardelira, S. Coop. Galega|__2008204__,|Litoral da provincia da Coruña,|
