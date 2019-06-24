@@ -76,8 +76,8 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-||Submareal rochoso entre punta Ínsua e punta Uhía,|MA; MSAS;|C.P. Muros|2014194, 2015195, 2016188, __2017185__, 2018187, 2019197,|(MN-100-I), (MN-100-II), (MN-100-IIIa), (MN-100-IIIb), (MN-100-IV),|
-||De punta Uhía a punta Insua|A pé;|C.P. Muros|__2008202__,|De punta Uhía a punta Insua,|
+|__I0246v2017___|Submareal rochoso entre punta Ínsua e punta Uhía,|MA; MSAS;|C.P. Muros|2014194, 2015195, 2016188, __2017185__, 2018187, 2019197,|(MN-100-I), (MN-100-II), (MN-100-IIIa), (MN-100-IIIb), (MN-100-IV),|
+|__I0247v2008__|De punta Uhía a punta Insua|A pé;|C.P. Muros|__2008202__,|De punta Uhía a punta Insua,|
 
 
 
@@ -93,8 +93,8 @@ __Zonas de producción no SIGREMAR:__
 |__I0243v2014__|De punta Xanleira ata punta Gallada|A pé;|C.P. Camariñas|2008196, __2014191__, 2015192|De punta Xanleira ata punta Gallada|
 |__I0244v2014__|De punta Chorente a punta Gallada|MA; MSAS;|C.P. Camariñas|2008197, __2014190__,|(CM-097), (CM-098),|
 |__I0245v2017__|Desde a praia de Rostro a Punta Arnela,|MA; MSAS;|C.P. Fisterra|__2017184__, 2018186, 2019196,|(CM-147),|
-||De punta Insua a punta Larada,|A pé;|C.P. Lira|__2008201__,|De punta Insua a punta Larada,|
-||Da desembocadura do río Xallas á desembocadura do río Larada, pedras da costa, intermareal rochoso entre punta Arnela e Cabo Fisterra,|A pé;|C.P. O Pindo|__2017186__, 2018188, 2019198,|Da desembocadura do río Xallas á desembocadura do río Larada e pedras da costa,|
+|__I0249v2008__|De punta Insua a punta Larada,|A pé;|C.P. Lira|__2008201__,|De punta Insua a punta Larada,|
+|__I0250v2017__|Da desembocadura do río Xallas á desembocadura do río Larada, pedras da costa, intermareal rochoso entre punta Arnela e Cabo Fisterra,|A pé;|C.P. O Pindo|__2017186__, 2018188, 2019198,|Da desembocadura do río Xallas á desembocadura do río Larada e pedras da costa,|
 ||Litoral da provincia da Coruña,|A pé;|Mardelira, S. Coop. Galega|__2008204__,|Litoral da provincia da Coruña,|
 ||De punta Insua a cabo Fisterra|MA;|Merguladores de Fisterra, S. Coop. Galega|__2008205__,|De punta Insua a cabo Fisterra,|
 
@@ -119,7 +119,7 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-||Desde Ladrido ata a Praia de Esteiro|A pé;|C.P. Espasante|2008200, __2016187__,|Ladrido, Santa Eulalia, Céltigos, Loiba, Picón,|
+|__I0248v2016__|Desde Ladrido ata a Praia de Esteiro|A pé;|C.P. Espasante|2008200, __2016187__,|Ladrido, Santa Eulalia, Céltigos, Loiba, Picón,|
 
 
 
