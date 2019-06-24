@@ -106,11 +106,11 @@ __Zonas de producción no SIGREMAR:__
 |------|---|---------|-------|----------|--------------|
 |__J0269v2014__|De ermida de San Tirso a punta Cabalo (intermareal)|A pé;|C.P. Celeiro|__2014204__,|(CL-127), (CL-128), (CL-129),|
 |__J0270v2014__|De punta Pena Furada, ermida de San Tirso ata punta Rueta,|MSAS;|C.P. O Vicedo, C.P. Celeiro, C.P. San Cibrao, (plan conxunto)|__2014205__,|De punta Pena Furada, ermida de San Tirso ata punta Rueta,|
-||De punta Promontorio a punta Nois,|A pé;|A.M. San Cosme de Barreiros-Foz|__2018201__, 2019212,|(CL-136),|
-||O Vicedo: (praia Fomento, praia Vidrieiro, Illote Xilloi,); Celeiro: (Punta Fuciño do Porco, punta monxes, illote Queimada, O Cargadoiro,); San Cibrao: (Os Farallóns, punta Furada, illa Anzuela,);|MSAS;|A.M. Aresmar|__2019211__,|praia Fomento, praia Vidrieiro, Illote Xilloi, Punta Fuciño do Porco, punta monxes, illote Queimada, O Cargadoiro, Os Farallóns, punta Furada, illa Anzuela,|
-||Xuncos,|A pé;|C.P. Ribadeo|__2019213__,|Xuncos,|
-||Areosa,|A pé;|C.P. San Cibrao|__2019214__,|Areosa,|
-||Punta Frouxeira (Leste) e punta Chirlateira,|MSAS;|C.P. Cedeira|__2019216__,|Punta Frouxeira (Leste), punta Chirlateira,|
+|__J0280v2018__|De punta Promontorio a punta Nois,|A pé;|A.M. San Cosme de Barreiros-Foz|__2018201__, 2019212,|(CL-136),|
+|__J0281v2019__|O Vicedo: (praia Fomento, praia Vidrieiro, Illote Xilloi,); Celeiro: (Punta Fuciño do Porco, punta monxes, illote Queimada, O Cargadoiro,); San Cibrao: (Os Farallóns, punta Furada, illa Anzuela,);|MSAS;|A.M. Aresmar|__2019211__,|praia Fomento, praia Vidrieiro, Illote Xilloi, Punta Fuciño do Porco, punta monxes, illote Queimada, O Cargadoiro, Os Farallóns, punta Furada, illa Anzuela,|
+|__J0282v2019__|Xuncos,|A pé;|C.P. Ribadeo|__2019213__,|Xuncos,|
+|__J0283v2014__|Areosa,|A pé;|C.P. San Cibrao|__2019214__,|Areosa,|
+|__J0284v2019__|Punta Frouxeira (Leste) e punta Chirlateira,|MSAS;|C.P. Cedeira|__2019216__,|Punta Frouxeira (Leste), punta Chirlateira,|
 
 
 
