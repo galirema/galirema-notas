@@ -65,7 +65,7 @@ __Zonas de producción no SIGREMAR:__
 |__I0257v2017__|De Cantareira a punta Carreiro, de punta Carreiro a Barrosa, de Barrosa a Raeiros, de Capilla a punta Faxilda,|MSAS;|C.P. O Grove|2008208, __2017194__, 2018198, 2019208,|A cantareira, Rons, Carreiro, Castiñeira, Con Negro, A Bateria, As Redondas, Barrosa, Espiño, Paxareiros, Raeiros, Capilla, Foxos, Corbeiro,|
 |__I0260v2008__|Zonas de autorización C.P. Ribeira, as restantes zonas resolveranse nas resolucións de apertura,|MA; MSAS;|C.P. Ribeira|__2008203__,|autorización C.P. Ribeira,|
 |__I0265v2019__|O Galiñeiro, Meloxo, San Miguel-Tragove,|MSAS;|C.P. Cambados|__2019205__,|As Negreiriñas, Casueiras, rochas na zona do banco de marisqueo a flote, dende San Miguel ata a punta de Tragove,|
-||Con de Portugal, Sinás de Fora, Con Pequeno, espigón do porto de Vilanova,|MA; MSAS;|C.P. Vilanova|__2018200__, 2019210,|Con de Portugal, Sinás de Fora, Con pequeño, Espigón do porto,|
+|__I0268v2018__|Con de Portugal, Sinás de Fora, Con Pequeno, espigón do porto de Vilanova,|MA; MSAS;|C.P. Vilanova|__2018200__, 2019210,|Con de Portugal, Sinás de Fora, Con pequeño, Espigón do porto,|
 
 
 
