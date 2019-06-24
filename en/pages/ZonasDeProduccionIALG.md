@@ -38,8 +38,8 @@ __Zonas de producción no SIGREMAR:__
 |__I0255v2019__|De punta Orelludas á praia de Abra, (excluída)|A pé; MSAS;|C.P. Baiona|2014199, 2015200, 2016193, 2017191, 2018194, __2019204__,|(VI-574),: de Praia da Abra (excluída) ata cabo Silleiro, (embarcadoiro de Carral): (VI-575), (VI-576), (VI-577), (VI-578), De embarcadoiro de Carral a punta Centinela, De punta Centinela a punta Orelludas,|
 |__I0258v2017__|De punta de Alcabre a praia de Abra, (excluída), de punta Lagoa a praia de Arealonga, (excluída),|MA; MSAS; A pé;|C.P. Vigo|2014203, 2015203, 2016196, __2017195__, 2018199, 2019209,|De punta Lagoa a praia de Area Longa (excluída), de pta alcabre a praia de Abra (excluida),|
 |__I0259v2014__|De petóns de Canaval a Rande|MA; MSAS;|C.P. Moaña|__2014202__,|Rande, Tella, Costal Domaio, A Borna, Arroás, Tirán,|
-||De praia Masso a praia Areamilla,|A pé;|C.P. Cangas|__2018196__, 2019206,|De praia Massó a praia Areamilla,|
-||De praia Canabal a punta Couso,|MSAS;|C.P. Cangas|__2018197__, 2019207,|(VI-521-I), (VI-521-II), (VI-522), (VI-541), (VI-542), (VI-526), (VI-527), (VI-528), (VI-529), (VI-530-I), (VI-530-II), (VI-532), (VI-545), (VI-544), (VI-533),|
+|__I0266v2018__|De praia Masso a praia Areamilla,|A pé;|C.P. Cangas|__2018196__, 2019206,|De praia Massó a praia Areamilla,|
+|__I0267v2018__|De praia Canabal a punta Couso,|MSAS;|C.P. Cangas|__2018197__, 2019207,|(VI-521-I), (VI-521-II), (VI-522), (VI-541), (VI-542), (VI-526), (VI-527), (VI-528), (VI-529), (VI-530-I), (VI-530-II), (VI-532), (VI-545), (VI-544), (VI-533),|
 
 
 ## Ría de Pontevedra PO
@@ -64,7 +64,7 @@ __Zonas de producción no SIGREMAR:__
 |__I0251v2017__|De punta Salinas a punta Quilma, Areoso, Camallón, de punta Testos a punta Campelo, de punta Aguiúncho a punta Furado,|MA; MSAS;|C.P. A Illa de Arousa|2014195, 2015196, 2016189, __2017187__, 2018190, 2019200,|(AR-052), (AR-051), (AR-332), (AR-333), (AR-334), (AR-335), (AR-336-I), (AR-059), (AR-056-I), (AR-056-II), (AR-324-I), (AR-324-II), (AR-329),|
 |__I0257v2017__|De Cantareira a punta Carreiro, de punta Carreiro a Barrosa, de Barrosa a Raeiros, de Capilla a punta Faxilda,|MSAS;|C.P. O Grove|2008208, __2017194__, 2018198, 2019208,|A cantareira, Rons, Carreiro, Castiñeira, Con Negro, A Bateria, As Redondas, Barrosa, Espiño, Paxareiros, Raeiros, Capilla, Foxos, Corbeiro,|
 |__I0260v2008__|Zonas de autorización C.P. Ribeira, as restantes zonas resolveranse nas resolucións de apertura,|MA; MSAS;|C.P. Ribeira|__2008203__,|autorización C.P. Ribeira,|
-||O Galiñeiro, Meloxo, San Miguel-Tragove,|MSAS;|C.P. Cambados|__2019205__,|As Negreiriñas, Casueiras, rochas na zona do banco de marisqueo a flote, dende San Miguel ata a punta de Tragove,|
+|__I0265v2019__|O Galiñeiro, Meloxo, San Miguel-Tragove,|MSAS;|C.P. Cambados|__2019205__,|As Negreiriñas, Casueiras, rochas na zona do banco de marisqueo a flote, dende San Miguel ata a punta de Tragove,|
 ||Con de Portugal, Sinás de Fora, Con Pequeno, espigón do porto de Vilanova,|MA; MSAS;|C.P. Vilanova|__2018200__, 2019210,|Con de Portugal, Sinás de Fora, Con pequeño, Espigón do porto,|
 
 
@@ -108,7 +108,7 @@ __Zonas de producción no SIGREMAR:__
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
 |__I0240v2017__|De punta Langosteira a Cabo Prioriño,|MSAS;|C.P. A Coruña, C.P. Sada, (plan conxunto)|2008195, 2015191, 2016184, __2017181__, 2018183, 2019192,|(CF-033), (CF-034), (CF-035-I), (CF-035-II), (CF-035-III),|
-||De punta San Carlos ata a praia de Cariño,|MA; MSAS;|C.P. Ferrol|__2019195__,|De punta San Carlos ata a praia de Cariño,|
+|__I0263v2019__|De punta San Carlos ata a praia de Cariño,|MA; MSAS;|C.P. Ferrol|__2019195__,|De punta San Carlos ata a praia de Cariño,|
 
 
 
@@ -135,7 +135,7 @@ __Zonas de producción no SIGREMAR:__
 |__I0237v2017__|Intermareal de punta Uhía a punta Remedios,|A pé;|Mª Carmen Sánchez Sánchez|__2017180__, 2018182, 2019191,|Intermareal de punta Uhía a punta Remedios,|
 |__I0238v2016__|De punta Chirlateira a punta Langosteira (agás ámbito Remip Ría de Cedeira). De Lires a Cabo Cee|A pé;|Central Galaica de Plantas Medicinais|2008194, 2014185, 2015186, __2016183__,|Litoral de punta Chirlateira a punta Langosteira, Zonas rochosas intermareais,|
 |__I0239v2015__|Litoral de Galicia, agás ámbito das reservas mariñas de interese pesqueiro e o Parque Nacional das Illas Atlánticas|A pé;|Conservas e Ahumados LOU,S.L.|2008192, 2014187, __2015188__,|Litoral de Galicia, agás o ámbito das reservas mariñas de interese pesqueiro e o Parque Nacional das Illas Atlánticas. Zonas rochosas intermareais;|
-||De punta de Moreira a punta Con da Aguieira, de praia da Concheira a punta Fornos,|A pé;|HQ Seaweed S.L.|2018189, __2019199__,|O GROVE (Zona III): De punta do Naval a punta do Campelo, De punta do Campelo a punta de Barbafeita, De punta de Barbafeita a punta Niño do Corvo, De punta Ouriceira a punta Quilma, De punta Cantodorxo ao Peirao de Meloxo,; RÍA DE VIGO (Zona I): De punta Robaleira a praia de Barra, De Praia de Nerga a Praia de Liméns, De Praia de Liméns a punta Borneira, De Praia de Rodeira a punta Cortés, De Praia da Borna a punta Domaio,;|
+|__I0264v2019__|De punta de Moreira a punta Con da Aguieira, de praia da Concheira a punta Fornos,|A pé;|HQ Seaweed S.L.|2018189, __2019199__,|O GROVE (Zona III): De punta do Naval a punta do Campelo, De punta do Campelo a punta de Barbafeita, De punta de Barbafeita a punta Niño do Corvo, De punta Ouriceira a punta Quilma, De punta Cantodorxo ao Peirao de Meloxo,; RÍA DE VIGO (Zona I): De punta Robaleira a praia de Barra, De Praia de Nerga a Praia de Liméns, De Praia de Liméns a punta Borneira, De Praia de Rodeira a punta Cortés, De Praia da Borna a punta Domaio,;|
 
 
 
