@@ -58,7 +58,7 @@ O presente listado de zonas de producción está feito en base das normas dos an
 
 |Anualidad|AAUT|BESP|DPER|FEQD|GSOL|HPEN|IALG|JANE|KPOL|
 |---------|----|----|----|----|----|----|----|----|----|
-|___2019___|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|
+|___2019___|__47__|__50__|__37__|__24__|__25__|__3__|__24__|__15__|__21__|
 |___2018___|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|
 |___2017___|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|
 |___2016___|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|__ok__|
