@@ -34,10 +34,10 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-||De praia do Sinal a punta Vixía,|MA; MSAS;|C.P. Cangas|__2017219__, 2018227, 2019239,|de punta Vixía ao río de Barra, de punta Creixiña á praia de Liméns (excluída), dende a praia de Liméns (excluída) á praia do Sinal,|
-||A Portela: de Punta Monte Gordo a Punta do Socorro,; praia de Barra,;|A pé;|C.P. Redondela|2017222, 2018230, __2019242__,|(VI-132), (VI-133), (VI-134-I), (VI-134-II), (VI-256),|
-||Bancos intermareais de o puntal da Serra a praia de Arealonga (excluída),|A pé;|C.P. Vigo|__2017224__, 2018232, 2019244,|(VI-139), (VI-183), (VI-066), praia de Alcabre, (VI-178), (VI-064),|
-||Cabalo, Deilán, Río Maior, San Adrián (norte),|A pé;|C.P. Vilaboa|__2017225__, 2018233, 2019245,|(VI-147), (VI-236), (VI-237), (VI-238),|
+|__K0300v2017__|De praia do Sinal a punta Vixía,|MA; MSAS;|C.P. Cangas|__2017219__, 2018227, 2019239,|de punta Vixía ao río de Barra, de punta Creixiña á praia de Liméns (excluída), dende a praia de Liméns (excluída) á praia do Sinal,|
+|__K0303v2019__|A Portela: de Punta Monte Gordo a Punta do Socorro,; praia de Barra,;|A pé;|C.P. Redondela|2017222, 2018230, __2019242__,|(VI-132), (VI-133), (VI-134-I), (VI-134-II), (VI-256),|
+|__K0305v2017__|Bancos intermareais de o puntal da Serra a praia de Arealonga (excluída),|A pé;|C.P. Vigo|__2017224__, 2018232, 2019244,|(VI-139), (VI-183), (VI-066), praia de Alcabre, (VI-178), (VI-064),|
+|__K0306v2017__|Cabalo, Deilán, Río Maior, San Adrián (norte),|A pé;|C.P. Vilaboa|__2017225__, 2018233, 2019245,|(VI-147), (VI-236), (VI-237), (VI-238),|
 
 
 
@@ -48,9 +48,9 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-||Praia Faxilda (ou Pociñas), praia de Prageira, praia de Bascuas, praia de Montalvo, praia Canelas,|A pé;|C.P. Portonovo|__2017221__, 2018229, 2019241,|praia Faxilda, praia de Pragueira, praia de Bascuas, praia de Montalvo, praia Canelas,|
-||Praias de Pampaido, Area da Adra, Praias das Areas, Praias de Nanín, Praias de Barreiro, Praias de Carabuxeira, Praias de Silgar,|A pé;|C.P. Sanxenxo|2017223, 2018231, __2019243__,|(PO-220), (PO-221), (PO-222), (PO-223), (PO-224), (PO-225), (PO-226),|
-||De punta Couso a punta Morcegos cara ao interior da ría de Aldán,|A pé;|C.P. Aldán-O Hio|__2018225__, 2019237,|(PO-166), (PO-167),|
+|__K0302v2017__|Praia Faxilda (ou Pociñas), praia de Prageira, praia de Bascuas, praia de Montalvo, praia Canelas,|A pé;|C.P. Portonovo|__2017221__, 2018229, 2019241,|praia Faxilda, praia de Pragueira, praia de Bascuas, praia de Montalvo, praia Canelas,|
+|__K0304v2019__|Praias de Pampaido, Area da Adra, Praias das Areas, Praias de Nanín, Praias de Barreiro, Praias de Carabuxeira, Praias de Silgar,|A pé;|C.P. Sanxenxo|2017223, 2018231, __2019243__,|(PO-220), (PO-221), (PO-222), (PO-223), (PO-224), (PO-225), (PO-226),|
+|__K0308v2017__|De punta Couso a punta Morcegos cara ao interior da ría de Aldán,|A pé;|C.P. Aldán-O Hio|__2018225__, 2019237,|(PO-166), (PO-167),|
 
 
 
@@ -61,9 +61,9 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-||Saco de Fefiñáns, Pantalán, Fefiñáns, O Varal, Bebedeiros, Medio do Sarrido, Illeira, de punta Tragrove a Rego do Alcalde,|A pé;|C.P. Cambados|__2017218__, 2018226, 2019238,|(AR-015), (AR-013), (AR-012), (AR-011), (AR-011), (AR-217),|
-||Meloxo: de peirao de Meloxo a praia Lavandeira, Ardía: de punta Antarde a as Morrasas, Vilalonga-Dena-Castrelo: de punta Fianteira a punta de Couto de Abaixo, de punta Faxilda a punta Colmado, de punta San Vicente ao porto deportivo de Pedras Negras, de Con do Cavernal a punta das Pozas,|A pé;|C.P. O Grove|__2017220__, 2018228, 2019240,|punta Antarde e as Morrasas, entre punta Fianteira e punta de Couto de Abaixo, de punta Faxilda e punta Colmado, entre punta San Vicente e o porto deportivo de Pedras Negras, entre Con do Cavernal e punta das Pozas,|
-||As Sinas, Con Grande, Carballas, Negrenlas,|MA;|C.P. Vilanova|__2017226__, 2018234, 2019246,|(AR-009), (AR-010), (AR-001), (AR-008),|
+|__K0299v2017__|Saco de Fefiñáns, Pantalán, Fefiñáns, O Varal, Bebedeiros, Medio do Sarrido, Illeira, de punta Tragrove a Rego do Alcalde,|A pé;|C.P. Cambados|__2017218__, 2018226, 2019238,|(AR-015), (AR-013), (AR-012), (AR-011), (AR-011), (AR-217),|
+|__K0301v2017__|Meloxo: de peirao de Meloxo a praia Lavandeira, Ardía: de punta Antarde a as Morrasas, Vilalonga-Dena-Castrelo: de punta Fianteira a punta de Couto de Abaixo, de punta Faxilda a punta Colmado, de punta San Vicente ao porto deportivo de Pedras Negras, de Con do Cavernal a punta das Pozas,|A pé;|C.P. O Grove|__2017220__, 2018228, 2019240,|punta Antarde e as Morrasas, entre punta Fianteira e punta de Couto de Abaixo, de punta Faxilda e punta Colmado, entre punta San Vicente e o porto deportivo de Pedras Negras, entre Con do Cavernal e punta das Pozas,|
+|__K0307v2017__|As Sinas, Con Grande, Carballas, Negrenlas,|MA;|C.P. Vilanova|__2017226__, 2018234, 2019246,|(AR-009), (AR-010), (AR-001), (AR-008),|
 
 
 
@@ -92,7 +92,7 @@ __Zonas de producción no SIGREMAR:__
 |__K0292v2017__|Da desembocadura do río Larada ata punta Insua, Excepto as praias de Cons, Larpa, Gavota, Ximprón Susiños, Surreseco,|A pé;|C.P. Lira|__2017211__, 2018218, 2019230,|da boca do río a Maceiras, praia da lagoa e lagoa de Carrofeito,; de Maceiras (S da praia de Carnota) á esquina do campo de fútbol, incluíndo a praia de Portocubelo,; da esquina do campo de fútbol a O Curro,; de O Curro ata punta Raposeiros (Lombo da Campa), Dende Lombo da Campa ata punta Insua, Excepto praias de Cons, Larpa, Gavota, Ximprón Susiños e Surreseco,; Dentro da REMIP, praia da lagoa e lagoa de Carrofeito, praias de Caxido, Cancelo, Mar de Lira,praias de porto de Barca, porto Balea, praia de Ardeleiro,;|
 |__K0293v2018__|Da desembocadura do río Larada a punta Insua,|MSAS;|C.P. Lira|2017212, __2018219__, 2019231,|da boca do río a Maceiras, praia da Lagoa, Lagoa de Carrofeito,; de Maceiras (S da praia de Carnota) á esquina do campo de fútbol, praia de Portocubelo, praias de Caxido, Cancelo,  Mar de Lira,; da esquina do campo de fútbol a O Curro, praias de porto da Barca, porto Balea,; de O Curro ata punta Raposeiros, Lombo da Campa, praia de Ardeleiro,; Fóra da REMIP: Dende Lombo da Campa ata punta Insua,;|
 |__K0296v2017__|Praia de San Pedro, de punta do Portiño a praia de Cornabecerra; de as Pedras Mariñas a punta Caldebarcos, praias de Area Branca, Lires, O Rostro, Mar de Fóra, Arnela: (Praias de Cons, praia de Larpa, Gavota, Ximprón, Susiños, Surreseco,|A pé;|C.P. O Pindo|__2017215__, 2018222, 2019234,|(CM-101), (CM-107), (CM-039), (CM-040), (CM-041), entre as pedras Mariñas e Punta Caldebarcos,; -No ámbito de Fisterra: (CM-172), (CM-173), (CM-175), (CM-174),; No ámbito de Lira, Dentro da REMIP: zonas de Cons, Larpa, Gavota, Ximprón, praia de Susiños,; Fóra da REMIP:  praia de Surreseco,|
-||De punta Arnela á desembocadura do río Xallas,|MA; MSAS;|C.P. Corcubión|__2018216__,|Fornelos, Brens-Quenxe, Castillos, Caneliñas, Gurés, Ézaro, Illas Lobeiras,|
+|__K0309v2018__|De punta Arnela á desembocadura do río Xallas,|MA; MSAS;|C.P. Corcubión|__2018216__,|Fornelos, Brens-Quenxe, Castillos, Caneliñas, Gurés, Ézaro, Illas Lobeiras,|
 
 
 
