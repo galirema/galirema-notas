@@ -33,6 +33,8 @@ Son tablas necesarias para realizar el análisis de los datos que necesitan una 
 
 ## Nivel 3
 
-* Este nivel corresponde al esquema operativo que tendrán los datos importados que permita compaginar la información de todas las fuentes de una forma estandarizada y evitando informaciones duplicadas y utilizando la codificación necesaria para poder relacionar la información contenida de una forma eficiente.
+* Este nivel corresponde al esquema operativo que tendrán los datos importados que permita compaginar la información de todas las fuentes de una forma estandarizada y evitando informaciones duplicadas y utilizando la codificación necesaria para poder relacionar la información contenida de una forma eficiente.  
+Como no podriaser de otra forma la base de datos es `galirema.sqlite`
+
 
 
