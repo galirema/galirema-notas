@@ -9,6 +9,8 @@
 
 ### A CORUÑA
 
+* Etidades: 1 federación provincial y 35 cofradías
+
 |CONFRARÍA|CORREO|TELF|FAX|
 |---------|------|----|---|
 |FEDERACIÓN A Coruña|fpcpcoruna@telefonica.net|981767321|981767567|
@@ -51,6 +53,8 @@
 
 ### LUGO
 
+* Entidades: 1 federación provincial y 6 cofradías
+
 |CONFRARÍA|CORREO|TELF|FAX|
 |---------|------|----|---|
 |FEDERACIÓN Lugo|info@cofradiaslugo.com|982575185|982575185|
@@ -63,6 +67,8 @@
  
 
 ### PONTEVEDRA
+
+* Entidades: 1 federación provincial y 22 cofradías
 
 |CONFRARÍA|CORREO|TELF|FAX|
 |---------|------|----|---|
