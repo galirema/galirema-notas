@@ -116,7 +116,7 @@ __Zonas de producción no SIGREMAR:__
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
 |__G0221v2008__|Ámbito territorial da C.P. Miño, GSOL|A pé;|C.P. Miño|__2008168__,|Ámbito territorial da C.P. Miño,|
-|__G0224v2019__|Ría da Coruña, GSOL|MA; MSAS;|C.P. A Coruña|__2019159__,|desde o banco de O Parrote a punta Bufadoiro,|
+|__G0224v2019__|Ría da Coruña, GSOL|MA; MSAS;|C.P. A Coruña|[2019159](https://galirema.wikia.org/es/wiki/Pexma2019GSOL159),|desde o banco de O Parrote a punta Bufadoiro,|
 
 
 
@@ -131,7 +131,7 @@ __Zonas de producción no SIGREMAR:__
 |__G0216v2008__|Taro dos Chonos, Taro das Aceñas, Tesón, GSOL|A pé;|C.P. Ribadeo|__2008155__,|Taro dos Chonos, Taro das Aceñas, Tesón,|
 |__G0218v2008__|Zonas de autorización C.P. Cariño,|A pé;|C.P. Cariño, GSOL|__2008160__,|Zonas de autorización C.P. Cariño,|
 |__G0220v2008__|Zonas de autorización: enseada do Ladrido, Raias, Cano Cabalar e Mexilloal, GSOL|A pé;|C.P. Espasante|__2008164__,|enseada do Ladrido, Raias, Cano Cabalar, Mexilloal,|
-|__G0225v2019__|Praia Magdalena, Area Miña Señora, punta Robaleira, GSOL|MSAS;|C.P. Cedeira|__2019165__,|Praia Magdalena, Area Miña Señora, punta Robaleira,|
+|__G0225v2019__|Praia Magdalena, Area Miña Señora, punta Robaleira, GSOL|MSAS;|C.P. Cedeira|[2019165](https://galirema.wikia.org/es/wiki/Pexma2019GSOL165),|Praia Magdalena, Area Miña Señora, punta Robaleira,|
 
 
 [Indice](indicesZonasProduccion.md)
