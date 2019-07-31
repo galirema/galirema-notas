@@ -107,8 +107,8 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__I0240v2017__|De punta Langosteira a Cabo Prioriño, IALG|MSAS;|C.P. A Coruña, C.P. Sada, (plan conxunto)|2008195, 2015191, 2016184, __2017181__, 2018183, [2019192](),|(CF-033), (CF-034), (CF-035-I), (CF-035-II), (CF-035-III),|
-|__I0263v2019__|De punta San Carlos ata a praia de Cariño, IALG|MA; MSAS;|C.P. Ferrol|__2019195__,|De punta San Carlos ata a praia de Cariño,|
+|__I0240v2017__|De punta Langosteira a Cabo Prioriño, IALG|MSAS;|C.P. A Coruña, C.P. Sada, (plan conxunto)|2008195, 2015191, 2016184, __2017181__, 2018183, [2019192](https://galirema.wikia.org/es/wiki/Pexma2019IALG192),|(CF-033), (CF-034), (CF-035-I), (CF-035-II), (CF-035-III),|
+|__I0263v2019__|De punta San Carlos ata a praia de Cariño, IALG|MA; MSAS;|C.P. Ferrol|[2019195](https://galirema.wikia.org/es/wiki/Pexma2019IALG195),|De punta San Carlos ata a praia de Cariño,|
 
 
 
