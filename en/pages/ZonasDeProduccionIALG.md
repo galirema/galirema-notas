@@ -49,7 +49,7 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__I0254v2017__|De punta Couso a punta Preguntoiro, cara ao interior da ría, IALG|MA; MSAS;|C.P. Aldán-O Hio|2008207, 2014198, 2015199, 2016192, __2017190__, 2018193, [2019203](),|de Punta Couso a Punta Corveira, de Punta Corveira a Punta Testada, de Punta Testada a ó Francón, do Francón a Punta Preguntoiro,|
+|__I0254v2017__|De punta Couso a punta Preguntoiro, cara ao interior da ría, IALG|MA; MSAS;|C.P. Aldán-O Hio|2008207, 2014198, 2015199, 2016192, __2017190__, 2018193, [2019203](https://galirema.wikia.org/es/wiki/Pexma2019IALG203),|de Punta Couso a Punta Corveira, de Punta Corveira a Punta Testada, de Punta Testada a ó Francón, do Francón a Punta Preguntoiro,|
 |__I0256v2017__|Interior das liñas imaxinarias de punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Preguntoiro, Cara oeste das illas Ons e Onza, IALG|MSAS;|C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Raxó, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto)|2008209, 2014200, 2015201, 2016194, __2017192__, 2018195,|de punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Preguntoiro, Cara oeste das illas Ons e Onza,|
 
 
@@ -61,7 +61,7 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__I0251v2017__|De punta Salinas a punta Quilma, Areoso, Camallón, de punta Testos a punta Campelo, de punta Aguiúncho a punta Furado, IALG|MA; MSAS;|C.P. A Illa de Arousa|2014195, 2015196, 2016189, __2017187__, 2018190, 2019200,|(AR-052), (AR-051), (AR-332), (AR-333), (AR-334), (AR-335), (AR-336-I), (AR-059), (AR-056-I), (AR-056-II), (AR-324-I), (AR-324-II), (AR-329),|
+|__I0251v2017__|De punta Salinas a punta Quilma, Areoso, Camallón, de punta Testos a punta Campelo, de punta Aguiúncho a punta Furado, IALG|MA; MSAS;|C.P. A Illa de Arousa|2014195, 2015196, 2016189, __2017187__, 2018190, [2019200](),|(AR-052), (AR-051), (AR-332), (AR-333), (AR-334), (AR-335), (AR-336-I), (AR-059), (AR-056-I), (AR-056-II), (AR-324-I), (AR-324-II), (AR-329),|
 |__I0257v2017__|De Cantareira a punta Carreiro, de punta Carreiro a Barrosa, de Barrosa a Raeiros, de Capilla a punta Faxilda, IALG|MSAS;|C.P. O Grove|2008208, __2017194__, 2018198, 2019208,|A cantareira, Rons, Carreiro, Castiñeira, Con Negro, A Bateria, As Redondas, Barrosa, Espiño, Paxareiros, Raeiros, Capilla, Foxos, Corbeiro,|
 |__I0260v2008__|Zonas de autorización C.P. Ribeira, as restantes zonas resolveranse nas resolucións de apertura, IALG|MA; MSAS;|C.P. Ribeira|__2008203__,|autorización C.P. Ribeira,|
 |__I0265v2019__|O Galiñeiro, Meloxo, San Miguel-Tragove, IALG|MSAS;|C.P. Cambados|__2019205__,|As Negreiriñas, Casueiras, rochas na zona do banco de marisqueo a flote, dende San Miguel ata a punta de Tragove,|
