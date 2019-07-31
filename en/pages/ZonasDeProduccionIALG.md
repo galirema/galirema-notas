@@ -61,11 +61,11 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__I0251v2017__|De punta Salinas a punta Quilma, Areoso, Camallón, de punta Testos a punta Campelo, de punta Aguiúncho a punta Furado, IALG|MA; MSAS;|C.P. A Illa de Arousa|2014195, 2015196, 2016189, __2017187__, 2018190, [2019200](),|(AR-052), (AR-051), (AR-332), (AR-333), (AR-334), (AR-335), (AR-336-I), (AR-059), (AR-056-I), (AR-056-II), (AR-324-I), (AR-324-II), (AR-329),|
-|__I0257v2017__|De Cantareira a punta Carreiro, de punta Carreiro a Barrosa, de Barrosa a Raeiros, de Capilla a punta Faxilda, IALG|MSAS;|C.P. O Grove|2008208, __2017194__, 2018198, 2019208,|A cantareira, Rons, Carreiro, Castiñeira, Con Negro, A Bateria, As Redondas, Barrosa, Espiño, Paxareiros, Raeiros, Capilla, Foxos, Corbeiro,|
+|__I0251v2017__|De punta Salinas a punta Quilma, Areoso, Camallón, de punta Testos a punta Campelo, de punta Aguiúncho a punta Furado, IALG|MA; MSAS;|C.P. A Illa de Arousa|2014195, 2015196, 2016189, __2017187__, 2018190, [2019200](https://galirema.wikia.org/es/wiki/Pexma2019IALG200),|(AR-052), (AR-051), (AR-332), (AR-333), (AR-334), (AR-335), (AR-336-I), (AR-059), (AR-056-I), (AR-056-II), (AR-324-I), (AR-324-II), (AR-329),|
+|__I0257v2017__|De Cantareira a punta Carreiro, de punta Carreiro a Barrosa, de Barrosa a Raeiros, de Capilla a punta Faxilda, IALG|MSAS;|C.P. O Grove|2008208, __2017194__, 2018198, [2019208](https://galirema.wikia.org/es/wiki/Pexma2019IALG208),|A cantareira, Rons, Carreiro, Castiñeira, Con Negro, A Bateria, As Redondas, Barrosa, Espiño, Paxareiros, Raeiros, Capilla, Foxos, Corbeiro,|
 |__I0260v2008__|Zonas de autorización C.P. Ribeira, as restantes zonas resolveranse nas resolucións de apertura, IALG|MA; MSAS;|C.P. Ribeira|__2008203__,|autorización C.P. Ribeira,|
-|__I0265v2019__|O Galiñeiro, Meloxo, San Miguel-Tragove, IALG|MSAS;|C.P. Cambados|__2019205__,|As Negreiriñas, Casueiras, rochas na zona do banco de marisqueo a flote, dende San Miguel ata a punta de Tragove,|
-|__I0268v2018__|Con de Portugal, Sinás de Fora, Con Pequeno, espigón do porto de Vilanova, IALG|MA; MSAS;|C.P. Vilanova|__2018200__, 2019210,|Con de Portugal, Sinás de Fora, Con pequeño, Espigón do porto,|
+|__I0265v2019__|O Galiñeiro, Meloxo, San Miguel-Tragove, IALG|MSAS;|C.P. Cambados|[2019205](https://galirema.wikia.org/es/wiki/Pexma2019IALG205),|As Negreiriñas, Casueiras, rochas na zona do banco de marisqueo a flote, dende San Miguel ata a punta de Tragove,|
+|__I0268v2018__|Con de Portugal, Sinás de Fora, Con Pequeno, espigón do porto de Vilanova, IALG|MA; MSAS;|C.P. Vilanova|__2018200__, [2019210](https://galirema.wikia.org/es/wiki/Pexma2019IALG210),|Con de Portugal, Sinás de Fora, Con pequeño, Espigón do porto,|
 
 
 
