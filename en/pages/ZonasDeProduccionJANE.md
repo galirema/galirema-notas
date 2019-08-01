@@ -106,11 +106,11 @@ __Zonas de producción no SIGREMAR:__
 |------|---|---------|-------|----------|--------------|
 |__J0269v2014__|De ermida de San Tirso a punta Cabalo (intermareal), JANE|A pé;|C.P. Celeiro|__2014204__,|(CL-127), (CL-128), (CL-129),|
 |__J0270v2014__|De punta Pena Furada, ermida de San Tirso ata punta Rueta, JANE|MSAS;|C.P. O Vicedo, C.P. Celeiro, C.P. San Cibrao, (plan conxunto)|__2014205__,|De punta Pena Furada, ermida de San Tirso ata punta Rueta,|
-|__J0280v2018__|De punta Promontorio a punta Nois, JANE|A pé;|A.M. San Cosme de Barreiros-Foz|__2018201__, 2019212,|(CL-136),|
-|__J0281v2019__|O Vicedo: (praia Fomento, praia Vidrieiro, Illote Xilloi,); Celeiro: (Punta Fuciño do Porco, punta monxes, illote Queimada, O Cargadoiro,); San Cibrao: (Os Farallóns, punta Furada, illa Anzuela,); JANE|MSAS;|A.M. Aresmar|__2019211__,|praia Fomento, praia Vidrieiro, Illote Xilloi, Punta Fuciño do Porco, punta monxes, illote Queimada, O Cargadoiro, Os Farallóns, punta Furada, illa Anzuela,|
-|__J0282v2019__|Xuncos, JANE|A pé;|C.P. Ribadeo|__2019213__,|Xuncos,|
-|__J0283v2014__|Areosa, JANE|A pé;|C.P. San Cibrao|__2019214__,|Areosa,|
-|__J0284v2019__|Punta Frouxeira (Leste) e punta Chirlateira, JANE|MSAS;|C.P. Cedeira|__2019216__,|Punta Frouxeira (Leste), punta Chirlateira,|
+|__J0280v2018__|De punta Promontorio a punta Nois, JANE|A pé;|A.M. San Cosme de Barreiros-Foz|__2018201__, [2019212](https://galirema.wikia.org/es/wiki/Pexma2019JANE212),|(CL-136),|
+|__J0281v2019__|O Vicedo: (praia Fomento, praia Vidrieiro, Illote Xilloi,); Celeiro: (Punta Fuciño do Porco, punta monxes, illote Queimada, O Cargadoiro,); San Cibrao: (Os Farallóns, punta Furada, illa Anzuela,); JANE|MSAS;|A.M. Aresmar|[2019211](https://galirema.wikia.org/es/wiki/Pexma2019JANE211),|praia Fomento, praia Vidrieiro, Illote Xilloi, Punta Fuciño do Porco, punta monxes, illote Queimada, O Cargadoiro, Os Farallóns, punta Furada, illa Anzuela,|
+|__J0282v2019__|Xuncos, JANE|A pé;|C.P. Ribadeo|[2019213](https://galirema.wikia.org/es/wiki/Pexma2019JANE213),|Xuncos,|
+|__J0283v2014__|Areosa, JANE|A pé;|C.P. San Cibrao|[2019214](https://galirema.wikia.org/es/wiki/Pexma2019JANE214),|Areosa,|
+|__J0284v2019__|Punta Frouxeira (Leste) e punta Chirlateira, JANE|MSAS;|C.P. Cedeira|[2019216](https://galirema.wikia.org/es/wiki/Pexma2019JANE216),|Punta Frouxeira (Leste), punta Chirlateira,|
 
 
 
