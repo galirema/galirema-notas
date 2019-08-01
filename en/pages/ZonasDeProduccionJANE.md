@@ -58,9 +58,9 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__J0275v2018__|De Sapeiras de Terra ata punta Salinas, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo, JANE|MA; MSAS;|C.P. A Illa de Arousa|2014207, 2015208, 2016201, 2017200, __2018206__, 2019221,|(AR-333), (AR-332), (AR-334), (AR-050), (AR-058), (AR-049), (AR-059), (AR-056-I), (AR-056-II), (AR-324-I), (AR-324-II), (AR-052), (AR-051),|
-|__J0278v2017__|De punta Moreira ata punta Area das Pipas, de praia Barrosa a punta Raeiros, JANE|MSAS;|C.P. O Grove|2015210, 2016204, __2017203__, 2018209, 2019224,|Dende punta Moreira ata punta Area das Pipas e de praia Barrosa a punta Raeiros,|
-|__J0285v2018__|A Insuela, JANE|MA;|C.P. Palmeira, JANE|__2019218__,|(AR-065),|
+|__J0275v2018__|De Sapeiras de Terra ata punta Salinas, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo, JANE|MA; MSAS;|C.P. A Illa de Arousa|2014207, 2015208, 2016201, 2017200, __2018206__, [2019221](https://galirema.wikia.org/es/wiki/Pexma2019JANE221),|(AR-333), (AR-332), (AR-334), (AR-050), (AR-058), (AR-049), (AR-059), (AR-056-I), (AR-056-II), (AR-324-I), (AR-324-II), (AR-052), (AR-051),|
+|__J0278v2017__|De punta Moreira ata punta Area das Pipas, de praia Barrosa a punta Raeiros, JANE|MSAS;|C.P. O Grove|2015210, 2016204, __2017203__, 2018209, [2019224](https://galirema.wikia.org/es/wiki/Pexma2019JANE224),|Dende punta Moreira ata punta Area das Pipas e de praia Barrosa a punta Raeiros,|
+|__J0285v2018__|A Insuela, JANE|MA;|C.P. Palmeira, JANE|[2019218](https://galirema.wikia.org/es/wiki/Pexma2019JANE218),|(AR-065),|
 
 
 
