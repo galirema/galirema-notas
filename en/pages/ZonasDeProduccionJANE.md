@@ -47,7 +47,7 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__J0274v2019__|De punta Couso a Punta Niño do Corvo, cara ao interior da ría de Aldán, JANE|MA; MSAS;|C.P. Aldán-O Hio|2015207, 2016200, 2017199, 2018205, __2019220__,|(PO-202), (PO-201), (PO-199), (PO-200), (PO-215), Niño do Corvo,|
+|__J0274v2019__|De punta Couso a Punta Niño do Corvo, cara ao interior da ría de Aldán, JANE|MA; MSAS;|C.P. Aldán-O Hio|2015207, 2016200, 2017199, 2018205, [2019220](https://galirema.wikia.org/es/wiki/Pexma2019JANE220),|(PO-202), (PO-201), (PO-199), (PO-200), (PO-215), Niño do Corvo,|
 
 
 
