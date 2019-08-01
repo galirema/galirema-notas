@@ -92,8 +92,8 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__J0271v2018__|De punta Langosteira a punta Miranda, JANE|MSAS;|C.P. A Coruña, C.P. Barallobre, (plan conxunto)|2014206, 2015204, 2016197, 2017196, __2018202__, 2019215,|de punta Langosteira ás illas de San Pedro, (CF-321), (CF-322), (CF-323), (CF-324),|
-|__J0272v2018__|De punta San Carlos a punta Frouxeira, JANE|MSAS;|C.P. Ferrol|2015205, 2016198, 2017197, __2018203__, 2019217,|(CF-141), (CF-137),|
+|__J0271v2018__|De punta Langosteira a punta Miranda, JANE|MSAS;|C.P. A Coruña, C.P. Barallobre, (plan conxunto)|2014206, 2015204, 2016197, 2017196, __2018202__, [2019215](https://galirema.wikia.org/es/wiki/Pexma2019JANE215),|de punta Langosteira ás illas de San Pedro, (CF-321), (CF-322), (CF-323), (CF-324),|
+|__J0272v2018__|De punta San Carlos a punta Frouxeira, JANE|MSAS;|C.P. Ferrol|2015205, 2016198, 2017197, __2018203__, [2019217](https://galirema.wikia.org/es/wiki/Pexma2019JANE217),|(CF-141), (CF-137),|
 
 
 
