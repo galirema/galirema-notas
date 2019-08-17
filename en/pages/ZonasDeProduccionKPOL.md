@@ -61,7 +61,7 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__K0299v2017__|Saco de Fefiñáns, Pantalán, Fefiñáns, O Varal, Bebedeiros, Medio do Sarrido, Illeira, de punta Tragrove a Rego do Alcalde, KPOL|A pé;|C.P. Cambados|__2017218__, 2018226, [2019238](https://galirema.wikia.org/es/wiki/Pexma2019KPOL238),|(AR-015), (AR-013), (AR-012), (AR-011), (AR-011), (AR-217),|
+|__K0299v2017__|Saco de Fefiñáns, Pantalán, Fefiñáns, O Varal, Bebedeiros, Medio do Sarrido, Illeira, de punta Tragrove a Rego do Alcalde, KPOL|A pé;|C.P. Cambados|2008223, 2014224, 2015234, 2016221, __2017218__, 2018226, [2019238](https://galirema.wikia.org/es/wiki/Pexma2019KPOL238),|(AR-015), (AR-013), (AR-012), (AR-011), (AR-011), (AR-217),|
 |__K0301v2017__|Meloxo: de peirao de Meloxo a praia Lavandeira, Ardía: de punta Antarde a as Morrasas, Vilalonga-Dena-Castrelo: de punta Fianteira a punta de Couto de Abaixo, de punta Faxilda a punta Colmado, de punta San Vicente ao porto deportivo de Pedras Negras, de Con do Cavernal a punta das Pozas, KPOL|A pé;|C.P. O Grove|__2017220__, 2018228, [2019240](https://galirema.wikia.org/es/wiki/Pexma2019KPOL240),|punta Antarde e as Morrasas, entre punta Fianteira e punta de Couto de Abaixo, de punta Faxilda e punta Colmado, entre punta San Vicente e o porto deportivo de Pedras Negras, entre Con do Cavernal e punta das Pozas,|
 |__K0307v2017__|As Sinas, Con Grande, Carballas, Negrenlas, KPOL|MA;|C.P. Vilanova|__2017226__, 2018234, [2019246](https://galirema.wikia.org/es/wiki/Pexma2019KPOL246),|(AR-009), (AR-010), (AR-001), (AR-008),|
 
