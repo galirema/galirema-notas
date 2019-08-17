@@ -48,7 +48,7 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__K0302v2017__|Praia Faxilda (ou Pociñas), praia de Prageira, praia de Bascuas, praia de Montalvo, praia Canelas, KPOL|A pé;|C.P. Portonovo|__2017221__, 2018229, [2019241](https://galirema.wikia.org/es/wiki/Pexma2019KPOL241),|praia Faxilda, praia de Pragueira, praia de Bascuas, praia de Montalvo, praia Canelas,|
+|__K0302v2017__|Praia Faxilda (ou Pociñas), praia de Prageira, praia de Bascuas, praia de Montalvo, praia Canelas, KPOL|A pé;|C.P. Portonovo|2014226, 2015237, 2016224, __2017221__, 2018229, [2019241](https://galirema.wikia.org/es/wiki/Pexma2019KPOL241),|praia Faxilda, praia de Pragueira, praia de Bascuas, praia de Montalvo, praia Canelas,|
 |__K0304v2019__|Praias de Pampaido, Area da Adra, Praias das Areas, Praias de Nanín, Praias de Barreiro, Praias de Carabuxeira, Praias de Silgar, KPOL|A pé;|C.P. Sanxenxo|2017223, 2018231, [2019243](https://galirema.wikia.org/es/wiki/Pexma2019KPOL243),|(PO-220), (PO-221), (PO-222), (PO-223), (PO-224), (PO-225), (PO-226),|
 |__K0308v2017__|De punta Couso a punta Morcegos cara ao interior da ría de Aldán, KPOL|A pé;|C.P. Aldán-O Hio|__2018225__, [2019237](https://galirema.wikia.org/es/wiki/Pexma2019KPOL237),|(PO-166), (PO-167),|
 
