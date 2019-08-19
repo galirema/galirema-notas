@@ -96,7 +96,7 @@ __Zonas de producción no SIGREMAR:__
 
 
 
-## Coruña-Ferrol CF|
+## Coruña-Ferrol CF
 
  _De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)_ Num. AXU: 4 
 
