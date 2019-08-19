@@ -118,7 +118,7 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__K0286v2017__|Bancos de Fondás, O Taro, KPOL|A pé;|A.M. San Cosme de Barreiros-Foz|__2017205__, 2018211, [2019226](https://galirema.wikia.org/es/wiki/Pexma2019KPOL226),|(CL-166), (CL-169),|
+|__K0286v2017__|Bancos de Fondás, O Taro, KPOL|A pé;|A.M. San Cosme de Barreiros-Foz|2008221, 2014209, 2015218, 2016206, __2017205__, 2018211, [2019226](https://galirema.wikia.org/es/wiki/Pexma2019KPOL226),|(CL-166), (CL-169),|
 
 
 
