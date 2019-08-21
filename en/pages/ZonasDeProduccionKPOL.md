@@ -38,6 +38,7 @@ __Zonas de producción no SIGREMAR:__
 |__K0303v2019__|A Portela: de Punta Monte Gordo a Punta do Socorro,; praia de Barra,; KPOL|A pé;|C.P. Redondela|2008225, 2014227, 2015238, 2016225, 2017222, 2018230, [2019242](https://galirema.wikia.org/es/wiki/Pexma2019KPOL242),|(VI-132), (VI-133), (VI-134-I), (VI-134-II), (VI-256),|
 |__K0305v2017__|Bancos intermareais de o puntal da Serra a praia de Arealonga (excluída), KPOL|A pé;|C.P. Vigo|2016227, __2017224__, 2018232, [2019244](https://galirema.wikia.org/es/wiki/Pexma2019KPOL244),|(VI-139), (VI-183), (VI-066), praia de Alcabre, (VI-178), (VI-064),|
 |__K0306v2017__|Cabalo, Deilán, Río Maior, San Adrián (norte), KPOL|A pé;|C.P. Vilaboa|2008226, 2014228, 2015239, 2016228, __2017225__, 2018233, [2019245](https://galirema.wikia.org/es/wiki/Pexma2019KPOL245),|(VI-147), (VI-236), (VI-237), (VI-238),|
+|__K0320v2018__|Establecerase na resolución de apertura, KPOL|A pé;|C.P. Cangas|__2008224__| * |
 
 
 
