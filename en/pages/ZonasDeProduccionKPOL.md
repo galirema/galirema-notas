@@ -38,7 +38,7 @@ __Zonas de producción no SIGREMAR:__
 |__K0303v2019__|A Portela: de Punta Monte Gordo a Punta do Socorro,; praia de Barra,; KPOL|A pé;|C.P. Redondela|2008225, 2014227, 2015238, 2016225, 2017222, 2018230, [2019242](https://galirema.wikia.org/es/wiki/Pexma2019KPOL242),|(VI-132), (VI-133), (VI-134-I), (VI-134-II), (VI-256),|
 |__K0305v2017__|Bancos intermareais de o puntal da Serra a praia de Arealonga (excluída), KPOL|A pé;|C.P. Vigo|2016227, __2017224__, 2018232, [2019244](https://galirema.wikia.org/es/wiki/Pexma2019KPOL244),|(VI-139), (VI-183), (VI-066), praia de Alcabre, (VI-178), (VI-064),|
 |__K0306v2017__|Cabalo, Deilán, Río Maior, San Adrián (norte), KPOL|A pé;|C.P. Vilaboa|2008226, 2014228, 2015239, 2016228, __2017225__, 2018233, [2019245](https://galirema.wikia.org/es/wiki/Pexma2019KPOL245),|(VI-147), (VI-236), (VI-237), (VI-238),|
-|__K0320v2018__|Establecerase na resolución de apertura, KPOL|A pé;|C.P. Cangas|__2008224__| * |
+|__K0320v2018__|Establecerase na resolución de apertura, KPOL|A pé;|C.P. Cangas|__2008224__,| * |
 
 
 
@@ -65,6 +65,8 @@ __Zonas de producción no SIGREMAR:__
 |__K0299v2017__|Saco de Fefiñáns, Pantalán, Fefiñáns, O Varal, Bebedeiros, Medio do Sarrido, Illeira, de punta Tragrove a Rego do Alcalde, KPOL|A pé;|C.P. Cambados|2008223, 2014224, 2015234, 2016221, __2017218__, 2018226, [2019238](https://galirema.wikia.org/es/wiki/Pexma2019KPOL238),|(AR-015), (AR-013), (AR-012), (AR-011), (AR-011), (AR-217),|
 |__K0301v2017__|Meloxo: de peirao de Meloxo a praia Lavandeira, Ardía: de punta Antarde a as Morrasas, Vilalonga-Dena-Castrelo: de punta Fianteira a punta de Couto de Abaixo, de punta Faxilda a punta Colmado, de punta San Vicente ao porto deportivo de Pedras Negras, de Con do Cavernal a punta das Pozas, KPOL|A pé;|C.P. O Grove|2015236, 2016223, __2017220__, 2018228, [2019240](https://galirema.wikia.org/es/wiki/Pexma2019KPOL240),|punta Antarde e as Morrasas, entre punta Fianteira e punta de Couto de Abaixo, de punta Faxilda e punta Colmado, entre punta San Vicente e o porto deportivo de Pedras Negras, entre Con do Cavernal e punta das Pozas,|
 |__K0307v2017__|As Sinas, Con Grande, Carballas, Negrenlas, KPOL|MA;|C.P. Vilanova|2014229, 2015240, 2016229, __2017226__, 2018234, [2019246](https://galirema.wikia.org/es/wiki/Pexma2019KPOL246),|(AR-009), (AR-010), (AR-001), (AR-008),|
+|__K0321v2008__|Castelete-O Rego, Esteiro de Vilamaior, O Bote-As Carballas, KPOL|A pé;|C.P. Vilanova|__2008227__,|ARM: Castelete-O Rego, Esteiro, O Bote-As Carballas,; NER: Esteiro,; DIN: Castele, O Bote-As Carballas,;|
+|__K0322v2008__|Esteiro do Rial, Praia de Corón, Praia de Saiñas, KPOL|A pé;|C.P. Vilaxoán|__2008228__,| * |
 
 
 
