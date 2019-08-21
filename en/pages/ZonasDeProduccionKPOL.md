@@ -97,7 +97,9 @@ __Zonas de producción no SIGREMAR:__
 |__K0293v2018__|Da desembocadura do río Larada a punta Insua, KPOL|MSAS;|C.P. Lira|2008218, 2014217, 2015227, 2016214, 2017212, __2018219__, [2019231](https://galirema.wikia.org/es/wiki/Pexma2019KPOL231),|da boca do río a Maceiras, praia da Lagoa, Lagoa de Carrofeito,; de Maceiras (S da praia de Carnota) á esquina do campo de fútbol, praia de Portocubelo, praias de Caxido, Cancelo,  Mar de Lira,; da esquina do campo de fútbol a O Curro, praias de porto da Barca, porto Balea,; de O Curro ata punta Raposeiros, Lombo da Campa, praia de Ardeleiro,; Fóra da REMIP: Dende Lombo da Campa ata punta Insua,;|
 |__K0296v2017__|Praia de San Pedro, de punta do Portiño a praia de Cornabecerra; de as Pedras Mariñas a punta Caldebarcos, praias de Area Branca, Lires, O Rostro, Mar de Fóra, Arnela: (Praias de Cons, praia de Larpa, Gavota, Ximprón, Susiños, Surreseco, KPOL|A pé;|C.P. O Pindo|2008220, 2014220, 2015230, 2016217, __2017215__, 2018222, [2019234](https://galirema.wikia.org/es/wiki/Pexma2019KPOL234),|(CM-101), (CM-107), (CM-039), (CM-040), (CM-041), entre as pedras Mariñas e Punta Caldebarcos,; -No ámbito de Fisterra: (CM-172), (CM-173), (CM-175), (CM-174),; No ámbito de Lira, Dentro da REMIP: zonas de Cons, Larpa, Gavota, Ximprón, praia de Susiños,; Fóra da REMIP:  praia de Surreseco,|
 |__K0309v2018__|De punta Arnela á desembocadura do río Xallas, KPOL|MA; MSAS;|C.P. Corcubión|2014213, __2018216__,|Fornelos, Brens-Quenxe, Castillos, Caneliñas, Gurés, Ézaro, Illas Lobeiras,|
-
+|__K0314v2016__|Zona de autorización (marxe dereita da enseada do río Anllóns, entre illa Cagallóns,  liña de punta Revoltas, enseada de Insua); Zonas de libre marisqueo do esteiro do Anllóns: Marxe esquerda KPOL|A pé;|A.M. Esteiro do río Anllóns|__2016207__|Zonas de libre marisqueo do esteiro do Anllóns: Marxe esquerda O Couto (CM-093), O Pendón (CM-094), Ourixeira (CM-126),|
+|__K0316v2015__|Enseada da Vasa, KPOL|A pé;|C.P. Camariñas|__2015223__|Enseada de A Vasa (CM-130),|
+|__K0318v2008__|Ambito territorial da C.P. Malpica, KPOL|A pé;|C.P. Malpica|__2008215__| * |
 
 
 ## Coruña-Ferrol CF
