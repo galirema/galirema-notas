@@ -125,7 +125,8 @@ __Zonas de producción no SIGREMAR:__
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
 |__K0286v2017__|Bancos de Fondás, O Taro, KPOL|A pé;|A.M. San Cosme de Barreiros-Foz|2008221, 2014209, 2015218, 2016206, __2017205__, 2018211, [2019226](https://galirema.wikia.org/es/wiki/Pexma2019KPOL226),|(CL-166), (CL-169),|
-
+|__K0315v2015__|O Tesón, A Vilavella, KPOL|A pé;|C.P. Ribadeo|__2015219__|Zona 1: O Tesón (CL-158),; Zona 2: desde A Vilavella ata As Aceñas,;|
+|__K0317v2014__|Peirao Ladrido-Comboa, praia de Cabalar, punta Cabalar-Mexilloal, KPOL|A pé;|C.P. Espasante|2008214, __2014214__,|Peirao de Ladrido-Comboa, Praia de Cabalar, punta Cabalar-Mexilloal,;|
 
 
 
