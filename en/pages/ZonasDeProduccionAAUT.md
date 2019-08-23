@@ -93,7 +93,7 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |------|---|---------|-------|----------|------------------|
-|__A0002v2017__|Zona de autorización do río Anllóns. AAUT| A pé;| A.M. Esteiro do río Anllóns.|2008003, 2013555, 2013556, 2014002, 2015002, 2016002, __2017002__, 2018002, [2019002](https://galirema.wikia.org/es/wiki/Pexma2019AAUT002),|(CM-121), (CM-093),|
+|__A0002v2017__|Zona de autorización do río Anllóns. AAUT| A pé;| A.M. Esteiro do río Anllóns.|2008003, 2013556, 2014002, 2015002, 2016002, __2017002__, 2018002, [2019002](https://galirema.wikia.org/es/wiki/Pexma2019AAUT002),|(CM-121), (CM-093),|
 |__A0010v2017__|De punta Lago a punta Roda, de punta Sandía a punta Roda, de punta Sandía a punta Insuela, enseada da Vasa, AAUT| A pé; Embarcacion;| C.P. Camariñas|2008010, 2013564, 2014010, 2015010, 2016010, __2017010__, 2018010, [2019011](https://galirema.wikia.org/es/wiki/Pexma2019AAUT011),|(CM-129), (CM-100), (CM-130), (CM-133), (CM-131), (CM-134), (CM-132), (CM-135),|
 
 
@@ -103,7 +103,7 @@ __Zonas de producción no SIGREMAR:__
  
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|[A0001v2017](http://u.osmfr.org/m/250411/)|Lagoas de Baldaio. AAUT| A pé;|A.M. Fonte Santa Helena-Baldaio|2008002, 2014001, 2015001, 2016001, __2017001__, 2018001, [2019001](https://galirema.wikia.org/es/wiki/Pexma2019AAUT001),|(CF-040), (CF-167), banco da lagoa interna,|
+|[A0001v2017](http://u.osmfr.org/m/250411/)|Lagoas de Baldaio. AAUT| A pé;|A.M. Fonte Santa Helena-Baldaio|2008002, 2013555, 2014001, 2015001, 2016001, __2017001__, 2018001, [2019001](https://galirema.wikia.org/es/wiki/Pexma2019AAUT001),|(CF-040), (CF-167), banco da lagoa interna,|
 |__A0003v2017__|Ría do Burgo. AAUT| A pé; Embarcación;|C.P. A Coruña|2008004, 2013557, 2014003, 2015003, 2016003, __2017003__, 2018003,|(CF-002), (CF-004), (CF-009), (CF-008), (CF-005), (CF-006), (CF-007), (CF-317), (CF-319), (CF-001),|
 |__A0312v2019__|Ría do Burgo AAUT|Embarcación;|C.P. A Coruña|[2019003](https://galirema.wikia.org/es/wiki/Pexma2019AAUT003),|canle da Ría (CF-001),|
 |__A0313v2019__|Zonas de autorización da parte interna da ría do Burgo, entre a ponte da Pasaxe e a ponte do Burgo, AAUT|A pé;|C.P. A Coruña|[2019004](https://galirema.wikia.org/es/wiki/Pexma2019AAUT004),|(CF-002), (CF-004), (CF-009), (CF-008), (CF-005), (CF-006), (CF-007), (CF-317), (CF-319),|
