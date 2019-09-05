@@ -85,10 +85,10 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__G0195v2017__|De punta Insua a punta Uhía, GSOL|MA; MSAS;|C.P. Muros|2008170, 2014160, 2015161, 2016162, __2017154__, 2018156, [2019168](https://galirema.wikia.org/es/wiki/Pexma2019GSOL168),|(MN-012-I), (MN-012-II), (MN-013), (MN-014), (MN-015), (MN-016), (MN-017), (MN-060), (MN-080), (MN-081), (MN-082), (MN-083),|
-|__G0196v2017__|Na costa norte, desde punta Uhía ata porto Siavo, incluíndo a cara interna da illa da Creba, exceptuando a zona portuaria, a zona dos asteleiros, a canle de navegación,; Na costa sur, desde punta Batuda ata punta Redondelo,; GSOL|MA; MSAS;|C.P. Noia|2014161, 2015162, 2016163, _2017155_, __2018157__, [2019169](https://galirema.wikia.org/es/wiki/Pexma2019GSOL169),|_(MN-048-I), (MN-048-II), (MN-048-III), (MN-018),_; (MN-048), (MN-102), (MN-103), (MN-018),|
-|__G0198v2017__|De punta Batuda a río Sieira, GSOL|MA; MSAS;|C.P. Porto do Son, C.P. Portosín, (plan conxunto)  C.P. Noia, C.P. Muros (plan conxunto)|2008173, 2014164, 2015164, 2016165, __2017157__, 2018159, [2019171](https://galirema.wikia.org/es/wiki/Pexma2019GSOL171),|(MN-049), (MN-050), (MN-051), (MN-052), (MN-086), (MN-087),|
-|__G0213v2015__|Praia de Abelleira, praia da Virxe e praia de Ventín, GSOL|A pé;|C.P. Muros|2008169, 2014159, __2015160__,|(MN-058), (MN-054), (MN-059),|
+|__G0195v2017__|De punta Insua a punta Uhía, GSOL|MA; MSAS;|C.P. Muros|2008170, 2013707, 2014160, 2015161, 2016162, __2017154__, 2018156, [2019168](https://galirema.wikia.org/es/wiki/Pexma2019GSOL168),|(MN-012-I), (MN-012-II), (MN-013), (MN-014), (MN-015), (MN-016), (MN-017), (MN-060), (MN-080), (MN-081), (MN-082), (MN-083),|
+|__G0196v2017__|Na costa norte, desde punta Uhía ata porto Siavo, incluíndo a cara interna da illa da Creba, exceptuando a zona portuaria, a zona dos asteleiros, a canle de navegación,; Na costa sur, desde punta Batuda ata punta Redondelo,; GSOL|MA; MSAS;|C.P. Noia|2013708, 2014161, 2015162, 2016163, _2017155_, __2018157__, [2019169](https://galirema.wikia.org/es/wiki/Pexma2019GSOL169),|_(MN-048-I), (MN-048-II), (MN-048-III), (MN-018),_; (MN-048), (MN-102), (MN-103), (MN-018),|
+|__G0198v2017__|De punta Batuda a río Sieira, GSOL|MA; MSAS;|C.P. Porto do Son, C.P. Portosín, (plan conxunto)  C.P. Noia, C.P. Muros (plan conxunto)|2008173, 2013711, 2014164, 2015164, 2016165, __2017157__, 2018159, [2019171](https://galirema.wikia.org/es/wiki/Pexma2019GSOL171),|(MN-049), (MN-050), (MN-051), (MN-052), (MN-086), (MN-087),|
+|__G0213v2015__|Praia de Abelleira, praia da Virxe e praia de Ventín, GSOL|A pé;|C.P. Muros|2008169, 2013706, 2014159, __2015160__,|(MN-058), (MN-054), (MN-059),|
 
 
 
