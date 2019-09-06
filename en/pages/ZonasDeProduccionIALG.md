@@ -66,6 +66,7 @@ __Zonas de producción no SIGREMAR:__
 |__I0260v2008__|Zonas de autorización C.P. Ribeira, as restantes zonas resolveranse nas resolucións de apertura, IALG|MA; MSAS;|C.P. Ribeira|__2008203__,|autorización C.P. Ribeira,|
 |__I0265v2019__|O Galiñeiro, Meloxo, San Miguel-Tragove, IALG|MSAS;|C.P. Cambados|[2019205](https://galirema.wikia.org/es/wiki/Pexma2019IALG205),|As Negreiriñas, Casueiras, rochas na zona do banco de marisqueo a flote, dende San Miguel ata a punta de Tragove,|
 |__I0268v2018__|Con de Portugal, Sinás de Fora, Con Pequeno, espigón do porto de Vilanova, IALG|MA; MSAS;|C.P. Vilanova|__2018200__, [2019210](https://galirema.wikia.org/es/wiki/Pexma2019IALG210),|Con de Portugal, Sinás de Fora, Con pequeño, Espigón do porto,|
+|__I0325v2013__|Petóns de Centoleira, Con de Agosto-praia Carreira-praia Aguiño; norte Vionta-Cabeceiro Grande-punta Castelo-punta Lagos; entre illote Rabuda, illote Redonda Vella, a punta do Castelo e a praia de Carreira, IALG|MA; MSAS;|C.P. Aguiño|2013736|Petóns de Centoleira, Con de Agosto-praia Carreira-praia Aguiño; norte Vionta-Cabeceiro Grande-punta Castelo-punta Lagos; entre illote Rabuda, illote Redonda Vella, a punta do Castelo e a praia de Carreira,|
 
 
 
@@ -137,6 +138,7 @@ __Zonas de producción no SIGREMAR:__
 |__I0238v2016__|De punta Chirlateira a punta Langosteira (agás ámbito Remip Ría de Cedeira). De Lires a Cabo Cee, IALG|A pé;|Central Galaica de Plantas Medicinais|2008194, 2014185, 2015186, __2016183__,|Litoral de punta Chirlateira a punta Langosteira, Zonas rochosas intermareais,|
 |__I0239v2015__|Litoral de Galicia, agás ámbito das reservas mariñas de interese pesqueiro e o Parque Nacional das Illas Atlánticas, IALG|A pé;|Conservas e Ahumados LOU,S.L.|2008192, 2014187, __2015188__,|Litoral de Galicia, agás o ámbito das reservas mariñas de interese pesqueiro e o Parque Nacional das Illas Atlánticas. Zonas rochosas intermareais;|
 |__I0264v2019__|De punta de Moreira a punta Con da Aguieira, de praia da Concheira a punta Fornos, IALG|A pé;|HQ Seaweed S.L.|2018189, [2019199](https://galirema.wikia.org/es/wiki/Pexma2019IALG199),|O GROVE (Zona III): De punta do Naval a punta do Campelo, De punta do Campelo a punta de Barbafeita, De punta de Barbafeita a punta Niño do Corvo, De punta Ouriceira a punta Quilma, De punta Cantodorxo ao Peirao de Meloxo,; RÍA DE VIGO (Zona I): De punta Robaleira a praia de Barra, De Praia de Nerga a Praia de Liméns, De Praia de Liméns a punta Borneira, De Praia de Rodeira a punta Cortés, De Praia da Borna a punta Domaio,;|
+|__I0326v2013__|Ría de Vigo-A Guarda; ría de Pontevedra; ría de Arousa; ría de Muros-Noia-Fisterra; Costa da Morte-A Coruña IALG|A pé;|Conservas Artemar, S.L.N.E.|2013732|Ría de Vigo-A Guarda; ría de Pontevedra; ría de Arousa; ría de Muros-Noia-Fisterra; Costa da Morte-A Coruña,|
 
 
 
