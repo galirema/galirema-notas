@@ -77,7 +77,7 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__I0246v2017__|Submareal rochoso entre punta Ínsua e punta Uhía, IALG|MA; MSAS;|C.P. Muros|2014194, 2015195, 2016188, __2017185__, 2018187, [2019197](https://galirema.wikia.org/es/wiki/Pexma2019IALG197),|(MN-100-I), (MN-100-II), (MN-100-IIIa), (MN-100-IIIb), (MN-100-IV),|
+|__I0246v2017__|Submareal rochoso entre punta Ínsua e punta Uhía, IALG|MA; MSAS;|C.P. Muros|2013742, 2014194, 2015195, 2016188, __2017185__, 2018187, [2019197](https://galirema.wikia.org/es/wiki/Pexma2019IALG197),|(MN-100-I), (MN-100-II), (MN-100-IIIa), (MN-100-IIIb), (MN-100-IV),|
 |__I0247v2008__|De punta Uhía a punta Insua, IALG|A pé;|C.P. Muros|__2008202__,|De punta Uhía a punta Insua,|
 
 
