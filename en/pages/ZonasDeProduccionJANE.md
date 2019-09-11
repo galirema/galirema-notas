@@ -35,7 +35,7 @@ __Zonas de producción no SIGREMAR:__
 |------|---|---------|-------|----------|--------------|
 |__J0273v2017__|De punta Orelluda a Punta dos Picos, JANE|A pé;|C.P. A Guarda|2015206, 2016199, __2017198__, 2018204, [2019219](https://galirema.wikia.org/es/wiki/Pexma2019JANE219),|(VI-207),: (VI-251), (VI-252), (VI-253), (VI-254), (VI-255),|
 |__J0276v2018__|De punta Orelluda a punta Santa Marta, desde a desembocadura do río Miñor a praia de Portocelo, JANE|A pé; MA; MSAS;|C.P. Baiona|2016202, 2017201, __2018207__, [2019222](https://galirema.wikia.org/es/wiki/Pexma2019JANE222),|De praia de Portocelo á desembocadura do río Miñor, de punta Santa Marta ata cabo Silleiro, De cabo Silleiro ata punta Centinela, De punta Centinela a punta Orelludas,|
-|__J0277v2017__|De punta Balea ao extremo leste da praia de Liméns, (incluíndo o faro da Borneira, illote Corbeiro,) do extremo oeste da praia de Liméns ao extremo leste da praia de Barra, do extremo oeste da praia de Barra ata punta Robaleira, de punta Balea a punta Rodeira, JANE|MA; MSAS;|C.P. Cangas|2014208, 2015209, 2016203, __2017202__, 2018208, [2019223](https://galirema.wikia.org/es/wiki/Pexma2019JANE223),|de punta Balea ao extremo leste da praia de Liméns (incluíndo o faro da Borneira e Illote Corbeiro,), do extremo oeste da praia de Liméns ao extremo leste da praia de Barra, do extremo oeste da praia de Barra ata punta Robaleira, de punta Balea a punta Rodeira,|
+|__J0277v2017__|De punta Balea ao extremo leste da praia de Liméns, (incluíndo o faro da Borneira, illote Corbeiro,) do extremo oeste da praia de Liméns ao extremo leste da praia de Barra, do extremo oeste da praia de Barra ata punta Robaleira, de punta Balea a punta Rodeira, JANE|MA; MSAS;|C.P. Cangas|2013757, 2014208, 2015209, 2016203, __2017202__, 2018208, [2019223](https://galirema.wikia.org/es/wiki/Pexma2019JANE223),|de punta Balea ao extremo leste da praia de Liméns (incluíndo o faro da Borneira e Illote Corbeiro,), do extremo oeste da praia de Liméns ao extremo leste da praia de Barra, do extremo oeste da praia de Barra ata punta Robaleira, de punta Balea a punta Rodeira,|
 |__J0279v2018__|De punta Alcabre a praia de Abra, (excluída), De punta Lagoa a praia de Arealonga, (excluida), JANE|MA; MSAS;|C.P. Vigo|2015211, 2016205, 2017204, __2018210__, [2019225](https://galirema.wikia.org/es/wiki/Pexma2019JANE225),|(VI-546), (VI-582), (VI-583), (VI-584-I), (VI-584-II), (VI-585),|
 
 
@@ -92,7 +92,7 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__J0271v2018__|De punta Langosteira a punta Miranda, JANE|MSAS;|C.P. A Coruña, C.P. Barallobre, (plan conxunto)|2014206, 2015204, 2016197, 2017196, __2018202__, [2019215](https://galirema.wikia.org/es/wiki/Pexma2019JANE215),|de punta Langosteira ás illas de San Pedro, (CF-321), (CF-322), (CF-323), (CF-324),|
+|__J0271v2018__|De punta Langosteira a punta Miranda, JANE|MSAS;|C.P. A Coruña, C.P. Barallobre, (plan conxunto)|2013755, 2014206, 2015204, 2016197, 2017196, __2018202__, [2019215](https://galirema.wikia.org/es/wiki/Pexma2019JANE215),|de punta Langosteira ás illas de San Pedro, (CF-321), (CF-322), (CF-323), (CF-324),|
 |__J0272v2018__|De punta San Carlos a punta Frouxeira, JANE|MSAS;|C.P. Ferrol|2015205, 2016198, 2017197, __2018203__, [2019217](https://galirema.wikia.org/es/wiki/Pexma2019JANE217),|(CF-141), (CF-137),|
 
 
@@ -104,7 +104,7 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__J0269v2014__|De ermida de San Tirso a punta Cabalo (intermareal), JANE|A pé;|C.P. Celeiro|__2014204__,|(CL-127), (CL-128), (CL-129),|
+|__J0269v2014__|De ermida de San Tirso a punta Cabalo (intermareal), JANE|A pé;|C.P. Celeiro|2013754, __2014204__,|(CL-127), (CL-128), (CL-129),|
 |__J0270v2014__|De punta Pena Furada, ermida de San Tirso ata punta Rueta, JANE|MSAS;|C.P. O Vicedo, C.P. Celeiro, C.P. San Cibrao, (plan conxunto)|__2014205__,|De punta Pena Furada, ermida de San Tirso ata punta Rueta,|
 |__J0280v2018__|De punta Promontorio a punta Nois, JANE|A pé;|A.M. San Cosme de Barreiros-Foz|__2018201__, [2019212](https://galirema.wikia.org/es/wiki/Pexma2019JANE212),|(CL-136),|
 |__J0281v2019__|O Vicedo: (praia Fomento, praia Vidrieiro, Illote Xilloi,); Celeiro: (Punta Fuciño do Porco, punta monxes, illote Queimada, O Cargadoiro,); San Cibrao: (Os Farallóns, punta Furada, illa Anzuela,); JANE|MSAS;|A.M. Aresmar|[2019211](https://galirema.wikia.org/es/wiki/Pexma2019JANE211),|praia Fomento, praia Vidrieiro, Illote Xilloi, Punta Fuciño do Porco, punta monxes, illote Queimada, O Cargadoiro, Os Farallóns, punta Furada, illa Anzuela,|
