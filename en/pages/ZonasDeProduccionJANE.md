@@ -111,6 +111,7 @@ __Zonas de producción no SIGREMAR:__
 |__J0282v2019__|Xuncos, JANE|A pé;|C.P. Ribadeo|[2019213](https://galirema.wikia.org/es/wiki/Pexma2019JANE213),|Xuncos,|
 |__J0283v2014__|Areosa, JANE|A pé;|C.P. San Cibrao|[2019214](https://galirema.wikia.org/es/wiki/Pexma2019JANE214),|Areosa,|
 |__J0284v2019__|Punta Frouxeira (Leste) e punta Chirlateira, JANE|MSAS;|C.P. Cedeira|[2019216](https://galirema.wikia.org/es/wiki/Pexma2019JANE216),|Punta Frouxeira (Leste), punta Chirlateira,|
+|__J0327v2013__|De illa San Vicente á praia de Esteiro JANE|A pé;|C.P. Espasante|__2013756__,|Illa de San Vicente, punta Espasante, punta Ladrido, Celtigos, Ribeira do Carro,|
 
 
 
