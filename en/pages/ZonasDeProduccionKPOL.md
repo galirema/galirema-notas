@@ -77,9 +77,9 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__K0295v2017__|De punta Insua a punta Uhía, KPOL|MA; MSAS;|C.P. Muros|2014219, 2015229, 2016216, __2017214__, 2018221, [2019233](https://galirema.wikia.org/es/wiki/Pexma2019KPOL233),|(MN-101-I), (MN-101-II), (MN-101-IIIa), (MN-101-IIIb), (MN-101-IV),|
-|__K0297v2017__|De punta Cabeiro a punta Magrío, de punta Castro a río Sieira, KPOL|A pé;|C.P. Porto do Son|2014221, 2015231, 2016218, __2017216__, 2018223, [2019235](https://galirema.wikia.org/es/wiki/Pexma2019KPOL235),|(MN-088-I), (MN-088-II), (MN-090-I), (MN-091-I), (MN-092-I), (MN-093-I), (MN-094-I), (MN-095-I), (MN-096-I),|
-|__K0298v2017__|De punta Cabeiro a punta Magrío, de punta Castro a río Sieira, KPOL|MA; MSAS;|C.P. Porto do Son|2014222, 2015232, 2015232, __2017217__, 2018224, [2019236](https://galirema.wikia.org/es/wiki/Pexma2019KPOL236),|(MN-089-II), (MN-089-II), (MN-091-II), (MN-092-II), (MN-093-II), (MN-094-II), (MN-095-II), (MN-096-II),|
+|__K0295v2017__|De punta Insua a punta Uhía, KPOL|MA; MSAS;|C.P. Muros|2013764, 2014219, 2015229, 2016216, __2017214__, 2018221, [2019233](https://galirema.wikia.org/es/wiki/Pexma2019KPOL233),|(MN-101-I), (MN-101-II), (MN-101-IIIa), (MN-101-IIIb), (MN-101-IV),|
+|__K0297v2017__|De punta Cabeiro a punta Magrío, de punta Castro a río Sieira, KPOL|A pé;|C.P. Porto do Son|2013766, 2014221, 2015231, 2016218, __2017216__, 2018223, [2019235](https://galirema.wikia.org/es/wiki/Pexma2019KPOL235),|(MN-088-I), (MN-088-II), (MN-090-I), (MN-091-I), (MN-092-I), (MN-093-I), (MN-094-I), (MN-095-I), (MN-096-I),|
+|__K0298v2017__|De punta Cabeiro a punta Magrío, de punta Castro a río Sieira, KPOL|MA; MSAS;|C.P. Porto do Son|2013767,2014222, 2015232, 2015232, __2017217__, 2018224, [2019236](https://galirema.wikia.org/es/wiki/Pexma2019KPOL236),|(MN-089-II), (MN-089-II), (MN-091-II), (MN-092-II), (MN-093-II), (MN-094-II), (MN-095-II), (MN-096-II),|
 |__K0319v2008__|Liña de costa comprendida entre Punta Insua e Punta Uhía, KPOL|A pé;|C.P. Muros|__2008217__| * |
 
 
