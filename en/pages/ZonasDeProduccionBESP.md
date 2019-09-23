@@ -97,8 +97,8 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |------|---|---------|-------|----------|------------------|
-|__B0077v2017__|Zonas de libre marisqueo entre Monte Louro e punta Uía, entre punta Ornanda e punta Aguieira e banco da Creba 2, BESP|Embarcación;|C.P. Noia, C.P. Muros, C.P. Porto do Son, C.P. Portosín, (plan conxunto)|2008081, 2013618, 2014068, 2015070, 2016067, __2017066__, 2018066, [2019070](https://galirema.wikia.org/es/wiki/Pexma2019BESP070),|(MN-022), (MN-023-I), (MN-023-II), (MN-063), (MN-065), (MN-066), (MN-053), (MN-055), (MN-061), (MN-067), (MN-024), (MN-025), (MN-070), (MN-069), (MN-026), (MN-027-I), (MN-071), (MN-072), (MN-073), (MN-027-II),|
-|__B0106v2015__|De punta Insua a punta Uhía BESP|A pé;|C.P. Muros|2008079, 2013617, 2014067, __2015069__,|(MN-019),|
+|__B0077v2017__|Zonas de libre marisqueo entre Monte Louro e punta Uía, entre punta Ornanda e punta Aguieira e banco da Creba 2, BESP|Embarcación;|C.P. Noia, C.P. Muros, C.P. Porto do Son, C.P. Portosín, (plan conxunto)|2008081, 2012427, 2013618, 2014068, 2015070, 2016067, __2017066__, 2018066, [2019070](https://galirema.wikia.org/es/wiki/Pexma2019BESP070),|(MN-022), (MN-023-I), (MN-023-II), (MN-063), (MN-065), (MN-066), (MN-053), (MN-055), (MN-061), (MN-067), (MN-024), (MN-025), (MN-070), (MN-069), (MN-026), (MN-027-I), (MN-071), (MN-072), (MN-073), (MN-027-II),|
+|__B0106v2015__|De punta Insua a punta Uhía BESP|A pé;|C.P. Muros|2008079, 2012426, 2013617, 2014067, __2015069__,|(MN-019),|
 |__B0110v2008__|De punta Rebordiño a punta Uía e de punta Cabalo a punta Aguieira BESP|A pé;|C.P. Noia, Muros, Porto do Son e Portosín (plan conxunto)|__2008080__,|-Banda Norte (Dende Punta Rebordiño a Punta Uhía): Praia de Esteiro e desembocadura do río Estero (Esteiro), Praia de Coído (Tal), Praia de Cabanas (Tal), Praia do Castillo (Muros), Baixo do Paseo Marítimo de Muros, Pta de San Antón,; -Banda Sur (Dende Punta Cabalo a punta Aguieira): Praia de Aguieira, Outros areais de Portosín,|
 |__B0113v2019__|Praia do Castillo, praia de Esteiro, desembocadura do rio Maior|A pé;|C.P. Noia, C.P. Muros, (plan conxunto)|2018067, __[2019071](https://galirema.wikia.org/es/wiki/Pexma2019BESP071)__,|(MN-053), praia de Esteiro, desembocadura do río Maior,|
 
@@ -111,13 +111,13 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |------|---|---------|-------|----------|------------------|
-|__B0060v2017__|Zonas de libre marisqueo do esteiro do río Anllóns, BESP|A pé;|A.M. Esteiro do río Anllóns|2008065, 2013604, 2014052, 2015053, 2016052, __2017051__, 2018052, [2019053](https://galirema.wikia.org/es/wiki/Pexma2019BESP053),|(CM-094), (CM-095), (CM-092), (CM-126), (CM-128),|
-|__B0069v2017__|Desde punta Arnela ata a desembocadura do río Xallas (Ézaro), BESP|A pé;|C.P. Corcubión|2008073, 2008072, 2013610, 2014058, 2015061, 2016060, __2017058__, 2018059, [2019062](https://galirema.wikia.org/es/wiki/Pexma2019BESP062),|(CM-078), (CM-145), (CM-076), (CM-079), (CM-044), (CM-045), (CM-046), (CM-047), (CM-048),|
-|__B0073v2017__|Bancos infralitorais da praia de Langosteira, BESP|Embarcación;|C.P. Fisterra|2013614, 2014063, 2015065, 2016064, __2017062__, [2019063](https://galirema.wikia.org/es/wiki/Pexma2019BESP063),|(CM-082),|
+|__B0060v2017__|Zonas de libre marisqueo do esteiro do río Anllóns, BESP|A pé;|A.M. Esteiro do río Anllóns|2008065, 2012413, 2013604, 2014052, 2015053, 2016052, __2017051__, 2018052, [2019053](https://galirema.wikia.org/es/wiki/Pexma2019BESP053),|(CM-094), (CM-095), (CM-092), (CM-126), (CM-128),|
+|__B0069v2017__|Desde punta Arnela ata a desembocadura do río Xallas (Ézaro), BESP|A pé;|C.P. Corcubión|2008073, 2008072, 2012419, 2013610, 2014058, 2015061, 2016060, __2017058__, 2018059, [2019062](https://galirema.wikia.org/es/wiki/Pexma2019BESP062),|(CM-078), (CM-145), (CM-076), (CM-079), (CM-044), (CM-045), (CM-046), (CM-047), (CM-048),|
+|__B0073v2017__|Bancos infralitorais da praia de Langosteira, BESP|Embarcación;|C.P. Fisterra|2012423, 2013614, 2014063, 2015065, 2016064, __2017062__, [2019063](https://galirema.wikia.org/es/wiki/Pexma2019BESP063),|(CM-082),|
 |__B0074v2017__|De punta Insua a punta Larada, BESP|A pé;|C.P. Lira (gasterópdos)|2008076, 2014064, 2015066, __2017063__, 2018063, [2019067](https://galirema.wikia.org/es/wiki/Pexma2019BESP067),|(CM-241), (CM-242), (CM-243), (CM-240),|
-|__B0075v2017__|Praia da Berberecheira, Praia  da Lagoa, Praia de Portocubelo, BESP|A pé;|C.P. Lira, C.P. O Pindo, (plan conxunto)|2008077, 2013615, 2014065, 2015067, 2016065, __2017064__, 2018064, [2019068](https://galirema.wikia.org/es/wiki/Pexma2019BESP068),|(CM-073), (CM-074), (CM-072), (CM-171),|
-|__B0078v2017__|Da desembocadura do río Xallas ata a desembocadura do río Larada, BESP|A pé;|C.P. O Pindo|2008084, 2008083, 2013619, 2014069, 2015071, 2016068, __2017067__, 2018068,|(CM-043),|
-|__B0107v2014__|Zona V, agás no ámbito da reserva mariña de interese pesqueiro Os Miñarzos BESP|Endeño remolcado;|C.P. Corcubión, C.P. Fisterra (plan conxunto)|2013611, __2014059__,|(CM-144), (CM-054), (CM-053), (CM-050), (CM-051), (CM-052),|
+|__B0075v2017__|Praia da Berberecheira, Praia  da Lagoa, Praia de Portocubelo, BESP|A pé;|C.P. Lira, C.P. O Pindo, (plan conxunto)|2008077, 2012424, 2013615, 2014065, 2015067, 2016065, __2017064__, 2018064, [2019068](https://galirema.wikia.org/es/wiki/Pexma2019BESP068),|(CM-073), (CM-074), (CM-072), (CM-171),|
+|__B0078v2017__|Da desembocadura do río Xallas ata a desembocadura do río Larada, BESP|A pé;|C.P. O Pindo|2008084, 2008083, 2012429, 2013619, 2014069, 2015071, 2016068, __2017067__, 2018068,|(CM-043),|
+|__B0107v2014__|Zona V, agás no ámbito da reserva mariña de interese pesqueiro Os Miñarzos BESP|Endeño remolcado;|C.P. Corcubión, C.P. Fisterra (plan conxunto)|2012420, 2013611, __2014059__,|(CM-144), (CM-054), (CM-053), (CM-050), (CM-051), (CM-052),|
 |__B0109v2008__|Zona rochosa de punta Nariga á enseada do río Anllóns BESP|A pé;|C.P. Corme|__2008074__,|canteiro, roncudo, Gabriela, percebellosa, rosas,|
 
   
