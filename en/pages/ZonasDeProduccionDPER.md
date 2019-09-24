@@ -53,7 +53,7 @@ __Zonas de producción no SIGREMAR__:
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
 |__D0146v2017__|De punta Couso a punta Morcegos, cara ao interior da ría de Aldán, DPER|A pé;|C.P. Aldán-O Hio|2008129, 2012481, 2013674, 2014126, 2015127, 2016124, __2017123__, 2018124, [2019127](https://galirema.wikia.org/es/wiki/Pexma2019DPER127),|(PO-165), (PO-164),|
-|__D0148v2017__|De punta Lapamán a punta Morcegos, Illa Ons, Onza; DPER|Embarcación;|C.P. Bueu|2008131, 2012481, 2013676, 2014128, 2015129, 2016126, __2017125__, 2018127, [2019131](https://galirema.wikia.org/es/wiki/Pexma2019DPER131),|(PO-179), (PO-178), (PO-168), (PO-181), (PO-180), (PO-182), (PO-183), (PO-184), (PO-188), (PO-189), (PO-190), (PO-1859), (PO-187), (PO-186),|
+|__D0148v2017__|De punta Lapamán a punta Morcegos, Illa Ons, Onza; DPER|Embarcación;|C.P. Bueu|2008131, 2012483, 2013676, 2014128, 2015129, 2016126, __2017125__, 2018127, [2019131](https://galirema.wikia.org/es/wiki/Pexma2019DPER131),|(PO-179), (PO-178), (PO-168), (PO-181), (PO-180), (PO-182), (PO-183), (PO-184), (PO-188), (PO-189), (PO-190), (PO-1859), (PO-187), (PO-186),|
 
 
 
