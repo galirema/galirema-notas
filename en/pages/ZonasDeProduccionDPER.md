@@ -106,10 +106,10 @@ __Zonas de producción no SIGREMAR__:
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__D0121v2017__|Ambito territorial das confrarías da Coruña, Mera, Lorbé, Sada, Ares, DPER|A pé; Embarcación;|C.P. A Coruña, C.P. Mera, C.P. Lorbé, C.P. Sada, C.P. Ares, (plan conxunto)|2008107, 2013651, 2014102, 2015104, 2016101, __2017100__, 2018101, [2019104](https://galirema.wikia.org/es/wiki/Pexma2019DPER104),|(CF-023), (CF-024), (CF-025), (CF-026), (CF-027),|
-|__D0123v2017__|De punta Alba a Pedra do Sal, DPER|A pé; Embarcación;|C.P. Caión|2008108, 2013654, 2014105, 2015106, 2016103, __2017102__, 2018103, [2019106](https://galirema.wikia.org/es/wiki/Pexma2019DPER106),|(CF-036-I), (CF-036-II), (CF-037-I), (CF-037-II), (CF-039),|
-|__D0124v2014__|De punta Segaño ata illas Mirandas, DPER|Embarcación;|C.P. Ares|2013653, __2014104__,|(CF-027),|
-|__D0131v2017__|De faro de punta Frouxeira a A Faísca, DPER|A pé; Embarcación;|C.P. Ferrol|2008116, 2013661, 2014112, 2015113, 2016110, __2017109__, 2018110, [2019113](https://galirema.wikia.org/es/wiki/Pexma2019DPER113),|(CF-115), (CF-116), (CF-117), (CF-119), (CF-120), (CF-121), (CF-123), (CF-312), (CF-313), (CF-314),|
+|__D0121v2017__|Ambito territorial das confrarías da Coruña, Mera, Lorbé, Sada, Ares, DPER|A pé; Embarcación;|C.P. A Coruña, C.P. Mera, C.P. Lorbé, C.P. Sada, C.P. Ares, (plan conxunto)|2008107, 2012459, 2013651, 2014102, 2015104, 2016101, __2017100__, 2018101, [2019104](https://galirema.wikia.org/es/wiki/Pexma2019DPER104),|(CF-023), (CF-024), (CF-025), (CF-026), (CF-027),|
+|__D0123v2017__|De punta Alba a Pedra do Sal, DPER|A pé; Embarcación;|C.P. Caión|2008108, 2012462, 2013654, 2014105, 2015106, 2016103, __2017102__, 2018103, [2019106](https://galirema.wikia.org/es/wiki/Pexma2019DPER106),|(CF-036-I), (CF-036-II), (CF-037-I), (CF-037-II), (CF-039),|
+|__D0124v2014__|De punta Segaño ata illas Mirandas, DPER|Embarcación;|C.P. Ares|2012461, 2013653, __2014104__,|(CF-027),|
+|__D0131v2017__|De faro de punta Frouxeira a A Faísca, DPER|A pé; Embarcación;|C.P. Ferrol|2008116, 2012469, 2013661, 2014112, 2015113, 2016110, __2017109__, 2018110, [2019113](https://galirema.wikia.org/es/wiki/Pexma2019DPER113),|(CF-115), (CF-116), (CF-117), (CF-119), (CF-120), (CF-121), (CF-123), (CF-312), (CF-313), (CF-314),|
 
 
 
