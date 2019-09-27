@@ -76,7 +76,7 @@ __Zonas de producción no SIGREMAR:__
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
 |__F0169v2008__|De punta Insua a punta Uhía, FEQD|A pé;|C.P. Muros|__2008144__,|De punta Insua a punta Uhía,|
-|__F0170v2008__|De punta Cabeiro a punta río Sieira e de punta Insua a punta Uhía, FEQD|MSAS;|C.P. Porto do Son, C.P. Portosín, C.P. Muros, (plan conxunto)|__2008145__,|De punta Cabeiro a punta río Sieira e de punta Insua a punta Uhía|
+|__F0170v2008__|De punta Cabeiro a punta río Sieira e de punta Insua a punta Uhía, FEQD|MSAS;|C.P. Porto do Son, C.P. Portosín, C.P. Muros, (plan conxunto)|__2008145__, 2012496,|De punta Cabeiro a punta río Sieira e de punta Insua a punta Uhía|
 |__F0180v2018__|Desde punta Insua a punta Uhía, FEQD|MSAS;|C.P. Muros|__2018140__, [2019148](https://galirema.wikia.org/es/wiki/Pexma2019FEQD148),|(MN-001), (MN-002), (MN-003), (MN-004), (MN-005), (MN-006), (MN-007),|
 |__F0186v2019__|Desde Punta Cabeiro ata río Sieira, FEQD|MSAS;|C.P. Porto do Son|[2019149](https://galirema.wikia.org/es/wiki/Pexma2019FEQD149),|Punta Cabeiro, Punta Sagrada, Praia de Arnela, Punta Magrio, Punta Lixeira, Punta Castro, Punta Castro de Queiruga, Punta Rio Sieira,|
 
@@ -90,8 +90,8 @@ __Zonas de producción no SIGREMAR:__
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
 |__F0166v2017__|De punta Insua á desembocadura do río Larada, FEQD|A pé;|C.P. Lira|2008141, 2014140, 2015141, 2016137, __2017136__, 2018137, [2019145](https://galirema.wikia.org/es/wiki/Pexma2019FEQD145),|(CM-255), (CM-256), (CM-257), (CM-258),|
-|__F0167v2017__|Zona V: de cabo Touriñán a punta Insua, FEQD|MA; MSAS;|C.P. Lira, C.P. Fisterra, C.P. Corcubión, (plan conxunto)|2008142, 2013688, 2014141, 2015142, 2016138, __2017137__, 2018138, [2019146](https://galirema.wikia.org/es/wiki/Pexma2019FEQD146),|(CM-147), (CM-269), (CM-270), (CM-271), (CM-272), (CM-273),|
-|__F0168v2017__|Zona VI: de cabo Touriñán a punta Langosteira, FEQD|MSAS;|C.P. Malpica, C.P. Corme, C.P. Laxe, C.P. Camelle, C.P. Camariñas, (plan conxunto)|2008143, 2014142, 2015143, 2016139, __2017138__, 2018139, [2019147](https://galirema.wikia.org/es/wiki/Pexma2019FEQD147),|de Touriñán á Buitra, da Buitra á Barca, de Peneirón-Xaviña á praia Lago, de Corno a Punta Pedrosa, de Gallada-Baleas a Ríos, de Ríos a Camelle, de Ataín a Cabo de Laxe, de Cabo Laxe a Roncudo, Roncudo: de baixo Chan a Pichóns, de Pichóns ao Cabalo, do Cabalo a Malpica, Illas Sisargas, de Malpica a Razo, de Razo a Caión, de Caión a Langosteira,|
+|__F0167v2017__|Zona V: de cabo Touriñán a punta Insua, FEQD|MA; MSAS;|C.P. Lira, C.P. Fisterra, C.P. Corcubión, (plan conxunto)|2008142, 2012494, 2013688, 2014141, 2015142, 2016138, __2017137__, 2018138, [2019146](https://galirema.wikia.org/es/wiki/Pexma2019FEQD146),|(CM-147), (CM-269), (CM-270), (CM-271), (CM-272), (CM-273),|
+|__F0168v2017__|Zona VI: de cabo Touriñán a punta Langosteira, FEQD|MSAS;|C.P. Malpica, C.P. Corme, C.P. Laxe, C.P. Camelle, C.P. Camariñas, (plan conxunto)|2008143, 2012495, 2014142, 2015143, 2016139, __2017138__, 2018139, [2019147](https://galirema.wikia.org/es/wiki/Pexma2019FEQD147),|de Touriñán á Buitra, da Buitra á Barca, de Peneirón-Xaviña á praia Lago, de Corno a Punta Pedrosa, de Gallada-Baleas a Ríos, de Ríos a Camelle, de Ataín a Cabo de Laxe, de Cabo Laxe a Roncudo, Roncudo: de baixo Chan a Pichóns, de Pichóns ao Cabalo, do Cabalo a Malpica, Illas Sisargas, de Malpica a Razo, de Razo a Caión, de Caión a Langosteira,|
 |__F0187v2019__|Desde o río Xallas ata o río Larada, FEQD|A pé;|C.P. O Pindo|[2019150](https://galirema.wikia.org/es/wiki/Pexma2019FEQD150),|Porto de Quilmas, De Portiño a Area Branca, De Porto Negro a Carreiroa, De Rego da Braña a Insuela, De Insuela a Almacén de Caldebarcos,|
 
 
