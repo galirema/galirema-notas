@@ -77,8 +77,8 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__I0246v2017__|Submareal rochoso entre punta Ínsua e punta Uhía, IALG|MA; MSAS;|C.P. Muros|2013742, 2014194, 2015195, 2016188, __2017185__, 2018187, [2019197](https://galirema.wikia.org/es/wiki/Pexma2019IALG197),|(MN-100-I), (MN-100-II), (MN-100-IIIa), (MN-100-IIIb), (MN-100-IV),|
-|__I0247v2008__|De punta Uhía a punta Insua, IALG|A pé;|C.P. Muros|__2008202__, 2013741,|De punta Uhía a punta Insua,|
+|__I0246v2017__|Submareal rochoso entre punta Ínsua e punta Uhía, IALG|MA; MSAS;|C.P. Muros|2012546, 2013742, 2014194, 2015195, 2016188, __2017185__, 2018187, [2019197](https://galirema.wikia.org/es/wiki/Pexma2019IALG197),|(MN-100-I), (MN-100-II), (MN-100-IIIa), (MN-100-IIIb), (MN-100-IV),|
+|__I0247v2008__|De punta Uhía a punta Insua, IALG|A pé;|C.P. Muros|__2008202__, 2012545, 2013741,|De punta Uhía a punta Insua,|
 
 
 
@@ -89,15 +89,15 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__I0241v2017__|De punta Morelo a punta Gallada, IALG|MA; MSAS;|C.P. Camelle|2008198, 2013739, 2014192, 2015193, 2016185, __2017182__, 2018184, [2019193](https://galirema.wikia.org/es/wiki/Pexma2019IALG193),|(CM-117), (CM-118), (CM-119), (CM-120),|
-|__I0242v2018__|Desde punta Arnela ata a desembocadura do río Xallas, IALG|A pé;|C.P. Corcubión|2008199, 2013740, 2014193, 2015194, 2016186, _2017183_, __2018185__, [2019194](https://galirema.wikia.org/es/wiki/Pexma2019IALG194),|_(CM-048), (CM-044),_; __(CM-049),__|
-|__I0243v2014__|De punta Xanleira ata punta Gallada, IALG|A pé;|C.P. Camariñas|2008196, 2013738, __2014191__, 2015192|De punta Xanleira ata punta Gallada|
-|__I0244v2014__|De punta Chorente a punta Gallada, IALG|MA; MSAS;|C.P. Camariñas|2008197, 2013737, __2014190__,|(CM-097), (CM-098),|
+|__I0241v2017__|De punta Morelo a punta Gallada, IALG|MA; MSAS;|C.P. Camelle|2008198, 2012543, 2013739, 2014192, 2015193, 2016185, __2017182__, 2018184, [2019193](https://galirema.wikia.org/es/wiki/Pexma2019IALG193),|(CM-117), (CM-118), (CM-119), (CM-120),|
+|__I0242v2018__|Desde punta Arnela ata a desembocadura do río Xallas, IALG|A pé;|C.P. Corcubión|2008199, 2012544, 2013740, 2014193, 2015194, 2016186, _2017183_, __2018185__, [2019194](https://galirema.wikia.org/es/wiki/Pexma2019IALG194),|_(CM-048), (CM-044),_; __(CM-049),__|
+|__I0243v2014__|De punta Xanleira ata punta Gallada, IALG|A pé;|C.P. Camariñas|2008196, 2012542, 2012542, 2013738, __2014191__, 2015192|De punta Xanleira ata punta Gallada|
+|__I0244v2014__|De punta Chorente a punta Gallada, IALG|MA; MSAS;|C.P. Camariñas|2008197, 2012541, 2013737, __2014190__,|(CM-097), (CM-098),|
 |__I0245v2017__|Desde a praia de Rostro a Punta Arnela, IALG|MA; MSAS;|C.P. Fisterra|2013744, __2017184__, 2018186, [2019196](https://galirema.wikia.org/es/wiki/Pexma2019IALG196),|(CM-147),|
 |__I0249v2008__|De punta Insua a punta Larada, IALG|A pé;|C.P. Lira|__2008201__,|De punta Insua a punta Larada,|
 |__I0250v2017__|Da desembocadura do río Xallas á desembocadura do río Larada, pedras da costa, intermareal rochoso entre punta Arnela e Cabo Fisterra, IALG|A pé;|C.P. O Pindo|__2017186__, 2018188, [2019198](https://galirema.wikia.org/es/wiki/Pexma2019IALG198),|Da desembocadura do río Xallas á desembocadura do río Larada e pedras da costa,|
 |__I0261v2008__|Litoral da provincia da Coruña, IALG|A pé;|Mardelira, S. Coop. Galega|__2008204__,|Litoral da provincia da Coruña,|
-|__I0262v2008__|De punta Insua a cabo Fisterra, IALG|MA;|Merguladores de Fisterra, S. Coop. Galega|__2008205__,|De punta Insua a cabo Fisterra,|
+|__I0262v2008__|De punta Insua a cabo Fisterra, IALG|MA;|Merguladores de Fisterra, S. Coop. Galega|__2008205__, 2012548,|De punta Insua a cabo Fisterra,|
 
 
 
