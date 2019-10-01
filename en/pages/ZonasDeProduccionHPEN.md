@@ -59,7 +59,7 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__H0227v2017__|De punta Salinas a punta Quilme, Areoso, Camallón, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo, HPEN|MA; MSAS;|C.P. A Illa de Arousa|2008186, 2013725, 2014179, 2015179, 2016149, __2017172__, 2018174,|(AR-052), (AR-051), (AR-332), (AR-333), (AR-334),(AR-059), (AR-056), (AR-324-I), (AR-324-II), (AR-054),|
+|__H0227v2017__|De punta Salinas a punta Quilme, Areoso, Camallón, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo, HPEN|MA; MSAS;|C.P. A Illa de Arousa|2008186, 2012530, 2013725, 2014179, 2015179, 2016149, __2017172__, 2018174,|(AR-052), (AR-051), (AR-332), (AR-333), (AR-334),(AR-059), (AR-056), (AR-324-I), (AR-324-II), (AR-054),|
 |__H0231v2015__|De punta Moreira a peirao das Pedras Negras, HPEN|MSAS;|C.P. O Grove|2014183, 2015183, 2016153,|De punta Moreira a peirao das Pedras Negras,|
 
 
