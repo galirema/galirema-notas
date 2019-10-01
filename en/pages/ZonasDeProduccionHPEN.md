@@ -82,7 +82,7 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__H0226v2017__|De cabo Touriñán a punta Insua, excepto a zona incluída na reserva mariña de interese pesqueiro Os Miñarzos, HPEN|MA; MSAS;|C.P. Fisterra, C.P. Corcubión, C.P. Lira, (plan conxunto)|2013724, 2014178, 2015178, 2016148, __2017171__, 2018173, [2019184](https://galirema.wikia.org/es/wiki/Pexma2019HPEN184),|(CM-148), (CM-149), (CM-150), (CM-151), (CM-274), (CM-275), (CM-276), (CM-277), (CM-278),|
+|__H0226v2017__|De cabo Touriñán a punta Insua, excepto a zona incluída na reserva mariña de interese pesqueiro Os Miñarzos, HPEN|MA; MSAS;|C.P. Fisterra, C.P. Corcubión, C.P. Lira, (plan conxunto)|2012529, 2013724, 2014178, 2015178, 2016148, __2017171__, 2018173, [2019184](https://galirema.wikia.org/es/wiki/Pexma2019HPEN184),|(CM-148), (CM-149), (CM-150), (CM-151), (CM-274), (CM-275), (CM-276), (CM-277), (CM-278),|
 
 
 
