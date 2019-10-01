@@ -35,7 +35,7 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__H0230v2017__|Zona sublitoral rochosa entre punta Canabal e punta Couso, incluíndo illas Cíes, (agás de cabo Bicos a punta Cabaliños,), HPEN|MA; MSAS;|C.P. Cangas|2008189, 2013728, 2014182, 2015182, 2016152, 2017175, 2018177, [2019186](https://galirema.wikia.org/es/wiki/Pexma2019HPEN186),|(VI-227), (VI-228), (VI-229), (VI-230), (VI-231), (VI-221-I), (VI-221-II), (VI-222), (VI-223), (VI-224), (VI-225-II), (VI-226), (VI-225-I),|
+|__H0230v2017__|Zona sublitoral rochosa entre punta Canabal e punta Couso, incluíndo illas Cíes, (agás de cabo Bicos a punta Cabaliños,), HPEN|MA; MSAS;|C.P. Cangas|2008189, 2012533, 2013728, 2014182, 2015182, 2016152, 2017175, 2018177, [2019186](https://galirema.wikia.org/es/wiki/Pexma2019HPEN186),|(VI-227), (VI-228), (VI-229), (VI-230), (VI-231), (VI-221-I), (VI-221-II), (VI-222), (VI-223), (VI-224), (VI-225-II), (VI-226), (VI-225-I),|
 |__H0232v2015__|De punta Cubilló ata praia de Abra (excluída), HPEN|MA; MSAS|C.P. Vigo|2015184,|De punta Cubilló ata praia de Abra,|
 
 
