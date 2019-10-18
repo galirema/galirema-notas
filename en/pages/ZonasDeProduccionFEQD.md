@@ -103,8 +103,8 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__F0158v2017__|De punta Langosteira a punta Segaño, FEQD|MSAS;|C.P. A Coruña, C.P. Barallobre, (plan conxunto)|2008136, 2012489, 2013682, 2014134, 2015136, 2016133, __2017132__, 2018133, [2019140](https://galirema.wikia.org/es/wiki/Pexma2019FEQD140),|(CF-028), (CF-029), (CF-030), (CF-031),|
-|__F0165v2018__|De faro de punta Frouxeira a a ponte da Faísca, FEQD|MSAS;|C.P. Ferrol|2008140, 2012493, 2013687, 2014139, 2015140, 2016136, 2017135, __2018136__, [2019144](https://galirema.wikia.org/es/wiki/Pexma2019FEQD144),|(CF-108), (CF-110), (CF-111), (CF-137),|
+|__F0158v2017__|De punta Langosteira a punta Segaño, FEQD|MSAS;|C.P. A Coruña, C.P. Barallobre, (plan conxunto)|2008136, 2011244, 2012489, 2013682, 2014134, 2015136, 2016133, __2017132__, 2018133, [2019140](https://galirema.wikia.org/es/wiki/Pexma2019FEQD140),|(CF-028), (CF-029), (CF-030), (CF-031),|
+|__F0165v2018__|De faro de punta Frouxeira a a ponte da Faísca, FEQD|MSAS;|C.P. Ferrol|2008140, 2011248, 2012493, 2013687, 2014139, 2015140, 2016136, 2017135, __2018136__, [2019144](https://galirema.wikia.org/es/wiki/Pexma2019FEQD144),|(CF-108), (CF-110), (CF-111), (CF-137),|
 
 
 
