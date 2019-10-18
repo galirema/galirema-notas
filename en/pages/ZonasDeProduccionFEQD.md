@@ -76,7 +76,7 @@ __Zonas de producción no SIGREMAR:__
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
 |__F0169v2008__|De punta Insua a punta Uhía, FEQD|A pé;|C.P. Muros|__2008144__,|De punta Insua a punta Uhía,|
-|__F0170v2008__|De punta Cabeiro a punta río Sieira e de punta Insua a punta Uhía, FEQD|MSAS;|C.P. Porto do Son, C.P. Portosín, C.P. Muros, (plan conxunto)|__2008145__, 2012496,|De punta Cabeiro a punta río Sieira e de punta Insua a punta Uhía|
+|__F0170v2008__|De punta Cabeiro a punta río Sieira e de punta Insua a punta Uhía, FEQD|MSAS;|C.P. Porto do Son, C.P. Portosín, C.P. Muros, (plan conxunto)|__2008145__, 2011251, 2012496,|De punta Cabeiro a punta río Sieira e de punta Insua a punta Uhía|
 |__F0180v2018__|Desde punta Insua a punta Uhía, FEQD|MSAS;|C.P. Muros|__2018140__, [2019148](https://galirema.wikia.org/es/wiki/Pexma2019FEQD148),|(MN-001), (MN-002), (MN-003), (MN-004), (MN-005), (MN-006), (MN-007),|
 |__F0186v2019__|Desde Punta Cabeiro ata río Sieira, FEQD|MSAS;|C.P. Porto do Son|[2019149](https://galirema.wikia.org/es/wiki/Pexma2019FEQD149),|Punta Cabeiro, Punta Sagrada, Praia de Arnela, Punta Magrio, Punta Lixeira, Punta Castro, Punta Castro de Queiruga, Punta Rio Sieira,|
 
