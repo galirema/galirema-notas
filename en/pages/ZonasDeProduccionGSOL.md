@@ -99,10 +99,10 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__G0192v2017__|De punta Sandía a punta Lago, enseada de Merexo, praia da Cruz, por fóra da praia de Mozogondón, GSOL|MA; MSAS;|C.P. Camariñas, C.P. Muxía, (plan conxunto)|2008159, 2012509, 2013702, 2014155, 2015156, 2016158, __2017151__, 2018153, [2019164](https://galirema.wikia.org/es/wiki/Pexma2019GSOL164),|(CM-033), (CM-036), (CM-035), (CM-034), (CM-037), (CM-038), (CM-146),|
-|__G0193v2017__|Zona V: de cabo Touriñán a punta Insua, GSOL|MA; MSAS;|C.P. Fisterra, C.P. Corcubión, C.P. Lira, (plan conxunto)|2008165, 2012510, 2013703, 2014156, 2015157, 2016159, __2017152__, 2018154, [2019166](https://galirema.wikia.org/es/wiki/Pexma2019GSOL166),|(CM-060), (CM-061), (CM-062), (CM-063), (CM-065), (CM-066), (CM-067), (CM-068-1), (CM-068-2), (CM-069), (CM-142), (CM-143), (CM-057), (CM-056), (CM-059),|
-|__G0194v2017__|Praia de Laxe, praia da Hermida, praia de Osmo, banco Riocobo, praia de Rebordelo. Do Alto da Facha a punta Cantero, do Alto da Facha a punta Menduiña, GSOL|MA; MSAS;|C.P. Laxe, C.P. Corme, (plan conxunto)|2008167, 2012512, 2013705, 2014158, 2015159, 2016161, __2017153__, 2018155, [2019167](https://galirema.wikia.org/es/wiki/Pexma2019GSOL167),|(CM-110), (CM-111), (CM-139), (CM-268), (CM-112), (CM-113), (CM-115), (CM-136), (CM-137),|
-|__G0212v2016__|Praia de Sardiñeiro, praia de Langosteira, GSOL|A pé;|C.P. Fisterra|2008166, 2012511, 2013704, 2014157, 2015158, __2016160__,|(CM-083), (CM-081),|
+|__G0192v2017__|De punta Sandía a punta Lago, enseada de Merexo, praia da Cruz, por fóra da praia de Mozogondón, GSOL|MA; MSAS;|C.P. Camariñas, C.P. Muxía, (plan conxunto)|2008159, 2011312, 2012509, 2013702, 2014155, 2015156, 2016158, __2017151__, 2018153, [2019164](https://galirema.wikia.org/es/wiki/Pexma2019GSOL164),|(CM-033), (CM-036), (CM-035), (CM-034), (CM-037), (CM-038), (CM-146),|
+|__G0193v2017__|Zona V: de cabo Touriñán a punta Insua, GSOL|MA; MSAS;|C.P. Fisterra, C.P. Corcubión, C.P. Lira, (plan conxunto)|2008165, 2011313, 2012510, 2013703, 2014156, 2015157, 2016159, __2017152__, 2018154, [2019166](https://galirema.wikia.org/es/wiki/Pexma2019GSOL166),|(CM-060), (CM-061), (CM-062), (CM-063), (CM-065), (CM-066), (CM-067), (CM-068-1), (CM-068-2), (CM-069), (CM-142), (CM-143), (CM-057), (CM-056), (CM-059),|
+|__G0194v2017__|Praia de Laxe, praia da Hermida, praia de Osmo, banco Riocobo, praia de Rebordelo. Do Alto da Facha a punta Cantero, do Alto da Facha a punta Menduiña, GSOL|MA; MSAS;|C.P. Laxe, C.P. Corme, (plan conxunto)|2008167, 2011315, 2012512, 2013705, 2014158, 2015159, 2016161, __2017153__, 2018155, [2019167](https://galirema.wikia.org/es/wiki/Pexma2019GSOL167),|(CM-110), (CM-111), (CM-139), (CM-268), (CM-112), (CM-113), (CM-115), (CM-136), (CM-137),|
+|__G0212v2016__|Praia de Sardiñeiro, praia de Langosteira, GSOL|A pé;|C.P. Fisterra|2008166, 2011314, 2012511, 2013704, 2014157, 2015158, __2016160__,|(CM-083), (CM-081),|
 |__G0217v2008__|De punta Lago a punta da Roda, enseada da Vasa,  GSOL|A pé;|C.P. Camariñas|__2008158__,|De punta Lago a punta da Roda, enseada da Vasa,|
 |__G0219v2008__|Praias do Ézaro e Estorde, GSOL|A pé;|C.P. Corcubión|__2008163__,|Praias do Ézaro, praia de Estorde,|
 
@@ -127,8 +127,8 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__G0215v2008__|Bancos do Taro, Fondás, Fontorto, GSOL|A pé;|A.M. San Cosme de Barreiros-Foz|__2008154__,|Bancos do Taro, Fondás, Fontorto,|
-|__G0216v2008__|Taro dos Chonos, Taro das Aceñas, Tesón, GSOL|A pé;|C.P. Ribadeo|__2008155__,|Taro dos Chonos, Taro das Aceñas, Tesón,|
+|__G0215v2008__|Bancos do Taro, Fondás, Fontorto, GSOL|A pé;|A.M. San Cosme de Barreiros-Foz|__2008154__, 2011306,|Bancos do Taro, Fondás, Fontorto,|
+|__G0216v2008__|Taro dos Chonos, Taro das Aceñas, Tesón, GSOL|A pé;|C.P. Ribadeo|__2008155__, 2011307,|Taro dos Chonos, Taro das Aceñas, Tesón,|
 |__G0218v2008__|Zonas de autorización C.P. Cariño,|A pé;|C.P. Cariño, GSOL|__2008160__,|Zonas de autorización C.P. Cariño,|
 |__G0220v2008__|Zonas de autorización: enseada do Ladrido, Raias, Cano Cabalar e Mexilloal, GSOL|A pé;|C.P. Espasante|__2008164__,|enseada do Ladrido, Raias, Cano Cabalar, Mexilloal,|
 |__G0225v2019__|Praia Magdalena, Area Miña Señora, punta Robaleira, GSOL|MSAS;|C.P. Cedeira|[2019165](https://galirema.wikia.org/es/wiki/Pexma2019GSOL165),|Praia Magdalena, Area Miña Señora, punta Robaleira,|
