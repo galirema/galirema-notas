@@ -49,8 +49,8 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__I0254v2017__|De punta Couso a punta Preguntoiro, cara ao interior da ría, IALG|MA; MSAS;|C.P. Aldán-O Hio|2008207, 2012551, 2013748, 2014198, 2015199, 2016192, __2017190__, 2018193, [2019203](https://galirema.wikia.org/es/wiki/Pexma2019IALG203),|de Punta Couso a Punta Corveira, de Punta Corveira a Punta Testada, de Punta Testada a ó Francón, do Francón a Punta Preguntoiro,|
-|__I0256v2017__|Interior das liñas imaxinarias de punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Preguntoiro, Cara oeste das illas Ons e Onza, IALG|MSAS;|C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Raxó, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto)|2008209, 2012552, 2013750, 2014200, 2015201, 2016194, __2017192__, 2018195,|de punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Preguntoiro, Cara oeste das illas Ons e Onza,|
+|__I0254v2017__|De punta Couso a punta Preguntoiro, cara ao interior da ría, IALG|MA; MSAS;|C.P. Aldán-O Hio|2008207, 2011353, 2012551, 2013748, 2014198, 2015199, 2016192, __2017190__, 2018193, [2019203](https://galirema.wikia.org/es/wiki/Pexma2019IALG203),|de Punta Couso a Punta Corveira, de Punta Corveira a Punta Testada, de Punta Testada a ó Francón, do Francón a Punta Preguntoiro,|
+|__I0256v2017__|Interior das liñas imaxinarias de punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Preguntoiro, Cara oeste das illas Ons e Onza, IALG|MSAS;|C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Raxó, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto)|2008209, 2011354, 2012552, 2013750, 2014200, 2015201, 2016194, __2017192__, 2018195,|de punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Preguntoiro, Cara oeste das illas Ons e Onza,|
 
 
 
@@ -61,12 +61,12 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__I0251v2017__|De punta Salinas a punta Quilma, Areoso, Camallón, de punta Testos a punta Campelo, de punta Aguiúncho a punta Furado, IALG|MA; MSAS;|C.P. A Illa de Arousa|2012549, 2013745, 2014195, 2015196, 2016189, __2017187__, 2018190, [2019200](https://galirema.wikia.org/es/wiki/Pexma2019IALG200),|(AR-052), (AR-051), (AR-332), (AR-333), (AR-334), (AR-335), (AR-336-I), (AR-059), (AR-056-I), (AR-056-II), (AR-324-I), (AR-324-II), (AR-329),|
+|__I0251v2017__|De punta Salinas a punta Quilma, Areoso, Camallón, de punta Testos a punta Campelo, de punta Aguiúncho a punta Furado, IALG|MA; MSAS;|C.P. A Illa de Arousa|2011352, 2012549, 2013745, 2014195, 2015196, 2016189, __2017187__, 2018190, [2019200](https://galirema.wikia.org/es/wiki/Pexma2019IALG200),|(AR-052), (AR-051), (AR-332), (AR-333), (AR-334), (AR-335), (AR-336-I), (AR-059), (AR-056-I), (AR-056-II), (AR-324-I), (AR-324-II), (AR-329),|
 |__I0257v2017__|De Cantareira a punta Carreiro, de punta Carreiro a Barrosa, de Barrosa a Raeiros, de Capilla a punta Faxilda, IALG|MSAS;|C.P. O Grove|2008208, __2017194__, 2018198, [2019208](https://galirema.wikia.org/es/wiki/Pexma2019IALG208),|A cantareira, Rons, Carreiro, Castiñeira, Con Negro, A Bateria, As Redondas, Barrosa, Espiño, Paxareiros, Raeiros, Capilla, Foxos, Corbeiro,|
-|__I0260v2008__|Zonas de autorización C.P. Ribeira, as restantes zonas resolveranse nas resolucións de apertura, IALG|MA; MSAS;|C.P. Ribeira|__2008203__, 2012547, 2013743,|autorización C.P. Ribeira,|
+|__I0260v2008__|Zonas de autorización C.P. Ribeira, as restantes zonas resolveranse nas resolucións de apertura, IALG|MA; MSAS;|C.P. Ribeira|__2008203__, 2011350, 2012547, 2013743,|autorización C.P. Ribeira,|
 |__I0265v2019__|O Galiñeiro, Meloxo, San Miguel-Tragove, IALG|MSAS;|C.P. Cambados|[2019205](https://galirema.wikia.org/es/wiki/Pexma2019IALG205),|As Negreiriñas, Casueiras, rochas na zona do banco de marisqueo a flote, dende San Miguel ata a punta de Tragove,|
 |__I0268v2018__|Con de Portugal, Sinás de Fora, Con Pequeno, espigón do porto de Vilanova, IALG|MA; MSAS;|C.P. Vilanova|__2018200__, [2019210](https://galirema.wikia.org/es/wiki/Pexma2019IALG210),|Con de Portugal, Sinás de Fora, Con pequeño, Espigón do porto,|
-|__I0325v2013__|Petóns de Centoleira, Con de Agosto-praia Carreira-praia Aguiño; norte Vionta-Cabeceiro Grande-punta Castelo-punta Lagos; entre illote Rabuda, illote Redonda Vella, a punta do Castelo e a praia de Carreira, IALG|MA; MSAS;|C.P. Aguiño|2012540, __2013736__|Petóns de Centoleira, Con de Agosto-praia Carreira-praia Aguiño; norte Vionta-Cabeceiro Grande-punta Castelo-punta Lagos; entre illote Rabuda, illote Redonda Vella, a punta do Castelo e a praia de Carreira,|
+|__I0325v2013__|Petóns de Centoleira, Con de Agosto-praia Carreira-praia Aguiño; norte Vionta-Cabeceiro Grande-punta Castelo-punta Lagos; entre illote Rabuda, illote Redonda Vella, a punta do Castelo e a praia de Carreira, IALG|MA; MSAS;|C.P. Aguiño|2011342, 2012540, __2013736__|Petóns de Centoleira, Con de Agosto-praia Carreira-praia Aguiño; norte Vionta-Cabeceiro Grande-punta Castelo-punta Lagos; entre illote Rabuda, illote Redonda Vella, a punta do Castelo e a praia de Carreira,|
 
 
 
