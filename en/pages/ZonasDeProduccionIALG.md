@@ -39,7 +39,7 @@ __Zonas de producción no SIGREMAR:__
 |__I0258v2017__|De punta de Alcabre a praia de Abra, (excluída), de punta Lagoa a praia de Arealonga, (excluída), IALG|MA; MSAS; A pé;|C.P. Vigo|2012554, 2013753, 2014203, 2015203, 2016196, __2017195__, 2018199, [2019209](https://galirema.wikia.org/es/wiki/Pexma2019IALG209),|De punta Lagoa a praia de Area Longa (excluída), de pta alcabre a praia de Abra (excluida),|
 |__I0259v2014__|De petóns de Canaval a Rande, IALG|MA; MSAS;|C.P. Moaña|2013752, __2014202__,|Rande, Tella, Costal Domaio, A Borna, Arroás, Tirán,|
 |__I0266v2018__|De praia Masso a praia Areamilla, IALG|A pé;|C.P. Cangas|__2018196__, [2019206](https://galirema.wikia.org/es/wiki/Pexma2019IALG206),|De praia Massó a praia Areamilla,|
-|__I0267v2018__|De praia Canabal a punta Couso, IALG|(MA;) MSAS;|C.P. Cangas|2008210, 2012553, 2013751, 2014201, 2015202, 2016195, 2017193, __2018197__, [2019207](https://galirema.wikia.org/es/wiki/Pexma2019IALG207),|(VI-521-I), (VI-521-II), (VI-522), (VI-541), (VI-542), (VI-526), (VI-527), (VI-528), (VI-529), (VI-530-I), (VI-530-II), (VI-532), (VI-545), (VI-544), (VI-533),|
+|__I0267v2018__|De praia Canabal a punta Couso, IALG|(MA;) MSAS;|C.P. Cangas|2008210, 2011355, 2012553, 2013751, 2014201, 2015202, 2016195, 2017193, __2018197__, [2019207](https://galirema.wikia.org/es/wiki/Pexma2019IALG207),|(VI-521-I), (VI-521-II), (VI-522), (VI-541), (VI-542), (VI-526), (VI-527), (VI-528), (VI-529), (VI-530-I), (VI-530-II), (VI-532), (VI-545), (VI-544), (VI-533),|
 
 
 ## Ría de Pontevedra PO
