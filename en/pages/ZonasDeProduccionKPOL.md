@@ -35,10 +35,10 @@ __Zonas de producción no SIGREMAR:__
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
 |__K0300v2017__|De praia do Sinal a punta Vixía, KPOL|MA; MSAS;|C.P. Cangas|2014225, 2015235, 2016222, __2017219__, 2018227, [2019239](https://galirema.wikia.org/es/wiki/Pexma2019KPOL239),|de punta Vixía ao río de Barra, de punta Creixiña á praia de Liméns (excluída), dende a praia de Liméns (excluída) á praia do Sinal,|
-|__K0303v2019__|A Portela: de Punta Monte Gordo a Punta do Socorro,; praia de Barra,; KPOL|A pé;|C.P. Redondela|2008225, 2012570, 2013771, 2014227, 2015238, 2016225, 2017222, 2018230, [2019242](https://galirema.wikia.org/es/wiki/Pexma2019KPOL242),|(VI-132), (VI-133), (VI-134-I), (VI-134-II), (VI-256),|
+|__K0303v2019__|A Portela: de Punta Monte Gordo a Punta do Socorro,; praia de Barra,; KPOL|A pé;|C.P. Redondela|2008225, 2011372, 2012570, 2013771, 2014227, 2015238, 2016225, 2017222, 2018230, [2019242](https://galirema.wikia.org/es/wiki/Pexma2019KPOL242),|(VI-132), (VI-133), (VI-134-I), (VI-134-II), (VI-256),|
 |__K0305v2017__|Bancos intermareais de o puntal da Serra a praia de Arealonga (excluída), KPOL|A pé;|C.P. Vigo|2016227, __2017224__, 2018232, [2019244](https://galirema.wikia.org/es/wiki/Pexma2019KPOL244),|(VI-139), (VI-183), (VI-066), praia de Alcabre, (VI-178), (VI-064),|
-|__K0306v2017__|Cabalo, Deilán, Río Maior, San Adrián (norte), KPOL|A pé;|C.P. Vilaboa|2008226, 2012566, 2013772, 2014228, 2015239, 2016228, __2017225__, 2018233, [2019245](https://galirema.wikia.org/es/wiki/Pexma2019KPOL245),|(VI-147), (VI-236), (VI-237), (VI-238),|
-|__K0320v2008__|Establecerase na resolución de apertura, KPOL|A pé;|C.P. Cangas|__2008224__,| * |
+|__K0306v2017__|Cabalo, Deilán, Río Maior, San Adrián (norte), KPOL|A pé;|C.P. Vilaboa|2008226, 2011367, 2012566, 2013772, 2014228, 2015239, 2016228, __2017225__, 2018233, [2019245](https://galirema.wikia.org/es/wiki/Pexma2019KPOL245),|(VI-147), (VI-236), (VI-237), (VI-238),|
+|__K0320v2008__|Establecerase na resolución de apertura, KPOL|A pé;|C.P. Cangas|__2008224__, 2011370,| * |
 
 
 
@@ -49,7 +49,7 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__K0302v2017__|Praia Faxilda (ou Pociñas), praia de Prageira, praia de Bascuas, praia de Montalvo, praia Canelas, KPOL|A pé;|C.P. Portonovo|2012569, 2013770, 2014226, 2015237, 2016224, __2017221__, 2018229, [2019241](https://galirema.wikia.org/es/wiki/Pexma2019KPOL241),|praia Faxilda, praia de Pragueira, praia de Bascuas, praia de Montalvo, praia Canelas,|
+|__K0302v2017__|Praia Faxilda (ou Pociñas), praia de Prageira, praia de Bascuas, praia de Montalvo, praia Canelas, KPOL|A pé;|C.P. Portonovo|2011371, 2012569, 2013770, 2014226, 2015237, 2016224, __2017221__, 2018229, [2019241](https://galirema.wikia.org/es/wiki/Pexma2019KPOL241),|praia Faxilda, praia de Pragueira, praia de Bascuas, praia de Montalvo, praia Canelas,|
 |__K0304v2019__|Praias de Pampaido, Area da Adra, Praias das Areas, Praias de Nanín, Praias de Barreiro, Praias de Carabuxeira, Praias de Silgar, KPOL|A pé;|C.P. Sanxenxo|2016226, 2017223, 2018231, [2019243](https://galirema.wikia.org/es/wiki/Pexma2019KPOL243),|(PO-220), (PO-221), (PO-222), (PO-223), (PO-224), (PO-225), (PO-226),|
 |__K0308v2018__|De punta Couso a punta Morcegos cara ao interior da ría de Aldán, KPOL|A pé;|C.P. Aldán-O Hio|2008222, 2012567, 2013768, 2014223, 2015233, __2018225__, [2019237](https://galirema.wikia.org/es/wiki/Pexma2019KPOL237),|(PO-166), (PO-167),|
 
