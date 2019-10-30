@@ -81,10 +81,10 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |------|---|---------|-------|----------|------------------|
-|__A0018v2017__|Zona de autorización: praia da Virxe e praia da Abelleira AAUT| A pé;| C.P. Muros|2008017, 2011060, 2012373, 2013569, 2014017, 2015018, 2016018, __2017018__, 2018018, [2019019](https://galirema.wikia.org/es/wiki/Pexma2019AAUT019),|(MN-054), (MN-056), (MN-057), (MN-097), (MN-098),|
-|__A0019v2017__|Zona de autorización: praia da Virxe e praia da Abelleira AAUT| Embarcación;| C.P. Muros|2008018, 2011061, 2012374, 2013570, 2014018, 2015019, 2016019, __2017019__, 2018019, [2019020](https://galirema.wikia.org/es/wiki/Pexma2019AAUT020),|(MN-055), (MN-061),|
-|__A0020v2017__|Zona de autorización C.P. Noia, AAUT| A pé; Embarcación;| C.P. Noia|2008019, 2011062, 2012375, 2013571, 2014019, 2015020, 2016020, __2017020__, 2018020, [2019021](https://galirema.wikia.org/es/wiki/Pexma2019AAUT021),|(MN-031), (MN-032), (MN-033), (MN-034), (MN-035), (MN-036), (MN-037), (MN-038), (MN-039), (MN-041), (MN-042), (MN-043), (MN-045), (MN-046), (MN-047), (MN-084), (MN-085), (MN-029), (MN-030),|
-|__A0021v2017__|Bancos de ostra de Broña, punta Cabalo Baixo, AAUT| Rastro de vieira ou voandeira;| C.P. Noia|2008020, 2011063, 2012376, 2013572, 2014020, 2015021, 2016021, __2017021__, 2018021, [2019022](https://galirema.wikia.org/es/wiki/Pexma2019AAUT022),|(MN-044), (MN-040),|
+|__A0018v2017__|Zona de autorización: praia da Virxe e praia da Abelleira AAUT| A pé;| C.P. Muros|2008017, 2010017, 2011060, 2012373, 2013569, 2014017, 2015018, 2016018, __2017018__, 2018018, [2019019](https://galirema.wikia.org/es/wiki/Pexma2019AAUT019),|(MN-054), (MN-056), (MN-057), (MN-097), (MN-098),|
+|__A0019v2017__|Zona de autorización: praia da Virxe e praia da Abelleira AAUT| Embarcación;| C.P. Muros|2008018, 2010018, 2011061, 2012374, 2013570, 2014018, 2015019, 2016019, __2017019__, 2018019, [2019020](https://galirema.wikia.org/es/wiki/Pexma2019AAUT020),|(MN-055), (MN-061),|
+|__A0020v2017__|Zona de autorización C.P. Noia, AAUT| A pé; Embarcación;| C.P. Noia|2008019, 2010019, 2011062, 2012375, 2013571, 2014019, 2015020, 2016020, __2017020__, 2018020, [2019021](https://galirema.wikia.org/es/wiki/Pexma2019AAUT021),|(MN-031), (MN-032), (MN-033), (MN-034), (MN-035), (MN-036), (MN-037), (MN-038), (MN-039), (MN-041), (MN-042), (MN-043), (MN-045), (MN-046), (MN-047), (MN-084), (MN-085), (MN-029), (MN-030),|
+|__A0021v2017__|Bancos de ostra de Broña, punta Cabalo Baixo, AAUT| Rastro de vieira ou voandeira;| C.P. Noia|2008020, 2010020, 2011063, 2012376, 2013572, 2014020, 2015021, 2016021, __2017021__, 2018021, [2019022](https://galirema.wikia.org/es/wiki/Pexma2019AAUT022),|(MN-044), (MN-040),|
 
 
 ## Costa da Morte (CM)
@@ -93,7 +93,7 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |------|---|---------|-------|----------|------------------|
-|__A0002v2017__|Zona de autorización do río Anllóns. AAUT| A pé;| A.M. Esteiro do río Anllóns.|2008003, 2011047, 2012360, 2013556, 2014002, 2015002, 2016002, __2017002__, 2018002, [2019002](https://galirema.wikia.org/es/wiki/Pexma2019AAUT002),|(CM-121), (CM-093),|
+|__A0002v2017__|Zona de autorización do río Anllóns. AAUT| A pé;| A.M. Esteiro do río Anllóns.|2008003, 2010003, 2011047, 2012360, 2013556, 2014002, 2015002, 2016002, __2017002__, 2018002, [2019002](https://galirema.wikia.org/es/wiki/Pexma2019AAUT002),|(CM-121), (CM-093),|
 |__A0010v2017__|De punta Lago a punta Roda, de punta Sandía a punta Roda, de punta Sandía a punta Insuela, enseada da Vasa, AAUT| A pé; Embarcacion;| C.P. Camariñas|2008010, 2011055, 2012368, 2013564, 2014010, 2015010, 2016010, __2017010__, 2018010, [2019011](https://galirema.wikia.org/es/wiki/Pexma2019AAUT011),|(CM-129), (CM-100), (CM-130), (CM-133), (CM-131), (CM-134), (CM-132), (CM-135),|
 
 
