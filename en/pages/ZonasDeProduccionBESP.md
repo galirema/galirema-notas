@@ -88,6 +88,7 @@ __Zonas de producción no SIGREMAR:__
 |__B0105v2017__|Zona sublitoral entre a liña que une o regato Aduana ao illote Gorma e punta Borreiros,; de punta Borreiros ao peirao de Vilaxoán, de punta Castelete á punta Ferrazo, BESP|Embarcación;|C.P. Vilaxoán|2008101, 2011202, 2012453, 2013645, 2014095, 2015097, 2016094, __2017093__, 2018094, [2019097](https://galirema.wikia.org/es/wiki/Pexma2019BESP097),|(AR-029), (AR-028), (AR-030), (AR-031), (AR-032), (AR-033), (AR-034),|
 |__B0108v2008__|Banco marisqueiro de Cabío BESP|Embarcación;|C.P. A Pobra do Caramiñal|__2008068__, 2012416,|(AR-112),|
 |__B0114v2019__|Lombos do Ulla, Boido, Cabio,|Embarcación;|A.M. Rañeiras/os da Ria de Arousa, (plan conxunto)|[2019054](https://galirema.wikia.org/es/wiki/Pexma2019BESP054),|(AR-035), (AR-218-I), (AR-281-II), (AR-112-I), (AR-112-II),|
+|__B0330v2010__|Zona rochosa intermareal da Illa de Arousa, BESP|A pé;|C.P. A Illa de Arousa|__2010084__,|Zona rochosa intermareal da Illa de Arousa,|
 
 
 
