@@ -121,6 +121,7 @@ __Zonas de producción no SIGREMAR:__
 |__B0078v2017__|Da desembocadura do río Xallas ata a desembocadura do río Larada, BESP|A pé;|C.P. O Pindo|2008084, 2008083, 2011180, 2012429, 2013619, 2014069, 2015071, 2016068, __2017067__, 2018068,|(CM-043),|
 |__B0107v2014__|Zona V, agás no ámbito da reserva mariña de interese pesqueiro Os Miñarzos BESP|Endeño remolcado;|C.P. Corcubión, C.P. Fisterra (plan conxunto)|2011171, 2012420, 2013611, __2014059__,|(CM-144), (CM-054), (CM-053), (CM-050), (CM-051), (CM-052),|
 |__B0109v2008__|Zona rochosa de punta Nariga á enseada do río Anllóns BESP|A pé;|C.P. Corme|__2008074__,|canteiro, roncudo, Gabriela, percebellosa, rosas,|
+|__B0331v2010__|De punta Arnela ata a praia do Rostro, BESP|A pé;|C.P. Fisterra|__2010072__,|Sector 1 (de punta Arnela a punta Sardiñeiro,); Sector 2 (de punta Sardiñeiro a porto de Fisterra,); Sector 3 (de porto de Fisterra a cabo Fisterra,);|
 
   
 
