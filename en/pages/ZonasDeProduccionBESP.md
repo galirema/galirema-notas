@@ -49,6 +49,7 @@ __Zonas de producción no SIGREMAR:__
 |__B0101v2017__|Bancos intermareais entre o puntal da Serra e praia de Arealonga (excluída) BESP|A pé;|C.P. Vigo|2013642, 2014092, 2015094, 2016091, __2017090__, 2018091, [2019094](https://galirema.wikia.org/es/wiki/Pexma2019BESP094),|(VI-139), (VI-064), (VI-178), (VI-065), (VI-066), (VI-183), (VI-184), (VI-028), (VI-141), (VI-554), (VI-555-I), (VI-555-II),|
 |__B0102v2017__|Bancos intermareais desde punta Travesada ata Punta Cabalo, BESP|A pé;|C.P. Vilaboa|2011182, 2012431, 2013643, 2014093, 2015095, 2016092, __2017091__, 2018092, [2019095](https://galirema.wikia.org/es/wiki/Pexma2019BESP095),|(VI-144), (VI-200), (VI-201), (VI-238), (VI-140), (VI-561), (VI-150),|
 |__B0103v2008__|Bancos intermareais de moluscos bivalvos da ría de Vigo, excepto a zona de autorización de Baiona BESP|A pé;|Asociación de Confrarías da Ría de Vigo|__2008085__, 2011181, 2012430,|Cabo Estai, Toubiña, Toralla, Canido, Bouzas, Rochas, Arealonga, Cabanas, Chapela, A Guía, Rande, Cedeira, A Portela, A Barra, Cesantes, A Punta do Cabo, Sobreiro, Illa San Simón, Cobreiro, Sotoxusto, Malvinas, Estralo, Puntal, Río do Medio, Conejera, Area Nova, Cunchido, Río Alvedosas, Río de Paredes, Aradoiro, Calera, Maceira, Estralo, Carballal, Río do Porco, San Adrián, Río Maior, Deilán, Cobas, Cabalo, Domaio, Borna, Meira, A Xunqueira, O Con, Tiran, Illa dos Ratos,|
+|__B0329v2010__|De praia de Abra a punta Orelludas, BESP|A pé;|C.P. Baiona|__2010088__,|De praia de Abra a punta Orelludas,|
 
 
 
