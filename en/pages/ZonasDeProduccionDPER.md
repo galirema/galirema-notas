@@ -75,8 +75,8 @@ __Zonas de producción no SIGREMAR__:
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__D0138v2017__|De punta Insua a punta Uhía,|A pé;|C.P. Muros, DPER|2008121, 2011221, 2012473, 2013666, 2014118, 2015119, 2016116, __2017115__, 2018116, [2019119](https://galirema.wikia.org/es/wiki/Pexma2019DPER119),|(MN-008), (MN-009), (MN-010), (MN-011),|
-|__D0142v2017__|De río Sieira a punta Cabeiro, illotes Os Bruyos, Leixoes, Pedra do Con, DPER|A pé; Embarcación;|C.P. Porto do Son|2008125, 2011225, 2012477, 2013670, 2014122, 2015123, 2016120, __2017119__, 2018120, [2019123](https://galirema.wikia.org/es/wiki/Pexma2019DPER123),|(MN-074), (MN-075), (MN-076), (MN-077), (MN-078), (MN-079),|
+|__D0138v2017__|De punta Insua a punta Uhía,|A pé;|C.P. Muros, DPER|2008121, 2010120, 2011221, 2012473, 2013666, 2014118, 2015119, 2016116, __2017115__, 2018116, [2019119](https://galirema.wikia.org/es/wiki/Pexma2019DPER119),|(MN-008), (MN-009), (MN-010), (MN-011),|
+|__D0142v2017__|De río Sieira a punta Cabeiro, illotes Os Bruyos, Leixoes, Pedra do Con, DPER|A pé; Embarcación;|C.P. Porto do Son|2008125, 2010124, 2011225, 2012477, 2013670, 2014122, 2015123, 2016120, __2017119__, 2018120, [2019123](https://galirema.wikia.org/es/wiki/Pexma2019DPER123),|(MN-074), (MN-075), (MN-076), (MN-077), (MN-078), (MN-079),|
 
 
 
