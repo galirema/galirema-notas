@@ -50,8 +50,8 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__F0173v2017__|De punta Couso a punta Morcegos, cara ao interior da ría de Aldán, FEQD|MA; MSAS;|C.P. Aldán-O Hio|2011254, 2012499, 2013692, 2014145, 2015146, 2016142, __2017141__, 2018143, [2019153](https://galirema.wikia.org/es/wiki/Pexma2019FEQD153),|(PO-157), (PO-158), (PO-159), (PO-160), (PO-161), (PO-169), (PO-170), (PO-162), (PO-163), (PO-171),|
-|__F0175v2019__|De punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Morcegos, illa Ons, illa Onza, FEQD|MSAS;|C.P. Bueu, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto)|2008149, 2011256, 2012501, 2013694, 2014147, 2015148, 2016144, 2017143, 2018145, [2019155](https://galirema.wikia.org/es/wiki/Pexma2019FEQD155),|(PO-203), (PO-204), (PO-205), (PO-206), (PO-208), (PO-209), (PO-210), (PO-211), (PO-214), (PO-212), (PO-213),(PO-214),|
+|__F0173v2017__|De punta Couso a punta Morcegos, cara ao interior da ría de Aldán, FEQD|MA; MSAS;|C.P. Aldán-O Hio|2010145, 2011254, 2012499, 2013692, 2014145, 2015146, 2016142, __2017141__, 2018143, [2019153](https://galirema.wikia.org/es/wiki/Pexma2019FEQD153),|(PO-157), (PO-158), (PO-159), (PO-160), (PO-161), (PO-169), (PO-170), (PO-162), (PO-163), (PO-171),|
+|__F0175v2019__|De punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Morcegos, illa Ons, illa Onza, FEQD|MSAS;|C.P. Bueu, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto)|2008149, 2010147, 2011256, 2012501, 2013694, 2014147, 2015148, 2016144, 2017143, 2018145, [2019155](https://galirema.wikia.org/es/wiki/Pexma2019FEQD155),|(PO-203), (PO-204), (PO-205), (PO-206), (PO-208), (PO-209), (PO-210), (PO-211), (PO-214), (PO-212), (PO-213),(PO-214),|
 
 
 
