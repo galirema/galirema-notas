@@ -127,8 +127,8 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__G0215v2008__|Bancos do Taro, Fondás, Fontorto, GSOL|A pé;|A.M. San Cosme de Barreiros-Foz|__2008154__, 2011306,|Bancos do Taro, Fondás, Fontorto,|
-|__G0216v2008__|Taro dos Chonos, Taro das Aceñas, Tesón, GSOL|A pé;|C.P. Ribadeo|__2008155__, 2011307,|Taro dos Chonos, Taro das Aceñas, Tesón,|
+|__G0215v2008__|Bancos do Taro, Fondás, Fontorto, GSOL|A pé;|A.M. San Cosme de Barreiros-Foz|__2008154__, 2010151, 2011306,|Bancos do Taro, Fondás, Fontorto,|
+|__G0216v2008__|Taro dos Chonos, Taro das Aceñas, Tesón, GSOL|A pé;|C.P. Ribadeo|__2008155__, 2010152, 2011307,|Taro dos Chonos, Taro das Aceñas, Tesón,|
 |__G0218v2008__|Zonas de autorización C.P. Cariño,|A pé;|C.P. Cariño, GSOL|__2008160__,|Zonas de autorización C.P. Cariño,|
 |__G0220v2008__|Zonas de autorización: enseada do Ladrido, Raias, Cano Cabalar e Mexilloal, GSOL|A pé;|C.P. Espasante|__2008164__,|enseada do Ladrido, Raias, Cano Cabalar, Mexilloal,|
 |__G0225v2019__|Praia Magdalena, Area Miña Señora, punta Robaleira, GSOL|MSAS;|C.P. Cedeira|[2019165](https://galirema.wikia.org/es/wiki/Pexma2019GSOL165),|Praia Magdalena, Area Miña Señora, punta Robaleira,|
