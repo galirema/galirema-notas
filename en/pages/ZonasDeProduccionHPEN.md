@@ -35,7 +35,7 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__H0230v2017__|Zona sublitoral rochosa entre punta Canabal e punta Couso, incluíndo illas Cíes, (agás de cabo Bicos a punta Cabaliños,), HPEN|MA; MSAS;|C.P. Cangas|2008189, 2011336, 2012533, 2013728, 2014182, 2015182, 2016152, 2017175, 2018177, [2019186](https://galirema.wikia.org/es/wiki/Pexma2019HPEN186),|(VI-227), (VI-228), (VI-229), (VI-230), (VI-231), (VI-221-I), (VI-221-II), (VI-222), (VI-223), (VI-224), (VI-225-II), (VI-226), (VI-225-I),|
+|__H0230v2017__|Zona sublitoral rochosa entre punta Canabal e punta Couso, incluíndo illas Cíes, (agás de cabo Bicos a punta Cabaliños,), HPEN|MA; MSAS;|C.P. Cangas|2008189, 2010180, 2011336, 2012533, 2013728, 2014182, 2015182, 2016152, 2017175, 2018177, [2019186](https://galirema.wikia.org/es/wiki/Pexma2019HPEN186),|(VI-227), (VI-228), (VI-229), (VI-230), (VI-231), (VI-221-I), (VI-221-II), (VI-222), (VI-223), (VI-224), (VI-225-II), (VI-226), (VI-225-I),|
 |__H0232v2015__|De punta Cubilló ata praia de Abra (excluída), HPEN|MA; MSAS|C.P. Vigo|2015184,|De punta Cubilló ata praia de Abra,|
 
 
@@ -47,7 +47,7 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__H0228v2018__|De punta Couso a punta Morcegos, cara ao interior da ría de Aldán, HPEN|MA; MSAS;|C.P. Aldán-O Hio|2008187, 2011334, 2012531, 2013726, 2014180, 2015180, 2016150, 2017173, __2018175__, [2019185](https://galirema.wikia.org/es/wiki/Pexma2019HPEN185),|(PO-073), (PO-074), (PO-075), (PO-076), (PO-086-I), (PO-086-II),|
+|__H0228v2018__|De punta Couso a punta Morcegos, cara ao interior da ría de Aldán, HPEN|MA; MSAS;|C.P. Aldán-O Hio|2008187, 2010178, 2011334, 2012531, 2013726, 2014180, 2015180, 2016150, 2017173, __2018175__, [2019185](https://galirema.wikia.org/es/wiki/Pexma2019HPEN185),|(PO-073), (PO-074), (PO-075), (PO-076), (PO-086-I), (PO-086-II),|
 |__H0229v2017__|No norte da ría: de punta Faxilda a punta Aguillóns, illa de Tambo (con Corbeiro,), Illa Ons, Illa Onza,; No sur da ría: do faro sur da illa de Tambo á esquina oeste da Escola Naval de Marín, ata punta Morcegos,; HPEN|MA; MSAS;|C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Portonovo, C.P. Raxó, C.P. Sanxenxo, (plan conxunto)|2008188, 2011335, 2012532, 2013727, 2014181, 2015181, 2016151, __2017174__, 2018176,|de punta Faxilda a punta Festiñanzo, de punta Festiñanzo a punta Aguillóns. Límite con Tambo no Con Corbeiro, da Escola Naval de Marín a punta Lapamán. Límite coa liña imaxinaria entre a esquina oeste da Escola Naval de Marín e o faro sur da illa de Tambo, de punta Lapamán a punta Morcegos, Illas Ons e Onza,|
 
 
