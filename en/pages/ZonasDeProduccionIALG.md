@@ -49,8 +49,8 @@ __Zonas de producción no SIGREMAR:__
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
-|__I0254v2017__|De punta Couso a punta Preguntoiro, cara ao interior da ría, IALG|MA; MSAS;|C.P. Aldán-O Hio|2008207, 2011353, 2012551, 2013748, 2014198, 2015199, 2016192, __2017190__, 2018193, [2019203](https://galirema.wikia.org/es/wiki/Pexma2019IALG203),|de Punta Couso a Punta Corveira, de Punta Corveira a Punta Testada, de Punta Testada a ó Francón, do Francón a Punta Preguntoiro,|
-|__I0256v2017__|Interior das liñas imaxinarias de punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Preguntoiro, Cara oeste das illas Ons e Onza, IALG|MSAS;|C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Raxó, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto)|2008209, 2011354, 2012552, 2013750, 2014200, 2015201, 2016194, __2017192__, 2018195,|de punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Preguntoiro, Cara oeste das illas Ons e Onza,|
+|__I0254v2017__|De punta Couso a punta Preguntoiro, cara ao interior da ría, IALG|MA; MSAS;|C.P. Aldán-O Hio|2008207, 2010197, 2011353, 2012551, 2013748, 2014198, 2015199, 2016192, __2017190__, 2018193, [2019203](https://galirema.wikia.org/es/wiki/Pexma2019IALG203),|de Punta Couso a Punta Corveira, de Punta Corveira a Punta Testada, de Punta Testada a ó Francón, do Francón a Punta Preguntoiro,|
+|__I0256v2017__|Interior das liñas imaxinarias de punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Preguntoiro, Cara oeste das illas Ons e Onza, IALG|MSAS;|C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Raxó, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto)|2008209, 2010198, 2011354, 2012552, 2013750, 2014200, 2015201, 2016194, __2017192__, 2018195,|de punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Preguntoiro, Cara oeste das illas Ons e Onza,|
 
 
 
