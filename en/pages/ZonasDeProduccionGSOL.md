@@ -134,6 +134,7 @@ __Zonas de producción no SIGREMAR:__
 |__G0218v2008__|Zonas de autorización C.P. Cariño,|A pé;|C.P. Cariño, GSOL|__2008160__,|Zonas de autorización C.P. Cariño,|
 |__G0220v2008__|Zonas de autorización: enseada do Ladrido, Raias, Cano Cabalar e Mexilloal, GSOL|A pé;|C.P. Espasante|__2008164__,|enseada do Ladrido, Raias, Cano Cabalar, Mexilloal,|
 |__G0225v2019__|Praia Magdalena, Area Miña Señora, punta Robaleira, GSOL|MSAS;|C.P. Cedeira|[2019165](https://galirema.wikia.org/es/wiki/Pexma2019GSOL165),|Praia Magdalena, Area Miña Señora, punta Robaleira,|
+|__G0336v2009__|Zonas de autorización situadas na marxe esquerda da ría do Barqueiro, entre a punta da Barra ao sur da punta Preguntoiro e ata a punta dos Prados, GSOL|A pé;|C.P. O Barqueiro-Bares|__2009175__,|O Lamón de San Fiz, Praia A Lama, A Caibanca,|
 
 
 [Indice](indicesZonasProduccion.md)
