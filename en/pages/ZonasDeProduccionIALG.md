@@ -56,7 +56,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Arousa AR
 
- _De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_ Num. AXU: 5 
+ _De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)_ Num. AXU: 6 
 
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
@@ -84,7 +84,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Costa da Morte CM
 
- _De punta Ínsua (42.771 N, 9.1266 W) ata praia de Baldaio (43.292 N, 8.7016 W)_  Num. AXU: 9 
+ _De punta Ínsua (42.771 N, 9.1266 W) ata praia de Baldaio (43.292 N, 8.7016 W)_  Num. AXU: 10 
 
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
@@ -127,7 +127,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Galicia
 
-+ Num. AXU: 8 
++ Num. AXU: 9 
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
