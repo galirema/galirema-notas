@@ -30,7 +30,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Vigo (VI)
 
- __De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)__ Num. AXU: 14 
+ __De punta Santa Terga (41.8699 N, 8.8716 W) ata punta Couso (42.3097 N, 8.8556 W)__ Num. AXU: 16 
 
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
@@ -73,7 +73,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Ría de Arousa (AR)
 
- __De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)__ Num. AXU: 11 
+ __De punta Faxilda (42.4152 N, 8.8807 W) ata praia de Catia (42.261 N, 9.0554 W)__ Num. AXU: 12 
 
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
@@ -109,7 +109,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Costa da Morte (CM)
 
- __De punta Ínsua (42.771 N, 9.1266 W) ata praia de Baldaio (43.292 N, 8.7016 W)__ Num. AXU: 8 
+ __De punta Ínsua (42.771 N, 9.1266 W) ata praia de Baldaio (43.292 N, 8.7016 W)__ Num. AXU: 9 
 
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
@@ -130,7 +130,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Coruña - Ferrol (CF)
 
- __De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)__ Num. AXU: 8 
+ __De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)__ Num. AXU: 10 
 
 
 |codaxu|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
