@@ -99,7 +99,7 @@ __Zonas de producción no SIGREMAR:__
 
 ## Coruña - Ferrol (CF)
 
- __De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)__ Num. AXU: 10 
+ __De praia de Baldaio (43.292 N, 8.7016 W)  ata punta Frouxeira (43.62 N, 8.1893 W)__ Num. AXU: 13 
  
 |codaxu|AXU|Modalidad|Entidad|Plan anual|SIGREMAR 20017|
 |------|---|---------|-------|----------|--------------|
