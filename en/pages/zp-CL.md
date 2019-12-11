@@ -37,33 +37,37 @@
 ## Zonas de Libre Marisqueo
 
 
-1. Bancos de Fondás,Taro e Fontorto BESP A pé; A.M. San Cosme de Barreiros-Foz
+1. __B0048v2017__: Bancos de Fondás,Taro e Fontorto BESP A pé; A.M. San Cosme de Barreiros-Foz [2019048](https://galirema.wikia.org/es/wiki/Pexma2019BES048),
 
-1. Praia do Altar BESP A pé; A.M. San Cosme de Barreiros-Foz
+1. __B0049v2014__: Praia do Altar BESP A pé; A.M. San Cosme de Barreiros-Foz 2014046
 
-1. Ría de Viveiro (Entre a ponte do tren ata a canle do porto de Celeiro; Entrepontes; ...) BESP A pé; C.P. Celeiro
+1. __B0050v2014__: Ría de Viveiro (Entre a ponte do tren ata a canle do porto de Celeiro; Entrepontes; ...) BESP A pé; C.P. Celeiro [2019049](https://galirema.wikia.org/es/wiki/Pexma2019BES049),
 
-1. Desde debaixo das pontes ata o Rego Seco, illa San Martiño, praia de Villabril, praia de Moledos, praia de Fomento, Vicedo Vello, BESP A pé; C.P. O Vicedo
+1. __B0051v2017__: Desde debaixo das pontes ata o Rego Seco, illa San Martiño, praia de Villabril, praia de Moledos, praia de Fomento, Vicedo Vello, BESP A pé; C.P. O Vicedo [2019050](https://galirema.wikia.org/es/wiki/Pexma2019BES050),
 
-1. Ría de Viveiro BESP Embarcación; C.P. Celeiro
+1. __B0052v2008__: Ría de Viveiro BESP Embarcación; C.P. Celeiro 2010050
 
-1. Praia da Abrela BESP A pé; C.P. Celeiro e O Vicedo (plan conxunto)
+1. __B0053v2008__: Praia da Abrela BESP A pé; C.P. Celeiro e O Vicedo (plan conxunto) 2012408
 
-1. Vicedo BESP A pé; C.P. O Vicedo
+1. __B0054v2008__: Vicedo BESP A pé; C.P. O Vicedo 2010052
 
-1. Lombo das Navallas BESP A pé; C.P. O Vicedo e O Barqueiro (plan conxunto)
+1. __B0055v2008__: Lombo das Navallas BESP A pé; C.P. O Vicedo e O Barqueiro (plan conxunto) 2012409
 
-1. Canle da desembocadura do río Sor, agás as zonas de autorización BESP A pé; C.P. O Vicedo e O Barqueiro (plan conxunto)
+1. __B0056v2008__: Canle da desembocadura do río Sor, agás as zonas de autorización BESP A pé; C.P. O Vicedo e O Barqueiro (plan conxunto) 2011160
 
-1. Ría de Ribadeo BESP 
+1. __B0057v2017__: Ría de Ribadeo BESP [2019051](https://galirema.wikia.org/es/wiki/Pexma2019BES051),
 
-1. Da ermida de San Tirso a punta Rueta BESP A pé; C.P. San Cibrao
+1. __B0058v2015__: Da ermida de San Tirso a punta Rueta BESP A pé; C.P. San Cibrao 2015051
 
-1. Praias de Figueiras, dos Cabalos, de Cariño BESP A pé; C.P. Cariño
+1. __B0066v2017__: Praia de Vilarrube, (coquina) BESP A pé; C.P. Cedeira [2019060](https://galirema.wikia.org/es/wiki/Pexma2019BES060),
 
-1. Enseada de Ladrido (ría de Ortigueira), da punta do espigón do porto de Ortigueira ata a depuradora, BESP A pé; C.P. Espasante
+1. __B0067v2017__: Praia da Madalena e a enseada de Esteiro, (Berberecho) BESP A pé; C.P. Cedeira [2019061](https://galirema.wikia.org/es/wiki/Pexma2019BES061),
 
-1. Praia de Vilela BESP A pé; C.P. O Barqueiro
+1. __B0068v2016__: Praias de Figueiras, dos Cabalos, de Cariño BESP A pé; C.P. Cariño 2016057
+
+1. __B0070v2017__: Enseada de Ladrido (ría de Ortigueira), da punta do espigón do porto de Ortigueira ata a depuradora, BESP A pé; C.P. Espasante [2019064](https://galirema.wikia.org/es/wiki/Pexma2019BES064),
+
+1. __B0111v2008__: Praia de Vilela BESP A pé; C.P. O Barqueiro 2012428
 
 [Menú](#Menú)
 
