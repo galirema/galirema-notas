@@ -6,30 +6,30 @@
 ## Menú
 
 |Tipo de Plan | Num. de Zonas| Activas 2019|
-|:------------|--------------:|------------|
+|:------------|--------------:|:----------:|
 |[Autorizacións](#Autorizacións)| 5 | 4 |
 |[Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)| 16 | 7 |
-|[Percebe](#Percebe)| 10 ||
-|[Equinodermos](#Equinodermos)| 8 ||
-|[Solénidos](#Solénidos)| 4 ||
-|[Peneiras](#Peneiras)| 0 ||
-|[Algas](#Algas)| 1 ||
-|[Anémonas](#Anémonas)| 2 ||
-|[Poliquetos](#Poliquetos)| 1 ||
+|[Percebe](#Percebe)| 10 | 10 |
+|[Equinodermos](#Equinodermos)| 13 | 7 |
+|[Solénidos](#Solénidos)| 6 | 1 |
+|[Peneiras](#Peneiras)| 0 | 0 |
+|[Algas](#Algas)| 1 | 0|
+|[Anémonas](#Anémonas)| 8 | 5 |
+|[Poliquetos](#Poliquetos)| 4 | 1 |
 
 
 
 ## Autorizacións
 
-1. Autorizacións da confraría de Cariño AAUT A pé; C.P. Cariño
+1. __A0011v2017__: Autorizacións da confraría de Cariño AAUT A pé; C.P. Cariño [2019012](https://galirema.wikia.org/es/wiki/Pexma2019AAUT012),
 
-1. Enseada de Esteiro, enseada de Pantín, AAUT A pé; C.P. Cedeira
+1. __A0012v2017__: Enseada de Esteiro, enseada de Pantín, AAUT A pé; C.P. Cedeira [2019013](https://galirema.wikia.org/es/wiki/Pexma2019AAUT013),
 
-1. Autorización de Espasante, AAUT A pé; C.P. Espasante
+1. __A0013v2017__: Autorización de Espasante, AAUT A pé; C.P. Espasante [2019014](https://galirema.wikia.org/es/wiki/Pexma2019AAUT014),
 
-1. Zonas de autorización situadas na marxe esquerda da ría do Barqueiro AAUT A pé; C.P. O Barqueiro-Bares
+1. __A0022v2017__: Zonas de autorización situadas na marxe esquerda da ría do Barqueiro AAUT A pé; C.P. O Barqueiro-Bares [2019023](https://galirema.wikia.org/es/wiki/Pexma2019AAUT023),
 
-1. Praia de Arealonga e Lombo das Navallas AAUT A pé, C.P. O Vicedo
+1. __A0047v2008__: Praia de Arealonga e Lombo das Navallas AAUT A pé, C.P. O Vicedo 2012358,
 
 [Menú](#Menú)
 
