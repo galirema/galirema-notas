@@ -191,7 +191,14 @@
 ## Poliquetos
 
 
-1. Bancos de Fondás, O Taro, KPOL A pé; A.M. San Cosme de Barreiros-Foz
+1. __K0286v2017__: Bancos de Fondás, O Taro, KPOL A pé; A.M. San Cosme de Barreiros-Foz [2019226](https://galirema.wikia.org/es/wiki/Pexma2019KPOL226),
+
+1. __K0315v2015__: O Tesón, A Vilavella, KPOL A pé; C.P. Ribadeo 2015219,
+
+1. __K0317v2014__: Peirao Ladrido-Comboa, praia de Cabalar, punta Cabalar-Mexilloal, KPOL A pé; C.P. Espasante 2014214,
+
+1. __K0332v2010__: Ámbito territorial das confrarías de Cariño e Espasante (de Pedra Barcelona a Punta Vilardeira, agás os bancos de Ortigueira-Ladrido), KPOL MA; C.P. Cariño 2010202,
+
 
 [Menú](#Menú)
 
