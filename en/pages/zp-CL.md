@@ -39,35 +39,35 @@
 
 1. __B0048v2017__: Bancos de Fondás,Taro e Fontorto BESP A pé; A.M. San Cosme de Barreiros-Foz [2019048](https://galirema.wikia.org/es/wiki/Pexma2019BES048),
 
-1. __B0049v2014__: Praia do Altar BESP A pé; A.M. San Cosme de Barreiros-Foz 2014046
+1. __B0049v2014__: Praia do Altar BESP A pé; A.M. San Cosme de Barreiros-Foz 2014046,
 
 1. __B0050v2014__: Ría de Viveiro (Entre a ponte do tren ata a canle do porto de Celeiro; Entrepontes; ...) BESP A pé; C.P. Celeiro [2019049](https://galirema.wikia.org/es/wiki/Pexma2019BES049),
 
 1. __B0051v2017__: Desde debaixo das pontes ata o Rego Seco, illa San Martiño, praia de Villabril, praia de Moledos, praia de Fomento, Vicedo Vello, BESP A pé; C.P. O Vicedo [2019050](https://galirema.wikia.org/es/wiki/Pexma2019BES050),
 
-1. __B0052v2008__: Ría de Viveiro BESP Embarcación; C.P. Celeiro 2010050
+1. __B0052v2008__: Ría de Viveiro BESP Embarcación; C.P. Celeiro 2010050,
 
-1. __B0053v2008__: Praia da Abrela BESP A pé; C.P. Celeiro e O Vicedo (plan conxunto) 2012408
+1. __B0053v2008__: Praia da Abrela BESP A pé; C.P. Celeiro e O Vicedo (plan conxunto) 2012408,
 
-1. __B0054v2008__: Vicedo BESP A pé; C.P. O Vicedo 2010052
+1. __B0054v2008__: Vicedo BESP A pé; C.P. O Vicedo 2010052,
 
-1. __B0055v2008__: Lombo das Navallas BESP A pé; C.P. O Vicedo e O Barqueiro (plan conxunto) 2012409
+1. __B0055v2008__: Lombo das Navallas BESP A pé; C.P. O Vicedo e O Barqueiro (plan conxunto) 2012409,
 
-1. __B0056v2008__: Canle da desembocadura do río Sor, agás as zonas de autorización BESP A pé; C.P. O Vicedo e O Barqueiro (plan conxunto) 2011160
+1. __B0056v2008__: Canle da desembocadura do río Sor, agás as zonas de autorización BESP A pé; C.P. O Vicedo e O Barqueiro (plan conxunto) 2011160,
 
 1. __B0057v2017__: Ría de Ribadeo BESP [2019051](https://galirema.wikia.org/es/wiki/Pexma2019BES051),
 
-1. __B0058v2015__: Da ermida de San Tirso a punta Rueta BESP A pé; C.P. San Cibrao 2015051
+1. __B0058v2015__: Da ermida de San Tirso a punta Rueta BESP A pé; C.P. San Cibrao 2015051,
 
 1. __B0066v2017__: Praia de Vilarrube, (coquina) BESP A pé; C.P. Cedeira [2019060](https://galirema.wikia.org/es/wiki/Pexma2019BES060),
 
 1. __B0067v2017__: Praia da Madalena e a enseada de Esteiro, (Berberecho) BESP A pé; C.P. Cedeira [2019061](https://galirema.wikia.org/es/wiki/Pexma2019BES061),
 
-1. __B0068v2016__: Praias de Figueiras, dos Cabalos, de Cariño BESP A pé; C.P. Cariño 2016057
+1. __B0068v2016__: Praias de Figueiras, dos Cabalos, de Cariño BESP A pé; C.P. Cariño 2016057,
 
 1. __B0070v2017__: Enseada de Ladrido (ría de Ortigueira), da punta do espigón do porto de Ortigueira ata a depuradora, BESP A pé; C.P. Espasante [2019064](https://galirema.wikia.org/es/wiki/Pexma2019BES064),
 
-1. __B0111v2008__: Praia de Vilela BESP A pé; C.P. O Barqueiro 2012428
+1. __B0111v2008__: Praia de Vilela BESP A pé; C.P. O Barqueiro 2012428,
 
 [Menú](#Menú)
 
@@ -100,21 +100,21 @@
 ## Equinodermos
 
 
-1. __F0155v2017__: Zonas marítimas desde Punta Pena Furada a As Carrallas, agás: a zona interna entre a punta do dique norte do porto de Alcoa e o faro de San Cibrao, Os Muiñelos, Os Castelos da praia de San Román, a cetarea de San Cibrao, Calvella en Burela, Punta Promontoiro en San Cosme, Celeiros en Ribadeo FEQD MSAS; Asociación de recolectores submariños da Mariña 2017129
+1. __F0155v2017__: Zonas marítimas desde Punta Pena Furada a As Carrallas, agás: a zona interna entre a punta do dique norte do porto de Alcoa e o faro de San Cibrao, Os Muiñelos, Os Castelos da praia de San Román, a cetarea de San Cibrao, Calvella en Burela, Punta Promontoiro en San Cosme, Celeiros en Ribadeo FEQD MSAS; Asociación de recolectores submariños da Mariña 2017129,
 
 1. __F0156v2017__: Desde a ermida de San Tirso a punta do Cabalo FEQD A pé; C.P. Celeiro [2019136](https://galirema.wikia.org/es/wiki/Pexma2019FEQD136),
 
-1. __F0157v2017__: Desde punta Furada ata As Carallas, agás desde a ermida de San Tirso a punta do Cabalo FEQD A pé; C.P. San Cibrao, C.P. Ribadeo, C.P. Burela, A.M. San Cosme de Barreiros-Foz, (plan conxunto) C.P. O Vicedo, C.P. Celeiro, 2018132
+1. __F0157v2017__: Desde punta Furada ata As Carallas, agás desde a ermida de San Tirso a punta do Cabalo FEQD A pé; C.P. San Cibrao, C.P. Ribadeo, C.P. Burela, A.M. San Cosme de Barreiros-Foz, (plan conxunto) C.P. O Vicedo, C.P. Celeiro, 2018132,
 
-1. __F0159v2015__: Zonas marítimas desde Punta Pena Furada ata As Carrallas, FEQD MSAS; (MA;) C.P. O Vicedo, C.P. San Cibrao, C.P. Celeiro (plan conxunto) C.P. Burela, 2015135
+1. __F0159v2015__: Zonas marítimas desde Punta Pena Furada ata As Carrallas, FEQD MSAS; (MA;) C.P. O Vicedo, C.P. San Cibrao, C.P. Celeiro (plan conxunto) C.P. Burela, 2015135,
 
 1. __F0161v2017__: De illa San Vicente a punta Vilardeira, FEQD A pé; C.P. Espasante [2019143](https://galirema.wikia.org/es/wiki/Pexma2019FEQD143),
 
-1. __F0162v2015__: Pedra Barcelona, pola parte oeste, ata punta Castro de Vilela FEQD MSAS; 2015138
+1. __F0162v2015__: Pedra Barcelona, pola parte oeste, ata punta Castro de Vilela FEQD MSAS; 2015138,
 
-1. __F0163v2014__: Desde o faro da punta da Frouxeira ata Pedra Barcelona, agás a reserva integral e as ZEP-I e ZEP-II FEQD MSAS; C.P. Cedeira 2014137
+1. __F0163v2014__: Desde o faro da punta da Frouxeira ata Pedra Barcelona, agás a reserva integral e as ZEP-I e ZEP-II FEQD MSAS; C.P. Cedeira 2014137,
 
-1. __F0164v2008__: De faro de punta Frouxeira a punta Castro Vilela FEQD MSAS; C.P. Cedeira, C.P. Espasante, C.P. O Barqueiro-Bares, (plan conxunto) 2012491
+1. __F0164v2008__: De faro de punta Frouxeira a punta Castro Vilela FEQD MSAS; C.P. Cedeira, C.P. Espasante, C.P. O Barqueiro-Bares, (plan conxunto) 2012491,
 
 1. __F0181v2019__: Punta Socastro, Illa Gabeira, Portonovo, Illotes Farallóns, Illa Anzuela, punta Castro, punta das cabras, punta Nois, punta Fazouro, Os Xuncos, illa Corbeiras, Os Placeos, punta Piñeira, punta Niño do Corvo, illa Pancha, O Mirador, FEQD MSAS; A.M. Aresmar [2019135](https://galirema.wikia.org/es/wiki/Pexma2019FEQD135),
 
@@ -133,13 +133,17 @@
 ## Solénidos
 
 
-1. Bancos do Taro, Fondás, Fontorto, GSOL A pé; A.M. San Cosme de Barreiros-Foz
+1. __G0215v2008__: Bancos do Taro, Fondás, Fontorto, GSOL A pé; A.M. San Cosme de Barreiros-Foz 2011306,
 
-1. Taro dos Chonos, Taro das Aceñas, Tesón, GSOL A pé; C.P. Ribadeo
+1. __G0216v2008__: Taro dos Chonos, Taro das Aceñas, Tesón, GSOL A pé; C.P. Ribadeo 2011307,
 
-1. Zonas de autorización C.P. Cariño, GSOL A pé; C.P. Cariño
+1. __G0218v2008__: Zonas de autorización C.P. Cariño, GSOL A pé; C.P. Cariño 2009164,
 
-1. Zonas de autorización: enseada do Ladrido, Raias, Cano Cabalar e Mexilloal GSOL A pé; C.P. Espasante
+1. __G0220v2008__: Zonas de autorización: enseada do Ladrido, Raias, Cano Cabalar e Mexilloal GSOL A pé; C.P. Espasante 2009168,
+
+1. __G0225v2019__: Praia Magdalena, Area Miña Señora, punta Robaleira, GSOL MSAS; C.P. Cedeira [2019165](https://galirema.wikia.org/es/wiki/Pexma2019GSOL165),
+
+1. __G0336v2009__: Zonas de autorización situadas na marxe esquerda da ría do Barqueiro, entre a punta da Barra ao sur da punta Preguntoiro e ata a punta dos Prados, GSOL A pé; C.P. O Barqueiro-Bares 2009175,
 
 [Menú](#Menú)
 
