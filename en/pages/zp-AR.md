@@ -19,6 +19,7 @@
 |[Algas](#Algas)| 3 ||
 |[Anémonas](#Anémonas)| 2 ||
 |[Poliquetos](#Poliquetos)| 3 ||
+|Totales|||
 
 
 
