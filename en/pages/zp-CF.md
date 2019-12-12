@@ -8,40 +8,46 @@
 
 |Tipo de Plan | Num. de Zonas| Activas 2019 |
 |:------------|--------------:|:-----------:|
-|[Autorizacións](#Autorizacións)| 10 ||
-|[Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)| 10 ||
-|[Percebe](#Percebe)| 4 | |
-|[Equinodermos](#Equinodermos)| 2 ||
-|[Solénidos](#Solénidos)| 1 ||
-|[Peneiras](#Peneiras)| 0 ||
-|[Algas](#Algas)| 1 ||
-|[Anémonas](#Anémonas)| 2 ||
-|[Poliquetos](#Poliquetos)| 4 ||
+|[Autorizacións](#Autorizacións)| 13 | 11 |
+|[Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)| 10 | 8 |
+|[Percebe](#Percebe)| 4 | 3 |
+|[Equinodermos](#Equinodermos)| 2 | 2 |
+|[Solénidos](#Solénidos)| 2 | 1 |
+|[Peneiras](#Peneiras)| 0 | 0 |
+|[Algas](#Algas)| 2 | 2 |
+|[Anémonas](#Anémonas)| 2 | 2 |
+|[Poliquetos](#Poliquetos)| 4 | 3 |
 |Totales|||
 
 
 
 ## Autorizacións
 
-1. Lagoas de Baldaio. AAUT. A pé;. A.M. Fonte Santa Helena-Baldaio.
+1. __A0001v2017__: Lagoas de Baldaio. AAUT. A pé;. A.M. Fonte Santa Helena-Baldaio. [2019001](https://galirema.wikia.org/es/wiki/Pexma2019AAUT001),
 
-1. Ría do Burgo. AAUT. A pé; Embarcación;. C.P. A Coruña
+1. __A0003v2017__: Ría do Burgo. AAUT. A pé; Embarcación;. C.P. A Coruña 2018003,
 
-1. Praias de Barallobre, Maniños, AAUT A pé; C.P. Barallobre
+1. __A0312v2019__: Ría do Burgo AAUT Embarcación; C.P. A Coruña [2019003](https://galirema.wikia.org/es/wiki/Pexma2019AAUT003),
 
-1. Autorización das Pías, Autorización enseada Cabana-A Malata, AAUT A pé; Embarcación; C.P. Ferrol, C.P. Barallobre, (plan conxunto)
+1. __A0313v2019__: Zonas de autorización da parte interna da ría do Burgo, entre a ponte da Pasaxe e a ponte do Burgo, AAUT A pé; C.P. A Coruña [2019004](https://galirema.wikia.org/es/wiki/Pexma2019AAUT004),
 
-1. San Felipe, enseada de Cabana-A Malata, praia de Caranza-Montón, de punta Cornida á ponte do tren, AAUT A pé; C.P. Ferrol
+1. __A0007v2017__: Praias de Barallobre, Maniños, AAUT A pé; C.P. Barallobre [2019008](https://galirema.wikia.org/es/wiki/Pexma2019AAUT008),
 
-1. Entre final da praia grande de Miño a punta Allo; entre a canle de Hervás a punta Curbeiros, AAUT A pé; Embarcación; C.P. Miño
+1. __A0014v2017__: Autorización das Pías, Autorización enseada Cabana-A Malata, AAUT A pé; Embarcación; C.P. Ferrol, C.P. Barallobre, (plan conxunto) [2019015](https://galirema.wikia.org/es/wiki/Pexma2019AAUT015),
 
-1. Punta Promontoiro a rampla do Seixo, punta Redonda a punta Leiras, punta Leiras a punta Promontoiro, Punta Segaño a punta Redonda, AAUT A pé; C.P. Mugardos
+1. __A0015v2017__: San Felipe, enseada de Cabana-A Malata, praia de Caranza-Montón, de punta Cornida á ponte do tren, AAUT A pé; C.P. Ferrol [2019016](https://galirema.wikia.org/es/wiki/Pexma2019AAUT016),
 
-1. De praia Almieiras a punta Carboeira AAUT A pé; C.P. Pontedeume
+1. __A0016v2017__: Entre final da praia grande de Miño a punta Allo; entre a canle de Hervás a punta Curbeiros, AAUT A pé; Embarcación; C.P. Miño [2019017](https://galirema.wikia.org/es/wiki/Pexma2019AAUT017),
 
-1. De praia Almieiras a punta Carboeira AAUT Embarcación; C.P. Pontedeume
+1. __A0017v2017__: Punta Promontoiro a rampla do Seixo, punta Redonda a punta Leiras, punta Leiras a punta Promontoiro, Punta Segaño a punta Redonda, AAUT A pé; C.P. Mugardos [2019018](https://galirema.wikia.org/es/wiki/Pexma2019AAUT018),
 
-1. Praia de Sada AAUT A pé; C.P. Sada
+1. __A0025v2017__: De praia Almieiras a punta Carboeira AAUT A pé; C.P. Pontedeume [2019026](https://galirema.wikia.org/es/wiki/Pexma2019AAUT026),
+
+1. __A0026v2017__: De praia Almieiras a punta Carboeira AAUT Embarcación; C.P. Pontedeume [2019027](https://galirema.wikia.org/es/wiki/Pexma2019AAUT027),
+
+1. __A0031v2016__: Praia de Sada AAUT A pé; C.P. Sada [2019032](https://galirema.wikia.org/es/wiki/Pexma2019AAUT032),
+
+1. __A0324v2013__: Praia de Sada. AAUT A pé; C.P. Sada, C.P. Miño (plan conxunto) 2014030,
 
 [Menú](#Menú)
 
