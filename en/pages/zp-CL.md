@@ -100,21 +100,32 @@
 ## Equinodermos
 
 
-1. Zonas marítimas desde Punta Pena Furada a As Carrallas, agás: a zona interna entre a punta do dique norte do porto de Alcoa e o faro de San Cibrao, Os Muiñelos, Os Castelos da praia de San Román, a cetarea de San Cibrao, Calvella en Burela, Punta Promontoiro en San Cosme, Celeiros en Ribadeo FEQD MSAS; Asociación de recolectores submariños da Mariña
+1. __F0155v2017__: Zonas marítimas desde Punta Pena Furada a As Carrallas, agás: a zona interna entre a punta do dique norte do porto de Alcoa e o faro de San Cibrao, Os Muiñelos, Os Castelos da praia de San Román, a cetarea de San Cibrao, Calvella en Burela, Punta Promontoiro en San Cosme, Celeiros en Ribadeo FEQD MSAS; Asociación de recolectores submariños da Mariña 2017129
 
-1. Desde a ermida de San Tirso a punta do Cabalo FEQD A pé; C.P. Celeiro
+1. __F0156v2017__: Desde a ermida de San Tirso a punta do Cabalo FEQD A pé; C.P. Celeiro [2019136](https://galirema.wikia.org/es/wiki/Pexma2019FEQD136),
 
-1. Desde punta Furada ata As Carallas, agás desde a ermida de San Tirso a punta do Cabalo FEQD A pé; C.P. San Cibrao, C.P. Ribadeo, C.P. Burela, A.M. San Cosme de Barreiros-Foz, (plan conxunto) C.P. O Vicedo, C.P. Celeiro,
+1. __F0157v2017__: Desde punta Furada ata As Carallas, agás desde a ermida de San Tirso a punta do Cabalo FEQD A pé; C.P. San Cibrao, C.P. Ribadeo, C.P. Burela, A.M. San Cosme de Barreiros-Foz, (plan conxunto) C.P. O Vicedo, C.P. Celeiro, 2018132
 
-1. Zonas marítimas desde Punta Pena Furada ata As Carrallas, FEQD MSAS; (MA;) C.P. O Vicedo, C.P. San Cibrao, C.P. Celeiro (plan conxunto) C.P. Burela,
+1. __F0159v2015__: Zonas marítimas desde Punta Pena Furada ata As Carrallas, FEQD MSAS; (MA;) C.P. O Vicedo, C.P. San Cibrao, C.P. Celeiro (plan conxunto) C.P. Burela, 2015135
 
-1. De illa San Vicente a punta Vilardeira, FEQD A pé; C.P. Espasante
+1. __F0161v2017__: De illa San Vicente a punta Vilardeira, FEQD A pé; C.P. Espasante [2019143](https://galirema.wikia.org/es/wiki/Pexma2019FEQD143),
 
-1. Pedra Barcelona, pola parte oeste, ata punta Castro de Vilela FEQD MSAS;
+1. __F0162v2015__: Pedra Barcelona, pola parte oeste, ata punta Castro de Vilela FEQD MSAS; 2015138
 
-1. Desde o faro da punta da Frouxeira ata Pedra Barcelona, agás a reserva integral e as ZEP-I e ZEP-II FEQD MSAS; C.P. Cedeira
+1. __F0163v2014__: Desde o faro da punta da Frouxeira ata Pedra Barcelona, agás a reserva integral e as ZEP-I e ZEP-II FEQD MSAS; C.P. Cedeira 2014137
 
-1. "De faro de punta Frouxeira a punta Castro Vilela FEQD MSAS; C.P. Cedeira, C.P. Espasante, C.P. O Barqueiro-Bares, (plan conxunto)
+1. __F0164v2008__: De faro de punta Frouxeira a punta Castro Vilela FEQD MSAS; C.P. Cedeira, C.P. Espasante, C.P. O Barqueiro-Bares, (plan conxunto) 2012491
+
+1. __F0181v2019__: Punta Socastro, Illa Gabeira, Portonovo, Illotes Farallóns, Illa Anzuela, punta Castro, punta das cabras, punta Nois, punta Fazouro, Os Xuncos, illa Corbeiras, Os Placeos, punta Piñeira, punta Niño do Corvo, illa Pancha, O Mirador, FEQD MSAS; A.M. Aresmar [2019135](https://galirema.wikia.org/es/wiki/Pexma2019FEQD135),
+
+1. __F0182v2019__: De punta Nois ata As Carrallas, FEQD A pé; C.P. Ribadeo, A.M. San Cosme de Barreiros-Foz, (plan conxunto) [2019137](https://galirema.wikia.org/es/wiki/Pexma2019FEQD137),
+
+1. __F0183v2019__: De ermida de San Tirso a punta Rueta, agás a cetaria de San Cibrao, FEQD A pé; C.P. San Cibrao, C.P. Burela, (plan conxunto) [2019138](https://galirema.wikia.org/es/wiki/Pexma2019FEQD138),
+
+1. __F0184v2019__: De punta Rueta ata punta Nois, agas a zona de Calvella, FEQD A pé; C.P. San Cibrao, C.P. Burela, C.P. Ribadeo, A.M. San Cosme de Barreiros-Foz, (plan conxunto) [2019139](https://galirema.wikia.org/es/wiki/Pexma2019FEQD139),
+
+1. __F0185v2019__: Cedeira, Cariño, FEQD MSAS; C.P. Cedeira [2019142](https://galirema.wikia.org/es/wiki/Pexma2019FEQD142),
+
 
 [Menú](#Menú)
 
