@@ -6,18 +6,18 @@
 ## Menú
 
 
-|Tipo de Plan | Num. de Zonas|
-|:------------|--------------:|
-|[Autorizacións](#Autorizacións)| 2 |
-|[Zonas de Libre Marisqueo](##Zonas_de_Libre_Marisqueo)| 14 |
-|[Percebe](#Percebe)| 5 |
-|[Equinodermos](#Equinodermos)| 5 |
-|[Solénidos](#Solénidos)| 7 |
-|[Peneiras](#Peneiras)| 2 |
-|[Algas](#Algas)| 5 |
-|[Anémonas](#Anémonas)| 4 |
-|[Poliquetos](#Poliquetos)| 4 |
-
+|Tipo de Plan | Num. de Zonas| Activas 2019 |
+|:------------|--------------:|:-----------:|
+|[Autorizacións](#Autorizacións)| 2 ||
+|[Zonas de Libre Marisqueo](##Zonas_de_Libre_Marisqueo)| 14 ||
+|[Percebe](#Percebe)| 5 ||
+|[Equinodermos](#Equinodermos)| 5 ||
+|[Solénidos](#Solénidos)| 7 ||
+|[Peneiras](#Peneiras)| 2 ||
+|[Algas](#Algas)| 5 ||
+|[Anémonas](#Anémonas)| 4 ||
+|[Poliquetos](#Poliquetos)| 4 ||
+|Totales|||
 
 
 ## Autorizacións
