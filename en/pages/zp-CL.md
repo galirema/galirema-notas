@@ -74,25 +74,25 @@
 
 ## Percebe
 
-1. De punta Promontorio a punta Nois, DPER A pé; A.M. San Cosme de Barreiros-Foz
+1. __D0115v2017__: De punta Promontorio a punta Nois, DPER A pé; A.M. San Cosme de Barreiros-Foz [2019098](https://galirema.wikia.org/es/wiki/Pexma2019DPER098),
 
-1. Ámbito territorial da confraría de Burela DPER Embarcación; A pé;? C.P. Burela
+1. __D0116v2017__: Ámbito territorial da confraría de Burela DPER Embarcación; A pé;? C.P. Burela [2019099](https://galirema.wikia.org/es/wiki/Pexma2019DPER099),
 
-1. Da ermida de San Tirso a punta Cabalo e illa Gabeira DPER A pé; Embarcación; C.P. Celeiro
+1. __D0117v2017__: Da ermida de San Tirso a punta Cabalo e illa Gabeira DPER A pé; Embarcación; C.P. Celeiro [2019100](https://galirema.wikia.org/es/wiki/Pexma2019DPER100),
 
-1. Desde a marxe esquerda do río Escourido á marxe dereita do río Sor, illa Coelleira, DPER Embarcación; C.P. O Vicedo
+1. __D0118v2017__: Desde a marxe esquerda do río Escourido á marxe dereita do río Sor, illa Coelleira, DPER Embarcación; C.P. O Vicedo [2019101](https://galirema.wikia.org/es/wiki/Pexma2019DPER101),
 
-1. De punta Promontoiro ás Carallas; illotes: Martiñas, Mourón, Corbeira, Tabla, Insua, Pancha e O Can de Faro DPER A pé; C.P. Ribadeo
+1. __D0119v2017__: De punta Promontoiro ás Carallas; illotes: Martiñas, Mourón, Corbeira, Tabla, Insua, Pancha e O Can de Faro DPER A pé; C.P. Ribadeo [2019102](https://galirema.wikia.org/es/wiki/Pexma2019DPER102),
 
-1. Ermida de San Tirso a punta Rueta, illas de Cal, Sarón, Farallóns, DPER A pé; Embarcación; C.P. San Cibrao
+1. __D0120v2017__: Ermida de San Tirso a punta Rueta, illas de Cal, Sarón, Farallóns, DPER A pé; Embarcación; C.P. San Cibrao [2019103](https://galirema.wikia.org/es/wiki/Pexma2019DPER103),
 
-1. De Pedra Barcelona a desembocadura do río Mera, DPER Embarcación; C.P. Cariño
+1. __D0127v2017__: De Pedra Barcelona a desembocadura do río Mera, DPER Embarcación; C.P. Cariño [2019109](https://galirema.wikia.org/es/wiki/Pexma2019DPER109),
 
-1. Do faro da punta da Frouxeira a Pedra Barcelona, DPER Embarcación; C.P. Cedeira
+1. __D0128v2017__: Do faro da punta da Frouxeira a Pedra Barcelona, DPER Embarcación; C.P. Cedeira [2019110](https://galirema.wikia.org/es/wiki/Pexma2019DPER110),
 
-1. De illa San Vicente a punta Billardeira, DPER Embarcación; C.P. Espasante
+1. __D0130v2017__: De illa San Vicente a punta Billardeira, DPER Embarcación; C.P. Espasante [2019112](https://galirema.wikia.org/es/wiki/Pexma2019DPER112),
 
-1. De punta Villardeira a punta da Barra, DPER Embarcación; C.P. O Barqueiro-Bares
+1. __D0140v2017__: De punta Villardeira a punta da Barra, DPER Embarcación; C.P. O Barqueiro-Bares [2019121](https://galirema.wikia.org/es/wiki/Pexma2019DPER121),
 
 [Menú](#Menú)
 
