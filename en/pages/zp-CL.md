@@ -19,7 +19,7 @@
 
 
 
-## Autorizacións
+## Autorizacións  (5/4)
 
 1. __A0011v2017__: Autorizacións da confraría de Cariño AAUT A pé; C.P. Cariño [2019012](https://galirema.wikia.org/es/wiki/Pexma2019AAUT012),
 
@@ -34,7 +34,7 @@
 [Menú](#Menú)
 
 
-## Zonas de Libre Marisqueo
+## Zonas de Libre Marisqueo  (16/7)
 
 
 1. __B0048v2017__: Bancos de Fondás,Taro e Fontorto BESP A pé; A.M. San Cosme de Barreiros-Foz [2019048](https://galirema.wikia.org/es/wiki/Pexma2019BES048),
@@ -72,7 +72,7 @@
 [Menú](#Menú)
 
 
-## Percebe
+## Percebe  (10/10)
 
 1. __D0115v2017__: De punta Promontorio a punta Nois, DPER A pé; A.M. San Cosme de Barreiros-Foz [2019098](https://galirema.wikia.org/es/wiki/Pexma2019DPER098),
 
@@ -97,7 +97,7 @@
 [Menú](#Menú)
 
 
-## Equinodermos
+## Equinodermos  (13/7)
 
 
 1. __F0155v2017__: Zonas marítimas desde Punta Pena Furada a As Carrallas, agás: a zona interna entre a punta do dique norte do porto de Alcoa e o faro de San Cibrao, Os Muiñelos, Os Castelos da praia de San Román, a cetarea de San Cibrao, Calvella en Burela, Punta Promontoiro en San Cosme, Celeiros en Ribadeo FEQD MSAS; Asociación de recolectores submariños da Mariña 2017129,
@@ -130,7 +130,7 @@
 [Menú](#Menú)
 
 
-## Solénidos
+## Solénidos  (6/1)
 
 
 1. __G0215v2008__: Bancos do Taro, Fondás, Fontorto, GSOL A pé; A.M. San Cosme de Barreiros-Foz 2011306,
@@ -148,7 +148,7 @@
 [Menú](#Menú)
 
 
-## Peneiras
+## Peneiras  (0/0)
 
 
  
@@ -156,7 +156,7 @@
 [Menú](#Menú)
 
 
-## Algas
+## Algas  (1/0)
 
 
 1. __I0248v2016__: Desde Ladrido ata a Praia de Esteiro IALG A pé; C.P. Espasante 2016187,
@@ -164,7 +164,7 @@
 [Menú](#Menú)
 
 
-## Anémonas
+## Anémonas  (8/5)
 
 
 1. __J0269v2014__: De ermida de San Tirso a punta Cabalo (intermareal) JANE A pé; C.P. Celeiro 2014204,
@@ -188,7 +188,7 @@
 [Menú](#Menú)
 
 
-## Poliquetos
+## Poliquetos  (4/1)
 
 
 1. __K0286v2017__: Bancos de Fondás, O Taro, KPOL A pé; A.M. San Cosme de Barreiros-Foz [2019226](https://galirema.wikia.org/es/wiki/Pexma2019KPOL226),
