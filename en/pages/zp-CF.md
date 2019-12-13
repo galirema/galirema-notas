@@ -144,13 +144,13 @@
 ## Poliquetos
 
 
-1. Lagoa externa de Baldaio, KPOL A pé; A.M. Fonte Santa Helena-Baldaio
+1. __K0287v2017__: Lagoa externa de Baldaio, KPOL A pé; A.M. Fonte Santa Helena-Baldaio [2019227](https://galirema.wikia.org/es/wiki/Pexma2019KPOL227),
 
-1. Pedra do Sal, Leira campo de Futbol, Leira, de Leira a Caión, Caión praia da Salseira, Barrañán (o Relojero), Balcobo Pequeno: (de praia de Balcobo Pequeno a Pedra Herba,) Ripibello, Os Castelos, Praia de Sabón (A Térmica), Suevos: (de porto de Suevos a fábrica Artabra,) Bens: (praia da Refinería, illa Redonda,) O Portiño, Riazor-Orzan, San Amaro, Bastiagueiro Pequeno, KPOL A pé; MSAS; C.P. A Coruña
+1. __K0288v2017__: Pedra do Sal, Leira campo de Futbol, Leira, de Leira a Caión, Caión praia da Salseira, Barrañán (o Relojero), Balcobo Pequeno: (de praia de Balcobo Pequeno a Pedra Herba,) Ripibello, Os Castelos, Praia de Sabón (A Térmica), Suevos: (de porto de Suevos a fábrica Artabra,) Bens: (praia da Refinería, illa Redonda,) O Portiño, Riazor-Orzan, San Amaro, Bastiagueiro Pequeno, KPOL A pé; MSAS; C.P. A Coruña [2019228](https://galirema.wikia.org/es/wiki/Pexma2019KPOL228),
 
-1. Desde a ponte do tren a o faro de punta Frouxeira, KPOL MSAS; C.P. Ferrol
+1. __K0291v2017__: Desde a ponte do tren a o faro de punta Frouxeira, KPOL MSAS; C.P. Ferrol 2018217,
 
-1. Souto, Lombo de Castelo de Souto, río Láncara, Salinas, río Muerto, Lombo do Castelo do Pedrido, punta praia Xúrela, praia pequena de Miño (Cebado), praia pequena de Miño (Couce), Lombo de Espiñeira, Ponte do Porco, final de praia Grande, Seixas, río Bañobre, KPOL A pé; C.P. Miño
+1. __K0294v2018__: Souto, Lombo de Castelo de Souto, río Láncara, Salinas, río Muerto, Lombo do Castelo do Pedrido, punta praia Xúrela, praia pequena de Miño (Cebado), praia pequena de Miño (Couce), Lombo de Espiñeira, Ponte do Porco, final de praia Grande, Seixas, río Bañobre, KPOL A pé; C.P. Miño [2019232](https://galirema.wikia.org/es/wiki/Pexma2019KPOL232),
 
 [Menú](#Menú)
 
