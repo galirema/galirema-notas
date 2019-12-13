@@ -82,13 +82,13 @@
 ## Percebe
 
 
-1. Ambito territorial das confrarías da Coruña, Mera, Lorbé, Sada, Ares, DPER A pé; Embarcación; C.P. A Coruña, C.P. Mera, C.P. Lorbé, C.P. Sada, C.P. Ares, (plan conxunto)
+1. __D0121v2017__: Ambito territorial das confrarías da Coruña, Mera, Lorbé, Sada, Ares, DPER A pé; Embarcación; C.P. A Coruña, C.P. Mera, C.P. Lorbé, C.P. Sada, C.P. Ares, (plan conxunto) [2019104](https://galirema.wikia.org/es/wiki/Pexma2019DPER104),
 
-1. De punta Alba a Pedra do Sal, DPER A pé; Embarcación; C.P. Caión
+1. __D0123v2017__: De punta Alba a Pedra do Sal, DPER A pé; Embarcación; C.P. Caión [2019106](https://galirema.wikia.org/es/wiki/Pexma2019DPER106),
 
-1. De punta Segaño ata illas Mirandas, DPER Embarcación; C.P. Ares
+1. __D0124v2014__: De punta Segaño ata illas Mirandas, DPER Embarcación; C.P. Ares 2014104,
 
-1. De faro de punta Frouxeira a A Faísca, DPER A pé; Embarcación; C.P. Ferrol
+1. __D0131v2017__: De faro de punta Frouxeira a A Faísca, DPER A pé; Embarcación; C.P. Ferrol [2019113](https://galirema.wikia.org/es/wiki/Pexma2019DPER113),
 
 [Menú](#Menú)
 
