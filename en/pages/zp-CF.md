@@ -134,9 +134,9 @@
 ## Anémonas
 
 
-1. De punta Langosteira a punta Miranda, JANE MSAS; C.P. A Coruña, C.P. Barallobre, (plan conxunto)
+1. __J0271v2018__: De punta Langosteira a punta Miranda, JANE MSAS; C.P. A Coruña, C.P. Barallobre, (plan conxunto) [2019215](https://galirema.wikia.org/es/wiki/Pexma2019JANE215),
 
-1. De punta San Carlos a punta Frouxeira, JANE MSAS; C.P. Ferrol
+1. __J0272v2018__: De punta San Carlos a punta Frouxeira, JANE MSAS; C.P. Ferrol [2019217](https://galirema.wikia.org/es/wiki/Pexma2019JANE217),
 
 [Menú](#Menú)
 
