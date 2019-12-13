@@ -56,27 +56,27 @@
 ## Percebe
 
 
-1. De punta Gallada a punta Villueira, DPER Embarcación; C.P. Camariñas
+1. __D0125v2017__: De punta Gallada a punta Villueira, DPER Embarcación; C.P. Camariñas [2019107](https://galirema.wikia.org/es/wiki/Pexma2019DPER107),
 
-1. De punta Morelo a punta Gallada, incluíndo illas e illotes fronte á costa DPER Embarcación; C.P. Camelle
+1. __D0126v2017__: De punta Morelo a punta Gallada, incluíndo illas e illotes fronte á costa DPER Embarcación; C.P. Camelle [2019108](https://galirema.wikia.org/es/wiki/Pexma2019DPER108),
 
-1. Da enseada do río Anllóns á punta Nariga, DPER A pé; Embarcación; C.P. Corme
+1. __D0129v2017__: Da enseada do río Anllóns á punta Nariga, DPER A pé; Embarcación; C.P. Corme [2019111](https://galirema.wikia.org/es/wiki/Pexma2019DPER111),
 
-1. Da praia de Nemiña a cabo Fisterra, illas Lobeiras, Carrumeiros, DPER A pé; Embarcación; C.P. Fisterra
+1. __D0132v2017__: Da praia de Nemiña a cabo Fisterra, illas Lobeiras, Carrumeiros, DPER A pé; Embarcación; C.P. Fisterra [2019114](https://galirema.wikia.org/es/wiki/Pexma2019DPER114),
 
-1. De punta Morelo a punta Padrón, DPER A pé; Embarcación; C.P. Laxe
+1. __D0133v2017__: De punta Morelo a punta Padrón, DPER A pé; Embarcación; C.P. Laxe [2019115](https://galirema.wikia.org/es/wiki/Pexma2019DPER115),
 
-1. De punta Insua a desembocadura do río Larada, DPER A pé; C.P. Lira
+1. __D0134v2017__: De punta Insua a desembocadura do río Larada, DPER A pé; C.P. Lira [2019116](https://galirema.wikia.org/es/wiki/Pexma2019DPER116),
 
-1. De punta Insua a desembocadura do río Larada, DPER Embarcación; C.P. Lira
+1. __D0135v2017__: De punta Insua a desembocadura do río Larada, DPER Embarcación; C.P. Lira [2019117](https://galirema.wikia.org/es/wiki/Pexma2019DPER117),
 
-1. De punta Insua a punta Larada e illotes de Miñarzos, Forcados, Seixo, Liboreiro, illa Corbeiro, punta Insua, Corniños, Coca, Petón de Cabalar, Pedra Pas e Pedra de Ardeleiro DPER A pé; Embarcación;
+1. __D0136v2008__: De punta Insua a punta Larada e illotes de Miñarzos, Forcados, Seixo, Liboreiro, illa Corbeiro, punta Insua, Corniños, Coca, Petón de Cabalar, Pedra Pas e Pedra de Ardeleiro DPER A pé; Embarcación; C.P. Lira 2009124,
 
-1. De punta Nariga a Pedra do Sal, incluíndo Illas Sisargas, baixos de Baldaio, e demais illas e illotes fronte á costa en tres millas, DPER A pé; Embarcación; C.P. Malpica
+1. __D0137v2019__: De punta Nariga a Pedra do Sal, incluíndo Illas Sisargas, baixos de Baldaio, e demais illas e illotes fronte á costa en tres millas, DPER A pé; Embarcación; C.P. Malpica [2019118](https://galirema.wikia.org/es/wiki/Pexma2019DPER118),
 
-1. De punta Piaduiro (marxe esquerda da desembocadura do río Grande) a punta Nemiña, (marxe dereita da desembocadura do río Castro (incluíndo illas e illotes)) DPER A pé; Embarcación; C.P. Muxía
+1. __D0139v2017__: De punta Piaduiro (marxe esquerda da desembocadura do río Grande) a punta Nemiña, (marxe dereita da desembocadura do río Castro (incluíndo illas e illotes)) DPER A pé; Embarcación; C.P. Muxía [2019120](https://galirema.wikia.org/es/wiki/Pexma2019DPER120),
 
-1. Da desembocadura do río Xallas á desembocadura do río Larada e pedras adxacentes DPER A pé; C.P. O Pindo
+1. __D0141v2017__: Da desembocadura do río Xallas á desembocadura do río Larada e pedras adxacentes DPER A pé; C.P. O Pindo [2019122](https://galirema.wikia.org/es/wiki/Pexma2019DPER122),
 
 [Menú](#Menú)
 
