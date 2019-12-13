@@ -84,11 +84,13 @@
 ## Equinodermos
 
 
-1. De punta Insua á desembocadura do río Larada, FEQD A pé; C.P. Lira
+1. __F0166v2017__: De punta Insua á desembocadura do río Larada, FEQD A pé; C.P. Lira [2019145](https://galirema.wikia.org/es/wiki/Pexma2019FEQD145),
 
-1. Zona V: de cabo Touriñán a punta Insua, FEQD MA; MSAS; C.P. Lira, C.P. Fisterra, C.P. Corcubión, (plan conxunto)
+1. __F0167v2017__: Zona V: de cabo Touriñán a punta Insua, FEQD MA; MSAS; C.P. Lira, C.P. Fisterra, C.P. Corcubión, (plan conxunto) [2019146](https://galirema.wikia.org/es/wiki/Pexma2019FEQD146),
 
-1. Zona VI: de cabo Touriñán a punta Langosteira, FEQD MSAS; C.P. Malpica, C.P. Corme, C.P. Laxe, C.P. Camelle, C.P. Camariñas, (plan conxunto)
+1. __F0168v2017__: Zona VI: de cabo Touriñán a punta Langosteira, FEQD MSAS; C.P. Malpica, C.P. Corme, C.P. Laxe, C.P. Camelle, C.P. Camariñas, (plan conxunto) [2019147](https://galirema.wikia.org/es/wiki/Pexma2019FEQD147),
+
+1. __F0187v2019__: Desde o río Xallas ata o río Larada, FEQD A pé; C.P. O Pindo [2019150](https://galirema.wikia.org/es/wiki/Pexma2019FEQD150),
 
 [Menú](#Menú)
 
