@@ -32,21 +32,23 @@
 ## Zonas de Libre Marisqueo
 
 
-1. Zonas de libre marisqueo do esteiro do río Anllóns, BESP A pé;
+1. __B0060v2017__: Zonas de libre marisqueo do esteiro do río Anllóns, BESP A pé; [2019053](https://galirema.wikia.org/es/wiki/Pexma2019BESP053),
 
-1. Desde punta Arnela ata a desembocadura do río Xallas (Ézaro), BESP A pé;
+1. __B0069v2017__: Desde punta Arnela ata a desembocadura do río Xallas (Ézaro), BESP A pé; [2019062](https://galirema.wikia.org/es/wiki/Pexma2019BESP062),
 
-1. Bancos infralitorais da praia de Langosteira, BESP Embarcación; C.P. Fisterra
+1. __B0073v2017__: Bancos infralitorais da praia de Langosteira, BESP Embarcación; C.P. Fisterra [2019063](https://galirema.wikia.org/es/wiki/Pexma2019BESP063),
 
-1. De punta Insua a punta Larada, BESP A pé; C.P. Lira (gasterópdos)
+1. __B0074v2017__: De punta Insua a punta Larada, BESP A pé; C.P. Lira (gasterópdos) [2019067](https://galirema.wikia.org/es/wiki/Pexma2019BESP067),
 
-1. Praia da Berberecheira, Praia  da Lagoa, Praia de Portocubelo, BESP A pé;C.P. Lira, C.P. O Pindo, (plan conxunto)
+1. __B0075v2017__: Praia da Berberecheira, Praia  da Lagoa, Praia de Portocubelo, BESP A pé;C.P. Lira, C.P. O Pindo, (plan conxunto) [2019068](https://galirema.wikia.org/es/wiki/Pexma2019BESP068),
 
-1. Da desembocadura do río Xallas ata a desembocadura do río Larada, BESP A pé; C.P. O Pindo
+1. __B0078v2017__: Da desembocadura do río Xallas ata a desembocadura do río Larada, BESP A pé; C.P. O Pindo 2018068,
 
-1. Zona V, agás no ámbito da reserva mariña de interese pesqueiro Os Miñarzos BESP Endeño remolcado; C.P. Corcubión, C.P. Fisterra (plan conxunto)
+1. __B0107v2014__: Zona V, agás no ámbito da reserva mariña de interese pesqueiro Os Miñarzos BESP Endeño remolcado; C.P. Corcubión, C.P. Fisterra (plan conxunto) 2014059,
 
-1. Zona rochosa de punta Nariga á enseada do río Anllóns BESP A pé; C.P. Corme
+1. __B0109v2008__: Zona rochosa de punta Nariga á enseada do río Anllóns BESP A pé; C.P. Corme 2008074,
+
+1. __B0331v2010__: De punta Arnela ata a praia do Rostro, BESP A pé; C.P. Fisterra 2010072,
 
 [Menú](#Menú)
 
