@@ -56,25 +56,25 @@
 ## Zonas de Libre Marisqueo
 
 
-1. Lagoas de Baldaio BESP A pé; A.M. Fonte Santa Helena-Baldaio
+1. __B0059v2017__: Lagoas de Baldaio BESP A pé; A.M. Fonte Santa Helena-Baldaio [2019052](https://galirema.wikia.org/es/wiki/Pexma2019BESP052),
 
-1. Banco do Parrote, Valiña (barra da praia de Santa Cristina), praia de Oza, BESP Embarcación; C.P. A Coruña
+1. __B0061v2017__: Banco do Parrote, Valiña (barra da praia de Santa Cristina), praia de Oza, BESP Embarcación; C.P. A Coruña [2019055](https://galirema.wikia.org/es/wiki/Pexma2019BESP055),
 
-1. Zonas de libre marisqueo da ría do Burgo BESP A pé; Embarcación; C.P. A Coruña
+1. __B0062v2017__: Zonas de libre marisqueo da ría do Burgo BESP A pé; Embarcación; C.P. A Coruña 2018054,
 
-1. Zonas de libre marisqueo da ría do Burgo, A Pasaxe e O Parrote BESP A pé; Embarcación; C.P. A Coruña
+1. __B0310v2019__: Zonas de libre marisqueo da ría do Burgo: dende a ponte da Pasaxe ata a liña imaxinaria que vai dende o colexio Santiago Apóstol ata o extremo leste da praia de Santa Cristina, BESP A pé; C.P. A Coruña [2019057](https://galirema.wikia.org/es/wiki/Pexma2019BESP057),
 
-1. Zona intermareal desde San Valentín ata a desembocadura do río Belelle, BESP A pé; C.P. Barallobre
+1. __B0311v2019__: Zonas de libre marisqueo da ría do Burgo: dende a boca da ría da Pasaxe, As xubias, ata a ponte do Pasaxe, BESP Embarcación; C.P. A Coruña [2019056](https://galirema.wikia.org/es/wiki/Pexma2019BESP056),
 
-1. Praia de Vilarrube, BESP A pé; C.P. Cedeira (coquina)
+1. __B0063v2008__: Zonas de libre marisqueo da ría do Burgo, A Pasaxe e O Parrote BESP A pé; Embarcación; C.P. A Coruña 2008066,
 
-1. Praia da Madalena e a enseada de Esteiro BESP A pé; C.P. Cedeira (Berberecho)
+1. __B0065v2017__: Zona intermareal desde San Valentín ata a desembocadura do río Belelle, BESP A pé; C.P. Barallobre [2019059](https://galirema.wikia.org/es/wiki/Pexma2019BES059),
 
-1. Zona comprendida entre a liña imaxinaria de Monte Ventoso a punta Segaño ata a liña imaxinaria que une o peirao da praia de Caranza co peirao de Astano, BESP A pé; Embarcación; C.P. Ferrol, C.P. Barabllobre, (plan conxunto)
+1. __B0071v2017__: Zona comprendida entre a liña imaxinaria de Monte Ventoso a punta Segaño ata a liña imaxinaria que une o peirao da praia de Caranza co peirao de Astano, BESP A pé; Embarcación; C.P. Ferrol, C.P. Barabllobre, (plan conxunto) [2019065](https://galirema.wikia.org/es/wiki/Pexma2019BES065),
 
-1. Zona media da ría comprendida entre a liña imaxinaria que une punta dos Castros e punta Caranza (agás as enseadas de Caranza, Cabana-A Malata,) a liña imaxinaria que une punta Redonda, e punta do Vispón, BESP, Rastro de vieira ou voandeira; C.P. Ferrol, C.P. Mugardos, C.P. Barallobre, (plan conxunto)
+1. |__B0072v2017__: Zona media da ría comprendida entre a liña imaxinaria que une punta dos Castros e punta Caranza (agás as enseadas de Caranza, Cabana-A Malata,) a liña imaxinaria que une punta Redonda, e punta do Vispón, BESP, Rastro de vieira ou voandeira; C.P. Ferrol, C.P. Mugardos, C.P. Barallobre, (plan conxunto) [2019066](https://galirema.wikia.org/es/wiki/Pexma2019BES066),
 
-1. Ponte do Porco, río Bañobre, punta Cabana e praia do Pedrido, e de punta Curbeiroa a punta Mauruxo BESP A pé; Embarcación; C.P. Miño
+1. __B0076v2017__: Ponte do Porco, río Bañobre, punta Cabana e praia do Pedrido, e de punta Curbeiroa a punta Mauruxo BESP A pé; Embarcación; C.P. Miño [2019069](https://galirema.wikia.org/es/wiki/Pexma2019BES069),
 
 [Menú](#Menú)
 
