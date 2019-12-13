@@ -96,9 +96,9 @@
 ## Equinodermos
 
 
-1. De punta Langosteira a punta Segaño, FEQD MSAS; C.P. A Coruña, C.P. Barallobre, (plan conxunto)
+1. __F0158v2017__: De punta Langosteira a punta Segaño, FEQD MSAS; C.P. A Coruña, C.P. Barallobre, (plan conxunto) [2019140](https://galirema.wikia.org/es/wiki/Pexma2019FEQD140),
 
-1. De faro de punta Frouxeira a a ponte da Faísca, FEQD MSAS; C.P. Ferrol
+1. __F0165v2018__: De faro de punta Frouxeira a a ponte da Faísca, FEQD MSAS; C.P. Ferrol [2019144](https://galirema.wikia.org/es/wiki/Pexma2019FEQD144),
 
 [Menú](#Menú)
 
@@ -106,7 +106,9 @@
 ## Solénidos
 
 
-1. Ámbito territorial da C.P. Miño, GSOL A pé; C.P. Miño
+1. __G0221v2008__: Ámbito territorial da C.P. Miño, GSOL A pé; C.P. Miño 2009172,
+
+1. __G0224v2019__: Ría da Coruña, GSOL MA; MSAS; C.P. A Coruña [2019159](https://galirema.wikia.org/es/wiki/Pexma2019GSOL159),
 
 [Menú](#Menú)
 
@@ -122,7 +124,9 @@
 ## Algas
 
 
-1. De punta Langosteira a Cabo Prioriño, IALG MSAS; C.P. A Coruña, C.P. Sada, (plan conxunto)
+1. __I0240v2017__: De punta Langosteira a Cabo Prioriño, IALG MSAS; C.P. A Coruña, C.P. Sada, (plan conxunto)[2019192](https://galirema.wikia.org/es/wiki/Pexma2019IALG192),
+
+1. __I0263v2019__: De punta San Carlos ata a praia de Cariño, IALG MA; MSAS;	C.P. Ferrol [2019195](https://galirema.wikia.org/es/wiki/Pexma2019IALG195),
 
 [Menú](#Menú)
 
