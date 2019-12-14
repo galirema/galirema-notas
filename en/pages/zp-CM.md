@@ -124,23 +124,26 @@
 ## Algas
 
 
-1. De punta Morelo a punta Gallada, IALG MA; MSAS; C.P. Camelle
+1. __I0241v2017__: De punta Morelo a punta Gallada, IALG MA; MSAS; C.P. Camelle [2019193](https://galirema.wikia.org/es/wiki/Pexma2019IALG193),
 
-1. Desde punta Arnela ata a desembocadura do río Xallas, IALG A pé; C.P. Corcubión
+1. __I0242v2018__: Desde punta Arnela ata a desembocadura do río Xallas, IALG A pé; C.P. Corcubión [2019194](https://galirema.wikia.org/es/wiki/Pexma2019IALG194),
 
-1. De punta Xanleira ata punta Gallada IALG A pé; C.P. Camariñas
+1. __I0243v2014__: De punta Xanleira ata punta Gallada IALG A pé; C.P. Camariñas 2015192,
 
-1. De punta Chorente a punta Gallada IALG MA; MSAS; C.P. Camariñas
+1. __I0244v2014__: De punta Chorente a punta Gallada IALG MA; MSAS; C.P. Camariñas 2014190,
 
-1. Desde a praia de Rostro a Punta Arnela, IALG MA; MSAS; C.P. Fisterra
+1. __I0245v2017__: Desde a praia de Rostro a Punta Arnela, IALG MA; MSAS; C.P. Fisterra [2019196](https://galirema.wikia.org/es/wiki/Pexma2019IALG196),
 
-1. De punta Insua a punta Larada, IALG A pé; C.P. Lira
+1. __I0249v2008__: De punta Insua a punta Larada, IALG A pé; C.P. Lira 2008201,
 
-1. Da desembocadura do río Xallas á desembocadura do río Larada, pedras da costa, intermareal rochoso entre punta Arnela e Cabo Fisterra, IALG A pé; C.P. O Pindo
+1. __I0250v2017__: Da desembocadura do río Xallas á desembocadura do río Larada, pedras da costa, intermareal rochoso entre punta Arnela e Cabo Fisterra, IALG A pé; C.P. O Pindo [2019198](https://galirema.wikia.org/es/wiki/Pexma2019IALG198),
 
-1. Litoral da provincia da Coruña, IALG A pé; Mardelira, S. Coop. Galega
+1. __I0261v2008__: Litoral da provincia da Coruña, IALG A pé; Mardelira, S. Coop. Galega 2009209,
 
-1. De punta Insua a cabo Fisterra IALG MA; Merguladores de Fisterra, S. Coop. Galega
+1. __I0262v2008__: De punta Insua a cabo Fisterra IALG MA; Merguladores de Fisterra, S. Coop. Galega 2012548,
+
+1. __I0328v2011__: De punta Padrón a punta Morelo, IALG A pé; C.P. Laxe 2011347,
+
 
 [Menú](#Menú)
 
