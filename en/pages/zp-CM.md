@@ -116,7 +116,7 @@
 ## Peneiras
 
 
-1. De cabo Touriñán a punta Insua, excepto a zona incluída na reserva mariña de interese pesqueiro Os Miñarzos, HPEN MA; MSAS; C.P. Fisterra, C.P. Corcubión, C.P. Lira, (plan conxunto)
+1. __H0226v2017__: De cabo Touriñán a punta Insua, excepto a zona incluída na reserva mariña de interese pesqueiro Os Miñarzos, HPEN MA; MSAS; C.P. Fisterra, C.P. Corcubión, C.P. Lira, (plan conxunto) [2019184](https://galirema.wikia.org/es/wiki/Pexma2019HPEN184),
 
 [Menú](#Menú)
 
