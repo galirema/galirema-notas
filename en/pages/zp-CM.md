@@ -98,17 +98,17 @@
 ## Solénidos
 
 
-1. De punta Sandía a punta Lago, enseada de Merexo, praia da Cruz, por fóra da praia de Mozogondón GSOL MA; MSAS; C.P. Camariñas, C.P. Muxía, (plan conxunto)
+1. __G0192v2017__: De punta Sandía a punta Lago, enseada de Merexo, praia da Cruz, por fóra da praia de Mozogondón GSOL MA; MSAS; C.P. Camariñas, C.P. Muxía, (plan conxunto) [2019164](https://galirema.wikia.org/es/wiki/Pexma2019GSOL164),
 
-1. Zona V: de cabo Touriñán a punta Insua, GSOL MA; MSAS; C.P. Fisterra, C.P. Corcubión, C.P. Lira, (plan conxunto)
+1. __G0193v2017__: Zona V: de cabo Touriñán a punta Insua, GSOL MA; MSAS; C.P. Fisterra, C.P. Corcubión, C.P. Lira, (plan conxunto) [2019166](https://galirema.wikia.org/es/wiki/Pexma2019GSOL166),
 
-1. Praia de Laxe, praia da Hermida, praia de Osmo, banco Riocobo, praia de Rebordelo. Do Alto da Facha a punta Cantero, do Alto da Facha a punta Menduiña, GSOL MA; MSAS; C.P. Laxe, C.P. Corme, (plan conxunto)
+1. __G0194v2017__: Praia de Laxe, praia da Hermida, praia de Osmo, banco Riocobo, praia de Rebordelo. Do Alto da Facha a punta Cantero, do Alto da Facha a punta Menduiña, GSOL MA; MSAS; C.P. Laxe, C.P. Corme, (plan conxunto) [2019167](https://galirema.wikia.org/es/wiki/Pexma2019GSOL167),
 
-1. Praia de Sardiñeiro, praia de Langosteira, GSOL A pé; C.P. Fisterra
+1. __G0212v2016__: Praia de Sardiñeiro, praia de Langosteira, GSOL A pé; C.P. Fisterra 2016160,
 
-1. De punta Lago a punta da Roda, enseada da Vasa, GSOL A pé; C.P. Camariñas
+1. __G0217v2008__: De punta Lago a punta da Roda, enseada da Vasa, GSOL A pé; C.P. Camariñas 2009162,
 
-1. Praias do Ézaro e Estorde GSOL A pé; C.P. Corcubión
+1. __G0219v2008__: Praias do Ézaro e Estorde GSOL A pé; C.P. Corcubión 2010157,
 
 [Menú](#Menú)
 
