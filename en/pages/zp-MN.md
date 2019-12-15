@@ -98,9 +98,9 @@
 ## Algas
 
 
-1. Submareal rochoso entre punta Ínsua e punta Uhía, IALG MA; MSAS; C.P. Muros
+1. __I0246v2017__: Submareal rochoso entre punta Ínsua e punta Uhía, IALG MA; MSAS; C.P. Muros [2019197](https://galirema.wikia.org/es/wiki/Pexma2019IALG197),
 
-1. De punta Uhía a punta Insua IALG A pé; C.P. Muros
+1. __I0247v2008__: De punta Uhía a punta Insua IALG A pé; C.P. Muros 2013741,
 
 [Menú](#Menú)
 
