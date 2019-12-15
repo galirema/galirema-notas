@@ -44,7 +44,7 @@
 
 1. __B0110v2008__: De punta Rebordiño a punta Uía e de punta Cabalo a punta Aguieira BESP A pé; C.P. Noia, Muros, Porto do Son e Portosín (plan conxunto) 2008080,
 
-1. __B0113v2019__: Praia do Castillo, praia de Esteiro, desembocadura do rio Maior, BESP A pé; C.P. Noia, C.P. Muros, (plan conxunto) [2019071](https://galirema.wikia.org/es/wiki/Pexma2019BESP071)__,
+1. __B0113v2019__: Praia do Castillo, praia de Esteiro, desembocadura do rio Maior, BESP A pé; C.P. Noia, C.P. Muros, (plan conxunto) [2019071](https://galirema.wikia.org/es/wiki/Pexma2019BESP071),
 
 [Menú](#Menú)
 
@@ -52,9 +52,9 @@
 ## Percebe
 
 
-1. De punta Insua a punta Uhía, DPER A pé; C.P. Muros
+1. __D0138v2017__: De punta Insua a punta Uhía, DPER A pé; C.P. Muros [2019119](https://galirema.wikia.org/es/wiki/Pexma2019DPER119),
 
-1. De río Sieira a punta Cabeiro, illotes Os Bruyos, Leixoes, Pedra do Con, DPER A pé; Embarcación; C.P. Porto do Son
+1. __D0142v2017__: De río Sieira a punta Cabeiro, illotes Os Bruyos, Leixoes, Pedra do Con, DPER A pé; Embarcación; C.P. Porto do Son [2019123](https://galirema.wikia.org/es/wiki/Pexma2019DPER123),
 
 [Menú](#Menú)
 
