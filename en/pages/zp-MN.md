@@ -116,11 +116,14 @@
 ## Poliquetos
 
 
-1. De punta Insua a punta Uhía, KPOL MA; MSAS; C.P. Muros
+1. __K0295v2017__: De punta Insua a punta Uhía, KPOL MA; MSAS; C.P. Muros [2019233](https://galirema.wikia.org/es/wiki/Pexma2019KPOL233),
 
-1. De punta Cabeiro a punta Magrío, de punta Castro a río Sieira, KPOL A pé; C.P. Porto do Son
+1. __K0297v2017__: De punta Cabeiro a punta Magrío, de punta Castro a río Sieira, KPOL A pé; C.P. Porto do Son [2019235](https://galirema.wikia.org/es/wiki/Pexma2019KPOL235),
 
-1. De punta Cabeiro a punta Magrío, de punta Castro a río Sieira, KPOL MA; MSAS; C.P. Porto do Son
+1. __K0298v2017__: De punta Cabeiro a punta Magrío, de punta Castro a río Sieira, KPOL MA; MSAS; C.P. Porto do Son [2019236](https://galirema.wikia.org/es/wiki/Pexma2019KPOL236),
+
+1. __K0319v2008__: Liña de costa comprendida entre Punta Insua e Punta Uhía, KPOL A pé; C.P. Muros 2011362,
+
 
 [Menú](#Menú)
 
