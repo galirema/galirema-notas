@@ -24,13 +24,13 @@
 ## Autorizacións
 
 
-1. Zona de autorización: praia da Virxe e praia da Abelleira AAUT A pé; C.P. Muros
+1. __A0018v2017__: Zona de autorización: praia da Virxe e praia da Abelleira AAUT A pé; C.P. Muros [2019019](https://galirema.wikia.org/es/wiki/Pexma2019AAUT019),
 
-1. Zona de autorización: praia da Virxe e praia da Abelleira AAUT Embarcación; C.P. Muros
+1. __A0019v2017__: Zona de autorización: praia da Virxe e praia da Abelleira AAUT Embarcación; C.P. Muros [2019020](https://galirema.wikia.org/es/wiki/Pexma2019AAUT020),
 
-1. Zona de autorización C.P. Noia, AAUT A pé; Embarcación; C.P. Noia
+1. __A0020v2017__: Zona de autorización C.P. Noia, AAUT A pé; Embarcación; C.P. Noia [2019021](https://galirema.wikia.org/es/wiki/Pexma2019AAUT021),
 
-1. Bancos de ostra de Broña, punta Cabalo Baixo, AAUT Rastro de vieira ou voandeira; C.P. Noia
+1. __A0021v2017__: Bancos de ostra de Broña, punta Cabalo Baixo, AAUT Rastro de vieira ou voandeira; C.P. Noia [2019022](https://galirema.wikia.org/es/wiki/Pexma2019AAUT022),
 
 [Menú](#Menú)
 
