@@ -62,9 +62,13 @@
 ## Equinodermos
 
 
-1. De punta Insua a punta Uía FEQD A pé; C.P. Muros
+1. __F0169v2008__: De punta Insua a punta Uía FEQD A pé; C.P. Muros 2008144,
 
-1. De punta Cabeiro a punta río Sieira e de punta Insua a punta Uía FEQD MSAS; C.P. Porto do Son, C.P. Portosín, C.P. Muros, (plan conxunto)
+1. __F0170v2008__: De punta Cabeiro a punta río Sieira e de punta Insua a punta Uía FEQD MSAS; C.P. Porto do Son, C.P. Portosín, C.P. Muros, (plan conxunto) 2012496,
+
+1. __F0180v2018__: Desde punta Insua a punta Uhía, FEQD MSAS; C.P. Muros [2019148](https://galirema.wikia.org/es/wiki/Pexma2019FEQD148),
+
+1. __F0186v2019__: Desde Punta Cabeiro ata río Sieira, FEQD MSAS; C.P. Porto do Son [2019149](https://galirema.wikia.org/es/wiki/Pexma2019FEQD149),
 
 [Menú](#Menú)
 
