@@ -159,15 +159,23 @@
 ## Poliquetos
 
 
-1. De punta Gallada ás lagoas de Baldaio (excluídas); agás as praias de Laxe, as illas Sisargas, KPOL A pé; MA; MSAS; C.P. Camelle, C.P. Corme, C.P. Laxe, C.P. Malpica, (plan conxunto)
+1. __K0289v2017__: De punta Gallada ás lagoas de Baldaio (excluídas); agás as praias de Laxe, as illas Sisargas, KPOL A pé; MA; MSAS; C.P. Camelle, C.P. Corme, C.P. Laxe, C.P. Malpica, (plan conxunto) [2019229](https://galirema.wikia.org/es/wiki/Pexma2019KPOL229),
 
-1. De punta Arnela á desembocadura do río Xallas, KPOL A pé; C.P. Corcubión
+1. __K0290v2017__: De punta Arnela á desembocadura do río Xallas, KPOL A pé; C.P. Corcubión 2018215,
 
-1. Da desembocadura do río Larada ata punta Insua, Excepto as praias de Cons, Larpa, Gavota, Ximprón Susiños, Surreseco, KPOL A pé; C.P. Lira
+1. __K0292v2017__: Da desembocadura do río Larada ata punta Insua, Excepto as praias de Cons, Larpa, Gavota, Ximprón Susiños, Surreseco, KPOL A pé; C.P. Lira [2019230](https://galirema.wikia.org/es/wiki/Pexma2019KPOL230),
 
-1. Da desembocadura do río Larada a punta Insua, KPOL MSAS; C.P. Lira
+1. __K0293v2018__: Da desembocadura do río Larada a punta Insua, KPOL MSAS; C.P. Lira [2019231](https://galirema.wikia.org/es/wiki/Pexma2019KPOL231),
 
-1. Praia de San Pedro, de punta do Portiño a praia de Cornabecerra; de as Pedras Mariñas a punta Caldebarcos, praias de Area Branca, Lires, O Rostro, Mar de Fóra, Arnela: (Praias de Cons, praia de Larpa, Gavota, Ximprón, Susiños, Surreseco, KPOL A pé; C.P. O Pindo
+1. __K0296v2017__: Praia de San Pedro, de punta do Portiño a praia de Cornabecerra; de as Pedras Mariñas a punta Caldebarcos, praias de Area Branca, Lires, O Rostro, Mar de Fóra, Arnela: (Praias de Cons, praia de Larpa, Gavota, Ximprón, Susiños, Surreseco, KPOL A pé; C.P. O Pindo [2019234](https://galirema.wikia.org/es/wiki/Pexma2019KPOL234),
+
+1. __K0309v2018__: De punta Arnela á desembocadura do río Xallas, KPOL MA; MSAS; C.P. Corcubión 2018216,
+
+1. __K0314v2016__: Zona de autorización (marxe dereita da enseada do río Anllóns, entre illa Cagallóns, liña de punta Revoltas, enseada de Insua); Zonas de libre marisqueo do esteiro do Anllóns: Marxe esquerda KPOL A pé; A.M. Esteiro do río Anllóns 2016207,
+
+1. __K0316v2015__: Enseada da Vasa, KPOL A pé; C.P. Camariñas 2015223_,
+
+1. __K0318v2008__: Ambito territorial da C.P. Malpica, KPOL A pé; C.P. Malpica 2008215,
 
 [Menú](#Menú)
 
