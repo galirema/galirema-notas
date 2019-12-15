@@ -76,13 +76,13 @@
 ##  Solénidos
 
 
-1. De punta Insua a punta Uhía, GSOL MA; MSAS; C.P. Muros
+1. __G0195v2017__: De punta Insua a punta Uhía, GSOL MA; MSAS; C.P. Muros [2019168](https://galirema.wikia.org/es/wiki/Pexma2019GSOL168),
 
-1. Na costa norte, desde punta Uhía ata porto Siavo, incluíndo a cara interna da illa da Creba, exceptuando a zona portuaria, a zona dos asteleiros, a canle de navegación,; Na costa sur, desde punta Batuda ata punta Redondelo,; GSOL MA; MSAS; C.P. Noia
+1. __G0196v2017__: Na costa norte, desde punta Uhía ata porto Siavo, incluíndo a cara interna da illa da Creba, exceptuando a zona portuaria, a zona dos asteleiros, a canle de navegación,; Na costa sur, desde punta Batuda ata punta Redondelo,; GSOL MA; MSAS; C.P. Noia [2019169](https://galirema.wikia.org/es/wiki/Pexma2019GSOL169),
 
-1. De punta Batuda a río Sieira, GSOL MA; MSAS; C.P. Porto do Son, C.P. Portosín, (plan conxunto)  C.P. Noia, C.P. Muros (plan conxunto)
+1. __G0198v2017__: De punta Batuda a río Sieira, GSOL MA; MSAS; C.P. Porto do Son, C.P. Portosín, (plan conxunto)  C.P. Noia, C.P. Muros (plan conxunto) [2019171](https://galirema.wikia.org/es/wiki/Pexma2019GSOL171),
 
-1. "Praia de Abelleira, praia da Virxe e praia de Ventín GSOL A pé; C.P. Muros
+1. __G0213v2015__: Praia de Abelleira, praia da Virxe e praia de Ventín GSOL A pé; C.P. Muros 2015160,
 
 [Menú](#Menú)
 
