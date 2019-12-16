@@ -84,19 +84,24 @@
 
 1. __B0083v2017__: Liñas imaxinarias que unen punta Arruda con punta Laño, punta Carreirón con punta Cuña Alta (inclúe Roncadeiras, O Camallón,), de punta Quilme a Sapeiras de Terra (cara oeste e noroeste da illa), BESP Embarcación; C.P. A Illa de Arousa [2019076](https://galirema.wikia.org/es/wiki/Pexma2019BESP076),
 
-1. Do Rego do Alcalde (Lañeiras de Fóra) á baliza de Orido, Arnela-Galiñeiro, do peirao de Meloxo ata As Negreiriñas, BESP Embarcación C.P. Cambados
+1. __B0089v2017__: Do Rego do Alcalde (Lañeiras de Fóra) á baliza de Orido, Arnela-Galiñeiro, do peirao de Meloxo ata As Negreiriñas, BESP Embarcación C.P. Cambados [2019082](https://galirema.wikia.org/es/wiki/Pexma2019BESP082),
 
-1. Lombos do Ulla, praia Compostela-A Concha, BESP A pé; C.P. Carril
+1. __B0093v2017__: Lombos do Ulla, praia Compostela-A Concha, BESP A pé; C.P. Carril [2019086](https://galirema.wikia.org/es/wiki/Pexma2019BESP086),
 
-1. As Malveiras, As Briñas, O Con e Corbeiro, BESP Embarcación; C.P. Carril
+1. __B0094v2017__: As Malveiras, As Briñas, O Con e Corbeiro, BESP Embarcación; C.P. Carril [2019087](https://galirema.wikia.org/es/wiki/Pexma2019BESP087),
 
-1. Moreiras, Meloxo, Migalliñas, Rons, Cantodorxo, BESP Embarcación; C.P. O Grove
+1. __B0095v2017__: Moreiras, Meloxo, Migalliñas, Rons, Cantodorxo, BESP Embarcación; C.P. O Grove [2019088](https://galirema.wikia.org/es/wiki/Pexma2019BESP088),
 
-1. Dique do Terrón, boia columna eléctrica, columna ponte, boia Lañeiras de Fóra, espicho rego do Alcalde, BESP Embarcación; "C.P. Vilanova
+1. __B0104v2017__: Dique do Terrón, boia columna eléctrica, columna ponte, boia Lañeiras de Fóra, espicho rego do Alcalde, BESP Embarcación; C.P. Vilanova [2019096](https://galirema.wikia.org/es/wiki/Pexma2019BESP096),
 
-1. Zona sublitoral entre a liña que une o regato Aduana ao illote Gorma e punta Borreiros,; de punta Borreiros ao peirao de Vilaxoán, de punta Castelete á punta Ferrazo, BESP Embarcación; C.P. Vilaxoán
+1. __B0105v2017__: Zona sublitoral entre a liña que une o regato Aduana ao illote Gorma e punta Borreiros,; de punta Borreiros ao peirao de Vilaxoán, de punta Castelete á punta Ferrazo, BESP Embarcación; C.P. Vilaxoán [2019097](https://galirema.wikia.org/es/wiki/Pexma2019BESP097),
 
-1. Banco marisqueiro de Cabío BESP Embarcación; C.P. A Pobra do Caramiñal  
+1. __B0108v2008__: Banco marisqueiro de Cabío BESP Embarcación; C.P. A Pobra do Caramiñal 2012416,
+
+1. __B0114v2019__: Lombos do Ulla, Boido, Cabio, BESP Embarcación; A.M. Rañeiras/os da Ria de Arousa, (plan conxunto) [2019054](https://galirema.wikia.org/es/wiki/Pexma2019BESP054),
+
+1. __B0330v2010__: Zona rochosa intermareal da Illa de Arousa, BESP A pé; C.P. A Illa de Arousa 2010084,
+
 
 [Menú](#Menú)
 
