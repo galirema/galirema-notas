@@ -173,11 +173,17 @@
 ## Algas
 
 
-1. De punta Salinas a punta Quilma, Areoso, Camallón, de punta Testos a punta Campelo, de punta Aguiúncho a punta Furado, IALG MA; MSAS; C.P. A Illa de Arousa
+1. __I0251v2017__: De punta Salinas a punta Quilma, Areoso, Camallón, de punta Testos a punta Campelo, de punta Aguiúncho a punta Furado, IALG MA; MSAS; C.P. A Illa de Arousa [2019200](https://galirema.wikia.org/es/wiki/Pexma2019IALG200),
 
-1. De Cantareira a punta Carreiro, de punta Carreiro a Barrosa, de Barrosa a Raeiros, de Capilla a punta Faxilda, IALG MSAS; C.P. O Grove
+1. __I0257v2017__: De Cantareira a punta Carreiro, de punta Carreiro a Barrosa, de Barrosa a Raeiros, de Capilla a punta Faxilda, IALG MSAS; C.P. O Grove [2019208](https://galirema.wikia.org/es/wiki/Pexma2019IALG208),
 
-1. Zonas de autorización C.P. Ribeira, as restantes zonas resolveranse nas resolucións de apertura, IALG MA; MSAS; C.P. Ribeira
+1. __I0260v2008__: Zonas de autorización C.P. Ribeira, as restantes zonas resolveranse nas resolucións de apertura, IALG MA; MSAS; C.P. Ribeira 2013743,
+
+1. __I0265v2019__: O Galiñeiro, Meloxo, San Miguel-Tragove, IALG MSAS; C.P. Cambados	[2019205](https://galirema.wikia.org/es/wiki/Pexma2019IALG205),
+
+1. __I0268v2018__: Con de Portugal, Sinás de Fora, Con Pequeno, espigón do porto de Vilanova, IALG MA; MSAS; C.P. Vilanova [2019210](https://galirema.wikia.org/es/wiki/Pexma2019IALG210),
+
+1. __I0325v2013__: Petóns de Centoleira, Con de Agosto-praia Carreira-praia Aguiño; norte Vionta-Cabeceiro Grande-punta Castelo-punta Lagos; entre illote Rabuda, illote Redonda Vella, a punta do Castelo e a praia de Carreira, IALG MA; MSAS; C.P. Aguiño 2013736,
 
 [Menú](#Menú)
 
