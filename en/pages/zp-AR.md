@@ -163,9 +163,9 @@
 ## Peneiras
 
 
-1. De punta Salinas a punta Quilme, Areoso, Camallón, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo, HPEN MA; MSAS; C.P. A Illa de Arousa
+1. __H0227v2017__: De punta Salinas a punta Quilme, Areoso, Camallón, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo, HPEN MA; MSAS; C.P. A Illa de Arousa 2018174,
 
-1. De punta Moreira a peirao das Pedras Negras, HPEN MSAS; C.P. O Grove
+1. __H0231v2015__: De punta Moreira a peirao das Pedras Negras, HPEN MSAS; C.P. O Grove 2016153,
 
 [Menú](#Menú)
 
