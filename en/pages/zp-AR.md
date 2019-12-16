@@ -26,49 +26,51 @@
 ## Autorizacións
 
 
-1. De punta Galduario a punta Peralto, AAUT A pé; C.P. A Pobra do Caramiñal
+1. __A0004v2017__: De punta Galduario a punta Peralto, AAUT A pé; C.P. A Pobra do Caramiñal [2019005](https://galirema.wikia.org/es/wiki/Pexma2019AAUT005),
 
-1. De punta Galduario a punta Peralto, AAUT Embarcación; C.P. A Pobra do Caramiñal
+1. __A0005v2017__: De punta Galduario a punta Peralto, AAUT Embarcación; C.P. A Pobra do Caramiñal [2019006](https://galirema.wikia.org/es/wiki/Pexma2019AAUT006),
 
-1. Zona de autorización C.P. Aguiño, AAUT Embarcación; C.P. Aguiño
+1. __A0006v2017__: Zona de autorización C.P. Aguiño, AAUT Embarcación; C.P. Aguiño [2019007](https://galirema.wikia.org/es/wiki/Pexma2019AAUT007),
 
-1. Entre punta Peralto, punta Pedra Rubia, AAUT A pé; C.P. Cabo de Cruz
+1. __A0008v2017__: Entre punta Peralto, punta Pedra Rubia, AAUT A pé; C.P. Cabo de Cruz [2019009](https://galirema.wikia.org/es/wiki/Pexma2019AAUT009),
 
-1. Entre punta Peralto, punta Pedra Rubia, AAUT Embarcación; C.P. Cabo de Cruz
+1. __A0009v2017__: Entre punta Peralto, punta Pedra Rubia, AAUT Embarcación; C.P. Cabo de Cruz [2019010](https://galirema.wikia.org/es/wiki/Pexma2019AAUT010),
 
-1. Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT A pé; C.P. Palmeira
+1. __A0023v2017__: Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT A pé; C.P. Palmeira [2019024](https://galirema.wikia.org/es/wiki/Pexma2019AAUT024),
 
-1. Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT Embarcación; C.P. Palmeira
+1. __A0024v2017__: Punta Aguiuncho, illote de Grades, pedras Pallares, AAUT Embarcación; C.P. Palmeira [2019025](https://galirema.wikia.org/es/wiki/Pexma2019AAUT025),
 
-1. Autorización de Rianxo AAUT A pé; C.P. Rianxo
+1. __A0027v2017__: Autorización de Rianxo AAUT A pé; C.P. Rianxo [2019028](https://galirema.wikia.org/es/wiki/Pexma2019AAUT028),
 
-1. Autorización de Rianxo sublitoral AAUT Embarcación; C.P. Rianxo
+1. __A0028v2017__: Autorización de Rianxo sublitoral AAUT Embarcación; C.P. Rianxo [2019029](https://galirema.wikia.org/es/wiki/Pexma2019AAUT029),
 
-1. Autorización de Ribeira AAUT Embarcación; C.P. Ribeira
+1. __A0029v2017__: Autorización de Ribeira AAUT Embarcación; C.P. Ribeira [2019030](https://galirema.wikia.org/es/wiki/Pexma2019AAUT030),
 
-1. De punta Aguiúncho a Eiró Grande, de Eiró Grande a Carabancelo, de Carabancelo a Redonda Vella, de Redonda Vella a punta Castro AAUT Rastro de vieira ou voandeira; C.P. Ribeira
+1. __A0030v2017__: De punta Aguiúncho a Eiró Grande, de Eiró Grande a Carabancelo, de Carabancelo a Redonda Vella, de Redonda Vella a punta Castro AAUT Rastro de vieira ou voandeira; C.P. Ribeira [2019031](https://galirema.wikia.org/es/wiki/Pexma2019AAUT031),
 
-1. De punta Portomouro a punta Pedra Rubia, AAUT A pé; Embarcación; Ría de Arousa S.C.G.
+1. __A0032v2017__: De punta Portomouro a punta Pedra Rubia, AAUT A pé; Embarcación; Ría de Arousa S.C.G. [2019033](https://galirema.wikia.org/es/wiki/Pexma2019AAUT033),
 
-1. Zonas de autorización: intermareal de illa de Arousa AAUT A pé; C.P. A Illa de Arousa
+1. __A0033v2017__: Zonas de autorización: intermareal de illa de Arousa AAUT A pé; C.P. A Illa de Arousa [2019034](https://galirema.wikia.org/es/wiki/Pexma2019AAUT034),
 
-1. Zonas de autorización: submareal de Illa de Arousa AAUT Embarcación; C.P. A Illa de Arousa
+1. __A0034v2017__: Zonas de autorización: submareal de Illa de Arousa AAUT Embarcación; C.P. A Illa de Arousa [2019035](https://galirema.wikia.org/es/wiki/Pexma2019AAUT035),
 
-1. Zona intermareal atorización de Cambados AAUT A pé; C.P. Cambados
+1. __A0038v2017__: Zona intermareal atorización de Cambados AAUT A pé; C.P. Cambados [2019039](https://galirema.wikia.org/es/wiki/Pexma2019AAUT039),
 
-1. De Rego do Alcalde a punta Tragove, de punta Borrón e peirao de Cambados a punta Borrelo, AAUT Embarcación; C.P. Cambados
+1. __A0039v2017__: De Rego do Alcalde a punta Tragove, de punta Borrón e peirao de Cambados a punta Borrelo, AAUT Embarcación; C.P. Cambados [2019040](https://galirema.wikia.org/es/wiki/Pexma2019AAUT040),
 
-1. A Fangueira, Sublitoral AAUT Embarcación; C.P. Carril
+1. __A0040v2017__: A Fangueira, Sublitoral AAUT Embarcación; C.P. Carril [2019041](https://galirema.wikia.org/es/wiki/Pexma2019AAUT041),
 
-1. A Fangueira, Intermareal AAUT A pé; C.P. Carril
+1. __A0041v2017__: A Fangueira, Intermareal AAUT A pé; C.P. Carril [2019042](https://galirema.wikia.org/es/wiki/Pexma2019AAUT042),
 
-1. Zonas de autorización (Intermareal) C.P. O Grove, AAUT A pé; C.P. O Grove
+1. __A0042v2017__: Zonas de autorización (Intermareal) C.P. O Grove, AAUT A pé; C.P. O Grove [2019043](https://galirema.wikia.org/es/wiki/Pexma2019AAUT043),
 
-1. Zonas de autorización C.P. O Grove, (Sublitoral) AAUT Embarcación; C.P. O Grove
+1. __A0043v2017__: Zonas de autorización C.P. O Grove, (Sublitoral) AAUT Embarcación; C.P. O Grove [2019044](https://galirema.wikia.org/es/wiki/Pexma2019AAUT044),
 
-1. De regato Aduana a Rego do Alcalde, (Intermareal) AAUT A pé; C.P. Vilanova
+1. __A0044v2017__: De regato Aduana a Rego do Alcalde, (Intermareal) AAUT A pé; C.P. Vilanova [2019045](https://galirema.wikia.org/es/wiki/Pexma2019AAUT045),
 
-1. Autorización de C.P. Vilanova (Sublitoral) AAUT Embarcación; C.P. Vilanova
+1. __A0045v2017__: Autorización de C.P. Vilanova (Sublitoral) AAUT Embarcación; C.P. Vilanova [2019046](https://galirema.wikia.org/es/wiki/Pexma2019AAUT046),
+
+1. __A0046v2017__: De punta Ferrazo a Regato Aduana, AAUT A pé; C.P. Vilaxoán [2019047](https://galirema.wikia.org/es/wiki/Pexma2019AAUT047),
 
 [Menú](#Menú)
 
