@@ -133,27 +133,29 @@
 ## Solénidos
 
 
-1. De punta Galduario a punta Corna, arrecife de Aroñe, de punta Galduario a punta Peralto, GSOL MA; MSAS; C.P. A Pobra do Caramiñal
+1. __G0188v2017__: De punta Galduario a punta Corna, arrecife de Aroñe, de punta Galduario a punta Peralto, GSOL MA; MSAS; C.P. A Pobra do Caramiñal [2019160](https://galirema.wikia.org/es/wiki/Pexma2019GSOL160),
 
-1. Praia da Ladeira, zonas de libre marisqueo adxacentes ao ámbito dos plans das autorizacións das C.P. Carreira-Aguiño, C.P. Ribeira, GSOL MA; MSAS; C.P. Carreira-Aguiño, C.P. Ribeira, (plan conxunto)
+1. __G0189v2017__: Zonas de autorización C.P. Aguiño, GSOL MA; C.P. Aguiño [2019161](https://galirema.wikia.org/es/wiki/Pexma2019GSOL161),
 
-1. De punta Peralto a punta Pedra Rubia, GSOL MA; C.P. Cabo de Cruz
+1. __G0190v2016__: Praia da Ladeira, zonas de libre marisqueo adxacentes ao ámbito dos plans das autorizacións das C.P. Carreira-Aguiño, C.P. Ribeira, GSOL MA; MSAS; C.P. Carreira-Aguiño, C.P. Ribeira, (plan conxunto) [2019162](https://galirema.wikia.org/es/wiki/Pexma2019GSOL162),
 
-1. Punta Aguiúncho, illote de Grades, punta da Corna, GSOL MA; C.P. Palmeira
+1. __G0191v2017__: De punta Peralto a punta Pedra Rubia, GSOL MA; C.P. Cabo de Cruz [2019163](https://galirema.wikia.org/es/wiki/Pexma2019GSOL163),
 
-1. Zonas de autorización C.P. Ribeira: bancos de Coroso-Río, Grande-Río Azor, Insua-Airó, Castiñeiras, GSOL MA; C.P. Ribeira
+1. __G0197v2017__: Punta Aguiúncho, illote de Grades, punta da Corna, GSOL MA; C.P. Palmeira [2019170](https://galirema.wikia.org/es/wiki/Pexma2019GSOL170),
 
-1. Desde Sapeiras de Terra a punta Quilme, Areoso, Camallón, Roncadeiras, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo, GSOL MA; MSAS; C.P. A Illa de Arousa
+1. __G0199v2017__: Zonas de autorización C.P. Ribeira: bancos de Coroso-Río, Grande-Río Azor, Insua-Airó, Castiñeiras, GSOL MA; C.P. Ribeira [2019172](https://galirema.wikia.org/es/wiki/Pexma2019GSOL172),
 
-1. Do Rego do Alcalde (Lañeiras de Fóra) á baliza de Orido, Arnela-Galiñeiro, Tragove, Tereixiñas, As Lobeiras, GSOL MA; MSAS; C.P. Cambados
+1. __G0200v2017__: Desde Sapeiras de Terra a punta Quilme, Areoso, Camallón, Roncadeiras, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo, GSOL MA; MSAS; C.P. A Illa de Arousa [2019173](https://galirema.wikia.org/es/wiki/Pexma2019GSOL173),
 
-1. Enseada da Lanzada (praia da Lanzada, praia de Area da Cruz, Raeiros,), praia da Mexilloeira, praia Area Grande, Carreiro-Barcelas, praia Area das Pipas, praia Area de Reboredo, Lombo de Rons-Migalliñás, Lombo das Sinas, enseada do Grove, GSOL MA; MSAS; C.P. O Grove
+1. __G0204v2017__: Do Rego do Alcalde (Lañeiras de Fóra) á baliza de Orido, Arnela-Galiñeiro, Tragove, Tereixiñas, As Lobeiras, GSOL MA; MSAS; C.P. Cambados [2019177](https://galirema.wikia.org/es/wiki/Pexma2019GSOL177),
 
-1. Entre o peirao de Corón e O Ariño, GSOL MA; C.P. Vilanova
+1. __G0208v2017__: Enseada da Lanzada (praia da Lanzada, praia de Area da Cruz, Raeiros,), praia da Mexilloeira, praia Area Grande, Carreiro-Barcelas, praia Area das Pipas, praia Area de Reboredo, Lombo de Rons-Migalliñás, Lombo das Sinas, enseada do Grove, GSOL MA; MSAS; C.P. O Grove [2019181](https://galirema.wikia.org/es/wiki/Pexma2019GSOL181),
 
-1. Praia da Corna GSOL A pé; C.P. Palmeira
+1. __G0211v2017__: Entre o peirao de Corón e O Ariño, GSOL MA; C.P. Vilanova [2019183](https://galirema.wikia.org/es/wiki/Pexma2019GSOL183),
 
-1. Intermareal entre punta Tragove e Rego do Alcalde, co saco de Fefiñáns. Entre Ponte Castrelo e punta Barrelo. Entre o peirao de Cambados e a desembocadura do río Umia GSOL A pé; C.P. Cambados
+1. __G0214v2014__: Praia da Corna GSOL A pé; C.P. Palmeira 2014163,
+
+1. __G0223v2008__: Intermareal entre punta Tragove e Rego do Alcalde, co saco de Fefiñáns. Entre Ponte Castrelo e punta Barrelo. Entre o peirao de Cambados e a desembocadura do río Umia GSOL A pé; C.P. Cambados 2009184,
 
 [Menú](#Menú)
 
