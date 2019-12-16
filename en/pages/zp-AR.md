@@ -121,11 +121,11 @@
 ## Equinodermos
 
 
-1. Illa de Sálvora, costa e illotes adxacentes, agás determinadas zonas; De punta Falcoeiro a río Sieira, incluíndo illotes adxacentes FEQD MA; MSAS; Bicheiro; C.P. Aguiño, C.P. Ribeira, (plan conxunto)
+1. __F0160v2016__: Illa de Sálvora, costa e illotes adxacentes, agás determinadas zonas; De punta Falcoeiro a río Sieira, incluíndo illotes adxacentes FEQD MA; MSAS; Bicheiro; C.P. Aguiño, C.P. Ribeira, (plan conxunto) [2019141](https://galirema.wikia.org/es/wiki/Pexma2019FEQD141),
 
-1. De punta Faxilda (agás A Lanzada) a punta Moreira, de praia de Con Roibo a peirao do Grove, Pedras Salvores, Baixos dos Mezos, dos Esqueiros, FEQD MSAS; C.P. O Grove
+1. __F0177v2017__: De punta Faxilda (agás A Lanzada) a punta Moreira, de praia de Con Roibo a peirao do Grove, Pedras Salvores, Baixos dos Mezos, dos Esqueiros, FEQD MSAS; C.P. O Grove [2019157](https://galirema.wikia.org/es/wiki/Pexma2019FEQD157),
 
-1. De punta Salinas a punta Quilme, Areoso, Camallón, punta Testos, punta Niño do Corvo, Área Secada e punta Cabalo FEQD MA; C.P. A Illa de Arousa
+1. __F0179v2008__: De punta Salinas a punta Quilme, Areoso, Camallón, punta Testos, punta Niño do Corvo, Área Secada e punta Cabalo FEQD MA; C.P. A Illa de Arousa 2009151,
 
 [Menú](#Menú)
 
