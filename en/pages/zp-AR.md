@@ -203,11 +203,15 @@
 ## Poliquetos
 
 
-1. Saco de Fefiñáns, Pantalán, Fefiñáns, O Varal, Bebedeiros, Medio do Sarrido, Illeira, de punta Tragrove a Rego do Alcalde, KPOL A pé; C.P. Cambados
+1. __K0299v2017__: Saco de Fefiñáns, Pantalán, Fefiñáns, O Varal, Bebedeiros, Medio do Sarrido, Illeira, de punta Tragrove a Rego do Alcalde, KPOL A pé; C.P. Cambados [2019238](https://galirema.wikia.org/es/wiki/Pexma2019KPOL238),
 
-1. Meloxo: de peirao de Meloxo a praia Lavandeira, Ardía: de punta Antarde a as Morrasas, Vilalonga-Dena-Castrelo: de punta Fianteira a punta de Couto de Abaixo, de punta Faxilda a punta Colmado, de punta San Vicente ao porto deportivo de Pedras Negras, de Con do Cavernal a punta das Pozas, KPOL A pé; C.P. O Grove
+1. __K0301v2017__: Meloxo: de peirao de Meloxo a praia Lavandeira, Ardía: de punta Antarde a as Morrasas, Vilalonga-Dena-Castrelo: de punta Fianteira a punta de Couto de Abaixo, de punta Faxilda a punta Colmado, de punta San Vicente ao porto deportivo de Pedras Negras, de Con do Cavernal a punta das Pozas, KPOL A pé; C.P. O Grove [2019240](https://galirema.wikia.org/es/wiki/Pexma2019KPOL240),
 
-1. As Sinas, Con Grande, Carballas, Negrenlas, KPOL MA; C.P. Vilanova
+1. __K0307v2017__: As Sinas, Con Grande, Carballas, Negrenlas, KPOL MA; C.P. Vilanova [2019246](https://galirema.wikia.org/es/wiki/Pexma2019KPOL246),
+
+1. __K0321v2008__: Castelete-O Rego, Esteiro de Vilamaior, O Bote-As Carballas, KPOL A pé; C.P. Vilanova 2009232,
+
+1. __K0322v2008__: Esteiro do Rial, Praia de Corón, Praia de Saiñas, KPOL A pé; C.P. Vilaxoán 2010218,
 
 [Menú](#Menú)
 
