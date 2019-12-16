@@ -109,9 +109,11 @@
 ## Percebe
 
 
-1. Illas e illotes Laxas, Pías de Castiñeira, Airós, Rúa, Carabancelo, Xidoiro Pedregoso, Corbeiros, Lobeiras, DPER Embarcación; C.P. Ribeira
+1. __D0122v2017__: Desde punta Castro ata a desembocadura do río Sieira, illas e illotes adxacentes, DPER A pé; Embarcación; C.P. Aguiño [2019105](https://galirema.wikia.org/es/wiki/Pexma2019DPER105),
 
-1. De punta Area Grande a punta Faxilda, DPER A pé; Embarcación; C.P. O Grove
+1. __D0143v2017__: Illas e illotes Laxas, Pías de Castiñeira, Airós, Rúa, Carabancelo, Xidoiro Pedregoso, Corbeiros, Lobeiras, DPER Embarcación; C.P. Ribeira [2019124](https://galirema.wikia.org/es/wiki/Pexma2019DPER124),
+
+1. __D0150v2017__: De punta Area Grande a punta Faxilda, DPER A pé; Embarcación; C.P. O Grove [2019133](https://galirema.wikia.org/es/wiki/Pexma2019DPER133),
 
 [Menú](#Menú)
 
