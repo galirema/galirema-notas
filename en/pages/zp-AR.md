@@ -78,11 +78,11 @@
 ## Zonas de Libre Marisqueo
 
 
-1. Zona intermareal de punta Galduario a punta da Corna, BESP A pé; C.P. A Pobra do Caramiñal
+1. __B0064v2017__: Zona intermareal de punta Galduario a punta da Corna, BESP A pé; C.P. A Pobra do Caramiñal [2019058](https://galirema.wikia.org/es/wiki/Pexma2019BESP058),
 
-1. De punta Quilme a Sapeiras de Terra (cara oeste e nordeste da illa), BESP A pé; C.P. A Illa de Arousa
+1. __B0082v2017__: De punta Quilme a Sapeiras de Terra (cara oeste e nordeste da illa), BESP A pé; C.P. A Illa de Arousa [2019075](https://galirema.wikia.org/es/wiki/Pexma2019BESP075),
 
-1. Liñas imaxinarias que unen punta Arruda con punta Laño, punta Carreirón con punta Cuña Alta (inclúe Roncadeiras, O Camallón,), de punta Quilme a Sapeiras de Terra (cara oeste e noroeste da illa), BESP Embarcación; C.P. A Illa de Arousa
+1. __B0083v2017__: Liñas imaxinarias que unen punta Arruda con punta Laño, punta Carreirón con punta Cuña Alta (inclúe Roncadeiras, O Camallón,), de punta Quilme a Sapeiras de Terra (cara oeste e noroeste da illa), BESP Embarcación; C.P. A Illa de Arousa [2019076](https://galirema.wikia.org/es/wiki/Pexma2019BESP076),
 
 1. Do Rego do Alcalde (Lañeiras de Fóra) á baliza de Orido, Arnela-Galiñeiro, do peirao de Meloxo ata As Negreiriñas, BESP Embarcación C.P. Cambados
 
