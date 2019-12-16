@@ -191,9 +191,11 @@
 ## Anémonas
 
 
-1. De Sapeiras de Terra ata punta Salinas, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo, JANE MA; MSAS; C.P. A Illa de Arousa
+1. __J0275v2018__: De Sapeiras de Terra ata punta Salinas, punta Testos, punta Niño do Corvo, Area Secada, punta Cabalo, JANE MA; MSAS; C.P. A Illa de Arousa [2019221](https://galirema.wikia.org/es/wiki/Pexma2019JANE221),
 
-1. De punta Moreira ata punta Area das Pipas, de praia Barrosa a punta Raeiros, JANE MSAS; C.P. O Grove
+1. __J0278v2017__: De punta Moreira ata punta Area das Pipas, de praia Barrosa a punta Raeiros, JANE MSAS; C.P. O Grove [2019224](https://galirema.wikia.org/es/wiki/Pexma2019JANE224),
+
+1. __J0285v2019__: A Insuela, JANE MA; C.P. Palmeira [2019218](https://galirema.wikia.org/es/wiki/Pexma2019JANE218),
 
 [Menú](#Menú)
 
