@@ -24,7 +24,7 @@
 ## Autorizacións
 
 
-1. De punta Alada a punta Preguntoiro, cara ao interior da ría de Aldán AAUT A pé; C.P. Aldán-O Hio
+1. __A0035v2017__: De punta Alada a punta Preguntoiro, cara ao interior da ría de Aldán AAUT A pé; C.P. Aldán-O Hio [2019036](https://galirema.wikia.org/es/wiki/Pexma2019AAUT036),
 
 [Menú](#Menú)
 
