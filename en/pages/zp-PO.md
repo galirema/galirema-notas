@@ -69,9 +69,9 @@
 ## Solénidos
 
 
-1. De punta Alada a punta Morcegos, cara ao interior da ría, GSOL MA; MSAS; C.P. Aldán-O Hio GSOL MA; MSAS; C.P. Aldán-O Hio
+1. __G0201v2017__: De punta Alada a punta Morcegos, cara ao interior da ría, GSOL MA; MSAS; C.P. Aldán-O Hio GSOL MA; MSAS; C.P. Aldán-O Hio [2019174](https://galirema.wikia.org/es/wiki/Pexma2019GSOL174),
 
-1. De punta Faxilda a punta Morcegos, illa de Ons, illa de Onza, GSOL MA; MSAS; C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Portonovo, C.P. Raxó, C.P. Sanxenxo, (plan conxunto)
+1. __G0203v2017__: De punta Faxilda a punta Morcegos, illa de Ons, illa de Onza, GSOL MA; MSAS; C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Portonovo, C.P. Raxó, C.P. Sanxenxo, (plan conxunto) [2019176](https://galirema.wikia.org/es/wiki/Pexma2019GSOL176),
 
 [Menú](#Menú)
 
