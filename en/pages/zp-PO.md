@@ -99,7 +99,7 @@
 ## Anémonas
 
 
-1. De punta Couso a Punta Niño do Corvo, cara ao interior da ría de Aldán, JANE MA; MSAS; C.P. Aldán-O Hio
+1. __J0274v2019__: De punta Couso a Punta Niño do Corvo, cara ao interior da ría de Aldán, JANE MA; MSAS; C.P. Aldán-O Hio [2019220](https://galirema.wikia.org/es/wiki/Pexma2019JANE220),
 
 [Menú](#Menú)
 
@@ -107,9 +107,11 @@
 ## Poliquetos
 
 
-1. Praia Faxilda (ou Pociñas), praia de Prageira, praia de Bascuas, praia de Montalvo, praia Canelas, KPOL A pé; C.P. Portonovo
+1. __K0302v2017__: Praia Faxilda (ou Pociñas), praia de Prageira, praia de Bascuas, praia de Montalvo, praia Canelas, KPOL A pé; C.P. Portonovo [2019241](https://galirema.wikia.org/es/wiki/Pexma2019KPOL241),
 
-1. Praias de Pampaido, Area da Adra, Praias das Areas, Praias de Nanín, Praias de Barreiro, Praias de Carabuxeira, Praias de Silgar, KPOL A pé; C.P. Sanxenxo
+1. __K0304v2019__: Praias de Pampaido, Area da Adra, Praias das Areas, Praias de Nanín, Praias de Barreiro, Praias de Carabuxeira, Praias de Silgar, KPOL A pé; C.P. Sanxenxo [2019243](https://galirema.wikia.org/es/wiki/Pexma2019KPOL243),
+
+1. __K0308v2017__: De punta Couso a punta Morcegos cara ao interior da ría de Aldán, KPOL A pé; C.P. Aldán-O Hio [2019237](https://galirema.wikia.org/es/wiki/Pexma2019KPOL237),
 
 [Menú](#Menú)
 
