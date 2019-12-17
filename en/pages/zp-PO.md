@@ -89,9 +89,9 @@
 ## Algas
 
 
-1. De punta Couso a punta Preguntoiro, cara ao interior da ría, IALG MA; MSAS; C.P. Aldán-O Hio
+1. __I0254v2017__: De punta Couso a punta Preguntoiro, cara ao interior da ría, IALG MA; MSAS; C.P. Aldán-O Hio [2019203](https://galirema.wikia.org/es/wiki/Pexma2019IALG203),
 
-1. Interior das liñas imaxinarias de punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Preguntoiro, Cara oeste das illas Ons e Onza, IALG MSAS; C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Raxó, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto)
+1. __I0256v2017__: Interior das liñas imaxinarias de punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Preguntoiro, Cara oeste das illas Ons e Onza, IALG MSAS; C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Raxó, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto) 2018195,
 
 [Menú](#Menú)
 
