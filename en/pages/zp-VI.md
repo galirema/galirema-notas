@@ -93,15 +93,15 @@
 ## Equinodermos
 
 
-1. De punta Orelludas a punta dos Picos, FEQD A pé; C.P. A Guarda
+1. __F0171v2017__: De punta Orelludas a punta dos Picos, FEQD A pé; C.P. A Guarda [2019151](https://galirema.wikia.org/es/wiki/Pexma2019FEQD151),
 
-1. De punta Orelludas a punta dos Picos (zona marítima), FEQD MSAS; C.P. A Guarda,
+1. __F0172v2017__: De punta Orelludas a punta dos Picos (zona marítima), FEQD MSAS; C.P. A Guarda, [2019152](https://galirema.wikia.org/es/wiki/Pexma2019FEQD152),
 
-1. De punta Orelluda a praia de Abra, (excluída), incluíndo as illas Estelas, FEQD A pé; MSAS; C.P. Baiona,
+1. __F0174v2017__: De punta Orelluda a praia de Abra, (excluída), incluíndo as illas Estelas, FEQD A pé; MSAS; C.P. Baiona, [2019154](https://galirema.wikia.org/es/wiki/Pexma2019FEQD154),
 
-1. De punta Canabal a punta Couso, illas Cíes, FEQD MA; MSAS; C.P. Cangas
+1. __F0176v2017__: De punta Canabal a punta Couso, illas Cíes, FEQD MA; MSAS; C.P. Cangas [2019156](https://galirema.wikia.org/es/wiki/Pexma2019FEQD156),
 
-1. De Rande á praia de Abra (esta última excluída), FEQD MA; MSAS; C.P. Vigo
+1. __F0178v2017__: De Rande á praia de Abra (esta última excluída), FEQD MA; MSAS; C.P. Vigo [2019158](https://galirema.wikia.org/es/wiki/Pexma2019FEQD158),
 
 [Menú](#Menú)
 
