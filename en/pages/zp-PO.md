@@ -49,9 +49,9 @@
 
 ## Percebe
 
-1. De punta Couso a punta Morcegos, cara ao interior da ría de Aldán, DPER A pé; C.P. Aldán-O Hio
+1. __D0146v2017__: De punta Couso a punta Morcegos, cara ao interior da ría de Aldán, DPER A pé; C.P. Aldán-O Hio [2019127](https://galirema.wikia.org/es/wiki/Pexma2019DPER127),
 
-1. De punta Lapamán a punta Morcegos, Illa Ons, Onza; DPER Embarcación; C.P. Bueu
+1. __D0148v2017__: De punta Lapamán a punta Morcegos, Illa Ons, Onza; DPER Embarcación; C.P. Bueu [2019131](https://galirema.wikia.org/es/wiki/Pexma2019DPER131),
 
 [Menú](#Menú)
 
