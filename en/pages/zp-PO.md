@@ -59,9 +59,9 @@
 ## Equinodermos
 
 
-1. De punta Couso a punta Morcegos, cara ao interior da ría de Aldán, FEQD MA; MSAS; C.P. Aldán-O Hio
+1. __F0173v2017__: De punta Couso a punta Morcegos, cara ao interior da ría de Aldán, FEQD MA; MSAS; C.P. Aldán-O Hio [2019153](https://galirema.wikia.org/es/wiki/Pexma2019FEQD153),
 
-1. De punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Morcegos, illa Ons, illa Onza, FEQD MSAS; C.P. Bueu, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto)
+1. __F0175v2019__: De punta Faxilda a punta Centolo, de punta Galera a punta Couso, de punta Couso a punta Morcegos, illa Ons, illa Onza, FEQD MSAS; C.P. Bueu, C.P. Portonovo, C.P. Sanxenxo, (plan conxunto) [2019155](https://galirema.wikia.org/es/wiki/Pexma2019FEQD155),
 
 [Menú](#Menú)
 
