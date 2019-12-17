@@ -9,16 +9,16 @@
 
 |Tipo de Plan | Num. de Zonas| Activas 2019 |
 |:------------|--------------:|:-----------:|
-|[Autorizacións](#Autorizacións)| 1 ||
-|[Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)| 6 ||
-|[Percebe](#Percebe)| 3 ||
-|[Equinodermos](#Equinodermos)| 2 ||
-|[Solénidos](#Solénidos)| 2 ||
-|[Peneiras](#Peneiras)| 2 ||
-|[Algas](#Algas)| 2 ||
-|[Anémonas](#Anémonas)| 1 ||
-|[Poliquetos](#Poliquetos)| 2 ||
-|Totales|||
+|[Autorizacións](#Autorizacións)| 1 | 1 |
+|[Zonas de Libre Marisqueo](#Zonas_de_Libre_Marisqueo)| 6 | 5 |
+|[Percebe](#Percebe)| 2 | 2 |
+|[Equinodermos](#Equinodermos)| 2 | 2 |
+|[Solénidos](#Solénidos)| 2 | 2 |
+|[Peneiras](#Peneiras)| 2 | 1 |
+|[Algas](#Algas)| 2 | 1 |
+|[Anémonas](#Anémonas)| 1 | 1 |
+|[Poliquetos](#Poliquetos)| 3 | 3 |
+|Totales| 21 | 18 |
 
 
 ## Autorizacións
@@ -48,8 +48,6 @@
 
 
 ## Percebe
-
-1. Desde punta Castro ata a desembocadura do río Sieira, illas e illotes adxacentes DPER A pé; Embarcación; C.P. Aguiño
 
 1. De punta Couso a punta Morcegos, cara ao interior da ría de Aldán, DPER A pé; C.P. Aldán-O Hio
 
