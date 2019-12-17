@@ -33,33 +33,37 @@
 ## Zonas de Libre Marisqueo
 
 
-1. Bancos da ría de Vigo, excepto a autorización de Baiona, BESP Embarcación; Asociación de Marisqueo a Flote Ría de Vigo, C.P. de Baiona, (plan conxunto)
+1. __B0079v2017__: Bancos da ría de Vigo, excepto a autorización de Baiona, BESP Embarcación; Asociación de Marisqueo a Flote Ría de Vigo, C.P. de Baiona, (plan conxunto) [2019072](https://galirema.wikia.org/es/wiki/Pexma2019BESP072),
 
-1. Bancos sublitorais da ría de Vigo (Liña imaxinaria que une Cabo Home con faro dos Carallóns e de faro dos Carallóns a punta Lameda, cara ao interior da ría) BESP Rastro de vieira ou voandeira Asociación de Marisqueo a Flote da Ría de Vigo, (plan conxunto)
+1. __B0080v2017__: Bancos sublitorais da ría de Vigo (Liña imaxinaria que une Cabo Home con faro dos Carallóns e de faro dos Carallóns a punta Lameda, cara ao interior da ría) BESP Rastro de vieira ou voandeira Asociación de Marisqueo a Flote da Ría de Vigo, (plan conxunto) [2019073](https://galirema.wikia.org/es/wiki/Pexma2019BESP073),
 
-1. De punta dos Picos a punta Orelludas, BESP A pé; C.P. A Guarda
+1. __B0081v2017__: De punta dos Picos a punta Orelludas, BESP A pé; C.P. A Guarda [2019074](https://galirema.wikia.org/es/wiki/Pexma2019BESP074),
 
-1. Bancos intermareais desde a caseta do Ceboleiro ata Pedra dos Caralletes, BESP A pé; C.P. Arcade
+1. __B0084v2017__: Bancos intermareais desde a caseta do Ceboleiro ata Pedra dos Caralletes, BESP A pé; C.P. Arcade [2019077](https://galirema.wikia.org/es/wiki/Pexma2019BESP077),
 
-1. Bancos intermareais de punta Cabalo a pedra dos Caralletes (Cunchido e Larache), BESP A pé; C.P. Arcade, C.P. Vilaboa, (plan conxunto)
+1. __B0085v2017__: Bancos intermareais de punta Cabalo a pedra dos Caralletes (Cunchido e Larache), BESP A pé; C.P. Arcade, C.P. Vilaboa, (plan conxunto) [2019078](https://galirema.wikia.org/es/wiki/Pexma2019BESP078),
 
-1. Bancos intermareais desde punta Rodeira ata punta Couso, BESP A pé; C.P. Cangas
+1. __B0090v2017__: Bancos intermareais desde punta Rodeira ata punta Couso, BESP A pé; C.P. Cangas [2019083](https://galirema.wikia.org/es/wiki/Pexma2019BESP083),
 
-1. De punta Rodeira á praia de Canabal, BESP A pé; C.P. Cangas
+1. __B0091v2017__: De punta Rodeira á praia de Canabal, BESP A pé; C.P. Cangas [2019084](https://galirema.wikia.org/es/wiki/Pexma2019BESP084),
 
-1. Entre cabo Home e faro Borneira, as illas Cíes, BESP Endeño remolcado; C.P. Cangas
+1. __B0092v2017__: Entre cabo Home e faro Borneira, as illas Cíes, BESP Endeño remolcado; C.P. Cangas [2019085](https://galirema.wikia.org/es/wiki/Pexma2019BESP085),
 
-1. Bancos intermareais entre a punta Travesada e a praia de Canabal, BESP A pé; C.P. Moaña
+1. __B0096v2017__: Bancos intermareais entre a punta Travesada e a praia de Canabal, BESP A pé; C.P. Moaña [2019089](https://galirema.wikia.org/es/wiki/Pexma2019BESP089),
 
-1. De punta Rodeira ata a praia de Canabal: illa dos Ratos, BESP A pé; C.P. Moaña, C.P. Cangas, (plan conxunto)
+1. __B0097v2017__: De punta Rodeira ata a praia de Canabal: illa dos Ratos, BESP A pé; C.P. Moaña, C.P. Cangas, (plan conxunto) [2019090](https://galirema.wikia.org/es/wiki/Pexma2019BESP090),
 
-1. Bancos intermareais desde a Caseta do Ceboleiro ata a praia de Arealonga (incluída), BESP A pé; C.P. Redondela
+1. __B0100v2017__: Bancos intermareais desde a Caseta do Ceboleiro ata a praia de Arealonga (incluída), BESP A pé; C.P. Redondela [2019093](https://galirema.wikia.org/es/wiki/Pexma2019BESP093),
 
-1. Bancos intermareais entre o puntal da Serra e praia de Arealonga (excluída) BESP A pé; C.P. Vigo
+1. __B0101v2017__: Bancos intermareais entre o puntal da Serra e praia de Arealonga (excluída) BESP A pé; C.P. Vigo [2019094](https://galirema.wikia.org/es/wiki/Pexma2019BESP094),
 
-1. Bancos intermareais desde punta Travesada ata Punta Cabalo, BESP A pé; C.P. Vilaboa
+1. __B0102v2017__: Bancos intermareais desde punta Travesada ata Punta Cabalo, BESP A pé; C.P. Vilaboa [2019095](https://galirema.wikia.org/es/wiki/Pexma2019BESP095),
 
-1. Bancos intermareais de moluscos bivalvos da ría de Vigo, excepto a zona de autorización de Baiona BESP A pé; Asociación de Confrarías da Ría de Vigo
+1. __B0103v2008__: Bancos intermareais de moluscos bivalvos da ría de Vigo, excepto a zona de autorización de Baiona BESP A pé; Asociación de Confrarías da Ría de Vigo 2012430,
+
+1. __B0329v2010__: De praia de Abra a punta Orelludas, BESP A pé; C.P. Baiona 2010088,
+
+1. __B0333v2009__: Liña imaxinaria que une punta Borneira no norte con cabo Estai no litoral sur cara ao interior da ría, BESP Rastro de vieira ou voandeira; C.P. Cangas, C.P. Redondela, Cíes Artesanais S.C.G., Mar do Morrazo S.C.G., (plan conxunto) 2009095,
 
 [Menú](#Menú)
 
