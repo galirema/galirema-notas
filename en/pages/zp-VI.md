@@ -164,13 +164,13 @@
 ## Anémonas
 
 
-1. De punta Orelluda a Punta dos Picos, JANE A pé; C.P. A Guarda
+1. __J0273v2017__: De punta Orelluda a Punta dos Picos, JANE A pé; C.P. A Guarda [2019219](https://galirema.wikia.org/es/wiki/Pexma2019JANE219),
 
-1. De punta Orelluda a punta Santa Marta, desde a desembocadura do río Miñor a praia de Portocelo, JANE A pé; MA; MSAS; C.P. Baiona
+1. __J0276v2018__: De punta Orelluda a punta Santa Marta, desde a desembocadura do río Miñor a praia de Portocelo, JANE A pé; MA; MSAS; C.P. Baiona [2019222](https://galirema.wikia.org/es/wiki/Pexma2019JANE222),
 
-1. De punta Balea ao extremo leste da praia de Liméns, (incluíndo o faro da Borneira, illote Corbeiro,) do extremo oeste da praia de Liméns ao extremo leste da praia de Barra, do extremo oeste da praia de Barra ata punta Robaleira, de punta Balea a punta Rodeira, JANE MA; MSAS; C.P. Cangas
+1. __J0277v2017__: De punta Balea ao extremo leste da praia de Liméns, (incluíndo o faro da Borneira, illote Corbeiro,) do extremo oeste da praia de Liméns ao extremo leste da praia de Barra, do extremo oeste da praia de Barra ata punta Robaleira, de punta Balea a punta Rodeira, JANE MA; MSAS; C.P. Cangas [2019223](https://galirema.wikia.org/es/wiki/Pexma2019JANE223),
 
-1. De punta Alcabre a praia de Abra, (excluída), De punta Lagoa a praia de Arealonga, (excluida), JANE MA; MSAS; C.P. Vigo
+1. __J0279v2018__: De punta Alcabre a praia de Abra, (excluída), De punta Lagoa a praia de Arealonga, (excluida), JANE MA; MSAS; C.P. Vigo [2019225](https://galirema.wikia.org/es/wiki/Pexma2019JANE225),
 
 [Menú](#Menú)
 
