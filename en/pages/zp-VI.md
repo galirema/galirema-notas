@@ -23,9 +23,9 @@
 ## Autorizacións
 
 
-1. Foz do río Miñor, praia Ladeira, praia do Burgo, praia de Santa Marta, paseo da Lonxa, praia Ribeira, praia Barbeira, AAUT A pé; C.P. Baiona
+1. __A0036v2017__: Foz do río Miñor, praia Ladeira, praia do Burgo, praia de Santa Marta, paseo da Lonxa, praia Ribeira, praia Barbeira, AAUT A pé; C.P. Baiona [2019037](https://galirema.wikia.org/es/wiki/Pexma2019AAUT037),
 
-1. Autorización administrativa C.P. Baiona Sublitoral AAUT Embarcación; C.P. Baiona
+1. __A0037v2017__: Autorización administrativa C.P. Baiona Sublitoral AAUT Embarcación; C.P. Baiona [2019038](https://galirema.wikia.org/es/wiki/Pexma2019AAUT038),
 
 [Menú](#Menú)
 
