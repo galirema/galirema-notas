@@ -79,9 +79,9 @@
 ## Peneiras
 
 
-1. De punta Couso a punta Morcegos, cara ao interior da ría de Aldán, HPEN MA; MSAS; C.P. Aldán-O Hio
+1. __H0228v2018__: De punta Couso a punta Morcegos, cara ao interior da ría de Aldán, HPEN MA; MSAS; C.P. Aldán-O Hio [2019185](https://galirema.wikia.org/es/wiki/Pexma2019HPEN185),
 
-1. No norte da ría: de punta Faxilda a punta Aguillóns, illa de Tambo (con Corbeiro,), Illa Ons, Illa Onza,; No sur da ría: do faro sur da illa de Tambo á esquina oeste da Escola Naval de Marín, ata punta Morcegos,; HPEN MA; MSAS; C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Portonovo, C.P. Raxó, C.P. Sanxenxo, (plan conxunto)
+1. __H0229v2017__: No norte da ría: de punta Faxilda a punta Aguillóns, illa de Tambo (con Corbeiro,), Illa Ons, Illa Onza,; No sur da ría: do faro sur da illa de Tambo á esquina oeste da Escola Naval de Marín, ata punta Morcegos,; HPEN MA; MSAS; C.P. Bueu, C.P. Lourizán, C.P. Marín, C.P. Pontevedra, C.P. Portonovo, C.P. Raxó, C.P. Sanxenxo, (plan conxunto) 2018176,
 
 [Menú](#Menú)
 
