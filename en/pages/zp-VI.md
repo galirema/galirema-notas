@@ -134,9 +134,9 @@
 ## Peneiras
 
 
-1. Zona sublitoral rochosa entre punta Canabal e punta Couso, incluíndo illas Cíes, (agás de cabo Bicos a punta Cabaliños,) HPEN MA; MSAS; C.P. Cangas
+1. __H0230v2017__: Zona sublitoral rochosa entre punta Canabal e punta Couso, incluíndo illas Cíes, (agás de cabo Bicos a punta Cabaliños,) HPEN MA; MSAS; C.P. Cangas [2019186](https://galirema.wikia.org/es/wiki/Pexma2019HPEN186),
 
-1. De punta Cubilló ata praia de Abra (excluída) HPEN MA; MSAS C.P. Vigo
+1. __H0232v2015__: De punta Cubilló ata praia de Abra (excluída) HPEN MA; MSAS C.P. Vigo 2015184,
 
 [Menú](#Menú)
 
@@ -144,15 +144,19 @@
 ## Algas
 
 
-1. De punta Orelludas a punta dos Picos, IALG A pé; C.P. A Guarda
+1. __I0252v2017__: De punta Orelludas a punta dos Picos, IALG A pé; C.P. A Guarda [2019201](https://galirema.wikia.org/es/wiki/Pexma2019IALG201),
 
-1. De punta Orelludas a punta dos Picos, (zona marítima) IALG MA; MSAS; C.P. A Guarda
+1. __I0253v2017__: De punta Orelludas a punta dos Picos, (zona marítima) IALG MA; MSAS; C.P. A Guarda [2019202](https://galirema.wikia.org/es/wiki/Pexma2019IALG202),
 
-1. De punta Orelludas á praia de Abra, (excluída) IALG A pé; MSAS; C.P. Baiona
+1. __I0255v2019__: De punta Orelludas á praia de Abra, (excluída) IALG A pé; MSAS; C.P. Baiona [2019204](https://galirema.wikia.org/es/wiki/Pexma2019IALG204),
 
-1. De punta de Alcabre a praia de Abra, (excluída), de punta Lagoa a praia de Arealonga, (excluída), IALG MA; MSAS; A pé; C.P. Vigo
+1. __I0258v2017__: De punta de Alcabre a praia de Abra, (excluída), de punta Lagoa a praia de Arealonga, (excluída), IALG MA; MSAS; A pé; C.P. Vigo [2019209](https://galirema.wikia.org/es/wiki/Pexma2019IALG209),
 
-1. De petóns de Canaval a Rande IALG MA; MSAS; C.P. Moaña
+1. __I0259v2014__: De petóns de Canaval a Rande IALG MA; MSAS; C.P. Moaña 2014202,
+
+1. __I0266v2018__: De praia Masso a praia Areamilla, IALG A pé; C.P. Cangas [2019206](https://galirema.wikia.org/es/wiki/Pexma2019IALG206),
+
+1. __I0267v2018__: De praia Canabal a punta Couso, IALG (MA;) MSAS; C.P. Cangas [2019207](https://galirema.wikia.org/es/wiki/Pexma2019IALG207),
 
 [Menú](#Menú)
 
