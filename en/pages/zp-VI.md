@@ -109,19 +109,24 @@
 ## Solénidos
 
 
-1. De puntal da Serra a punta do Boi, GSOL MA; MSAS; C.P. Baiona
+1. __G0202v2017__: De puntal da Serra a punta do Boi, GSOL MA; MSAS; C.P. Baiona [2019175](https://galirema.wikia.org/es/wiki/Pexma2019GSOL175),
 
-1. De punta Canabal a punta Couso, illas Cíes, GSOL MA; MSAS; C.P. Cangas
+1. __G0205v2017__: De punta Canabal a punta Couso, illas Cíes, GSOL MA; MSAS; C.P. Cangas [2019178](https://galirema.wikia.org/es/wiki/Pexma2019GSOL178),
 
-1. De Rande a Petóns de Canabal, (excluíndo a zona que vai desde Rande a punta Travesada,) GSOL MA; MSAS; C.P. Moaña, Cíes Artesanais, S.C.G., (plan conxunto)
+1. __G0206v2017__: De Rande a Petóns de Canabal, (excluíndo a zona que vai desde Rande a punta Travesada,) GSOL MA; MSAS; C.P. Moaña, Cíes Artesanais, S.C.G., (plan conxunto) [2019179](https://galirema.wikia.org/es/wiki/Pexma2019GSOL179),
 
-1. Desde Rande a punta Travesada, GSOL MA; MSAS; C.P. Moaña, Cíes Artesanais, S.C.G., C.P. Redondela, C.P. Vilaboa, (plan conxunto)
+1. __G0207v2017__: Desde Rande a punta Travesada, GSOL MA; MSAS; C.P. Moaña, Cíes Artesanais, S.C.G., C.P. Redondela, C.P. Vilaboa, (plan conxunto) [2019180](https://galirema.wikia.org/es/wiki/Pexma2019GSOL180),
 
-1. De punta Travesada a o peirao de San Adrián de Cobres, desde a ponte de Rande ata punta Pías, GSOL MA; MSAS; C.P. Redondela, C.P. Vilaboa, (plan conxunto)
+1. __G0209v2017__: De punta Travesada a o peirao de San Adrián de Cobres, desde a ponte de Rande ata punta Pías, GSOL MA; MSAS; C.P. Redondela, C.P. Vilaboa, (plan conxunto) 2018170,
 
-1. De puntal da Serra á ponte de Rande, GSOL MA; MSAS; C.P. Vigo
+1. __G0210v2017__: De puntal da Serra á ponte de Rande, GSOL MA; MSAS; C.P. Vigo [2019182](https://galirema.wikia.org/es/wiki/Pexma2019GSOL182),
 
-1. Ría de Vigo GSOL A pé; Asociación de Confrarías da Ría de Vigo
+1. __G0222v2008__: Ría de Vigo GSOL A pé; Asociación de Confrarías da Ría de Vigo 2008175,
+
+1. __G0334v2009__: Intermareal entre a ponte de Rande e praia de Canabal, GSOL A pé; C.P. Moaña 2009188,
+
+1. __G0335v2009__: Arealonga, Cabanas, Chapela, Rande, Cedeira, A Portela, A Barra, Cesantes, punta do Cabo, Sobreiro, illa de San Simón, Cobreiro e Sotoxusto, GSOL A pé; C.P. Redondela 2009190,
+
 
 [Menú](#Menú)
 
