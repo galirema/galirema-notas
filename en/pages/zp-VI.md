@@ -71,15 +71,21 @@
 ## Percebe
 
 
-1. De punta Orelludas a punta dos Picos, DPER A pé; C.P. A Guarda
+1. __D0144v2017__: De punta Orelludas a punta dos Picos, DPER A pé; C.P. A Guarda [2019125](https://galirema.wikia.org/es/wiki/Pexma2019DPER125),
 
-1. De punta Orelludas a punta dos Picos, DPER Embarcación; C.P. A Guarda
+1. __D0145v2017__: De punta Orelludas a punta dos Picos, DPER Embarcación; C.P. A Guarda [2019126](https://galirema.wikia.org/es/wiki/Pexma2019DPER126),
 
-1. De punta Orelludas a monte Ferro (punta Lameda), incluíndo as illas Estelas, Farallóns, Lourido, DPER A pé; Embarcación; C.P. Baiona
+1. __D0147v2017__: De punta Orelludas a monte Ferro (punta Lameda), incluíndo as illas Estelas, Farallóns, Lourido, DPER A pé; Embarcación; C.P. Baiona 2017124,
 
-1. De punta Couso a punta Canaval, illas Cíes, DPER Embarcación; C.P. Cangas
+1. __D0152v2018__: Zonas a pé de punta Orelludas a Punta do Boi, DPER A pé; C.P. Baiona [2019128](https://galirema.wikia.org/es/wiki/Pexma2019DPER128),
 
-1. De punta Cubilló a punta de Serra, DPER A pé; C.P. Vigo
+1. __D0153v2018__: Zonas a flote de punta Orelludas a monte Ferro (punta Lameda) incluído Lourido, DPER Embarcación; C.P. Baiona [2019129](https://galirema.wikia.org/es/wiki/Pexma2019DPER129),
+
+1. __D0154v2019__: Entre Monteferro e escaleiras da praia de Barcelos, DPER A pé; Embarcación; C.P. Baiona [2019130](https://galirema.wikia.org/es/wiki/Pexma2019DPER130),
+
+1. __D0149v2017__: De punta Couso a punta Canaval, illas Cíes, DPER Embarcación; C.P. Cangas [2019132](https://galirema.wikia.org/es/wiki/Pexma2019DPER132),
+
+1. __D0151v2017__: De punta Cubilló a punta de Serra, DPER A pé; C.P. Vigo [2019134](https://galirema.wikia.org/es/wiki/Pexma2019DPER134),
 
 [Menú](#Menú)
 
