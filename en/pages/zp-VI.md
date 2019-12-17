@@ -178,13 +178,16 @@
 ## Poliquetos
 
 
-1. De praia do Sinal a punta Vixía, KPOL MA; MSAS; C.P. Cangas
+1. __K0300v2017__: De praia do Sinal a punta Vixía, KPOL MA; MSAS; C.P. Cangas [2019239](https://galirema.wikia.org/es/wiki/Pexma2019KPOL239),
 
-1. A Portela: de Punta Monte Gordo a Punta do Socorro,; praia de Barra,; KPOL A pé; C.P. Redondela
+1. __K0303v2019__: A Portela: de Punta Monte Gordo a Punta do Socorro,; praia de Barra,; KPOL A pé; C.P. Redondela [2019242](https://galirema.wikia.org/es/wiki/Pexma2019KPOL242),
 
-1. Bancos intermareais de o puntal da Serra a praia de Arealonga (excluída), KPOL A pé; C.P. Vigo
+1. __K0305v2017__: Bancos intermareais de o puntal da Serra a praia de Arealonga (excluída), KPOL A pé; C.P. Vigo [2019244](https://galirema.wikia.org/es/wiki/Pexma2019KPOL244),
 
-1. Cabalo, Deilán, Río Maior, San Adrián (norte), KPOL A pé; C.P. Vilaboa
+1. __K0306v2017__: Cabalo, Deilán, Río Maior, San Adrián (norte), KPOL A pé; C.P. Vilaboa [2019245](https://galirema.wikia.org/es/wiki/Pexma2019KPOL245),
+
+1. __K0320v2008__: Establecerase na resolución de apertura, KPOL A pé; C.P. Cangas 2011370,
+
 
 [Menú](#Menú)
 
