@@ -28,6 +28,19 @@ Informes
 	* [Informe Plan General 2016](informe-pexma2016draft.md): Borrador con anotaciones metodológicas (comandos SQL). 
 	* [Informe plan general 2015](PlanGeneral2015infov01.md): Borrador de un modelo extenso.
 
+### Informes en formato PDF
+
+* Anuales
+
+	* [informe 2017](https://github.com/galirema/galirema-notas/blob/gh-pages/en/pages/uploads/pdf/infoPlanGeneralEspecifico2017.pdf)
+	* [informe 2018](https://github.com/galirema/galirema-notas/blob/gh-pages/en/pages/uploads/pdf/InfoPlanGeneralEspecifico2018.pdf)
+	* [informe 2019](https://github.com/galirema/galirema-notas/blob/gh-pages/en/pages/uploads/pdf/infoPlanGeneralEspecifico2019.pdf)
+	
+* Presentaciones
+
+	* [Proyecto Galirema en la LibreCon2017](https://github.com/galirema/galirema-notas/blob/gh-pages/en/pages/uploads/pdf/LibreCon2017exten-1.pdf)
+
+
 ## Informe sobre la evolución de los planes generales
 
 + El informe evolutivo se va modificando a medida que se publique un nuevo plan general en el DOG.
