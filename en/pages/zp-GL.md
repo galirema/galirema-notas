@@ -17,7 +17,7 @@
 |[Algas](#Algas)| 9 | 6 |
 |[Anémonas](#Anémonas)| - ||
 |[Poliquetos](#Poliquetos)| - ||
-|Totales| ||
+|Totales| 9 | 6 |
 
 ## Autorizacións
 
