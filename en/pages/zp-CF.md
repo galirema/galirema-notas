@@ -23,7 +23,7 @@
 
 ## Autorizacións
 
-1. __A0001v2017__: Lagoas de Baldaio. AAUT. A pé;. A.M. Fonte Santa Helena-Baldaio. [2019001](https://galirema.wikia.org/es/wiki/Pexma2019AAUT001),
+1. __A0001v2017__: Lagoas de Baldaio. AAUT. A pé;. A.M. Fonte Santa Helena-Baldaio. [2019001](https://galirema.wikia.org/es/wiki/Pexma2019AAUT001), [A0001OSM](http://u.osmfr.org/m/250411/)
 
 1. __A0003v2017__: Ría do Burgo. AAUT. A pé; Embarcación;. C.P. A Coruña 2018003,
 
