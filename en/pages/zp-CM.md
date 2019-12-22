@@ -22,7 +22,7 @@
 
 ## Autorizacións
 
-1. __A0002v2017__: Zona de autorización do río Anllóns. AAUT. A pé;. A.M. Esteiro do río Anllóns. [2019002](https://galirema.wikia.org/es/wiki/Pexma2019AAUT002),
+1. __A0002v2017__: Zona de autorización do río Anllóns. AAUT. A pé;. A.M. Esteiro do río Anllóns. [2019002](https://galirema.wikia.org/es/wiki/Pexma2019AAUT002), _A0002sgm_
 
 1. __A0010v2017__: De punta Lago a punta Roda, de punta Sandía a punta Roda, de punta Sandía a punta Insuela, enseada da Vasa, AAUT Embarcación; C.P. Camariñas [2019011](https://galirema.wikia.org/es/wiki/Pexma2019AAUT011),
 
