@@ -79,14 +79,15 @@ Definidas por la UTPB. Consellería del Mar.
 
 
 
-## Planes de Algas (IALG)
+## Costa Lucense
+
+([CL](zp-CL.md))
 
 
 
-## Planes de Anémonas (JANE)
+## Galicia
 
-
-## Planes de Poliquetos (KPOL)
+([GL](zp-GL.md))
 
 
 
