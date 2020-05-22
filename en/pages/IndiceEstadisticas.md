@@ -8,7 +8,7 @@ Estadísticas Pescadegalicia (2004-actualidad)
 * [Descargas](http://www.pescadegalicia.gal/gl/descargas) 
 
 | Anualidad | Información | Borrador |
-| :-------: | :---------- | -------: |
+| :-------: | :---------: | :------: |
 |2019 [csv2019](http://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2019.csv)| - | - |
 |2018 [csv2018](http://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2018.csv)| - | - |
 | 2017 [csv2017](https://www.pescadegalicia.gal/descargas/pescafresca/pescafresca2017.csv) | - | - |
