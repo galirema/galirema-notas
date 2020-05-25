@@ -42,7 +42,7 @@
 
 1. __B0099v2017__: Parte interna da liña imaxinaria que une punta Santa Mariña, na beira norte da ría de Pontevedra, coa esquina noroeste do convento sito en punta Praceres, na zona sur da ría, desde punto ata o faro verde do dique da canalización do río Lérez, BESP Embarcación; C.P. Pontevedra, C.P. Lourizán, C.P. Raxó, C.P. Sanxenxo, C.P. Marín, (plan conxunto) [2019092](https://galirema.wikia.org/es/wiki/Pexma2019BESP092),
 
-1. __B0112v2008__: De punta Preguntoiro e punta Morcegos cara ao interior da ría de Aldán BESP A pé; C.P. Aldán-Hío 2011186,
+1. __B0112v2008__: De punta Preguntoiro e punta Morcegos cara ao interior da ría de Aldán BESP A pé; C.P. Aldán-O Hio 2011186,
 
 [Menú](#Menú)
 
