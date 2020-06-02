@@ -40,7 +40,7 @@
 
 1. __J0273v2017__: De punta Orelluda a Punta dos Picos, __JANE__ A pé; C.P. A Guarda [2019219](https://galirema.wikia.org/es/wiki/Pexma2019JANE219),
 
-+ Participa nos plans conxuntos (): 
++ Participa nos plans conxuntos (0): 
 
 
 ## C.P. BAIONA - LA ANUNCIADA
@@ -100,14 +100,14 @@
 
 1. __K0303v2019__: A Portela: de Punta Monte Gordo a Punta do Socorro,; praia de Barra,; __KPOL__ A pé; C.P. Redondela [2019242](https://galirema.wikia.org/es/wiki/Pexma2019KPOL242),
 
-+ Participa nos plans conxuntos (): __B0079v2017__, __B0080v2017__, __B0103v2008__, __G0222v2008__, __B0333v2009__, __G0207v2017__, __G0209v2017__,
++ Participa nos plans conxuntos (7): __B0079v2017__, __B0080v2017__, __B0103v2008__, __G0222v2008__, __B0333v2009__, __G0207v2017__, __G0209v2017__,
 
 
 ## C.P. ARCADE - VIRGEN DEL CARMEN
 
 1. __B0084v2017__: Bancos intermareais desde a caseta do Ceboleiro ata Pedra dos Caralletes, __BESP__ A pé; C.P. Arcade [2019077](https://galirema.wikia.org/es/wiki/Pexma2019BESP077),
 
-+ Participa nos plans conxuntos ():  __B0079v2017__, __B0080v2017__, __B0103v2008__, __G0222v2008__, 
++ Participa nos plans conxuntos (4):  __B0079v2017__, __B0080v2017__, __B0103v2008__, __G0222v2008__, 
 
 
 ## C.P. VILABOA - PEDRA DA OLIVEIRA
@@ -116,7 +116,7 @@
 
 1. __K0306v2017__: Cabalo, Deilán, Río Maior, San Adrián (norte), __KPOL__ A pé; C.P. Vilaboa [2019245](https://galirema.wikia.org/es/wiki/Pexma2019KPOL245),
 
-+ Participa nos plans conxuntos ():  __B0079v2017__, __B0080v2017__, __B0103v2008__, __G0222v2008__,
++ Participa nos plans conxuntos (4):  __B0079v2017__, __B0080v2017__, __B0103v2008__, __G0222v2008__,
 
 
 ## C.P. MOAÑA - SAN MARTIN
@@ -127,7 +127,7 @@
 
 1. __I0259v2014__: De petóns de Canaval a Rande __IALG__ MA; MSAS; C.P. Moaña 2014202,
 
-+ Participa nos plans conxuntos ():  __B0079v2017__, __B0080v2017__, __B0103v2008__, __G0222v2008__,
++ Participa nos plans conxuntos (4):  __B0079v2017__, __B0080v2017__, __B0103v2008__, __G0222v2008__,
 
 
 ## C.P. CANGAS - SAN JOSE
@@ -156,10 +156,10 @@
 
 1. __K0320v2008__: Establecerase na resolución de apertura, __KPOL__ A pé; C.P. Cangas 2011370,
 
-+ Participa nos plans conxuntos ():  __B0079v2017__, __B0080v2017__, __B0103v2008__, __G0222v2008__,
++ Participa nos plans conxuntos (4):  __B0079v2017__, __B0080v2017__, __B0103v2008__, __G0222v2008__,
 
 
- __B0079v2017__, __B0080v2017__, __B0103v2008__, __G0222v2008__,
+ 
 
 ## Plans Conxuntos
 
