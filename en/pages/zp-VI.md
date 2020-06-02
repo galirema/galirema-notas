@@ -73,21 +73,21 @@
 
 ## C.P. VIGO - SAN FRANCISCO
 
-1. __B0101v2017__: Bancos intermareais entre o puntal da Serra e praia de Arealonga (excluída) BESP A pé; C.P. Vigo [2019094](https://galirema.wikia.org/es/wiki/Pexma2019BESP094),
+1. __B0101v2017__: Bancos intermareais entre o puntal da Serra e praia de Arealonga (excluída) __BESP__ A pé; C.P. Vigo [2019094](https://galirema.wikia.org/es/wiki/Pexma2019BESP094),
 
-1. __D0151v2017__: De punta Cubilló a punta de Serra, DPER A pé; C.P. Vigo [2019134](https://galirema.wikia.org/es/wiki/Pexma2019DPER134),
+1. __D0151v2017__: De punta Cubilló a punta de Serra, __DPER__ A pé; C.P. Vigo [2019134](https://galirema.wikia.org/es/wiki/Pexma2019DPER134),
 
-1. __F0178v2017__: De Rande á praia de Abra (esta última excluída), FEQD MA; MSAS; C.P. Vigo [2019158](https://galirema.wikia.org/es/wiki/Pexma2019FEQD158),
+1. __F0178v2017__: De Rande á praia de Abra (esta última excluída), __FEQD__ MA; MSAS; C.P. Vigo [2019158](https://galirema.wikia.org/es/wiki/Pexma2019FEQD158),
 
-1. __G0210v2017__: De puntal da Serra á ponte de Rande, GSOL MA; MSAS; C.P. Vigo [2019182](https://galirema.wikia.org/es/wiki/Pexma2019GSOL182),
+1. __G0210v2017__: De puntal da Serra á ponte de Rande, __GSOL__ MA; MSAS; C.P. Vigo [2019182](https://galirema.wikia.org/es/wiki/Pexma2019GSOL182),
 
-1. __H0232v2015__: De punta Cubilló ata praia de Abra (excluída) HPEN MA; MSAS C.P. Vigo 2015184,
+1. __H0232v2015__: De punta Cubilló ata praia de Abra (excluída) __HPEN__ MA; MSAS C.P. Vigo 2015184,
 
-1. __I0258v2017__: De punta de Alcabre a praia de Abra, (excluída), de punta Lagoa a praia de Arealonga, (excluída), IALG MA; MSAS; A pé; C.P. Vigo [2019209](https://galirema.wikia.org/es/wiki/Pexma2019IALG209),
+1. __I0258v2017__: De punta de Alcabre a praia de Abra, (excluída), de punta Lagoa a praia de Arealonga, (excluída), __IALG__ MA; MSAS; A pé; C.P. Vigo [2019209](https://galirema.wikia.org/es/wiki/Pexma2019IALG209),
 
-1. __J0279v2018__: De punta Alcabre a praia de Abra, (excluída), De punta Lagoa a praia de Arealonga, (excluida), JANE MA; MSAS; C.P. Vigo [2019225](https://galirema.wikia.org/es/wiki/Pexma2019JANE225),
+1. __J0279v2018__: De punta Alcabre a praia de Abra, (excluída), De punta Lagoa a praia de Arealonga, (excluida), __JANE__ MA; MSAS; C.P. Vigo [2019225](https://galirema.wikia.org/es/wiki/Pexma2019JANE225),
 
-1. __K0305v2017__: Bancos intermareais de o puntal da Serra a praia de Arealonga (excluída), KPOL A pé; C.P. Vigo [2019244](https://galirema.wikia.org/es/wiki/Pexma2019KPOL244),
+1. __K0305v2017__: Bancos intermareais de o puntal da Serra a praia de Arealonga (excluída), __KPOL__ A pé; C.P. Vigo [2019244](https://galirema.wikia.org/es/wiki/Pexma2019KPOL244),
 
 + Participa nos plans conxuntos (): __B0079v2017__, __B0080v2017__, __B0103v2008__, __G0222v2008__,
 
