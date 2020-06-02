@@ -94,67 +94,67 @@
 
 ## C.P. REDONDELA - SAN JUAN
 
-1. __B0100v2017__: Bancos intermareais desde a Caseta do Ceboleiro ata a praia de Arealonga (incluída), BESP A pé; C.P. Redondela [2019093](https://galirema.wikia.org/es/wiki/Pexma2019BESP093),
+1. __B0100v2017__: Bancos intermareais desde a Caseta do Ceboleiro ata a praia de Arealonga (incluída), __BESP__ A pé; C.P. Redondela [2019093](https://galirema.wikia.org/es/wiki/Pexma2019BESP093),
 
-1. __G0335v2009__: Arealonga, Cabanas, Chapela, Rande, Cedeira, A Portela, A Barra, Cesantes, punta do Cabo, Sobreiro, illa de San Simón, Cobreiro e Sotoxusto, GSOL A pé; C.P. Redondela 2009190,
+1. __G0335v2009__: Arealonga, Cabanas, Chapela, Rande, Cedeira, A Portela, A Barra, Cesantes, punta do Cabo, Sobreiro, illa de San Simón, Cobreiro e Sotoxusto, __GSOL__ A pé; C.P. Redondela 2009190,
 
-1. __K0303v2019__: A Portela: de Punta Monte Gordo a Punta do Socorro,; praia de Barra,; KPOL A pé; C.P. Redondela [2019242](https://galirema.wikia.org/es/wiki/Pexma2019KPOL242),
+1. __K0303v2019__: A Portela: de Punta Monte Gordo a Punta do Socorro,; praia de Barra,; __KPOL__ A pé; C.P. Redondela [2019242](https://galirema.wikia.org/es/wiki/Pexma2019KPOL242),
 
 + Participa nos plans conxuntos (): __B0079v2017__, __B0080v2017__, __B0103v2008__, __G0222v2008__, __B0333v2009__, __G0207v2017__, __G0209v2017__,
 
 
 ## C.P. ARCADE - VIRGEN DEL CARMEN
 
-1. __B0084v2017__: Bancos intermareais desde a caseta do Ceboleiro ata Pedra dos Caralletes, BESP A pé; C.P. Arcade [2019077](https://galirema.wikia.org/es/wiki/Pexma2019BESP077),
+1. __B0084v2017__: Bancos intermareais desde a caseta do Ceboleiro ata Pedra dos Caralletes, __BESP__ A pé; C.P. Arcade [2019077](https://galirema.wikia.org/es/wiki/Pexma2019BESP077),
 
 + Participa nos plans conxuntos ():  __B0079v2017__, __B0080v2017__, __B0103v2008__, __G0222v2008__, 
 
 
 ## C.P. VILABOA - PEDRA DA OLIVEIRA
 
-1. __B0102v2017__: Bancos intermareais desde punta Travesada ata Punta Cabalo, BESP A pé; C.P. Vilaboa [2019095](https://galirema.wikia.org/es/wiki/Pexma2019BESP095),
+1. __B0102v2017__: Bancos intermareais desde punta Travesada ata Punta Cabalo, __BESP__ A pé; C.P. Vilaboa [2019095](https://galirema.wikia.org/es/wiki/Pexma2019BESP095),
 
-1. __K0306v2017__: Cabalo, Deilán, Río Maior, San Adrián (norte), KPOL A pé; C.P. Vilaboa [2019245](https://galirema.wikia.org/es/wiki/Pexma2019KPOL245),
+1. __K0306v2017__: Cabalo, Deilán, Río Maior, San Adrián (norte), __KPOL__ A pé; C.P. Vilaboa [2019245](https://galirema.wikia.org/es/wiki/Pexma2019KPOL245),
 
 + Participa nos plans conxuntos ():  __B0079v2017__, __B0080v2017__, __B0103v2008__, __G0222v2008__,
 
 
 ## C.P. MOAÑA - SAN MARTIN
 
-1. __B0096v2017__: Bancos intermareais entre a punta Travesada e a praia de Canabal, BESP A pé; C.P. Moaña [2019089](https://galirema.wikia.org/es/wiki/Pexma2019BESP089),
+1. __B0096v2017__: Bancos intermareais entre a punta Travesada e a praia de Canabal, __BESP__ A pé; C.P. Moaña [2019089](https://galirema.wikia.org/es/wiki/Pexma2019BESP089),
 
-1. __G0334v2009__: Intermareal entre a ponte de Rande e praia de Canabal, GSOL A pé; C.P. Moaña 2009188,
+1. __G0334v2009__: Intermareal entre a ponte de Rande e praia de Canabal, __GSOL__ A pé; C.P. Moaña 2009188,
 
-1. __I0259v2014__: De petóns de Canaval a Rande IALG MA; MSAS; C.P. Moaña 2014202,
+1. __I0259v2014__: De petóns de Canaval a Rande __IALG__ MA; MSAS; C.P. Moaña 2014202,
 
 + Participa nos plans conxuntos ():  __B0079v2017__, __B0080v2017__, __B0103v2008__, __G0222v2008__,
 
 
 ## C.P. CANGAS - SAN JOSE
 
-1. __B0090v2017__: Bancos intermareais desde punta Rodeira ata punta Couso, BESP A pé; C.P. Cangas [2019083](https://galirema.wikia.org/es/wiki/Pexma2019BESP083),
+1. __B0090v2017__: Bancos intermareais desde punta Rodeira ata punta Couso, __BESP__ A pé; C.P. Cangas [2019083](https://galirema.wikia.org/es/wiki/Pexma2019BESP083),
 
-1. __B0091v2017__: De punta Rodeira á praia de Canabal, BESP A pé; C.P. Cangas [2019084](https://galirema.wikia.org/es/wiki/Pexma2019BESP084),
+1. __B0091v2017__: De punta Rodeira á praia de Canabal, __BESP__ A pé; C.P. Cangas [2019084](https://galirema.wikia.org/es/wiki/Pexma2019BESP084),
 
-1. __B0092v2017__: Entre cabo Home e faro Borneira, as illas Cíes, BESP Endeño remolcado; C.P. Cangas [2019085](https://galirema.wikia.org/es/wiki/Pexma2019BESP085),
+1. __B0092v2017__: Entre cabo Home e faro Borneira, as illas Cíes, __BESP__ Endeño remolcado; C.P. Cangas [2019085](https://galirema.wikia.org/es/wiki/Pexma2019BESP085),
 
-1. __D0149v2017__: De punta Couso a punta Canaval, illas Cíes, DPER Embarcación; C.P. Cangas [2019132](https://galirema.wikia.org/es/wiki/Pexma2019DPER132),
+1. __D0149v2017__: De punta Couso a punta Canaval, illas Cíes, __DPER__ Embarcación; C.P. Cangas [2019132](https://galirema.wikia.org/es/wiki/Pexma2019DPER132),
 
-1. __F0176v2017__: De punta Canabal a punta Couso, illas Cíes, FEQD MA; MSAS; C.P. Cangas [2019156](https://galirema.wikia.org/es/wiki/Pexma2019FEQD156),
+1. __F0176v2017__: De punta Canabal a punta Couso, illas Cíes, __FEQD__ MA; MSAS; C.P. Cangas [2019156](https://galirema.wikia.org/es/wiki/Pexma2019FEQD156),
 
-1. __G0205v2017__: De punta Canabal a punta Couso, illas Cíes, GSOL MA; MSAS; C.P. Cangas [2019178](https://galirema.wikia.org/es/wiki/Pexma2019GSOL178),
+1. __G0205v2017__: De punta Canabal a punta Couso, illas Cíes, __GSOL__ MA; MSAS; C.P. Cangas [2019178](https://galirema.wikia.org/es/wiki/Pexma2019GSOL178),
 
-1. __H0230v2017__: Zona sublitoral rochosa entre punta Canabal e punta Couso, incluíndo illas Cíes, (agás de cabo Bicos a punta Cabaliños,) HPEN MA; MSAS; C.P. Cangas [2019186](https://galirema.wikia.org/es/wiki/Pexma2019HPEN186),
+1. __H0230v2017__: Zona sublitoral rochosa entre punta Canabal e punta Couso, incluíndo illas Cíes, (agás de cabo Bicos a punta Cabaliños,) __HPEN__ MA; MSAS; C.P. Cangas [2019186](https://galirema.wikia.org/es/wiki/Pexma2019HPEN186),
 
-1. __I0266v2018__: De praia Masso a praia Areamilla, IALG A pé; C.P. Cangas [2019206](https://galirema.wikia.org/es/wiki/Pexma2019IALG206),
+1. __I0266v2018__: De praia Masso a praia Areamilla, __IALG__ A pé; C.P. Cangas [2019206](https://galirema.wikia.org/es/wiki/Pexma2019IALG206),
 
-1. __I0267v2018__: De praia Canabal a punta Couso, IALG (MA;) MSAS; C.P. Cangas [2019207](https://galirema.wikia.org/es/wiki/Pexma2019IALG207),
+1. __I0267v2018__: De praia Canabal a punta Couso, __IALG__ (MA;) MSAS; C.P. Cangas [2019207](https://galirema.wikia.org/es/wiki/Pexma2019IALG207),
 
-1. __J0277v2017__: De punta Balea ao extremo leste da praia de Liméns, (incluíndo o faro da Borneira, illote Corbeiro,) do extremo oeste da praia de Liméns ao extremo leste da praia de Barra, do extremo oeste da praia de Barra ata punta Robaleira, de punta Balea a punta Rodeira, JANE MA; MSAS; C.P. Cangas [2019223](https://galirema.wikia.org/es/wiki/Pexma2019JANE223),
+1. __J0277v2017__: De punta Balea ao extremo leste da praia de Liméns, (incluíndo o faro da Borneira, illote Corbeiro,) do extremo oeste da praia de Liméns ao extremo leste da praia de Barra, do extremo oeste da praia de Barra ata punta Robaleira, de punta Balea a punta Rodeira, __JANE__ MA; MSAS; C.P. Cangas [2019223](https://galirema.wikia.org/es/wiki/Pexma2019JANE223),
 
-1. __K0300v2017__: De praia do Sinal a punta Vixía, KPOL MA; MSAS; C.P. Cangas [2019239](https://galirema.wikia.org/es/wiki/Pexma2019KPOL239),
+1. __K0300v2017__: De praia do Sinal a punta Vixía, __KPOL__ MA; MSAS; C.P. Cangas [2019239](https://galirema.wikia.org/es/wiki/Pexma2019KPOL239),
 
-1. __K0320v2008__: Establecerase na resolución de apertura, KPOL A pé; C.P. Cangas 2011370,
+1. __K0320v2008__: Establecerase na resolución de apertura, __KPOL__ A pé; C.P. Cangas 2011370,
 
 + Participa nos plans conxuntos ():  __B0079v2017__, __B0080v2017__, __B0103v2008__, __G0222v2008__,
 
@@ -164,25 +164,25 @@
 ## Plans Conxuntos
 
 
-1. __B0079v2017__: Bancos da ría de Vigo, excepto a autorización de Baiona, BESP Embarcación; Asociación de Marisqueo a Flote Ría de Vigo, C.P. Baiona, (plan conxunto) [2019072](https://galirema.wikia.org/es/wiki/Pexma2019BESP072),
+1. __B0079v2017__: Bancos da ría de Vigo, excepto a autorización de Baiona, __BESP__ Embarcación; Asociación de Marisqueo a Flote Ría de Vigo, C.P. Baiona, (plan conxunto) [2019072](https://galirema.wikia.org/es/wiki/Pexma2019BESP072),
 
-1. __B0080v2017__: Bancos sublitorais da ría de Vigo (Liña imaxinaria que une Cabo Home con faro dos Carallóns e de faro dos Carallóns a punta Lameda, cara ao interior da ría) BESP Rastro de vieira ou voandeira Asociación de Marisqueo a Flote da Ría de Vigo, (plan conxunto) [2019073](https://galirema.wikia.org/es/wiki/Pexma2019BESP073),
+1. __B0080v2017__: Bancos sublitorais da ría de Vigo (Liña imaxinaria que une Cabo Home con faro dos Carallóns e de faro dos Carallóns a punta Lameda, cara ao interior da ría) __BESP__ Rastro de vieira ou voandeira Asociación de Marisqueo a Flote da Ría de Vigo, (plan conxunto) [2019073](https://galirema.wikia.org/es/wiki/Pexma2019BESP073),
 
-1. __B0085v2017__: Bancos intermareais de punta Cabalo a pedra dos Caralletes (Cunchido e Larache), BESP A pé; C.P. Arcade, C.P. Vilaboa, (plan conxunto) [2019078](https://galirema.wikia.org/es/wiki/Pexma2019BESP078),
+1. __B0085v2017__: Bancos intermareais de punta Cabalo a pedra dos Caralletes (Cunchido e Larache), __BESP__ A pé; C.P. Arcade, C.P. Vilaboa, (plan conxunto) [2019078](https://galirema.wikia.org/es/wiki/Pexma2019BESP078),
 
-1. __B0097v2017__: De punta Rodeira ata a praia de Canabal: illa dos Ratos, BESP A pé; C.P. Moaña, C.P. Cangas, (plan conxunto) [2019090](https://galirema.wikia.org/es/wiki/Pexma2019BESP090),
+1. __B0097v2017__: De punta Rodeira ata a praia de Canabal: illa dos Ratos, __BESP__ A pé; C.P. Moaña, C.P. Cangas, (plan conxunto) [2019090](https://galirema.wikia.org/es/wiki/Pexma2019BESP090),
 
-1. __B0103v2008__: Bancos intermareais de moluscos bivalvos da ría de Vigo, excepto a zona de autorización de Baiona BESP A pé; Asociación de Confrarías da Ría de Vigo (plan conxunto)  2012430,
+1. __B0103v2008__: Bancos intermareais de moluscos bivalvos da ría de Vigo, excepto a zona de autorización de Baiona __BESP__ A pé; Asociación de Confrarías da Ría de Vigo (plan conxunto)  2012430,
 
-1. __B0333v2009__: Liña imaxinaria que une punta Borneira no norte con cabo Estai no litoral sur cara ao interior da ría, BESP Rastro de vieira ou voandeira; C.P. Cangas, C.P. Redondela, Cíes Artesanais S.C.G., Mar do Morrazo S.C.G., (plan conxunto) 2009095,
+1. __B0333v2009__: Liña imaxinaria que une punta Borneira no norte con cabo Estai no litoral sur cara ao interior da ría, __BESP__ Rastro de vieira ou voandeira; C.P. Cangas, C.P. Redondela, Cíes Artesanais S.C.G., Mar do Morrazo S.C.G., (plan conxunto) 2009095,
 
-1. __G0206v2017__: De Rande a Petóns de Canabal, (excluíndo a zona que vai desde Rande a punta Travesada,) GSOL MA; MSAS; C.P. Moaña, Cíes Artesanais, S.C.G., (plan conxunto) [2019179](https://galirema.wikia.org/es/wiki/Pexma2019GSOL179),
+1. __G0206v2017__: De Rande a Petóns de Canabal, (excluíndo a zona que vai desde Rande a punta Travesada,) __GSOL__ MA; MSAS; C.P. Moaña, Cíes Artesanais, S.C.G., (plan conxunto) [2019179](https://galirema.wikia.org/es/wiki/Pexma2019GSOL179),
 
-1. __G0207v2017__: Desde Rande a punta Travesada, GSOL MA; MSAS; C.P. Moaña, Cíes Artesanais, S.C.G., C.P. Redondela, C.P. Vilaboa, (plan conxunto) [2019180](https://galirema.wikia.org/es/wiki/Pexma2019GSOL180),
+1. __G0207v2017__: Desde Rande a punta Travesada, __GSOL__ MA; MSAS; C.P. Moaña, Cíes Artesanais, S.C.G., C.P. Redondela, C.P. Vilaboa, (plan conxunto) [2019180](https://galirema.wikia.org/es/wiki/Pexma2019GSOL180),
 
-1. __G0209v2017__: De punta Travesada a o peirao de San Adrián de Cobres, desde a ponte de Rande ata punta Pías, GSOL MA; MSAS; C.P. Redondela, C.P. Vilaboa, (plan conxunto) 2018170,
+1. __G0209v2017__: De punta Travesada a o peirao de San Adrián de Cobres, desde a ponte de Rande ata punta Pías, __GSOL__ MA; MSAS; C.P. Redondela, C.P. Vilaboa, (plan conxunto) 2018170,
 
-1. __G0222v2008__: Ría de Vigo GSOL A pé; Asociación de Confrarías da Ría de Vigo (plan conxunto) 2008175,
+1. __G0222v2008__: Ría de Vigo __GSOL__ A pé; Asociación de Confrarías da Ría de Vigo (plan conxunto) 2008175,
 
 
 
