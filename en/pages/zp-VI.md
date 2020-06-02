@@ -8,15 +8,15 @@
 
 |Tipo de Plan | Num. de Zonas| Activas 2019 |
 |:------------|--------------:|:-----------:|
-|__Autorizacións__| 2 | 2 |
-|__Zonas de Libre Marisqueo__| 16 | 13 |
-|__Percebe__| 8 | 7 |
-|__Equinodermos__| 5 | 5 |
-|__Solénidos__| 9 | 5 |
-|__Peneiras__| 2 | 1 |
-|__Algas__| 7 | 6 |
-|__Anémonas__| 4 | 4 |
-|__Poliquetos__| 5 | 4 |
+|__AAUT Autorizacións__| 2 | 2 |
+|__BESP Zonas de Libre Marisqueo__| 16 | 13 |
+|__DPER Percebe__| 8 | 7 |
+|__FEQD Equinodermos__| 5 | 5 |
+|__GSOL Solénidos__| 9 | 5 |
+|__HPEN Peneiras__| 2 | 1 |
+|__IALG Algas__| 7 | 6 |
+|__JANE Anémonas__| 4 | 4 |
+|__KPOL Poliquetos__| 5 | 4 |
 |Totales| 58 | 47 |
 
 
@@ -24,21 +24,21 @@
 
 ## C.P. A GUARDA - SANTA TECLA
 
-1. __B0081v2017__: De punta dos Picos a punta Orelludas, BESP A pé; C.P. A Guarda [2019074](https://galirema.wikia.org/es/wiki/Pexma2019BESP074),
+1. __B0081v2017__: De punta dos Picos a punta Orelludas, __BESP__ A pé; C.P. A Guarda [2019074](https://galirema.wikia.org/es/wiki/Pexma2019BESP074),
 
-1. __D0144v2017__: De punta Orelludas a punta dos Picos, DPER A pé; C.P. A Guarda [2019125](https://galirema.wikia.org/es/wiki/Pexma2019DPER125),
+1. __D0144v2017__: De punta Orelludas a punta dos Picos, __DPER__ A pé; C.P. A Guarda [2019125](https://galirema.wikia.org/es/wiki/Pexma2019DPER125),
 
-1. __D0145v2017__: De punta Orelludas a punta dos Picos, DPER Embarcación; C.P. A Guarda [2019126](https://galirema.wikia.org/es/wiki/Pexma2019DPER126),
+1. __D0145v2017__: De punta Orelludas a punta dos Picos, __DPER__ Embarcación; C.P. A Guarda [2019126](https://galirema.wikia.org/es/wiki/Pexma2019DPER126),
 
-1. __F0171v2017__: De punta Orelludas a punta dos Picos, FEQD A pé; C.P. A Guarda [2019151](https://galirema.wikia.org/es/wiki/Pexma2019FEQD151),
+1. __F0171v2017__: De punta Orelludas a punta dos Picos, __FEQD__ A pé; C.P. A Guarda [2019151](https://galirema.wikia.org/es/wiki/Pexma2019FEQD151),
 
-1. __F0172v2017__: De punta Orelludas a punta dos Picos (zona marítima), FEQD MSAS; C.P. A Guarda, [2019152](https://galirema.wikia.org/es/wiki/Pexma2019FEQD152),
+1. __F0172v2017__: De punta Orelludas a punta dos Picos (zona marítima), __FEQD__ MSAS; C.P. A Guarda, [2019152](https://galirema.wikia.org/es/wiki/Pexma2019FEQD152),
 
-1. __I0252v2017__: De punta Orelludas a punta dos Picos, IALG A pé; C.P. A Guarda [2019201](https://galirema.wikia.org/es/wiki/Pexma2019IALG201),
+1. __I0252v2017__: De punta Orelludas a punta dos Picos, __IALG__ A pé; C.P. A Guarda [2019201](https://galirema.wikia.org/es/wiki/Pexma2019IALG201),
 
-1. __I0253v2017__: De punta Orelludas a punta dos Picos, (zona marítima) IALG MA; MSAS; C.P. A Guarda [2019202](https://galirema.wikia.org/es/wiki/Pexma2019IALG202),
+1. __I0253v2017__: De punta Orelludas a punta dos Picos, (zona marítima) __IALG__ MA; MSAS; C.P. A Guarda [2019202](https://galirema.wikia.org/es/wiki/Pexma2019IALG202),
 
-1. __J0273v2017__: De punta Orelluda a Punta dos Picos, JANE A pé; C.P. A Guarda [2019219](https://galirema.wikia.org/es/wiki/Pexma2019JANE219),
+1. __J0273v2017__: De punta Orelluda a Punta dos Picos, __JANE__ A pé; C.P. A Guarda [2019219](https://galirema.wikia.org/es/wiki/Pexma2019JANE219),
 
 + Participa nos plans conxuntos (): 
 
@@ -50,7 +50,7 @@
 1. __A0037v2017__: Autorización administrativa C.P. Baiona Sublitoral AAUT Embarcación; C.P. Baiona [2019038](https://galirema.wikia.org/es/wiki/Pexma2019AAUT038),
 
 
-1. __B0329v2010__: De praia de Abra a punta Orelludas, BESP A pé; C.P. Baiona 2010088,
+1. __B0329v2010__: De praia de Abra a punta Orelludas, __BESP__ A pé; C.P. Baiona 2010088,
 
 1. __D0147v2017__: De punta Orelludas a monte Ferro (punta Lameda), incluíndo as illas Estelas, Farallóns, Lourido, DPER A pé; Embarcación; C.P. Baiona 2017124,
 
