@@ -45,28 +45,28 @@
 
 ## C.P. BAIONA - LA ANUNCIADA
 
-1. __A0036v2017__: Foz do río Miñor, praia Ladeira, praia do Burgo, praia de Santa Marta, paseo da Lonxa, praia Ribeira, praia Barbeira, AAUT A pé; C.P. Baiona [2019037](https://galirema.wikia.org/es/wiki/Pexma2019AAUT037),
+1. __A0036v2017__: Foz do río Miñor, praia Ladeira, praia do Burgo, praia de Santa Marta, paseo da Lonxa, praia Ribeira, praia Barbeira, __AAUT__ A pé; C.P. Baiona [2019037](https://galirema.wikia.org/es/wiki/Pexma2019AAUT037),
 
-1. __A0037v2017__: Autorización administrativa C.P. Baiona Sublitoral AAUT Embarcación; C.P. Baiona [2019038](https://galirema.wikia.org/es/wiki/Pexma2019AAUT038),
+1. __A0037v2017__: Autorización administrativa C.P. Baiona Sublitoral __AAUT__ Embarcación; C.P. Baiona [2019038](https://galirema.wikia.org/es/wiki/Pexma2019AAUT038),
 
 
 1. __B0329v2010__: De praia de Abra a punta Orelludas, __BESP__ A pé; C.P. Baiona 2010088,
 
-1. __D0147v2017__: De punta Orelludas a monte Ferro (punta Lameda), incluíndo as illas Estelas, Farallóns, Lourido, DPER A pé; Embarcación; C.P. Baiona 2017124,
+1. __D0147v2017__: De punta Orelludas a monte Ferro (punta Lameda), incluíndo as illas Estelas, Farallóns, Lourido, __DPER__ A pé; Embarcación; C.P. Baiona 2017124,
 
-1. __D0152v2018__: Zonas a pé de punta Orelludas a Punta do Boi, DPER A pé; C.P. Baiona [2019128](https://galirema.wikia.org/es/wiki/Pexma2019DPER128),
+1. __D0152v2018__: Zonas a pé de punta Orelludas a Punta do Boi, __DPER__ A pé; C.P. Baiona [2019128](https://galirema.wikia.org/es/wiki/Pexma2019DPER128),
 
-1. __D0153v2018__: Zonas a flote de punta Orelludas a monte Ferro (punta Lameda) incluído Lourido, DPER Embarcación; C.P. Baiona [2019129](https://galirema.wikia.org/es/wiki/Pexma2019DPER129),
+1. __D0153v2018__: Zonas a flote de punta Orelludas a monte Ferro (punta Lameda) incluído Lourido, __DPER__ Embarcación; C.P. Baiona [2019129](https://galirema.wikia.org/es/wiki/Pexma2019DPER129),
 
-1. __D0154v2019__: Entre Monteferro e escaleiras da praia de Barcelos, DPER A pé; Embarcación; C.P. Baiona [2019130](https://galirema.wikia.org/es/wiki/Pexma2019DPER130),
+1. __D0154v2019__: Entre Monteferro e escaleiras da praia de Barcelos, __DPER__ A pé; Embarcación; C.P. Baiona [2019130](https://galirema.wikia.org/es/wiki/Pexma2019DPER130),
 
-1. __F0174v2017__: De punta Orelluda a praia de Abra, (excluída), incluíndo as illas Estelas, FEQD A pé; MSAS; C.P. Baiona, [2019154](https://galirema.wikia.org/es/wiki/Pexma2019FEQD154),
+1. __F0174v2017__: De punta Orelluda a praia de Abra, (excluída), incluíndo as illas Estelas, __FEQD__ A pé; MSAS; C.P. Baiona, [2019154](https://galirema.wikia.org/es/wiki/Pexma2019FEQD154),
 
-1. __G0202v2017__: De puntal da Serra a punta do Boi, GSOL MA; MSAS; C.P. Baiona [2019175](https://galirema.wikia.org/es/wiki/Pexma2019GSOL175),
+1. __G0202v2017__: De puntal da Serra a punta do Boi,__GSOL__ MA; MSAS; C.P. Baiona [2019175](https://galirema.wikia.org/es/wiki/Pexma2019GSOL175),
 
-1. __I0255v2019__: De punta Orelludas á praia de Abra, (excluída) IALG A pé; MSAS; C.P. Baiona [2019204](https://galirema.wikia.org/es/wiki/Pexma2019IALG204),
+1. __I0255v2019__: De punta Orelludas á praia de Abra, (excluída) __IALG__ A pé; MSAS; C.P. Baiona [2019204](https://galirema.wikia.org/es/wiki/Pexma2019IALG204),
 
-1. __J0276v2018__: De punta Orelluda a punta Santa Marta, desde a desembocadura do río Miñor a praia de Portocelo, JANE A pé; MA; MSAS; C.P. Baiona [2019222](https://galirema.wikia.org/es/wiki/Pexma2019JANE222),
+1. __J0276v2018__: De punta Orelluda a punta Santa Marta, desde a desembocadura do río Miñor a praia de Portocelo, __JANE__ A pé; MA; MSAS; C.P. Baiona [2019222](https://galirema.wikia.org/es/wiki/Pexma2019JANE222),
 
 + Participa nos plans conxuntos (1): __B0079v2017__
 
