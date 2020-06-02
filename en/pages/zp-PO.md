@@ -21,7 +21,7 @@
 |Totales| 21 | 18 |
 
 
-# Plans individuais
+## Plans individuais
 
 ## C.P. ALDÁN-O HIO - SAN CIPRIANO
 
@@ -85,7 +85,7 @@
 + Participa nos plans conxuntos (5): __B0088v2017__, __F0175v2019__, __G0203v2017__, __H0229v2017__, __I0256v2017__,
 
 
-# Plans conxuntos
+## Plans conxuntos
 
 1. __B0088v2017__: De punta Cabicastro a punta Santa Mariña, da esquina noroeste do convento sito en punta Praceres ata punta Couso, illas Ons e Onza, __BESP__ Embarcación; C.P. Bueu, C.P. Portonovo, C.P. Aldán-O Hio, (plan conxunto) [2019081](https://galirema.wikia.org/es/wiki/Pexma2019BESP081),
 
