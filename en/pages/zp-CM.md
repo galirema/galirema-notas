@@ -29,7 +29,7 @@
 
 1. __K0318v2008__: Ambito territorial da C.P. Malpica, KPOL A pé; C.P. Malpica 2008215,
 
-+ Participa nos plans conxuntos (0): __F0168v2017__, __K0289v2017__,
++ Participa nos plans conxuntos (2): __F0168v2017__, __K0289v2017__,
 
 
 ## C.P. CORME
@@ -38,7 +38,7 @@
 
 1. __D0129v2017__: Da enseada do río Anllóns á punta Nariga, DPER A pé; Embarcación; C.P. Corme [2019111](https://galirema.wikia.org/es/wiki/Pexma2019DPER111),
 
-+ Participa nos plans conxuntos (0): __F0168v2017__, __G0194v2017__, __K0289v2017__,
++ Participa nos plans conxuntos (3): __F0168v2017__, __G0194v2017__, __K0289v2017__,
 
 
 ## A.M. Esteiro do río Anllóns
@@ -59,7 +59,7 @@
 
 1. __I0328v2011__: De punta Padrón a punta Morelo, IALG A pé; C.P. Laxe 2011347,
 
-+ Participa nos plans conxuntos (0): __F0168v2017__, __G0194v2017__, __K0289v2017__,
++ Participa nos plans conxuntos (3): __F0168v2017__, __G0194v2017__, __K0289v2017__,
 
 
 ## C.P. CAMELLE
@@ -69,7 +69,7 @@
 1. __I0241v2017__: De punta Morelo a punta Gallada, IALG MA; MSAS; C.P. Camelle [2019193](https://galirema.wikia.org/es/wiki/Pexma2019IALG193),
 
 
-+ Participa nos plans conxuntos (0): __F0168v2017__, __K0289v2017__,
++ Participa nos plans conxuntos (2): __F0168v2017__, __K0289v2017__,
 
 
 ## C.P. CAMARIÑAS
@@ -87,7 +87,7 @@
 1. __K0316v2015__: Enseada da Vasa, KPOL A pé; C.P. Camariñas 2015223_,
 
 
-+ Participa nos plans conxuntos (0): __F0168v2017__, __G0192v2017__,
++ Participa nos plans conxuntos (2): __F0168v2017__, __G0192v2017__,
 
 
 ## C.P. MUXÍA - VIRXEN DA BARCA
@@ -95,7 +95,7 @@
 1. __D0139v2017__: De punta Piaduiro (marxe esquerda da desembocadura do río Grande) a punta Nemiña, (marxe dereita da desembocadura do río Castro (incluíndo illas e illotes)) DPER A pé; Embarcación; C.P. Muxía [2019120](https://galirema.wikia.org/es/wiki/Pexma2019DPER120),
 
 
-+ Participa nos plans conxuntos (0): __G0192v2017__
++ Participa nos plans conxuntos (1): __G0192v2017__
 
 
 ## C.P. FISTERRA - NUESTRA SEÑORA DE LAS ARENAS
@@ -113,7 +113,7 @@
 1. __I0262v2008__: De punta Insua a cabo Fisterra IALG MA; Merguladores de Fisterra, S. Coop. Galega 2012548,
 
 
-+ Participa nos plans conxuntos (0): __B0107v2014__, __F0167v2017__, __G0193v2017__, __H0226v2017__,
++ Participa nos plans conxuntos (4): __B0107v2014__, __F0167v2017__, __G0193v2017__, __H0226v2017__,
 
 
 ## C.P. CORCUBIÓN - VIRGEN DEL CARMEN
@@ -129,7 +129,7 @@
 1. __K0309v2018__: De punta Arnela á desembocadura do río Xallas, KPOL MA; MSAS; C.P. Corcubión 2018216,
 
 
-+ Participa nos plans conxuntos (0): __B0107v2014__, __F0167v2017__, __G0193v2017__, __H0226v2017__,
++ Participa nos plans conxuntos (4): __B0107v2014__, __F0167v2017__, __G0193v2017__, __H0226v2017__,
 
 
 ## C.P. O PINDO-CARNOTA
@@ -145,7 +145,7 @@
 1. __K0296v2017__: Praia de San Pedro, de punta do Portiño a praia de Cornabecerra; de as Pedras Mariñas a punta Caldebarcos, praias de Area Branca, Lires, O Rostro, Mar de Fóra, Arnela: (Praias de Cons, praia de Larpa, Gavota, Ximprón, Susiños, Surreseco, KPOL A pé; C.P. O Pindo [2019234](https://galirema.wikia.org/es/wiki/Pexma2019KPOL234),
 
 
-+ Participa nos plans conxuntos (0): __B0075v2017__,
++ Participa nos plans conxuntos (1): __B0075v2017__,
 
 
 ## C.P. LIRA-CARNOTA
@@ -167,7 +167,7 @@
 1. __K0293v2018__: Da desembocadura do río Larada a punta Insua, KPOL MSAS; C.P. Lira [2019231](https://galirema.wikia.org/es/wiki/Pexma2019KPOL231),
 
 
-+ Participa nos plans conxuntos (0):  __B0075v2017__, __F0167v2017__, __G0193v2017__, __H0226v2017__,
++ Participa nos plans conxuntos (4):  __B0075v2017__, __F0167v2017__, __G0193v2017__, __H0226v2017__,
 
 1. __I0261v2008__: Litoral da provincia da Coruña, IALG A pé; Mardelira, S. Coop. Galega 2009209,
 
