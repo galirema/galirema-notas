@@ -23,7 +23,7 @@
 
 ## Plans individuais
 
-## C.P. ALDÁN-O HIO - SAN CIPRIANO
+## C.P. ALDÁN-O HIO - SAN CIBRAN
 
 1. __A0035v2017__: De punta Alada a punta Preguntoiro, cara ao interior da ría de Aldán __AAUT__ A pé; C.P. Aldán-O Hio [2019036](https://galirema.wikia.org/es/wiki/Pexma2019AAUT036),
 
@@ -56,7 +56,7 @@
 
 + Participa nos plans conxuntos (5): __B0088v2017__, __F0175v2019__, __G0203v2017__, __H0229v2017__, __I0256v2017__,
 
-## C.P. MARÍN - SANTA MARIA DEL PUERTO
+## C.P. MARÍN - SANTA MARIA DO PORTO
 
 + Participa nos plans conxuntos (4): __B0099v2017__, __G0203v2017__, __H0229v2017__, __I0256v2017__,
 
