@@ -47,7 +47,7 @@
 
 
 
-## C.P. CARIÑO - NOSA SENORA DO CARMEN
+## C.P. CARIÑO - NOSA SEÑORA DO CARMEN
 
 1. __A0011v2017__: Autorizacións da confraría de Cariño AAUT A pé; C.P. Cariño [2019012](https://galirema.wikia.org/es/wiki/Pexma2019AAUT012),
 
