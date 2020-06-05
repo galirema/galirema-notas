@@ -95,7 +95,7 @@
 
 
 
-## C.P. VILANOVA - LA PASTORIZA
+## C.P. VILANOVA - A PASTORIZA
 
 1. __A0044v2017__: De regato Aduana a Rego do Alcalde, (Intermareal) __AAUT__ A pé; C.P. Vilanova [2019045](https://galirema.wikia.org/es/wiki/Pexma2019AAUT045),
 
@@ -116,7 +116,7 @@
 
 
 
-## C.P. VILAXOÁN - VIRGEN DEL ROSARIO
+## C.P. VILAXOÁN - VIRXEN DO ROSARIO
 
 1. __A0046v2017__: De punta Ferrazo a Regato Aduana, __AAUT__ A pé; C.P. Vilaxoán [2019047](https://galirema.wikia.org/es/wiki/Pexma2019AAUT047),
 
@@ -163,7 +163,7 @@
 
 
 
-## C.P. CABO DE CRUZ - VIRGEN DEL CARMEN
+## C.P. CABO DE CRUZ - VIRXEN DO CARMEN
 
 1. __A0008v2017__: Entre punta Peralto, punta Pedra Rubia, __AAUT__ A pé; C.P. Cabo de Cruz [2019009](https://galirema.wikia.org/es/wiki/Pexma2019AAUT009),
 
