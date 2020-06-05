@@ -43,7 +43,7 @@
 + Participa nos plans conxuntos (0): 
 
 
-## C.P. BAIONA - LA ANUNCIADA
+## C.P. BAIONA - A ANUNCIADA
 
 1. __A0036v2017__: Foz do río Miñor, praia Ladeira, praia do Burgo, praia de Santa Marta, paseo da Lonxa, praia Ribeira, praia Barbeira, __AAUT__ A pé; C.P. Baiona [2019037](https://galirema.wikia.org/es/wiki/Pexma2019AAUT037),
 
@@ -92,7 +92,7 @@
 + Participa nos plans conxuntos (): __B0079v2017__, __B0080v2017__, __B0103v2008__, __G0222v2008__,
 
 
-## C.P. REDONDELA - SAN JUAN
+## C.P. REDONDELA - SAN XOAN
 
 1. __B0100v2017__: Bancos intermareais desde a Caseta do Ceboleiro ata a praia de Arealonga (incluída), __BESP__ A pé; C.P. Redondela [2019093](https://galirema.wikia.org/es/wiki/Pexma2019BESP093),
 
@@ -103,7 +103,7 @@
 + Participa nos plans conxuntos (7): __B0079v2017__, __B0080v2017__, __B0103v2008__, __G0222v2008__, __B0333v2009__, __G0207v2017__, __G0209v2017__,
 
 
-## C.P. ARCADE - VIRGEN DEL CARMEN
+## C.P. ARCADE - VIRXEN DO CARMEN
 
 1. __B0084v2017__: Bancos intermareais desde a caseta do Ceboleiro ata Pedra dos Caralletes, __BESP__ A pé; C.P. Arcade [2019077](https://galirema.wikia.org/es/wiki/Pexma2019BESP077),
 
@@ -130,7 +130,7 @@
 + Participa nos plans conxuntos (4):  __B0079v2017__, __B0080v2017__, __B0103v2008__, __G0222v2008__,
 
 
-## C.P. CANGAS - SAN JOSE
+## C.P. CANGAS - SAN XOSE
 
 1. __B0090v2017__: Bancos intermareais desde punta Rodeira ata punta Couso, __BESP__ A pé; C.P. Cangas [2019083](https://galirema.wikia.org/es/wiki/Pexma2019BESP083),
 
