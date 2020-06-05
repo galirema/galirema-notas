@@ -21,7 +21,7 @@
 
 
 
-# Plans individuais
+## Plans individuais
 
 ## A.M. FONTE SANTA HELENA DE BALDAIO
 
@@ -66,20 +66,20 @@
 1. __K0288v2017__: Pedra do Sal, Leira campo de Futbol, Leira, de Leira a Caión, Caión praia da Salseira, Barrañán (o Relojero), Balcobo Pequeno: (de praia de Balcobo Pequeno a Pedra Herba,) Ripibello, Os Castelos, Praia de Sabón (A Térmica), Suevos: (de porto de Suevos a fábrica Artabra,) Bens: (praia da Refinería, illa Redonda,) O Portiño, Riazor-Orzan, San Amaro, Bastiagueiro Pequeno, KPOL A pé; MSAS; C.P. A Coruña [2019228](https://galirema.wikia.org/es/wiki/Pexma2019KPOL228),
 
 
-+ Participa nos plans conxuntos (0): __D0121v2017__, __F0158v2017__, __I0240v2017__, __J0271v2018__,
++ Participa nos plans conxuntos (4): __D0121v2017__, __F0158v2017__, __I0240v2017__, __J0271v2018__,
 
 
 ## C.P. MERA
 
 
-+ Participa nos plans conxuntos (0): __D0121v2017__,
++ Participa nos plans conxuntos (1): __D0121v2017__,
 
 
 ## C.P. LORBÉ
 
 
 
-+ Participa nos plans conxuntos (0): __D0121v2017__
++ Participa nos plans conxuntos (1): __D0121v2017__
 
 
 ## C.P. SADA
@@ -87,7 +87,7 @@
 1. __A0031v2016__: Praia de Sada AAUT A pé; C.P. Sada [2019032](https://galirema.wikia.org/es/wiki/Pexma2019AAUT032),
 
 
-+ Participa nos plans conxuntos (0):  __A0324v2013__, __D0121v2017__, __I0240v2017__,
++ Participa nos plans conxuntos (3):  __A0324v2013__, __D0121v2017__, __I0240v2017__,
 
 
 ## C.P. MIÑO
@@ -102,7 +102,7 @@
 
 
 
-+ Participa nos plans conxuntos (0): __A0324v2013__
++ Participa nos plans conxuntos (1): __A0324v2013__
 
 
 ## C.P. PONTEDEUME - VIRGEN DEL CARMEN
@@ -120,7 +120,7 @@
 1. __D0124v2014__: De punta Segaño ata illas Mirandas, DPER Embarcación; C.P. Ares 2014104,
 
 
-+ Participa nos plans conxuntos (0): __D0121v2017__
++ Participa nos plans conxuntos (1): __D0121v2017__
 
 
 ## C.P. MUGARDOS - SAN TELMO
@@ -128,7 +128,7 @@
 1. __A0017v2017__: Punta Promontoiro a rampla do Seixo, punta Redonda a punta Leiras, punta Leiras a punta Promontoiro, Punta Segaño a punta Redonda, AAUT A pé; C.P. Mugardos [2019018](https://galirema.wikia.org/es/wiki/Pexma2019AAUT018),
 
 
-+ Participa nos plans conxuntos (0): __B0072v2017__,
++ Participa nos plans conxuntos (1): __B0072v2017__,
 
 
 ## C.P. BARALLOBRE - SANTIAGO APOSTOL
@@ -138,7 +138,7 @@
 1. __B0065v2017__: Zona intermareal desde San Valentín ata a desembocadura do río Belelle, BESP A pé; C.P. Barallobre [2019059](https://galirema.wikia.org/es/wiki/Pexma2019BES059),
 
 
-+ Participa nos plans conxuntos (0): __A0014v2017__, __B0072v2017__, __F0158v2017__, __J0271v2018__,
++ Participa nos plans conxuntos (4): __A0014v2017__, __B0072v2017__, __F0158v2017__, __J0271v2018__,
 
 
 ## C.P. FERROL
@@ -156,7 +156,7 @@
 1. __K0291v2017__: Desde a ponte do tren a o faro de punta Frouxeira, KPOL MSAS; C.P. Ferrol 2018217,
 
 
-+ Participa nos plans conxuntos (0): __A0014v2017__, __B0071v2017__, __B0072v2017__,
++ Participa nos plans conxuntos (1): __A0014v2017__, __B0071v2017__, __B0072v2017__,
 
 
 
