@@ -96,7 +96,7 @@
 
 1. __B0077v2017__: Zonas de libre marisqueo entre Monte Louro e punta Uía, entre punta Ornanda e punta Aguieira e banco da Creba 2, BESP Embarcación; C.P. Noia, C.P. Muros, C.P. Porto do Son, C.P. Portosín, (plan conxunto) [2019070](https://galirema.wikia.org/es/wiki/Pexma2019BESP070),
 
-1. __B0110v2008__: De punta Rebordiño a punta Uía e de punta Cabalo a punta Aguieira BESP A pé; C.P. Noia, Muros, Porto do Son e Portosín (plan conxunto) 2008080,
+1. __B0110v2008__: De punta Rebordiño a punta Uía e de punta Cabalo a punta Aguieira BESP A pé; C.P. Noia, C.P. Muros, C.P. Porto do Son, C.P. Portosín, (plan conxunto) 2008080,
 
 1. __B0113v2019__: Praia do Castillo, praia de Esteiro, desembocadura do rio Maior, BESP A pé; C.P. Noia, C.P. Muros, (plan conxunto) [2019071](https://galirema.wikia.org/es/wiki/Pexma2019BESP071),
 
