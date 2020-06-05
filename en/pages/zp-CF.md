@@ -105,7 +105,7 @@
 + Participa nos plans conxuntos (1): __A0324v2013__
 
 
-## C.P. PONTEDEUME - VIRGEN DEL CARMEN
+## C.P. PONTEDEUME - VIRXEN DO CARMEN
 
 1. __A0025v2017__: De praia Almieiras a punta Carboeira AAUT A pé; C.P. Pontedeume [2019026](https://galirema.wikia.org/es/wiki/Pexma2019AAUT026),
 
