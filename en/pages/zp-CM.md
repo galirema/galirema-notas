@@ -98,7 +98,7 @@
 + Participa nos plans conxuntos (1): __G0192v2017__
 
 
-## C.P. FISTERRA - NUESTRA SEÑORA DE LAS ARENAS
+## C.P. FISTERRA - NOSA SEÑORA DAS AREAS
 
 1. __B0073v2017__: Bancos infralitorais da praia de Langosteira, BESP Embarcación; C.P. Fisterra [2019063](https://galirema.wikia.org/es/wiki/Pexma2019BESP063),
 
@@ -116,7 +116,7 @@
 + Participa nos plans conxuntos (4): __B0107v2014__, __F0167v2017__, __G0193v2017__, __H0226v2017__,
 
 
-## C.P. CORCUBIÓN - VIRGEN DEL CARMEN
+## C.P. CORCUBIÓN - VIRXEN DO CARMEN
 
 1. __B0069v2017__: Desde punta Arnela ata a desembocadura do río Xallas (Ézaro), BESP A pé; C.P. Corcubión [2019062](https://galirema.wikia.org/es/wiki/Pexma2019BESP062),
 
