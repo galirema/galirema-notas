@@ -25,7 +25,7 @@
 
 ## A.M. FONTE SANTA HELENA DE BALDAIO
 
-1. __A0001v2017__: Lagoas de Baldaio. AAUT. A pé;. A.M. Fonte Santa Helena-Baldaio. [2019001](https://galirema.wikia.org/es/wiki/Pexma2019AAUT001), [A0001OSM](http://u.osmfr.org/m/250411/),
+1. [A0001v2017](A0001sgm.md): Lagoas de Baldaio. AAUT. A pé;. A.M. Fonte Santa Helena-Baldaio. [2019001](https://galirema.wikia.org/es/wiki/Pexma2019AAUT001), [A0001OSM](http://u.osmfr.org/m/250411/),
 
 1. __B0059v2017__: Lagoas de Baldaio BESP A pé; A.M. Fonte Santa Helena-Baldaio [2019052](https://galirema.wikia.org/es/wiki/Pexma2019BESP052),
 
@@ -45,7 +45,7 @@
 
 ## C.P. A CORUÑA
 
-1. [A0003v2017](A0001sgm.md): Ría do Burgo. AAUT. A pé; Embarcación;. C.P. A Coruña 2018003,
+1. __A0003v2017__: Ría do Burgo. AAUT. A pé; Embarcación;. C.P. A Coruña 2018003,
 
 1. __A0312v2019__: Ría do Burgo AAUT Embarcación; C.P. A Coruña [2019003](https://galirema.wikia.org/es/wiki/Pexma2019AAUT003),
 
