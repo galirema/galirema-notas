@@ -43,7 +43,7 @@
 
 ## A.M. Esteiro do río Anllóns
 
-1. __A0002v2017__: Zona de autorización do río Anllóns. AAUT. A pé;. A.M. Esteiro do río Anllóns. [2019002](https://galirema.wikia.org/es/wiki/Pexma2019AAUT002), _A0002OSM_
+1. [A0002v2017](A0002sgm.md)__: Zona de autorización do río Anllóns. AAUT. A pé;. A.M. Esteiro do río Anllóns. [2019002](https://galirema.wikia.org/es/wiki/Pexma2019AAUT002), _A0002OSM_
 
 1. __K0314v2016__: Zona de autorización (marxe dereita da enseada do río Anllóns, entre illa Cagallóns, liña de punta Revoltas, enseada de Insua); Zonas de libre marisqueo do esteiro do Anllóns: Marxe esquerda KPOL A pé; A.M. Esteiro do río Anllóns 2016207,
 
