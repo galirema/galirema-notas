@@ -45,7 +45,7 @@
 
 ## C.P. A CORUÑA
 
-1. __A0003v2017__: Ría do Burgo. AAUT. A pé; Embarcación;. C.P. A Coruña 2018003,
+1. [A0003v2017](A0003sgm.md): Ría do Burgo. AAUT. A pé; Embarcación;. C.P. A Coruña 2018003,
 
 1. __A0312v2019__: Ría do Burgo AAUT Embarcación; C.P. A Coruña [2019003](https://galirema.wikia.org/es/wiki/Pexma2019AAUT003),
 
