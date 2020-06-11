@@ -179,9 +179,9 @@
 
 ## C.P. A POBRA DO CARAMIÑAL
 
-1. __A0004v2017__: De punta Galduario a punta Peralto, __AAUT__ A pé; C.P. A Pobra do Caramiñal [2019005](https://galirema.wikia.org/es/wiki/Pexma2019AAUT005),
+1. [A0004v2017](A0004sgm.md): De punta Galduario a punta Peralto, __AAUT__ A pé; C.P. A Pobra do Caramiñal [2019005](https://galirema.wikia.org/es/wiki/Pexma2019AAUT005),
 
-1. __A0005v2017__: De punta Galduario a punta Peralto, __AAUT__ Embarcación; C.P. A Pobra do Caramiñal [2019006](https://galirema.wikia.org/es/wiki/Pexma2019AAUT006),
+1. [A0005v2017](A0005sgm.md): De punta Galduario a punta Peralto, __AAUT__ Embarcación; C.P. A Pobra do Caramiñal [2019006](https://galirema.wikia.org/es/wiki/Pexma2019AAUT006),
 
 1. __B0064v2017__: Zona intermareal de punta Galduario a punta da Corna, __BESP__ A pé; C.P. A Pobra do Caramiñal [2019058](https://galirema.wikia.org/es/wiki/Pexma2019BESP058),
 
