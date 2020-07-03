@@ -133,7 +133,7 @@
 
 ## C.P. BARALLOBRE - SANTIAGO APOSTOL
 
-1. __A0007v2017__: Praias de Barallobre, Maniños, AAUT A pé; C.P. Barallobre [2019008](https://galirema.wikia.org/es/wiki/Pexma2019AAUT008),
+1. [A0007v2017](A0007sgm.md): Praias de Barallobre, Maniños, AAUT A pé; C.P. Barallobre [2019008](https://galirema.wikia.org/es/wiki/Pexma2019AAUT008),
 
 1. __B0065v2017__: Zona intermareal desde San Valentín ata a desembocadura do río Belelle, BESP A pé; C.P. Barallobre [2019059](https://galirema.wikia.org/es/wiki/Pexma2019BES059),
 
