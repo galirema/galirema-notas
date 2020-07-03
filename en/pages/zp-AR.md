@@ -232,7 +232,7 @@
 
 ## C.P. CARREIRA-AGUIÑO
 
-1. __A0006v2017__: Zona de autorización C.P. Carreira-Aguiño, __AAUT__ Embarcación; C.P. Carreira-Aguiño [2019007](https://galirema.wikia.org/es/wiki/Pexma2019AAUT007),
+1. [A0006v2017](A0006sgm.md): Zona de autorización C.P. Carreira-Aguiño, __AAUT__ Embarcación; C.P. Carreira-Aguiño [2019007](https://galirema.wikia.org/es/wiki/Pexma2019AAUT007),
 
 1. __D0122v2017__: Desde punta Castro ata a desembocadura do río Sieira, illas e illotes adxacentes, __DPER__ A pé; Embarcación; C.P. Carreira-Aguiño [2019105](https://galirema.wikia.org/es/wiki/Pexma2019DPER105),
 
