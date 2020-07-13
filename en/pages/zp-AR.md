@@ -165,9 +165,9 @@
 
 ## C.P. CABO DE CRUZ - VIRXEN DO CARMEN
 
-1. __A0008v2017__: Entre punta Peralto, punta Pedra Rubia, __AAUT__ A pé; C.P. Cabo de Cruz [2019009](https://galirema.wikia.org/es/wiki/Pexma2019AAUT009),
+1. [A0008v2017](A0008sgm.md): Entre punta Peralto, punta Pedra Rubia, __AAUT__ A pé; C.P. Cabo de Cruz [2019009](https://galirema.wikia.org/es/wiki/Pexma2019AAUT009),
 
-1. __A0009v2017__: Entre punta Peralto, punta Pedra Rubia, __AAUT__ Embarcación; C.P. Cabo de Cruz [2019010](https://galirema.wikia.org/es/wiki/Pexma2019AAUT010),
+1. [A0009v2017](A0009sgm.md): Entre punta Peralto, punta Pedra Rubia, __AAUT__ Embarcación; C.P. Cabo de Cruz [2019010](https://galirema.wikia.org/es/wiki/Pexma2019AAUT010),
 
 1. __G0191v2017__: De punta Peralto a punta Pedra Rubia, __GSOL__ MA; C.P. Cabo de Cruz [2019163](https://galirema.wikia.org/es/wiki/Pexma2019GSOL163),
 
