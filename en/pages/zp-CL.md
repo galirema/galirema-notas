@@ -49,7 +49,7 @@
 
 ## C.P. CARIÑO - NOSA SEÑORA DO CARMEN
 
-1. __A0011v2017__: Autorizacións da confraría de Cariño AAUT A pé; C.P. Cariño [2019012](https://galirema.wikia.org/es/wiki/Pexma2019AAUT012),
+1. [A0011v2017](A0011sgm.md): Autorizacións da confraría de Cariño AAUT A pé; C.P. Cariño [2019012](https://galirema.wikia.org/es/wiki/Pexma2019AAUT012), _A0011OSM_
 
 1. __B0068v2016__: Praias de Figueiras, dos Cabalos, de Cariño BESP A pé; C.P. Cariño 2016057,
 
