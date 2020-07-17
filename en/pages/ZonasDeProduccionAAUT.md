@@ -94,7 +94,7 @@ __Zonas de producción no SIGREMAR:__
 |codaxu|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |------|---|---------|-------|----------|------------------|
 |[A0002v2017](A0002sgm.md)|Zona de autorización do río Anllóns. AAUT _A0002OSM_| A pé;| A.M. Esteiro do río Anllóns.|2008003, 2009003, 2010003, 2011047, 2012360, 2013556, 2014002, 2015002, 2016002, __2017002__, 2018002, [2019002](https://galirema.wikia.org/es/wiki/Pexma2019AAUT002),|(CM-121), (CM-093),|
-|__A0010v2017__|De punta Lago a punta Roda, de punta Sandía a punta Roda, de punta Sandía a punta Insuela, enseada da Vasa, AAUT| A pé; Embarcacion;| C.P. Camariñas|2008010, 2009010, 2010011, 2011055, 2012368, 2013564, 2014010, 2015010, 2016010, __2017010__, 2018010, [2019011](https://galirema.wikia.org/es/wiki/Pexma2019AAUT011),|(CM-129), (CM-100), (CM-130), (CM-133), (CM-131), (CM-134), (CM-132), (CM-135),|
+|[A0010v2017](A0010sgm.md)|De punta Lago a punta Roda, de punta Sandía a punta Roda, de punta Sandía a punta Insuela, enseada da Vasa, AAUT| A pé; Embarcacion;| C.P. Camariñas|2008010, 2009010, 2010011, 2011055, 2012368, 2013564, 2014010, 2015010, 2016010, __2017010__, 2018010, [2019011](https://galirema.wikia.org/es/wiki/Pexma2019AAUT011),|(CM-129), (CM-100), (CM-130), (CM-133), (CM-131), (CM-134), (CM-132), (CM-135),|
 
 
 ## Coruña - Ferrol (CF)
