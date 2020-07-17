@@ -74,7 +74,7 @@
 
 ## C.P. CAMARIÑAS
 
-1. __A0010v2017__: De punta Lago a punta Roda, de punta Sandía a punta Roda, de punta Sandía a punta Insuela, enseada da Vasa, AAUT Embarcación; C.P. Camariñas [2019011](https://galirema.wikia.org/es/wiki/Pexma2019AAUT011),
+1. [A0010v2017](A0010sgm.md): De punta Lago a punta Roda, de punta Sandía a punta Roda, de punta Sandía a punta Insuela, enseada da Vasa, AAUT Embarcación; C.P. Camariñas [2019011](https://galirema.wikia.org/es/wiki/Pexma2019AAUT011),
 
 1. __D0125v2017__: De punta Gallada a punta Villueira, DPER Embarcación; C.P. Camariñas [2019107](https://galirema.wikia.org/es/wiki/Pexma2019DPER107),
 
