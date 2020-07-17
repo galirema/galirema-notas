@@ -43,7 +43,7 @@
 
 ## A.M. Esteiro do río Anllóns
 
-1. [A0002v2017](A0002sgm.md)__: Zona de autorización do río Anllóns. AAUT. A pé;. A.M. Esteiro do río Anllóns. [2019002](https://galirema.wikia.org/es/wiki/Pexma2019AAUT002), _A0002OSM_
+1. [A0002v2017](A0002sgm.md): Zona de autorización do río Anllóns. AAUT. A pé;. A.M. Esteiro do río Anllóns. [2019002](https://galirema.wikia.org/es/wiki/Pexma2019AAUT002), _A0002OSM_
 
 1. __K0314v2016__: Zona de autorización (marxe dereita da enseada do río Anllóns, entre illa Cagallóns, liña de punta Revoltas, enseada de Insua); Zonas de libre marisqueo do esteiro do Anllóns: Marxe esquerda KPOL A pé; A.M. Esteiro do río Anllóns 2016207,
 
@@ -74,7 +74,7 @@
 
 ## C.P. CAMARIÑAS
 
-1. [A0010v2017](A0010sgm.md): De punta Lago a punta Roda, de punta Sandía a punta Roda, de punta Sandía a punta Insuela, enseada da Vasa, AAUT Embarcación; C.P. Camariñas [2019011](https://galirema.wikia.org/es/wiki/Pexma2019AAUT011),
+1. [A0010v2017](A0010sgm.md): De punta Lago a punta Roda, de punta Sandía a punta Roda, de punta Sandía a punta Insuela, enseada da Vasa, AAUT Embarcación; C.P. Camariñas [2019011](https://galirema.wikia.org/es/wiki/Pexma2019AAUT011), _A0010OSM_
 
 1. __D0125v2017__: De punta Gallada a punta Villueira, DPER Embarcación; C.P. Camariñas [2019107](https://galirema.wikia.org/es/wiki/Pexma2019DPER107),
 
