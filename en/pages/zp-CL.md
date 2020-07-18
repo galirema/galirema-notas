@@ -26,7 +26,7 @@
 
 ## C.P. CEDEIRA
 
-1. __A0012v2017__: Enseada de Esteiro, enseada de Pantín, AAUT A pé; C.P. Cedeira [2019013](https://galirema.wikia.org/es/wiki/Pexma2019AAUT013),
+1. [A0012v2017](A0012sgm.md): Enseada de Esteiro, enseada de Pantín, AAUT A pé; C.P. Cedeira [2019013](https://galirema.wikia.org/es/wiki/Pexma2019AAUT013),
 
 1. __B0066v2017__: Praia de Vilarrube, (coquina) BESP A pé; C.P. Cedeira [2019060](https://galirema.wikia.org/es/wiki/Pexma2019BES060),
 
