@@ -162,7 +162,7 @@
 
 ## Plans conxuntos
 
-1. __A0014v2017__: Autorización das Pías, Autorización enseada Cabana-A Malata, AAUT A pé; Embarcación; C.P. Ferrol, C.P. Barallobre, (plan conxunto) [2019015](https://galirema.wikia.org/es/wiki/Pexma2019AAUT015),
+1. [A0014v2017](A0014sgm.md): Autorización das Pías, Autorización enseada Cabana-A Malata, AAUT A pé; Embarcación; C.P. Ferrol, C.P. Barallobre, (plan conxunto) [2019015](https://galirema.wikia.org/es/wiki/Pexma2019AAUT015), _A0014OSM_,
 
 1. __A0324v2013__: Praia de Sada. AAUT A pé; C.P. Sada, C.P. Miño, (plan conxunto) 2014030,
 
