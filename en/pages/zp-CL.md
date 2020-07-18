@@ -26,7 +26,7 @@
 
 ## C.P. CEDEIRA
 
-1. [A0012v2017](A0012sgm.md): Enseada de Esteiro, enseada de Pantín, AAUT A pé; C.P. Cedeira [2019013](https://galirema.wikia.org/es/wiki/Pexma2019AAUT013),
+1. [A0012v2017](A0012sgm.md): Enseada de Esteiro, enseada de Pantín, AAUT A pé; C.P. Cedeira [2019013](https://galirema.wikia.org/es/wiki/Pexma2019AAUT013), _A0012OSM_
 
 1. __B0066v2017__: Praia de Vilarrube, (coquina) BESP A pé; C.P. Cedeira [2019060](https://galirema.wikia.org/es/wiki/Pexma2019BES060),
 
@@ -68,7 +68,7 @@
 
 ## C.P. ESPASANTE
 
-1. __A0013v2017__: Autorización de Espasante, AAUT A pé; C.P. Espasante [2019014](https://galirema.wikia.org/es/wiki/Pexma2019AAUT014),
+1. [A0013v2017](A0013sgm.md): Autorización de Espasante, AAUT A pé; C.P. Espasante [2019014](https://galirema.wikia.org/es/wiki/Pexma2019AAUT014), _A0013OSM_
 
 1. __B0070v2017__: Enseada de Ladrido (ría de Ortigueira), da punta do espigón do porto de Ortigueira ata a depuradora, BESP A pé; C.P. Espasante [2019064](https://galirema.wikia.org/es/wiki/Pexma2019BES064),
 
