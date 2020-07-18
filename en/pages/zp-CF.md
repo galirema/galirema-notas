@@ -156,7 +156,7 @@
 1. __K0291v2017__: Desde a ponte do tren a o faro de punta Frouxeira, KPOL MSAS; C.P. Ferrol 2018217,
 
 
-+ Participa nos plans conxuntos (1): __A0014v2017__, __B0071v2017__, __B0072v2017__,
++ Participa nos plans conxuntos (1): [A0014v2017](A0014sgm.md), __B0071v2017__, __B0072v2017__,
 
 
 
