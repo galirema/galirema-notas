@@ -138,7 +138,7 @@
 1. __B0065v2017__: Zona intermareal desde San Valentín ata a desembocadura do río Belelle, BESP A pé; C.P. Barallobre [2019059](https://galirema.wikia.org/es/wiki/Pexma2019BES059),
 
 
-+ Participa nos plans conxuntos (4): __A0014v2017__, __B0072v2017__, __F0158v2017__, __J0271v2018__,
++ Participa nos plans conxuntos (4): [A0014v2017](A0014sgm.md), __B0072v2017__, __F0158v2017__, __J0271v2018__,
 
 
 ## C.P. FERROL
