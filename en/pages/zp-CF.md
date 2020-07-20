@@ -92,7 +92,7 @@
 
 ## C.P. MIÑO
 
-1. __A0016v2017__: Entre final da praia grande de Miño a punta Allo; entre a canle de Hervás a punta Curbeiros, AAUT A pé; Embarcación; C.P. Miño [2019017](https://galirema.wikia.org/es/wiki/Pexma2019AAUT017),
+1. [A0016v2017](A0016sgm.md): Entre final da praia grande de Miño a punta Allo; entre a canle de Hervás a punta Curbeiros, AAUT A pé; Embarcación; C.P. Miño [2019017](https://galirema.wikia.org/es/wiki/Pexma2019AAUT017),
 
 1. __B0076v2017__: Ponte do Porco, río Bañobre, punta Cabana e praia do Pedrido, e de punta Curbeiroa a punta Mauruxo BESP A pé; Embarcación; C.P. Miño [2019069](https://galirema.wikia.org/es/wiki/Pexma2019BES069),
 
