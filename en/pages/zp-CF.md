@@ -45,7 +45,7 @@
 
 ## C.P. A CORUÑA
 
-1. [A0003v2017](A0003sgm.md): Ría do Burgo. AAUT. A pé; Embarcación;. C.P. A Coruña 2018003,
+1. [A0003v2017](A0003sgm.md): Ría do Burgo. AAUT. A pé; Embarcación;. C.P. A Coruña 2018003, _A0003OSM_,
 
 1. __A0312v2019__: Ría do Burgo AAUT Embarcación; C.P. A Coruña [2019003](https://galirema.wikia.org/es/wiki/Pexma2019AAUT003),
 
@@ -133,7 +133,7 @@
 
 ## C.P. BARALLOBRE - SANTIAGO APOSTOL
 
-1. [A0007v2017](A0007sgm.md): Praias de Barallobre, Maniños, AAUT A pé; C.P. Barallobre [2019008](https://galirema.wikia.org/es/wiki/Pexma2019AAUT008),
+1. [A0007v2017](A0007sgm.md): Praias de Barallobre, Maniños, AAUT A pé; C.P. Barallobre [2019008](https://galirema.wikia.org/es/wiki/Pexma2019AAUT008), _A0007OSM_,
 
 1. __B0065v2017__: Zona intermareal desde San Valentín ata a desembocadura do río Belelle, BESP A pé; C.P. Barallobre [2019059](https://galirema.wikia.org/es/wiki/Pexma2019BES059),
 
@@ -143,7 +143,7 @@
 
 ## C.P. FERROL
 
-1. [A0015v2017](A0015sgm.md): San Felipe, enseada de Cabana-A Malata, praia de Caranza-Montón, de punta Cornida á ponte do tren, AAUT A pé; C.P. Ferrol [2019016](https://galirema.wikia.org/es/wiki/Pexma2019AAUT016),
+1. [A0015v2017](A0015sgm.md): San Felipe, enseada de Cabana-A Malata, praia de Caranza-Montón, de punta Cornida á ponte do tren, AAUT A pé; C.P. Ferrol [2019016](https://galirema.wikia.org/es/wiki/Pexma2019AAUT016), _A0015OSM_,
 
 1. __D0131v2017__: De faro de punta Frouxeira a A Faísca, DPER A pé; Embarcación; C.P. Ferrol [2019113](https://galirema.wikia.org/es/wiki/Pexma2019DPER113),
 
