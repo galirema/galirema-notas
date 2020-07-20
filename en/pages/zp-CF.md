@@ -143,7 +143,7 @@
 
 ## C.P. FERROL
 
-1. __A0015v2017__: San Felipe, enseada de Cabana-A Malata, praia de Caranza-Montón, de punta Cornida á ponte do tren, AAUT A pé; C.P. Ferrol [2019016](https://galirema.wikia.org/es/wiki/Pexma2019AAUT016),
+1. [A0015v2017](A0015sgm.md): San Felipe, enseada de Cabana-A Malata, praia de Caranza-Montón, de punta Cornida á ponte do tren, AAUT A pé; C.P. Ferrol [2019016](https://galirema.wikia.org/es/wiki/Pexma2019AAUT016),
 
 1. __D0131v2017__: De faro de punta Frouxeira a A Faísca, DPER A pé; Embarcación; C.P. Ferrol [2019113](https://galirema.wikia.org/es/wiki/Pexma2019DPER113),
 
