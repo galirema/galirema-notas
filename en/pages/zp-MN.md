@@ -61,9 +61,9 @@
 
 ## C.P. MUROS
 
-1. __A0018v2017__: Zona de autorización: praia da Virxe e praia da Abelleira AAUT A pé; C.P. Muros [2019019](https://galirema.wikia.org/es/wiki/Pexma2019AAUT019),
+1. [A0018v2017](A0018sgm.md): Zona de autorización: praia da Virxe e praia da Abelleira AAUT A pé; C.P. Muros [2019019](https://galirema.wikia.org/es/wiki/Pexma2019AAUT019),
 
-1. __A0019v2017__: Zona de autorización: praia da Virxe e praia da Abelleira AAUT Embarcación; C.P. Muros [2019020](https://galirema.wikia.org/es/wiki/Pexma2019AAUT020),
+1. [A0019v2017](A0019sgm.md): Zona de autorización: praia da Virxe e praia da Abelleira AAUT Embarcación; C.P. Muros [2019020](https://galirema.wikia.org/es/wiki/Pexma2019AAUT020),
 
 1. __B0106v2015__: De punta Insua a punta Uhía BESP A pé; C.P. Muros 2015069,
 
