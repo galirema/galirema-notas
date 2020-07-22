@@ -125,7 +125,7 @@
 
 ## C.P. MUGARDOS - SAN TELMO
 
-1. __A0017v2017__: Punta Promontoiro a rampla do Seixo, punta Redonda a punta Leiras, punta Leiras a punta Promontoiro, Punta Segaño a punta Redonda, AAUT A pé; C.P. Mugardos [2019018](https://galirema.wikia.org/es/wiki/Pexma2019AAUT018),
+1. [A0017v2017](A0017sgm.md): Punta Promontoiro a rampla do Seixo, punta Redonda a punta Leiras, punta Leiras a punta Promontoiro, Punta Segaño a punta Redonda, AAUT A pé; C.P. Mugardos [2019018](https://galirema.wikia.org/es/wiki/Pexma2019AAUT018),
 
 
 + Participa nos plans conxuntos (1): __B0072v2017__,
