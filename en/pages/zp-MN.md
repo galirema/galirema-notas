@@ -48,9 +48,9 @@
 
 ## C.P. NOIA - SAN BARTOLOME
 
-1. __A0020v2017__: Zona de autorización C.P. Noia, AAUT A pé; Embarcación; C.P. Noia [2019021](https://galirema.wikia.org/es/wiki/Pexma2019AAUT021),
+1. [A0020v2017](A0020sgm.md): Zona de autorización C.P. Noia, AAUT A pé; Embarcación; C.P. Noia [2019021](https://galirema.wikia.org/es/wiki/Pexma2019AAUT021),
 
-1. __A0021v2017__: Bancos de ostra de Broña, punta Cabalo Baixo, AAUT Rastro de vieira ou voandeira; C.P. Noia [2019022](https://galirema.wikia.org/es/wiki/Pexma2019AAUT022),
+1. [A0021v2017](A0021sgm.md): Bancos de ostra de Broña, punta Cabalo Baixo, AAUT Rastro de vieira ou voandeira; C.P. Noia [2019022](https://galirema.wikia.org/es/wiki/Pexma2019AAUT022),
 
 1. __G0196v2017__: Na costa norte, desde punta Uhía ata porto Siavo, incluíndo a cara interna da illa da Creba, exceptuando a zona portuaria, a zona dos asteleiros, a canle de navegación,; Na costa sur, desde punta Batuda ata punta Redondelo,; GSOL MA; MSAS; C.P. Noia [2019169](https://galirema.wikia.org/es/wiki/Pexma2019GSOL169),
 
