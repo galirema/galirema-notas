@@ -91,7 +91,7 @@
 
 ## C.P. O BARQUEIRO-BARES
 
-1. __A0022v2017__: Zonas de autorización situadas na marxe esquerda da ría do Barqueiro AAUT A pé; C.P. O Barqueiro-Bares [2019023](https://galirema.wikia.org/es/wiki/Pexma2019AAUT023),
+1. [A0022v2017](A0022sgm.md): Zonas de autorización situadas na marxe esquerda da ría do Barqueiro AAUT A pé; C.P. O Barqueiro-Bares [2019023](https://galirema.wikia.org/es/wiki/Pexma2019AAUT023),
 
 1. __B0111v2008__: Praia de Vilela BESP A pé; C.P. O Barqueiro 2012428,
 
