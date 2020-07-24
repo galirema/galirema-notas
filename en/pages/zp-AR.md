@@ -197,9 +197,9 @@
 
 ## C.P. PALMEIRA
 
-1. __A0023v2017__: Punta Aguiuncho, illote de Grades, pedras Pallares, __AAUT__ A pé; C.P. Palmeira [2019024](https://galirema.wikia.org/es/wiki/Pexma2019AAUT024),
+1. [A0023v2017](A0023sgm.md): Punta Aguiuncho, illote de Grades, pedras Pallares, __AAUT__ A pé; C.P. Palmeira [2019024](https://galirema.wikia.org/es/wiki/Pexma2019AAUT024),
 
-1. __A0024v2017__: Punta Aguiuncho, illote de Grades, pedras Pallares, __AAUT__ Embarcación; C.P. Palmeira [2019025](https://galirema.wikia.org/es/wiki/Pexma2019AAUT025),
+1. [A0024v2017](A0024sgm.md): Punta Aguiuncho, illote de Grades, pedras Pallares, __AAUT__ Embarcación; C.P. Palmeira [2019025](https://galirema.wikia.org/es/wiki/Pexma2019AAUT025),
 
 1. __G0197v2017__: Punta Aguiúncho, illote de Grades, punta da Corna, __GSOL__ MA; C.P. Palmeira [2019170](https://galirema.wikia.org/es/wiki/Pexma2019GSOL170),
 
