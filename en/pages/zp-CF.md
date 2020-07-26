@@ -107,9 +107,9 @@
 
 ## C.P. PONTEDEUME - VIRXEN DO CARMEN
 
-1. __A0025v2017__: De praia Almieiras a punta Carboeira AAUT A pé; C.P. Pontedeume [2019026](https://galirema.wikia.org/es/wiki/Pexma2019AAUT026),
+1. [A0025v2017](A0025sgm.md): De praia Almieiras a punta Carboeira AAUT A pé; C.P. Pontedeume [2019026](https://galirema.wikia.org/es/wiki/Pexma2019AAUT026), _A0025OSM_
 
-1. __A0026v2017__: De praia Almieiras a punta Carboeira AAUT Embarcación; C.P. Pontedeume [2019027](https://galirema.wikia.org/es/wiki/Pexma2019AAUT027),
+1. [A0026v2017](A0026sgm.md): De praia Almieiras a punta Carboeira AAUT Embarcación; C.P. Pontedeume [2019027](https://galirema.wikia.org/es/wiki/Pexma2019AAUT027), _A0026OSM_
 
 
 + Participa nos plans conxuntos (0): 
