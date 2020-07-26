@@ -144,9 +144,9 @@
 
 ## C.P. RIANXO
 
-1. [A0027v2017](A0027sgm.md): Autorización de Rianxo __AAUT__ A pé; C.P. Rianxo [2019028](https://galirema.wikia.org/es/wiki/Pexma2019AAUT028),
+1. [A0027v2017](A0027sgm.md): Autorización de Rianxo __AAUT__ A pé; C.P. Rianxo [2019028](https://galirema.wikia.org/es/wiki/Pexma2019AAUT028), _A0027OSM_
 
-1. [A0028v2017](A0028sgm.md): Autorización de Rianxo sublitoral __AAUT__ Embarcación; C.P. Rianxo [2019029](https://galirema.wikia.org/es/wiki/Pexma2019AAUT029),
+1. [A0028v2017](A0028sgm.md): Autorización de Rianxo sublitoral __AAUT__ Embarcación; C.P. Rianxo [2019029](https://galirema.wikia.org/es/wiki/Pexma2019AAUT029), _A0028OSM_
 
 + Participa nos plans conxuntos (1): __B0114v2019__,
  
