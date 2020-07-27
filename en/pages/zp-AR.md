@@ -215,9 +215,9 @@
 
 ## C.P. RIBEIRA - SAN PEDRO
 
-1. __A0029v2017__: Autorización de Ribeira __AAUT__ Embarcación; C.P. Ribeira [2019030](https://galirema.wikia.org/es/wiki/Pexma2019AAUT030),
+1. [A0029v2017](A0029sgm.md): Autorización de Ribeira __AAUT__ Embarcación; C.P. Ribeira [2019030](https://galirema.wikia.org/es/wiki/Pexma2019AAUT030),
 
-1. __A0030v2017__: De punta Aguiúncho a Eiró Grande, de Eiró Grande a Carabancelo, de Carabancelo a Redonda Vella, de Redonda Vella a punta Castro __AAUT__ Rastro de vieira ou voandeira; C.P. Ribeira [2019031](https://galirema.wikia.org/es/wiki/Pexma2019AAUT031),
+1. [A0030v2017](A0030sgm.md): De punta Aguiúncho a Eiró Grande, de Eiró Grande a Carabancelo, de Carabancelo a Redonda Vella, de Redonda Vella a punta Castro __AAUT__ Rastro de vieira ou voandeira; C.P. Ribeira [2019031](https://galirema.wikia.org/es/wiki/Pexma2019AAUT031),
 
 1. __D0143v2017__: Illas e illotes Laxas, Pías de Castiñeira, Airós, Rúa, Carabancelo, Xidoiro Pedregoso, Corbeiros, Lobeiras, __DPER__ Embarcación; C.P. Ribeira [2019124](https://galirema.wikia.org/es/wiki/Pexma2019DPER124),
 
