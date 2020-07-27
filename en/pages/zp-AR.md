@@ -70,9 +70,9 @@
 
 ## C.P. A ILLA DE AROUSA - SAN XULIAN
 
-1. __A0033v2017__: Zonas de autorización: intermareal de illa de Arousa __AAUT__ A pé; C.P. A Illa de Arousa [2019034](https://galirema.wikia.org/es/wiki/Pexma2019AAUT034),
+1. [A0033v2017](A0033sgm.md): Zonas de autorización: intermareal de illa de Arousa __AAUT__ A pé; C.P. A Illa de Arousa [2019034](https://galirema.wikia.org/es/wiki/Pexma2019AAUT034), _A0033OSM_
 
-1. __A0034v2017__: Zonas de autorización: submareal de Illa de Arousa __AAUT__ Embarcación; C.P. A Illa de Arousa [2019035](https://galirema.wikia.org/es/wiki/Pexma2019AAUT035),
+1. [A0034v2017](A0034sgm.md): Zonas de autorización: submareal de Illa de Arousa __AAUT__ Embarcación; C.P. A Illa de Arousa [2019035](https://galirema.wikia.org/es/wiki/Pexma2019AAUT035), _A0034OSM_
 
 1. __B0082v2017__: De punta Quilme a Sapeiras de Terra (cara oeste e nordeste da illa), __BESP__ A pé; C.P. A Illa de Arousa [2019075](https://galirema.wikia.org/es/wiki/Pexma2019BESP075),
 
