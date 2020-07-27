@@ -84,7 +84,7 @@
 
 ## C.P. SADA
 
-1. __A0031v2016__: Praia de Sada AAUT A pé; C.P. Sada [2019032](https://galirema.wikia.org/es/wiki/Pexma2019AAUT032),
+1. [A0031v2016](A0031sgm.md): Praia de Sada AAUT A pé; C.P. Sada [2019032](https://galirema.wikia.org/es/wiki/Pexma2019AAUT032), _A0031OSM_
 
 
 + Participa nos plans conxuntos (3):  __A0324v2013__, __D0121v2017__, __I0240v2017__,
@@ -92,7 +92,7 @@
 
 ## C.P. MIÑO
 
-1. [A0016v2017](A0016sgm.md): Entre final da praia grande de Miño a punta Allo; entre a canle de Hervás a punta Curbeiros, AAUT A pé; Embarcación; C.P. Miño [2019017](https://galirema.wikia.org/es/wiki/Pexma2019AAUT017),
+1. [A0016v2017](A0016sgm.md): Entre final da praia grande de Miño a punta Allo; entre a canle de Hervás a punta Curbeiros, AAUT A pé; Embarcación; C.P. Miño [2019017](https://galirema.wikia.org/es/wiki/Pexma2019AAUT017), _A0016OSM_
 
 1. __B0076v2017__: Ponte do Porco, río Bañobre, punta Cabana e praia do Pedrido, e de punta Curbeiroa a punta Mauruxo BESP A pé; Embarcación; C.P. Miño [2019069](https://galirema.wikia.org/es/wiki/Pexma2019BES069),
 
@@ -125,7 +125,7 @@
 
 ## C.P. MUGARDOS - SAN TELMO
 
-1. [A0017v2017](A0017sgm.md): Punta Promontoiro a rampla do Seixo, punta Redonda a punta Leiras, punta Leiras a punta Promontoiro, Punta Segaño a punta Redonda, AAUT A pé; C.P. Mugardos [2019018](https://galirema.wikia.org/es/wiki/Pexma2019AAUT018),
+1. [A0017v2017](A0017sgm.md): Punta Promontoiro a rampla do Seixo, punta Redonda a punta Leiras, punta Leiras a punta Promontoiro, Punta Segaño a punta Redonda, AAUT A pé; C.P. Mugardos [2019018](https://galirema.wikia.org/es/wiki/Pexma2019AAUT018), _A0017OSM_
 
 
 + Participa nos plans conxuntos (1): __B0072v2017__,
