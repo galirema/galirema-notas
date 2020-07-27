@@ -165,9 +165,9 @@
 
 ## C.P. CABO DE CRUZ - VIRXEN DO CARMEN
 
-1. [A0008v2017](A0008sgm.md): Entre punta Peralto, punta Pedra Rubia, __AAUT__ A pé; C.P. Cabo de Cruz [2019009](https://galirema.wikia.org/es/wiki/Pexma2019AAUT009),
+1. [A0008v2017](A0008sgm.md): Entre punta Peralto, punta Pedra Rubia, __AAUT__ A pé; C.P. Cabo de Cruz [2019009](https://galirema.wikia.org/es/wiki/Pexma2019AAUT009), _A0008OSM_
 
-1. [A0009v2017](A0009sgm.md): Entre punta Peralto, punta Pedra Rubia, __AAUT__ Embarcación; C.P. Cabo de Cruz [2019010](https://galirema.wikia.org/es/wiki/Pexma2019AAUT010),
+1. [A0009v2017](A0009sgm.md): Entre punta Peralto, punta Pedra Rubia, __AAUT__ Embarcación; C.P. Cabo de Cruz [2019010](https://galirema.wikia.org/es/wiki/Pexma2019AAUT010), _A0009OSM_
 
 1. __G0191v2017__: De punta Peralto a punta Pedra Rubia, __GSOL__ MA; C.P. Cabo de Cruz [2019163](https://galirema.wikia.org/es/wiki/Pexma2019GSOL163),
 
@@ -179,9 +179,9 @@
 
 ## C.P. A POBRA DO CARAMIÑAL
 
-1. [A0004v2017](A0004sgm.md): De punta Galduario a punta Peralto, __AAUT__ A pé; C.P. A Pobra do Caramiñal [2019005](https://galirema.wikia.org/es/wiki/Pexma2019AAUT005),
+1. [A0004v2017](A0004sgm.md): De punta Galduario a punta Peralto, __AAUT__ A pé; C.P. A Pobra do Caramiñal [2019005](https://galirema.wikia.org/es/wiki/Pexma2019AAUT005), _A0004OSM_
 
-1. [A0005v2017](A0005sgm.md): De punta Galduario a punta Peralto, __AAUT__ Embarcación; C.P. A Pobra do Caramiñal [2019006](https://galirema.wikia.org/es/wiki/Pexma2019AAUT006),
+1. [A0005v2017](A0005sgm.md): De punta Galduario a punta Peralto, __AAUT__ Embarcación; C.P. A Pobra do Caramiñal [2019006](https://galirema.wikia.org/es/wiki/Pexma2019AAUT006), _A0005OSM_
 
 1. __B0064v2017__: Zona intermareal de punta Galduario a punta da Corna, __BESP__ A pé; C.P. A Pobra do Caramiñal [2019058](https://galirema.wikia.org/es/wiki/Pexma2019BESP058),
 
@@ -197,9 +197,9 @@
 
 ## C.P. PALMEIRA
 
-1. [A0023v2017](A0023sgm.md): Punta Aguiuncho, illote de Grades, pedras Pallares, __AAUT__ A pé; C.P. Palmeira [2019024](https://galirema.wikia.org/es/wiki/Pexma2019AAUT024),
+1. [A0023v2017](A0023sgm.md): Punta Aguiuncho, illote de Grades, pedras Pallares, __AAUT__ A pé; C.P. Palmeira [2019024](https://galirema.wikia.org/es/wiki/Pexma2019AAUT024), _A0023OSM_
 
-1. [A0024v2017](A0024sgm.md): Punta Aguiuncho, illote de Grades, pedras Pallares, __AAUT__ Embarcación; C.P. Palmeira [2019025](https://galirema.wikia.org/es/wiki/Pexma2019AAUT025),
+1. [A0024v2017](A0024sgm.md): Punta Aguiuncho, illote de Grades, pedras Pallares, __AAUT__ Embarcación; C.P. Palmeira [2019025](https://galirema.wikia.org/es/wiki/Pexma2019AAUT025), _A0024OSM_
 
 1. __G0197v2017__: Punta Aguiúncho, illote de Grades, punta da Corna, __GSOL__ MA; C.P. Palmeira [2019170](https://galirema.wikia.org/es/wiki/Pexma2019GSOL170),
 
@@ -215,9 +215,9 @@
 
 ## C.P. RIBEIRA - SAN PEDRO
 
-1. [A0029v2017](A0029sgm.md): Autorización de Ribeira __AAUT__ Embarcación; C.P. Ribeira [2019030](https://galirema.wikia.org/es/wiki/Pexma2019AAUT030),
+1. [A0029v2017](A0029sgm.md): Autorización de Ribeira __AAUT__ Embarcación; C.P. Ribeira [2019030](https://galirema.wikia.org/es/wiki/Pexma2019AAUT030), _A0029OSM_
 
-1. [A0030v2017](A0030sgm.md): De punta Aguiúncho a Eiró Grande, de Eiró Grande a Carabancelo, de Carabancelo a Redonda Vella, de Redonda Vella a punta Castro __AAUT__ Rastro de vieira ou voandeira; C.P. Ribeira [2019031](https://galirema.wikia.org/es/wiki/Pexma2019AAUT031),
+1. [A0030v2017](A0030sgm.md): De punta Aguiúncho a Eiró Grande, de Eiró Grande a Carabancelo, de Carabancelo a Redonda Vella, de Redonda Vella a punta Castro __AAUT__ Rastro de vieira ou voandeira; C.P. Ribeira [2019031](https://galirema.wikia.org/es/wiki/Pexma2019AAUT031), _A0030OSM_
 
 1. __D0143v2017__: Illas e illotes Laxas, Pías de Castiñeira, Airós, Rúa, Carabancelo, Xidoiro Pedregoso, Corbeiros, Lobeiras, __DPER__ Embarcación; C.P. Ribeira [2019124](https://galirema.wikia.org/es/wiki/Pexma2019DPER124),
 
@@ -232,7 +232,7 @@
 
 ## C.P. CARREIRA-AGUIÑO
 
-1. [A0006v2017](A0006sgm.md): Zona de autorización C.P. Carreira-Aguiño, __AAUT__ Embarcación; C.P. Carreira-Aguiño [2019007](https://galirema.wikia.org/es/wiki/Pexma2019AAUT007),
+1. [A0006v2017](A0006sgm.md): Zona de autorización C.P. Carreira-Aguiño, __AAUT__ Embarcación; C.P. Carreira-Aguiño [2019007](https://galirema.wikia.org/es/wiki/Pexma2019AAUT007), _A0006OSM_
 
 1. __D0122v2017__: Desde punta Castro ata a desembocadura do río Sieira, illas e illotes adxacentes, __DPER__ A pé; Embarcación; C.P. Carreira-Aguiño [2019105](https://galirema.wikia.org/es/wiki/Pexma2019DPER105),
 
