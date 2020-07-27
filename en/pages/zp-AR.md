@@ -155,7 +155,7 @@
 
 ## S.C.G. RÍA DE AROUSA
 
-1. __A0032v2017__: De punta Portomouro a punta Pedra Rubia, __AAUT__ A pé; Embarcación; Ría de Arousa S.C.G. [2019033](https://galirema.wikia.org/es/wiki/Pexma2019AAUT033),
+1. [A0032v2017](A0032sgm.md): De punta Portomouro a punta Pedra Rubia, __AAUT__ A pé; Embarcación; Ría de Arousa S.C.G. [2019033](https://galirema.wikia.org/es/wiki/Pexma2019AAUT033), _A0032OSM_
 
 + Participa nos plans conxuntos (0): 
 
