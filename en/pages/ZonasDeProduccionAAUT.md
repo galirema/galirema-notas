@@ -41,7 +41,7 @@ __Zonas de producción no SIGREMAR:__
  
 |codaxu|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |------|---|---------|-------|----------|------------------|
-|__A0035v2017__|De punta Alada a punta Preguntoiro, cara ao interior da ría de Aldán AAUT| A pé;| C.P. Aldán-O Hio|2008034, 2008033, 2009033, 2009034, 2010034, 2010035, 2011076, 2012389, 2013586, 2014034, 2015035, 2016035, __2017034__, 2018035, [2019036](https://galirema.wikia.org/es/wiki/Pexma2019AAUT036),|(PO-142), (PO-143), (PO-139), (PO-140), (PO-141), (PO-175), (PO-176), (PO-177),|
+|[A0035v2017](A0035sgm.md)|De punta Alada a punta Preguntoiro, cara ao interior da ría de Aldán AAUT, _A0035OSM_| A pé;| C.P. Aldán-O Hio|2008034, 2008033, 2009033, 2009034, 2010034, 2010035, 2011076, 2012389, 2013586, 2014034, 2015035, 2016035, __2017034__, 2018035, [2019036](https://galirema.wikia.org/es/wiki/Pexma2019AAUT036),|(PO-142), (PO-143), (PO-139), (PO-140), (PO-141), (PO-175), (PO-176), (PO-177),|
 
 
 ## Ría de Arousa (AR)
