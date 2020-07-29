@@ -25,7 +25,7 @@
 
 ## C.P. ALDÁN-O HIO - SAN CIBRAN
 
-1. __A0035v2017__: De punta Alada a punta Preguntoiro, cara ao interior da ría de Aldán __AAUT__ A pé; C.P. Aldán-O Hio [2019036](https://galirema.wikia.org/es/wiki/Pexma2019AAUT036),
+1. [A0035v2017](A0035sgm.md): De punta Alada a punta Preguntoiro, cara ao interior da ría de Aldán __AAUT__ A pé; C.P. Aldán-O Hio [2019036](https://galirema.wikia.org/es/wiki/Pexma2019AAUT036), _A0035OSM_
 
 1. __B0112v2008__: De punta Preguntoiro e punta Morcegos cara ao interior da ría de Aldán __BESP__ A pé; C.P. Aldán-O Hio 2011186,
 
