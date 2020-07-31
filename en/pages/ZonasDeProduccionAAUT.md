@@ -32,7 +32,7 @@ __Zonas de producción no SIGREMAR:__
 |codaxu|AXU|Modalidad|Entidad|Plan anual|AXU SIGREMAR 20017|
 |------|---|---------|-------|----------|------------------|
 |[A0036v2017](A0036sgm.md)|Foz do río Miñor, praia Ladeira, praia do Burgo, praia de Santa Marta, paseo da Lonxa, praia Ribeira, praia Barbeira, AAUT, _A0036OSM_ |A pé;| C.P. Baiona|2008035, 2009035, 2010036, 2011077, 2012390, 2013587, 2014035, 2015036, 2016036, __2017035__, 2018036, [2019037](https://galirema.wikia.org/es/wiki/Pexma2019AAUT037),|(VI-105), (VI-104), (VI-103-I), (VI-103-II), (VI-103-III), (VI-102), (VI-101), (VI-100),|
-|__A0037v2017__|Autorización administrativa C.P. Baiona Sublitoral AAUT| Embarcación;| C.P. Baiona|2008036, 2009036, 2010037, 2011078, 2012391, 2013588, 2014036, 2015037, 2016037, __2017036__, 2018037, [2019038](https://galirema.wikia.org/es/wiki/Pexma2019AAUT038),|Autorización administrativa C.P. Baiona, (zonas marítimas),|
+|[A0037v2017](A0037sgm.md)|Autorización administrativa C.P. Baiona Sublitoral AAUT| Embarcación;| C.P. Baiona|2008036, 2009036, 2010037, 2011078, 2012391, 2013588, 2014036, 2015037, 2016037, __2017036__, 2018037, [2019038](https://galirema.wikia.org/es/wiki/Pexma2019AAUT038),|Autorización administrativa C.P. Baiona, (zonas marítimas),|
 
 
 ## Ría de Pontevedra (PO)
