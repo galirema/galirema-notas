@@ -50,9 +50,9 @@
 
 ## C.P. CAMBADOS - SAN ANTONIO
 
-1. __A0038v2017__: Zona intermareal atorización de Cambados __AAUT__ A pé; C.P. Cambados [2019039](https://galirema.wikia.org/es/wiki/Pexma2019AAUT039),
+1. [A0038v2017](A0038sgm.md): Zona intermareal atorización de Cambados __AAUT__ A pé; C.P. Cambados [2019039](https://galirema.wikia.org/es/wiki/Pexma2019AAUT039),
 
-1. __A0039v2017__: De Rego do Alcalde a punta Tragove, de punta Borrón e peirao de Cambados a punta Borrelo, __AAUT__ Embarcación; C.P. Cambados [2019040](https://galirema.wikia.org/es/wiki/Pexma2019AAUT040),
+1. [A0039v2017](A0039sgm.md): De Rego do Alcalde a punta Tragove, de punta Borrón e peirao de Cambados a punta Borrelo, __AAUT__ Embarcación; C.P. Cambados [2019040](https://galirema.wikia.org/es/wiki/Pexma2019AAUT040),
 
 1. __B0089v2017__: Do Rego do Alcalde (Lañeiras de Fóra) á baliza de Orido, Arnela-Galiñeiro, do peirao de Meloxo ata As Negreiriñas, __BESP__ Embarcación C.P. Cambados [2019082](https://galirema.wikia.org/es/wiki/Pexma2019BESP082),
 
