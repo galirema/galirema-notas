@@ -36,7 +36,7 @@
 
 1. __I0252v2017__: De punta Orelludas a punta dos Picos, __IALG__ A pé; C.P. A Guarda [2019201](https://galirema.wikia.org/es/wiki/Pexma2019IALG201),
 
-1. __I0253v2017__: De punta Orelludas a punta dos Picos, (zona marítima) __IALG__ MA; MSAS; C.P. A Guarda [2019202](https://galirema.wikia.org/es/wiki/Pexma2019IALG202),
+1. __I0253v2017__: De punta Orelludas a punta dos Picos, (zona marítima) __IALG__ MA; MSAS; C.P. A Guarda [2019202](https://galirema.wikia.org/es/wiki/Pexma2019IALG202), 
 
 1. __J0273v2017__: De punta Orelluda a Punta dos Picos, __JANE__ A pé; C.P. A Guarda [2019219](https://galirema.wikia.org/es/wiki/Pexma2019JANE219),
 
@@ -47,7 +47,7 @@
 
 1. [A0036v2017](A0036sgm.md): Foz do río Miñor, praia Ladeira, praia do Burgo, praia de Santa Marta, paseo da Lonxa, praia Ribeira, praia Barbeira, __AAUT__ A pé; C.P. Baiona [2019037](https://galirema.wikia.org/es/wiki/Pexma2019AAUT037), _A0036OSM_
 
-1. __A0037v2017__: Autorización administrativa C.P. Baiona Sublitoral __AAUT__ Embarcación; C.P. Baiona [2019038](https://galirema.wikia.org/es/wiki/Pexma2019AAUT038),
+1. [A0037v2017](A0037sgm.md): Autorización administrativa C.P. Baiona Sublitoral __AAUT__ Embarcación; C.P. Baiona [2019038](https://galirema.wikia.org/es/wiki/Pexma2019AAUT038), _A0037OSM_
 
 
 1. __B0329v2010__: De praia de Abra a punta Orelludas, __BESP__ A pé; C.P. Baiona 2010088,
