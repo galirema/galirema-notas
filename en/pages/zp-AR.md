@@ -24,9 +24,9 @@
 
 ## C.P. O GROVE - SAN MARTIÑO
 
-1. __A0042v2017__: Zonas de autorización (Intermareal) C.P. O Grove, __AAUT__ A pé; C.P. O Grove [2019043](https://galirema.wikia.org/es/wiki/Pexma2019AAUT043),
+1. [A0042v2017](A0042sgm.md): Zonas de autorización (Intermareal) C.P. O Grove, __AAUT__ A pé; C.P. O Grove [2019043](https://galirema.wikia.org/es/wiki/Pexma2019AAUT043), _A0042OSM_
 
-1. __A0043v2017__: Zonas de autorización C.P. O Grove, (Sublitoral) __AAUT__ Embarcación; C.P. O Grove [2019044](https://galirema.wikia.org/es/wiki/Pexma2019AAUT044),
+1. [A0043v2017](A0043sgm.md): Zonas de autorización C.P. O Grove, (Sublitoral) __AAUT__ Embarcación; C.P. O Grove [2019044](https://galirema.wikia.org/es/wiki/Pexma2019AAUT044), _A0043OSM_
 
 1. __B0095v2017__: Moreiras, Meloxo, Migalliñas, Rons, Cantodorxo, __BESP__ Embarcación; C.P. O Grove [2019088](https://galirema.wikia.org/es/wiki/Pexma2019BESP088),
 
