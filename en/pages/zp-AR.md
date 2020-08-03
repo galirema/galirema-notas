@@ -130,9 +130,9 @@
 
 ## C.P. CARRIL - SANTIAGO APOSTOL
 
-1. __A0040v2017__: A Fangueira, Sublitoral __AAUT__ Embarcación; C.P. Carril [2019041](https://galirema.wikia.org/es/wiki/Pexma2019AAUT041),
+1. [A0040v2017](A0040sgm.md): A Fangueira, Sublitoral __AAUT__ Embarcación; C.P. Carril [2019041](https://galirema.wikia.org/es/wiki/Pexma2019AAUT041), _A0040OSM_
 
-1. __A0041v2017__: A Fangueira, Intermareal __AAUT__ A pé; C.P. Carril [2019042](https://galirema.wikia.org/es/wiki/Pexma2019AAUT042),
+1. [A0041v2017](A0041sgm.md): A Fangueira, Intermareal __AAUT__ A pé; C.P. Carril [2019042](https://galirema.wikia.org/es/wiki/Pexma2019AAUT042), _A0041OSM_
 
 1. __B0093v2017__: Lombos do Ulla, praia Compostela-A Concha, __BESP__ A pé; C.P. Carril [2019086](https://galirema.wikia.org/es/wiki/Pexma2019BESP086),
 
