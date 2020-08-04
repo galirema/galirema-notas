@@ -97,9 +97,9 @@
 
 ## C.P. VILANOVA - A PASTORIZA
 
-1. __A0044v2017__: De regato Aduana a Rego do Alcalde, (Intermareal) __AAUT__ A pé; C.P. Vilanova [2019045](https://galirema.wikia.org/es/wiki/Pexma2019AAUT045),
+1. [A0044v2017](A0044sgm.md): De regato Aduana a Rego do Alcalde, (Intermareal) __AAUT__ A pé; C.P. Vilanova [2019045](https://galirema.wikia.org/es/wiki/Pexma2019AAUT045), _A0044OSM_
 
-1. __A0045v2017__: Autorización de C.P. Vilanova (Sublitoral) __AAUT__ Embarcación; C.P. Vilanova [2019046](https://galirema.wikia.org/es/wiki/Pexma2019AAUT046),
+1. [A0045v2017](A0045sgm.md): Autorización de C.P. Vilanova (Sublitoral) __AAUT__ Embarcación; C.P. Vilanova [2019046](https://galirema.wikia.org/es/wiki/Pexma2019AAUT046), _A0045OSM_
 
 1. __B0104v2017__: Dique do Terrón, boia columna eléctrica, columna ponte, boia Lañeiras de Fóra, espicho rego do Alcalde, __BESP__ Embarcación; C.P. Vilanova [2019096](https://galirema.wikia.org/es/wiki/Pexma2019BESP096),
 
