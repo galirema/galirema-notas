@@ -118,7 +118,7 @@
 
 ## C.P. VILAXOÁN - VIRXEN DO ROSARIO
 
-1. __A0046v2017__: De punta Ferrazo a Regato Aduana, __AAUT__ A pé; C.P. Vilaxoán [2019047](https://galirema.wikia.org/es/wiki/Pexma2019AAUT047),
+1. [A0046v2017](A0046sgm.md): De punta Ferrazo a Regato Aduana, __AAUT__ A pé; C.P. Vilaxoán [2019047](https://galirema.wikia.org/es/wiki/Pexma2019AAUT047), _A0046OSM_
 
 1. __B0105v2017__: Zona sublitoral entre a liña que une o regato Aduana ao illote Gorma e punta Borreiros,; de punta Borreiros ao peirao de Vilaxoán, de punta Castelete á punta Ferrazo, __BESP__ Embarcación; C.P. Vilaxoán [2019097](https://galirema.wikia.org/es/wiki/Pexma2019BESP097),
 
