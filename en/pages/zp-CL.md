@@ -91,7 +91,7 @@
 
 ## C.P. O BARQUEIRO-BARES
 
-1. [A0022v2017](A0022sgm.md): Zonas de autorización situadas na marxe esquerda da ría do Barqueiro AAUT A pé; C.P. O Barqueiro-Bares [2019023](https://galirema.wikia.org/es/wiki/Pexma2019AAUT023),
+1. [A0022v2017](A0022sgm.md): Zonas de autorización situadas na marxe esquerda da ría do Barqueiro AAUT A pé; C.P. O Barqueiro-Bares [2019023](https://galirema.wikia.org/es/wiki/Pexma2019AAUT023), _A0022OSM_,
 
 1. __B0111v2008__: Praia de Vilela BESP A pé; C.P. O Barqueiro 2012428,
 
@@ -106,7 +106,7 @@
 
 ## C.P. O VICEDO
 
-1. __A0047v2008__: Praia de Arealonga e Lombo das Navallas AAUT A pé, C.P. O Vicedo 2012358,
+1. [A0047v2008](A0047sgm.md): Praia de Arealonga e Lombo das Navallas AAUT A pé, C.P. O Vicedo 2012358, _A0047OSM_,
 
 1. __B0051v2017__: Desde debaixo das pontes ata o Rego Seco, illa San Martiño, praia de Villabril, praia de Moledos, praia de Fomento, Vicedo Vello, BESP A pé; C.P. O Vicedo [2019050](https://galirema.wikia.org/es/wiki/Pexma2019BES050),
 
