@@ -47,9 +47,9 @@
 
 1. [A0003v2017](A0003sgm.md): Ría do Burgo. AAUT. A pé; Embarcación;. C.P. A Coruña 2018003, _A0003OSM_,
 
-1. __A0312v2019__: Ría do Burgo AAUT Embarcación; C.P. A Coruña [2019003](https://galirema.wikia.org/es/wiki/Pexma2019AAUT003),
+1. [A0312v2019](A0312sgm.md): Ría do Burgo AAUT Embarcación; C.P. A Coruña [2019003](https://galirema.wikia.org/es/wiki/Pexma2019AAUT003), _A0003OSM_,
 
-1. __A0313v2019__: Zonas de autorización da parte interna da ría do Burgo, entre a ponte da Pasaxe e a ponte do Burgo, AAUT A pé; C.P. A Coruña [2019004](https://galirema.wikia.org/es/wiki/Pexma2019AAUT004),
+1. [A0313v2019](A0313sgm.md): Zonas de autorización da parte interna da ría do Burgo, entre a ponte da Pasaxe e a ponte do Burgo, AAUT A pé; C.P. A Coruña [2019004](https://galirema.wikia.org/es/wiki/Pexma2019AAUT004), _A0003OSM_,
 
 1. __B0061v2017__: Banco do Parrote, Valiña (barra da praia de Santa Cristina), praia de Oza, BESP Embarcación; C.P. A Coruña [2019055](https://galirema.wikia.org/es/wiki/Pexma2019BESP055),
 
