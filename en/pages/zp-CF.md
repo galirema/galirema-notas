@@ -87,7 +87,7 @@
 1. [A0031v2016](A0031sgm.md): Praia de Sada AAUT A pé; C.P. Sada [2019032](https://galirema.wikia.org/es/wiki/Pexma2019AAUT032), _A0031OSM_
 
 
-+ Participa nos plans conxuntos (3):  __A0324v2013__, __D0121v2017__, __I0240v2017__,
++ Participa nos plans conxuntos (3): [A0324v2013](A0324sgm.md), __D0121v2017__, __I0240v2017__,
 
 
 ## C.P. MIÑO
@@ -164,7 +164,7 @@
 
 1. [A0014v2017](A0014sgm.md): Autorización das Pías, Autorización enseada Cabana-A Malata, AAUT A pé; Embarcación; C.P. Ferrol, C.P. Barallobre, (plan conxunto) [2019015](https://galirema.wikia.org/es/wiki/Pexma2019AAUT015), _A0014OSM_,
 
-1. __A0324v2013__: Praia de Sada. AAUT A pé; C.P. Sada, C.P. Miño, (plan conxunto) 2014030,
+1. [A0324v2013](A0324sgm.md): Praia de Sada. AAUT A pé; C.P. Sada, C.P. Miño, (plan conxunto) 2014030, _A0031OSM_,
 
 1. __B0071v2017__: Zona comprendida entre a liña imaxinaria de Monte Ventoso a punta Segaño ata a liña imaxinaria que une o peirao da praia de Caranza co peirao de Astano, BESP A pé; Embarcación; C.P. Ferrol, C.P. Barabllobre, (plan conxunto) [2019065](https://galirema.wikia.org/es/wiki/Pexma2019BES065),
 
