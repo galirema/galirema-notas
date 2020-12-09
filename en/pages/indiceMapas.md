@@ -19,5 +19,7 @@
 
 ## Áreas de Xestión Unificada (AXU)
 
-* __A0001v2017__ - [Lagoas de Baldaio. AAUT, A pé;](http://u.osmfr.org/m/250411/)
+* __A0001v2017__ - [Lagoas de Baldaio. AAUT, A pé;](https://umap.openstreetmap.fr/es/map/lagoas-de-baldaio-aaut-a-pe_250411#15/43.2891/-8.6594)
+* __B0080OSM__ - [Ría de Vigo, BESP, Rastro de vieira ou voandeira;](https://umap.openstreetmap.fr/es/map/b0080osm_523693#12/42.2547/-8.7542)
+
 
