@@ -21,5 +21,6 @@
 
 * __A0001v2017__ - [Lagoas de Baldaio. AAUT, A pé;](https://umap.openstreetmap.fr/es/map/lagoas-de-baldaio-aaut-a-pe_250411#15/43.2891/-8.6594)
 * __B0080OSM__ - [Ría de Vigo, BESP, Rastro de vieira ou voandeira;](https://umap.openstreetmap.fr/es/map/b0080osm_523693#12/42.2547/-8.7542)
+* __B0086OSM__ - [Ría de Pontevedra, BESP, Endeño remolcado;](https://umap.openstreetmap.fr/es/map/b0086osm_534233#12/42.3880/-8.8038)
 
 
