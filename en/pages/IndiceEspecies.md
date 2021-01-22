@@ -55,11 +55,11 @@
 |Ch|Chirla|_Chamelea gallina_|SVE|
 |Cm|Caramuxo|_Littorina littorea_|PEE|
 |Cn|Cornicha|_Spisula solida_|ULO|
-|Cp||_Crepipatella dilatata_|
+|Cp||_Crepipatella dilatata_, _Crepipatella .spp_|DAX|
 |L|Lapa|_Patella vulgata_|LPZ|
 |Lon|Longueirón|_Ensis siliqua_|EQI|
 |LonV|Longueirón vello|_Solen marginatus_|RAE|
-|M|Marolo|_Acanthocardia tuberculata_|
+|M|Marolo|_Acanthocardia tuberculata_|KTT|
 |N|Navalla|_Ensis magnus_|EQK|
 |O|Ostra|_Ostrea edulis_|OYF|
 |OX|Ostra xaponesa|_Crassostrea gigas_|OYG|
